@@ -2,9 +2,6 @@ logo: /images/isomer-logo.svg
 links:
   - title: Home
     url: http://ecg.nanyangjc.moe.edu.sg/
-  - title: New menu group
-    url: www.nanyangjc.moe.edu.sg
-    sublinks: []
   - title: Programmes
     collection: programmes
   - title: Contact Us
