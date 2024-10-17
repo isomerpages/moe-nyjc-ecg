@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - EDventure/ECG Learning Journeys.md
       - EDventure/.keep
       - EDventure/EDventure.md
