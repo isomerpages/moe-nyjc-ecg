@@ -8,11 +8,6 @@ third_nav_title: EDspirience
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Work Shadowing" src="/images/Pharmacy_min.jpg">
-</div>
-</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Work Shadowing</div>
 <div class="isomer-card-description">It involves students keeping in step with a worker, observing various
@@ -20,18 +15,24 @@ tasks performed in his job and learning about his role. It is an opportunity
 to observe highly skilled professionals and managers and learn valuable
 soft skills.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
 </div>
-</div>
+<div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Work Experience</div>
+<div class="isomer-card-description">It is a structured experience in which students learn about the world
+of work through direct participation and observation. You are generally
+asked to perform tasks that require little or no specialised knowledge
+of skills. Sometimes you may take on a project or event.</div>
 </div>
-</a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Internship</div>
+<div class="isomer-card-description">After the A-Level examinations, JC graduates may take advantage of the
+gap period to take up internships which last from weeks to months to gain
+further insights into the industry. Allowance is typically provided and
+some internships may lead to the offering of scholarships by the organisations.</div>
+</div>
+</div>
 </div>
 <p></p>
