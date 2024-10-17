@@ -2,10 +2,10 @@ collections:
   programmes:
     output: true
     order:
-      - EDspirience/Types of work attachment.md
-      - EDspirience/Importance of work attachments.md
-      - EDspirience/.keep
       - EDventure/.keep
       - EDventure/EDventure.md
       - EDventure/ECG Learning Journeys.md
       - EDubuzz.md
+      - EDspirience/.keep
+      - EDspirience/Types of work attachment.md
+      - EDspirience/Importance of work attachments.md
