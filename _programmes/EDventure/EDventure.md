@@ -13,8 +13,7 @@ Through this,&nbsp;you will get a clearer picture of the prospective university
 you would like to enter as well as a better sense of which prospective
 course of study you would like to pursue&nbsp;in the future.</p>
 <hr>
-<p><strong>EDventurer's Code of Conduct</strong>
-<br>​</p>
+<h2><strong>EDventurer's Code of Conduct</strong></h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -70,4 +69,10 @@ yourself.</p>
 </tr>
 </tbody>
 </table>
+<p>We appreciate any photos taken to be sent to us via email (<a href="mailto:zhou_yefeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhou_yefeng@moe.edu.sg</a>)
+so that your juniors will have a better idea of what to expect for recurring
+activities.</p>
+<hr>
+<h2><strong>What's upcoming</strong></h2>
+<p></p>
 <p></p>
