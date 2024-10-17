@@ -4,4 +4,4 @@ collections:
     order:
       - EDventure.md
       - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - example-subfolder/EDventure.md
