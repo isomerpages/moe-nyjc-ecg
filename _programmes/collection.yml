@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - EDventure.md
-      - example-subfolder/.keep
-      - example-subfolder/EDventure.md
+      - EDventure/.keep
+      - EDventure/EDventure.md
