@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: EDspirience
 ---
-<p></p>
+<h1>Types of work attachment</h1>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
