@@ -42,7 +42,8 @@ involvement, personal essay, together with your Civics/Subject Tutors'
 recommendation, are part of the selection criteria.</p>
 </li>
 <li>
-<p>Once selected, students must commit for the entire period stated.</p>
+<p><strong>Once selected, students must commit for the entire period stated.</strong>
+</p>
 </li>
 <li>
 <p>Some work attachments may require you to do a project or share your experiences
