@@ -33,11 +33,6 @@ of work experience before A-Level results are released in March.&nbsp;</p>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Explore" src="https://placehold.co/600x400">
-</div>
-</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">1. Explore</div>
 <div class="isomer-card-description">Explore the external internships listings below. Ensure that you are available
@@ -45,11 +40,6 @@ during the stated period. Consult your parents and get consent.</div>
 </div>
 </div>
 <div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Apply" src="https://placehold.co/600x400">
-</div>
-</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">2. Appy</div>
 <div class="isomer-card-description">In September, email the organisation or follow the procedure and deadline
@@ -58,11 +48,6 @@ is successful.</div>
 </div>
 </div>
 <div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Work" src="https://placehold.co/600x400">
-</div>
-</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">3. Work</div>
 <div class="isomer-card-description">Attend the school's pre-attachment briefing. Thank your supervisor after
