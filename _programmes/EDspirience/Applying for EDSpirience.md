@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: EDspirience
 ---
-<p></p>
+<h1>Applying for EDspirience work attachment programme</h1>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -19,11 +19,7 @@ third_nav_title: EDspirience
 Ensure that you are available during the stated period. Consult your parents
 and get consent.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://drive.google.com/open?id=1UbUrTqY7muR5vjKbRWyeOw1k7Nud5v8b" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2. Apply" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2. Apply</div><div class="isomer-card-description">Submit the application form.
-
-You will need your parent's and CT's consent.
-
-Prepare for the selection interview.</div><div class="isomer-card-link">Application Form</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://drive.google.com/open?id=1UbUrTqY7muR5vjKbRWyeOw1k7Nud5v8b" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2. Apply" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2. Apply</div><div class="isomer-card-description">Submit the application form.</div><div class="isomer-card-link">Application Form</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
