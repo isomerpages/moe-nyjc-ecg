@@ -31,14 +31,14 @@ contacts:
     title: Overseas University Admissions (Others)
   - content:
       - phone: ""
-      - email: lee_liang_lin@moe.edu.sg
-      - other: Mr Lee Liang Lin
-    title: EDspirience Work Attachment
-  - content:
-      - phone: ""
       - email: zhou_yefeng@moe.edu.sg
       - other: Mr Zhou Yefeng
     title: EDventure & Learning Journeys
+  - content:
+      - phone: ""
+      - email: lee_liang_lin@moe.edu.sg
+      - other: Mr Lee Liang Lin
+    title: EDspirience Work Attachment
   - content:
       - phone: ""
       - email: goh_ching_liang@moe.edu.sg
