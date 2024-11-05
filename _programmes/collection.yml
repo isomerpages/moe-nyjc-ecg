@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Pre University Scholarships.md
       - EDventure/.keep
       - EDventure/EDventure.md
       - EDventure/ECG Learning Journeys.md
@@ -16,3 +15,4 @@ collections:
       - EDspirience/How to get the most out of your internship.md
       - EDspirience/NYJC Attachment Opportunities.md
       - Career Counselling.md
+      - Pre University Scholarships.md
