@@ -283,7 +283,8 @@ Siew Toh Conservatory</p>
 <p>Research-intensive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Comprehensive, with a focus on engineering, science and tech</p>
+<p>Comprehensive, with a focus on Engineering,</p>
+<p>Science and Tech</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Varied, mostly traditional lecture-style</p>
@@ -303,6 +304,57 @@ Siew Toh Conservatory</p>
 </p>
 <p><a href="https://www.ntu.edu.sg/admissions/undergraduate/premier-scholar-programmes/cn-yang-scholars-programme" rel="noopener nofollow" target="_blank">CN Yang Scholars Programme</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SMU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Research-intensive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Specialist, with focus on Business, IT, Social Sciences and Law</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100% seminar-style</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://cis.smu.edu.sg/" rel="noopener nofollow" target="_blank">College of Integrative Studies</a>
+</p>
+<p><a href="https://x.smu.edu.sg/" rel="noopener nofollow" target="_blank">SMU-X</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://admissions.smu.edu.sg/financial-matters/financial-aid/smu-global-impact-scholarship-award" rel="noopener nofollow" target="_blank">Global Impact Scholarship Award</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://admissions.smu.edu.sg/financial-matters/financial-aid/lee-kong-chian-scholars-programme" rel="noopener nofollow" target="_blank">Lee Kong Chian Scholars' Programme</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
