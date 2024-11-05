@@ -66,7 +66,7 @@ Sports Association; Financial Information of parents must be furnished</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Citizen or parent is Singapore Citizen; EL + Mother Tongue +
-R5 â‰¤ 8; Good CCA &amp; conduct record</p>
+R5 &lt;= 8; Good CCA &amp; conduct record</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jan/Feb of JC1</p>
@@ -74,7 +74,7 @@ R5 â‰¤ 8; Good CCA &amp; conduct record</p>
 <td rowspan="1" colspan="1">
 <p>$750/annum for JC1&amp;2 subject to continued academic excellence in JC1
 Promos; Application procedure requires you to log in using your SingPass
-(factor in that application for SingPass acct &amp; 2-step Verification
+(factor in that application for SingPass account &amp; 2-step Verification
 take up to 12 working days); Application essay of 500-600 words about yourselves
 and stating why you want to apply for this scholarship</p>
 </td>
@@ -97,7 +97,7 @@ or Japanese; Enrolled in MOELC at H2 Level; Good CCA &amp; conduct record</p>
 <td rowspan="1" colspan="1">
 <p>$1000/annum for JC1&amp;2 subject to continued academic excellence in
 JC1 Promos; Application procedure requires you to log in using your SingPass
-(factor in that application for SingPass acct &amp; 2-step Verification
+(factor in that application for SingPass account &amp; 2-step Verification
 take up to 12 working days); Application essay of 500-600 words about yourselves
 and stating why you want to apply for this scholarship; Participate in
 MOE Overseas Study cum Immersion Programme during Nov/Dec holidays</p>
@@ -122,7 +122,7 @@ record</p>
 <td rowspan="1" colspan="1">
 <p>$1000/annum for JC1&amp;2 subject to continued academic excellence in
 JC1 Promos; Application procedure requires you to log in using your SingPass
-(factor in that application for SingPass acct &amp; 2-step Verification
+(factor in that application for SingPass account &amp; 2-step Verification
 take up to 12 working days); Application essay of 500-600 words about yourselves
 and stating why you want to apply for this scholarship; Participate in
 Chinese Language Elective Programme (CLEP) 3-day Camp during Jun holidays,
@@ -147,7 +147,7 @@ A1 in Art; Enrolled in AEP; Good CCA &amp; conduct record</p>
 <td rowspan="1" colspan="1">
 <p>$1000/annum for JC1&amp;2 subject to continued academic excellence in
 JC1 Promos; Application procedure requires you to log in using your SingPass
-(factor in that application for SingPass acct &amp; 2-step Verification
+(factor in that application for SingPass account &amp; 2-step Verification
 take up to 12 working days); Art portfolio to include mini visual tasks/assignments
 that show a range of different media or artforms, Works to show their artmaking
 processes and Pages from sketchbooks or journal</p>
