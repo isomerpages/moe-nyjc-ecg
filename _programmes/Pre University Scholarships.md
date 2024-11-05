@@ -25,19 +25,19 @@ are awarded to&nbsp;students for their university education.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pre-university Scholarship</p>
+<h4><strong>Pre-university Scholarship</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Eligibility</p>
+<h4><strong>Eligibility</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Application Period</p>
+<h4><strong>Application Period</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Details</p>
+<h4><strong>Details</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher-in-charge</p>
+<h4><strong>Teacher-in-charge</strong></h4>
 </td>
 </tr>
 <tr>
