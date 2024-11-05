@@ -37,3 +37,7 @@ make an informed career decision</p>
 </li>
 </ol>
 <p></p>
+<blockquote>
+<h4><strong>"You&nbsp;need to follow your heart more because if you're&nbsp;not passionately engaged in&nbsp;pursuing something, you'll&nbsp;never be&nbsp;able&nbsp;to&nbsp;follow through for long.”</strong></h4>
+</blockquote>
+<p></p>
