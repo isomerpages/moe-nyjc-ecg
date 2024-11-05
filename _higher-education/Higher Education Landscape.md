@@ -247,7 +247,10 @@ read overseas</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NUS</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="NUS" src="/images/NUS.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Research-intensive</p>
@@ -277,7 +280,10 @@ Siew Toh Conservatory</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NTU</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NTU" src="/images/NTU.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Research-intensive</p>
@@ -308,7 +314,10 @@ Siew Toh Conservatory</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SMU</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SMU" src="/images/SMU.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Research-intensive</p>
@@ -336,7 +345,10 @@ Siew Toh Conservatory</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SUTD</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SUTD" src="/images/SUTD.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Research-intensive</p>
@@ -364,7 +376,10 @@ Siew Toh Conservatory</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SIT</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SIT" src="/images/SIT.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applied learning</p>
@@ -389,7 +404,10 @@ Siew Toh Conservatory</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SUSS</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SUSS" src="/images/SUSS.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applied learning</p>
@@ -414,7 +432,10 @@ Siew Toh Conservatory</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NTU-NIE</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NTU-NIE" src="/images/NTU_NIE.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Research-intensive</p>
@@ -438,7 +459,10 @@ Siew Toh Conservatory</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Duke-NUS</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Duke-NUS" src="/images/Duke_NUS.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Research-intensive</p>
