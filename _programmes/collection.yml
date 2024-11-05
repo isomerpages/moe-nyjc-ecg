@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Pre University Scholarships.md
       - EDventure/.keep
       - EDventure/EDventure.md
       - EDventure/ECG Learning Journeys.md
