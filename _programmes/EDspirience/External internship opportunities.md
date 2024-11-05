@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: EDspirience
 ---
-<h1>External Internship opportunities</h1>
+<h1>External Internship Opportunities</h1>
 <p>There are several organisations that prefer students who take initiative
 in seeking attachment opportunities that are not listed by the school,
 as it reveals the strong interest and initiative of the candidate.&nbsp;</p>
