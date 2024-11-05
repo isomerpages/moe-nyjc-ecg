@@ -9,9 +9,8 @@ third_nav_title: EDspirience
 <p>NYJC work attachment period typically fall during June and December holidays.
 The list below is updated periodically. Do check our portal regularly for
 updates.</p>
-<p>
-<br><strong>2024 End-of-Year Attachments</strong>
-</p>
+<hr>
+<h4><strong>2024 End-of-Year Attachments</strong></h4>
 <p>Due to manpower limitations for the healthcare sector, there are fewer
 attachments for the year-end period to hospitals.</p>
 <p><a href="https://drive.google.com/file/d/11Mc3XRApuljmVLcVPYjh0XklNi3CM59h/view?usp=drive_link" rel="noopener noreferrer nofollow" target="undefined"><u>TTSH Nursing</u></a>
@@ -22,5 +21,6 @@ attachments for the year-end period to hospitals.</p>
 Fees is $76.30 that can be paid using Edusave.</p>
 <p><a href="https://drive.google.com/file/d/19lx5T98c0g5LmfZnSTxMcjqfs1RI9toF/view?usp=sharing" rel="noopener noreferrer nofollow" target="undefined"><u>Moonbeam Co</u></a>
 </p>
+<p></p>
 <h4>Career Industry</h4>
 <p>Varied</p>
