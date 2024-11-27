@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Higher Education Landscape
 ---
-<h1><strong>The&nbsp; Higher Education</strong> <strong>landscape</strong></h1>
-<h2><strong>Overview</strong></h2>
+<h1><strong>Overview</strong></h1>
 <p>Singapore has 6 autonomous universities (AU)&nbsp;i.e. universities that
 receive funding from the Singapore government, yet given flexibility to
 strategise, innovate, and differentiate themselves. There are two types
