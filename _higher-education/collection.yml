@@ -2,7 +2,6 @@ collections:
   higher-education:
     output: true
     order:
-      - Local Universities Admissions.md
       - Higher Education Landscape/.keep
       - Higher Education Landscape/Higher Education Landscape.md
       - Higher Education Landscape/Reasons to Pursue Higher Education.md
@@ -12,3 +11,4 @@ collections:
       - Choosing a University Course/Where to Look for Advice.md
       - Choosing a University Course/Choosing a University Course.md
       - Choosing a University Course/Key Factors to Consider.md
+      - Local Universities Admissions.md
