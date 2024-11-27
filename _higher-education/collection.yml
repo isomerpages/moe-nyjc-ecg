@@ -2,8 +2,6 @@ collections:
   higher-education:
     output: true
     order:
-      - Overseas University Admissions/Admissions Coordinators.md
-      - Overseas University Admissions/.keep
       - Higher Education Landscape/.keep
       - Higher Education Landscape/Higher Education Landscape.md
       - Higher Education Landscape/Reasons to Pursue Higher Education.md
@@ -16,3 +14,5 @@ collections:
       - Local University Admissions/.keep
       - Local University Admissions/Application Timeline.md
       - Local University Admissions/How to Apply.md
+      - Overseas University Admissions/.keep
+      - Overseas University Admissions/Admissions Coordinators.md
