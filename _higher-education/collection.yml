@@ -2,9 +2,9 @@ collections:
   higher-education:
     output: true
     order:
-      - Choosing a University Course/Key Factors to Consider.md
-      - Choosing a University Course/Choosing a University Course.md
       - Choosing a University Course/.keep
+      - Choosing a University Course/Choosing a University Course.md
+      - Choosing a University Course/Key Factors to Consider.md
       - Higher Education Landscape/.keep
       - Higher Education Landscape/Higher Education Landscape.md
       - Higher Education Landscape/Reasons to Pursue Higher Education.md
