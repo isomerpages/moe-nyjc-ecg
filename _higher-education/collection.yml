@@ -2,4 +2,5 @@ collections:
   higher-education:
     output: true
     order:
+      - Higher Education Landscape/.keep
       - Higher Education Landscape.md
