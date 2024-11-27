@@ -2,5 +2,6 @@ collections:
   higher-education:
     output: true
     order:
+      - Testng/Example TitleT.md
       - Testng/.keep
       - Higher Education Landscape.md
