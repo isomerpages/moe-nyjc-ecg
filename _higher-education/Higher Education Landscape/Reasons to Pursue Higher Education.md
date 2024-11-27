@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Higher Education Landscape
 ---
-<h2><strong>Reasons to&nbsp;pursue Higher Education</strong></h2>
+<h2><strong>Reasons to&nbsp;Pursue Higher Education</strong></h2>
 <h4>1.&nbsp; &nbsp;Prepare you to be work-ready&nbsp;and future-ready</h4>
 <p>Higher education not only trains you in your chosen field, it also teaches
 you to understand complex subjects, think analytically, and communicate
