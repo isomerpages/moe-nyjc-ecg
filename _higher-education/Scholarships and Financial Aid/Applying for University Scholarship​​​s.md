@@ -5,3 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: Scholarships and Financial Aid
 ---
+<h1>Applying for University Scholarship​​​s</h1>
+<p></p>
