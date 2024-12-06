@@ -291,7 +291,7 @@ not submit one.</p>
 </p>
 </li>
 <li>
-<p><a href="https://novoresume.com/career-blog/how-to-write-a-cover-letter-for-an-internship" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Cover Letter for Internship - Example and How-to Guide for 2023</u></a>
+<p><a href="https://novoresume.com/career-blog/how-to-write-a-cover-letter-for-an-internship" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Cover Letter for Internship - Example and How-to Guide</u></a>
 </p>
 </li>
 </ul>
