@@ -2,10 +2,10 @@ collections:
   careers:
     output: true
     order:
-      - Future of Work/What do all these mean for you?.md
       - Future of Work/.keep
       - Future of Work/Future of Work.md
       - Future of Work/The 4th Industrial Revolution.md
       - Future of Work/Impact on Singapore.md
       - Future of Work/Most Important Skills Today.md
       - Future of Work/Gig Economy.md
+      - Future of Work/What do all these mean for you?.md
