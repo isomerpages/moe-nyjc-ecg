@@ -2,6 +2,7 @@ collections:
   higher-education:
     output: true
     order:
+      - Interview Preparation/General Guide to Preparing for Interviews.md
       - Interview Preparation/Interview Preparation.md
       - Interview Preparation/.keep
       - Higher Education Landscape/.keep
