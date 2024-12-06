@@ -2,6 +2,8 @@ collections:
   higher-education:
     output: true
     order:
+      - Interview Preparation/Medicine, Dentistry and Health Sciences
+        Interviews.md
       - Interview Preparation/.keep
       - Interview Preparation/Interview Preparation.md
       - Interview Preparation/General Guide to Preparing for Interviews.md
