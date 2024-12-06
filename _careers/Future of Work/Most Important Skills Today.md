@@ -6,6 +6,12 @@ description: ""
 third_nav_title: Future of Work
 ---
 <h1>Most Important Skills Today (<a href="https://hbr.org/2023/09/reskilling-in-the-age-of-ai" rel="noopener nofollow" target="_blank">article</a>)</h1>
+<blockquote>
+<p><strong>“Reskilling for technical skills is typically driven by structured education with a defined objective with a clear start and end, building behavioral skills takes more time and is more complex.”</strong>
+</p>
+<p><strong><a href="https://youtu.be/4eNB1qninm4" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank">Amy Wright</a>, IBM Managing Director</strong>
+</p>
+</blockquote>
 <ol>
 <li>
 <p><strong>Willingness to be flexible, agile and adaptable to change</strong>
