@@ -18,4 +18,34 @@ and governance.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SCGV1tNBoeU?si=qdmX-NY6EskLnJv9"></iframe>
 </div>
+<h2>Automation&nbsp;and&nbsp;AI&nbsp;will&nbsp;lift&nbsp;productivity&nbsp;and&nbsp;economic&nbsp;growth,&nbsp;but&nbsp;millions&nbsp;of&nbsp;people&nbsp;worldwide&nbsp;may&nbsp;need&nbsp;to&nbsp;switch&nbsp;occupations&nbsp;or&nbsp;upgrade&nbsp;skills</h2>
+<p>A <a href="http://www3.weforum.org/docs/WEF_Jobs_of_Tomorrow_2020.pdf" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>2020 report</u></a>&nbsp;from
+the World Economic Forum finds that by 2022, much job growth will come
+from seven professional areas:</p>
+<ul>
+<li>
+<p>care economy e.g. physiotherapists, fitness trainers</p>
+</li>
+<li>
+<p>data and AI e.g. data scientist</p>
+</li>
+<li>
+<p>engineering and cloud computing e.g. cloud engineer, python developer</p>
+</li>
+<li>
+<p>sales marketing and content e.g. social media coordinator</p>
+</li>
+<li>
+<p>human resource e.g. recruiter</p>
+</li>
+<li>
+<p>product development e.g. quality assurance engineer</p>
+</li>
+<li>
+<p>green industry e.g. sustainability officer, wastewater engineer</p>
+</li>
+</ul>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DY1j2drdl1w?si=bUCpuDL3M6JpdoAb"></iframe>
+</div>
 <p></p>
