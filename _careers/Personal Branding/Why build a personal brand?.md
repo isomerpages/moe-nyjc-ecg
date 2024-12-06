@@ -34,8 +34,9 @@ if you have a unique personal brand.</p>
 <h4>It helps you in your university applications</h4>
 <ul>
 <li>
-<p>As universities move towards <u>a</u><a href="https://www.nyjcecg.com/local-admissions" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>ptitude-based admissions,</u>&nbsp;grades become less important and there is an increasing need to brand yourself&nbsp;</a>so
-that you can stand out from the rest of the candidates.</p>
+<p>As universities move towards <u>a</u><a href="local-admissions" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>ptitude-based admissions</u></a>,
+grades become less important and there is an increasing need to brand yourself
+so that you can stand out from the rest of the candidates.</p>
 </li>
 <li>
 <p>Having a strong personal brand also means that you are a more impressive
@@ -51,12 +52,11 @@ employers use social media to screen candidates during the hiring process.
 It is wise to maintain a&nbsp;&nbsp;positive online presence.</p>
 </li>
 <li>
-<p>Also, with the advent of the <a href="https://www.nyjcecg.com/future-of-jobs" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>gig economy</u></a>,
-building a personal brand becomes fundamental. In the gig economy, a strong&nbsp;personal
-brand&nbsp;is the only thing that individuals can take with them between
-jobs.&nbsp;An individual can take control of and actively build their brand,
-so that even if they suffer setbacks in their career, their personal brand
-can survive.&nbsp;</p>
+<p>Also, with the advent of the gig economy, building a personal brand becomes
+fundamental. In the gig economy, a strong&nbsp;personal brand&nbsp;is the
+only thing that individuals can take with them between jobs.&nbsp;An individual
+can take control of and actively build their brand, so that even if they
+suffer setbacks in their career, their personal brand can survive.&nbsp;</p>
 </li>
 </ul>
 <h4>Your online presence becomes a positive one, by intention</h4>
