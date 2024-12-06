@@ -153,6 +153,83 @@ available for international admissions below. List is not exhaustive, go
 to the international admissions page of each university to find out more.</p>
 </li>
 </ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Country</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Scholarship</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>United States</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://blog.prepscholar.com/colleges-with-the-best-financial-aid" rel="noopener nofollow" target="_blank">36 Colleges with the best financial aid</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Korea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.studyinkorea.go.kr/ko/scholarshipmain.do" rel="noopener" target="_blank"><u>Korean Government Scholarship</u></a> (Application
+announcement is posted on Korean Embassy <a href="https://overseas.mofa.go.kr/sg-en/brd/m_2435/list.do" rel="noopener" target="_blank"><u>notice board</u></a> every
+year e.g. <a href="https://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761512&amp;page=2" rel="noopener" target="_blank"><u>2025 scholarship</u>)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>China</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.campuschina.org/scholarships/index.html" rel="noopener nofollow" target="_blank">Campus China Scholarships</a>
+</p>
+<p>Or refer to the individual university websites</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Japan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sg.emb-japan.go.jp/itpr_en/culture_scholarships.html" rel="noopener nofollow" target="_blank">MEXT Scholarship</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Canada</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://you.ubc.ca/financial-planning/scholarships-awards-international-students/" rel="noopener" target="_blank"><u>UBC Outstanding&nbsp;International Student Award</u></a>
+</p>
+<p><a href="https://future.utoronto.ca/pearson/about/" rel="noopener" target="_blank"><u>UoT Lester B. Pearson International Scholarship</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>United Kingdom</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.jardines.com/en/sustainability/our-strategy/shaping-social-inclusion/jardine-foundation?tab=apply-" rel="noopener" target="_blank"><u>Jardine Foundation Scholarship </u></a>(for
+Oxbridge)</p>
+<p><a href="https://warwick.ac.uk/study/international/admissions/finance/scholarships/friends_singapore/" rel="noopener" target="_blank"><u>Friends of Warwick Scholarship</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>3. Scholarship programmes groom you into a well-rounded individual</h3>
 <ul>
 <li>
