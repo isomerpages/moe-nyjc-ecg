@@ -153,9 +153,6 @@ the deadline. If the application deadline falls during the&nbsp;December
 holidays, inform the admissions coordinator at least 3 weeks before the
 start of holidays.</p>
 </li>
-</ul>
-<p>​</p>
-<ul>
 <li>
 <p>In your email, include the following​​</p>
 </li>
@@ -238,4 +235,53 @@ Tongue and PW grades.</p>
 </tr>
 </tbody>
 </table>
+<ul>
+<li>
+<p>In general, the admissions coordinator will collate all the necessary
+documents and submit it to the university.</p>
+</li>
+</ul>
+<h4>Step 2: Certify your transcripts and send to teacher coordinator</h4>
+<ul>
+<li>
+<p>Bring your original transcripts and all copies to the General Office.
+The staff there will inspect your transcripts and certify them as true
+copies.</p>
+</li>
+<li>
+<p>If method of submission is</p>
+<ul>
+<li>
+<p>Portal upload -&nbsp;Scan the true copies and send the pdf documents to
+the admissions coordinator</p>
+</li>
+<li>
+<p>Email - Scan the true copies and send the pdf documents to the admissions
+coordinator</p>
+</li>
+<li>
+<p>Snail mail -&nbsp;Place the copies in the admissions coordinator's pigeonhole.</p>
+</li>
+</ul>
+</li>
+</ul>
+<h4>Step 3: Inform your teacher referees to send their references to the teacher coordinator</h4>
+<ul>
+<li>
+<p>Inform your teacher referees to send their references (in pdf format)
+to the admissions coordinator at least <strong>1 week</strong> before the
+deadline.</p>
+</li>
+</ul>
+<h4>Step 4: Check your application with the universities</h4>
+<ul>
+<li>
+<p>The admissions coordinator will collate all the necessary documents and
+send them to the university.</p>
+</li>
+<li>
+<p>After which, it is your responsibility to follow up with the universities
+and ensure that they have received your application.</p>
+</li>
+</ul>
 <p></p>
