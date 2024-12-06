@@ -79,12 +79,12 @@ Resilience, Excellence, Respect and Integrity. (1100 character limit)</p>
 <h3>NTU&nbsp;Aptitude-based Admissions Scheme (ABA)</h3>
 <ul>
 <li>
-<p>Under <a href="https://www.nyjcecg.com/local-admissions" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>ABA</u></a>, NTU takes
-into account students' passions, interests and strengths. Applicants with
-exceptional talents and/or outstanding achievements beyond schools’ co-curricular
-activities can be considered, subject to a minimum level of academic competence,
-for admissions under ABA. Academic grades of relevant subjects may be an
-indication of aptitude as well.</p>
+<p>Under <a href="https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/Aptitude-based-Admissions" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>ABA</u></a>,
+NTU takes into account students' passions, interests and strengths. Applicants
+with exceptional talents and/or outstanding achievements beyond schools’
+co-curricular activities can be considered, subject to a minimum level
+of academic competence, for admissions under ABA. Academic grades of relevant
+subjects may be an indication of aptitude as well.</p>
 </li>
 <li>
 <p>If you have one or more of the following achievements, you are encouraged
@@ -99,7 +99,12 @@ Talent Search</p>
 </li>
 <li>
 <p>Carded athlete&nbsp;or represented Singapore in Arts and/or Sports such
-as Olympics, SEA/ASEAN/ ASIAN games, etc.</p>
+as Olympics, SEA/ASEAN/ASIAN games, etc. (Carded Athletes are athletes
+who have been nominated for the High Performance Sports (HPS) based on
+their profile of the past 12 months (1 Jan to 31 Dec) performance / potential
+to achieve at the Major games. The Singapore Sports Institute (SSI) evaluates
+and categorizes nominated athletes based on their achievements in local
+and international competitions.)</p>
 </li>
 <li>
 <p>Active involvement/participation in community services and/or volunteering
@@ -118,14 +123,14 @@ relevant subject/s taken.</p>
 </li>
 <li>
 <p>Made significant contributions or attained outstanding achievements in
-area of work or internship relevant to the programme applied</p>
+area of work or internship relevant to the programme applied.</p>
 </li>
 </ul>
 </li>
 <li>
-<p>In addition to providing information above, applicants must submit an
-essay of not more than 300 words under ABA section of the application form
-and at least 1 (maximum 2) appraisal online to support their applications.</p>
+<p>Applicants are encouraged to provide details on their achievements, an
+essay of not more than 500 words under ABA section of the application form
+and submit at least 1 (maximum 2) appraisal online to support their applications.&nbsp;</p>
 </li>
 <li>
 <p>Shortlisted candidates may be required to attend an interview and present
