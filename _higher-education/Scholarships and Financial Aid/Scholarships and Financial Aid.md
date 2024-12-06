@@ -182,4 +182,44 @@ who do not qualify for MOE Study Loan or for specific purposes.</p>
 </tr>
 </tbody>
 </table>
+<p>For more information on tuition fees and financial aid,&nbsp;access the
+financial aid websites of the universities:</p>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nus.edu.sg/oam/financial-aid/overview-eligibility" rel="noopener nofollow" target="_blank">NUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ntu.edu.sg/admissions/undergraduate/financial-matters" rel="noopener nofollow" target="_blank">NTU</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://admissions.smu.edu.sg/financial-matters/financial-aid" rel="noopener nofollow" target="_blank">SMU</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Financing-Your-Studies/Financial-Aid" rel="noopener nofollow" target="_blank">SUTD</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.singaporetech.edu.sg/admissions/financial-aid" rel="noopener nofollow" target="_blank">SIT</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.suss.edu.sg/full-time-undergraduate/admissions/financial-aid" rel="noopener nofollow" target="_blank">SUSS</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
