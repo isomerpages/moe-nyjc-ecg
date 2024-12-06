@@ -2,6 +2,7 @@ collections:
   higher-education:
     output: true
     order:
+      - Scholarships and Financial Aid/Why apply for scholarships?.md
       - Scholarships and Financial Aid/Scholarships and Financial Aid.md
       - Scholarships and Financial Aid/.keep
       - Higher Education Landscape/.keep
