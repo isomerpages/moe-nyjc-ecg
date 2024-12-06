@@ -30,7 +30,7 @@ to learn more about you.</p>
 <p>Read more on</p>
 <ul>
 <li>
-<p><a href="https://business.linkedin.com/talent-solutions/blog/linkedin-best-practices/2016/7-linkedin-profile-summaries-that-we-love-and-how-to-boost-your-own" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>10 LinkedIn Profile Summaries That We Love</u></a>
+<p><a href="https://business.linkedin.com/talent-solutions/blog/linkedin-best-practices/2016/7-linkedin-profile-summaries-that-we-love-and-how-to-boost-your-own" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>14 LinkedIn Profile Summaries That We Love</u></a>
 </p>
 </li>
 <li>
@@ -79,8 +79,8 @@ use of this feature and add links to videos and photos of your experience.&nbsp;
 <ul>
 <li>
 <p>You could start reaching out to alumni of NYJC and making contact with
-them. Request for an <a href="https://www.nyjcecg.com/information-interviews" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>informational interview</u></a> to
-learn more about university life.</p>
+them. Request for an <a href="ormation-interviews" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>informational interview</u></a> (update
+link) to learn more about university life.</p>
 </li>
 </ul>
 <h4>Examples of LinkedIn profiles of NYJC alumni</h4>
@@ -95,7 +95,7 @@ learn more about university life.</p>
 <p>For more information,</p>
 <ul>
 <li>
-<p><a href="https://www.linkedin.com/pulse/10-tips-students-new-grads-linkedin-omar-garriott/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>14 LinkedIn Tips for Students &amp; New Grads</u></a>
+<p><a href="https://www.linkedin.com/pulse/10-tips-students-new-grads-linkedin-omar-garriott/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>10 LinkedIn Tips for Students &amp; New Grads</u></a>
 </p>
 </li>
 <li>
