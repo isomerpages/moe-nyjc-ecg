@@ -16,10 +16,9 @@ Do not miss them as you can walk around the campus and visit the facilities</p>
 <h4>Education and Career Guidance Counsellor</h4>
 <ul>
 <li>
-<p>The <a href="https://www.nyjcecg.com/career-counselling" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Counsellor</u></a> has
-up-to-date information on universities and is able to guide you through
-the process of selecting a university course that matches your interests
-and personality</p>
+<p>The <a href="Career Counselling" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Counsellor</u></a> (update link) has up-to-date
+information on universities and is able to guide you through the process
+of selecting a university course that matches your interests and personality</p>
 </li>
 </ul>
 <h4>Teacher Admissions Coordinators</h4>
@@ -28,8 +27,8 @@ and personality</p>
 <p>For local admissions, please approach <a href="mailto:chin_de_shun@moe.edu.sg" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Mr Chin De Shun</u></a>.</p>
 </li>
 <li>
-<p>For overseas admissions, teacher <a href="https://www.nyjcecg.com/overseas-education" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>admissions coordinators</u></a> can
-advise you on overseas application procedures</p>
+<p>For overseas admissions, teacher <a href="ad coord" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>admissions coordinators</u></a> (update
+link) can advise you on overseas application procedures</p>
 </li>
 </ul>
 <h4>Teachers</h4>
@@ -43,9 +42,9 @@ But do not expect them to tell you what to do in future</p>
 <h4>EDlumni</h4>
 <ul>
 <li>
-<p><a href="https://www.nyjcecg.com/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDlumni</u></a> are ex-nyjcians who are
-currently in university or just graduated. They will be able to give you
-an accurate picture of what university life is like.</p>
+<p>EDlumni are ex-nyjcians who are currently in university or just graduated.
+They will be able to give you an accurate picture of what university life
+is like.</p>
 </li>
 </ul>
 <h4>University websites</h4>
@@ -61,8 +60,8 @@ an accurate picture of what university life is like.</p>
 will be more than happy to answer your questions.</p>
 </li>
 <li>
-<p>Click <a href="https://drive.google.com/file/d/1N5-thZr4HRpuTFuvp80hTI7NZafsCT_C/view?usp=share_link" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a> for
-the recording of the&nbsp;<strong>2023 JC2 Parents’ Dialogue with Representatives from Local Autonomous Universities</strong>.</p>
+<p>Click <a href="https://drive.google.com/file/d/1IJjL4rmg7FWOkgOIcGk9t_9cQgJky3gS/view?usp=sharing" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a> for
+the recording of the&nbsp;<strong>2024 JC2 Parents’ Dialogue with Representatives from Local Autonomous Universities</strong>.</p>
 </li>
 </ul>
 <h4>Student support groups, Social media, Forums and Blogs</h4>
