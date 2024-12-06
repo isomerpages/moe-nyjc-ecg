@@ -2,14 +2,6 @@ collections:
   higher-education:
     output: true
     order:
-      - Personal Statement Writing/SGC and University Pre application Form.md
-      - Personal Statement Writing/.keep
-      - Personal Statement Writing/Personal Statements.md
-      - Personal Statement Writing/Aptitude Based Admissions.md
-      - Personal Statement Writing/University Scholarships.md
-      - Personal Statement Writing/UK Universities.md
-      - Personal Statement Writing/US Universities.md
-      - Personal Statement Writing/Medicine.md
       - Interview Preparation/.keep
       - Interview Preparation/Interview Preparation.md
       - Interview Preparation/General Guide to Preparing for Interviews.md
@@ -45,3 +37,11 @@ collections:
       - Scholarships and Financial Aid/Scholarships and Financial Aid.md
       - Scholarships and Financial Aid/Why apply for scholarships?.md
       - Scholarships and Financial Aid/Applying for University Scholarship​​​s.md
+      - Personal Statement Writing/.keep
+      - Personal Statement Writing/SGC and University Pre application Form.md
+      - Personal Statement Writing/Personal Statements.md
+      - Personal Statement Writing/Aptitude Based Admissions.md
+      - Personal Statement Writing/University Scholarships.md
+      - Personal Statement Writing/UK Universities.md
+      - Personal Statement Writing/US Universities.md
+      - Personal Statement Writing/Medicine.md
