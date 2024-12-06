@@ -14,4 +14,7 @@ enough to re-learn new skills throughout your life</p>
 <p>​Your future university is the starting&nbsp;place for you to learn the
 skills and make the human connections necessary to survive in this new
 world.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qECFUSokdBE?si=BiB93sEyR_OXz7gm"></iframe>
+</div>
 <p></p>
