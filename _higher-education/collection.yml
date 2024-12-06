@@ -2,6 +2,7 @@ collections:
   higher-education:
     output: true
     order:
+      - Personal Statement Writing/Aptitude Based Admissions.md
       - Personal Statement Writing/Personal Statements.md
       - Personal Statement Writing/.keep
       - Interview Preparation/.keep
