@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - Personal Branding/Why build a personal brand?.md
       - Personal Branding/Personal Branding.md
       - Personal Branding/.keep
       - Future of Work/.keep
