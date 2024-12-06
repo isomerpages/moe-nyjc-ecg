@@ -15,7 +15,7 @@ approach Mr Chng Yongxi (Talent Development).</p>
 <ul>
 <li>
 <p>Get to know the universities and understand their culture by participating
-in university outreach programmes e.g. <a href="https://www.nyjcecg.com/edventure" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDventure</u></a>
+in university outreach programmes e.g. <a href="edventure" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDventure (update link)</u></a>
 </p>
 </li>
 <li>
@@ -33,6 +33,146 @@ one suits your aspirations more</p>
 <li>
 <p>Research similar scholarships in different universities and determine
 which one fits you better</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Type of Scholarship</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Who is suitable</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Scholarships to explore (non-exhaustive)</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Scholarships with masters</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All-rounded students with high academic potential</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Scholarship/SUTD-Global-Excellence-Scholarship" rel="noopener" target="_blank"><u>SUTD Global Excellence Scholarship</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aesthetics and Performing Arts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding students in the visual arts and performing fields</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.nus.edu.sg/oam/scholarships/freshmen-singapore-citizens/nus-performing-visual-arts-scholarship" rel="noopener" target="_blank"><u>NUS Performing and Visual Arts Scholarship</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sports</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding sportsmen/sportswomen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.nus.edu.sg/oam/scholarships/freshmen-singapore-citizens/nus-sports-scholarship" rel="noopener" target="_blank"><u>NUS Sports Scholarship</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>All rounders</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students who are all-rounders</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ntu.edu.sg/admissions/undergraduate/premier-scholar-programmes/ntu-university-scholars-programme" rel="noopener" target="_blank"><u>NTU University Scholars' Programme (USP)</u></a>
+</p>
+<p><a href="https://admissions.smu.edu.sg/financial-matters/financial-aid/smu-merit-scholarship-programme" rel="noopener" target="_blank"><u>SMU Merit Scholarship</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Research</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students with a passion in research</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sutd.edu.sg/SHARP/About" rel="noopener" target="_blank"><u>SUTD Honors and Research Programme (SHARP)</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Entrepreneurial</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students with a entrepreneurial mindset</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sutd.edu.sg/step" rel="noopener" target="_blank"><u>SUTD Technology Entrepreneurship Programme (STEP</u></a><u>)</u>
+</p>
+<p><a href="https://admissions.smu.edu.sg/financial-matters/financial-aid/lee-kong-chian-scholars-programme" rel="noopener" target="_blank"><u>SMU Lee Kong Chian Scholars Programme</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science and Engineering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students passionate in science and engineering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://app-sitefinity-prod-002-hk.azurewebsites.net/admissions/undergraduate/scholarships/cn-yang-scholars-programme" rel="noopener" target="_blank"><u>NTU CN Yang Scholars Programme</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Engineering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student leaders with a passion for engineering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.eng.nus.edu.sg/escholars/" rel="noopener" target="_blank"><u>NUS Engineering Scholars Programme</u></a>
+</p>
+<p><a href="https://www.ntu.edu.sg/admissions/undergraduate/scholarships/reps" rel="noopener" target="_blank"><u>NTU Renaissance Engineering Programme</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Global</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student leaders with a global perspective and wish to have global exposure
+during your university</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.nus.edu.sg/oam/scholarships/freshmen-singapore-citizens/nus-global-merit-scholarship" rel="noopener" target="_blank"><u>NUS Global Merit Scholarship</u></a>
+</p>
+<p><a href="https://admissions.smu.edu.sg/scholarships/smu-global-impact-scholarship" rel="noopener" target="_blank"><u>SMU Global Impact Scholarship</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 </li>
 </ul>
 <ul>
@@ -50,12 +190,13 @@ university you are interested in to see the entire list of scholarships</p>
 <p>You will generally need to submit a personal statement. The focus of your
 personal statement should be about your fit for the scholarship and organisation.
 Start writing your personal statement as soon as possible.&nbsp;For more
-information, access this <a href="https://www.nyjcecg.com/personal-statement-writing" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>page</u></a>.</p>
+information, access this <a href="personal-statement-writing" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>page</u></a>.
+(update link)</p>
 </li>
 <li>
 <p>Most university scholarships applications require teacher referrals. You
 should approach suitable teachers as soon as possible. Fore more information,
-access this <a href="https://www.nyjcecg.com/teacher-references" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>page</u></a>.</p>
+access this <a href="teacher-references" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>page</u></a>. (update link)</p>
 </li>
 <li>
 <p>Application for the scholarship is either together with university application
@@ -74,8 +215,8 @@ achievable (disclaimer: all scholarships are selective). These will include</p>
 <li>
 <p>Scholarships that do not fund your studies completely i.e. donor scholarships,
 faculty scholarships.​ So ask yourself whether you really need the full
-funding and whether your academic grades AND portfolio allow you to compete
-for the most prestigious scholarships</p>
+funding and whether your academic grades <strong>AND</strong> portfolio allow
+you to compete for the most prestigious scholarships</p>
 </li>
 <li>
 <p>Scholarships for university courses that are not as popular e.g. it is
@@ -91,14 +232,11 @@ faculty.</p>
 <p>All scholarships applications come with interview. Some are casual chats.
 Some are group interviews. Some (especially organisations) have multiple
 rounds and possible psychometric tests for you to take. F​or more information,
-access this <a href="https://www.nyjcecg.com/interview-preparation" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>page.</u></a>
+access this <a href="interview-preparation" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>page. (update link)</u></a>
 </p>
 </li>
 </ul>
-<h4>​</h4>
-<h4>&nbsp;</h4>
-<h4>What to do if you failed to get a scholarship?</h4>
-<h4>​</h4>
+<h3>What to do if you failed to get a scholarship?</h3>
 <ul>
 <li>
 <p>Even if you failed to get a scholarship, you could still apply for mid-term
@@ -115,13 +253,7 @@ in university, you may have more time to improve on your portfolio before
 applying for the scholarship.</p>
 </li>
 <li>
-<p>Read more about mid-term scholarships:</p>
-<ul>
-<li>
-<p><a href="https://brightsparks.com.sg/article.php?title=Mid-Term-Scholarship-Is-It-The-Right-Track-for-You" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Mid-Term Scholarship: Is It The Right Track for You?</u></a>
-</p>
-</li>
-</ul>
+<p>Read more about <a href="https://brightsparks.com.sg/getahead_archives.php?tags=mid-term+scholarship" rel="noopener nofollow" target="_blank">mid-term scholarships</a>.</p>
 </li>
 </ul>
 <p></p>
