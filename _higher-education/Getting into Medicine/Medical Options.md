@@ -27,7 +27,7 @@ the BMAT/UCAT.</p>
 <ul>
 <li>
 <p>Note that you <strong>NEED</strong>&nbsp;to register and sit for the UCAT
-test (for AY2024-2025 onwards)&nbsp;<strong>in the year prior to your application year (which will be during the preparation for your A-Level exams)</strong>.<em>&nbsp;</em>More
+test (for AY2024-2025 onwards)&nbsp;<strong>in the year prior to your application year (which will be during the period where you prepare for your A-Level exams)</strong>.<em>&nbsp;</em>More
 details&nbsp;<a href="https://www.ntu.edu.sg/medicine/education/bachelor-of-medicine-and-bachelor-of-surgery-(mbbs)/entry-requirements" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>.</p>
 </li>
 <li>
