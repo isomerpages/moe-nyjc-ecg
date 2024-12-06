@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Career Adaptability
 ---
 <h1>Career Adaptability</h1>
+<blockquote>
+<h2>"It is not the strongest of the species that survives, nor the most intelligent. It is the one that is most adaptable to change."</h2>
+<h2><strong>Charles Darwin</strong></h2>
+</blockquote>
 <p>As we move further into <a href="https://www.nyjcecg.com/future-of-jobs" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Industry 4.0</u></a>&nbsp;and
 a <a href="https://www.forbes.com/sites/bernardmarr/2020/04/17/8-job-skills-to-succeed-in-a-post-coronavirus-world/#7860eb9c2096" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>post-covid-19 era</u></a>,
 the most important lesson we learn is that the&nbsp;skill that everyone
@@ -13,7 +17,7 @@ must have is <a href="https://www.nyjcecg.com/future-of-jobs" class="wixui-rich-
 No matter what the job market may look like by the time you graduate from
 university, as long as you are adaptable and flexible, you will be able
 to re-invent yourself.</p>
-<h4>So how does one make oneself career-adaptable in this rapidly changing world?&nbsp;</h4>
+<h3>So how does one make oneself career-adaptable in this rapidly changing world?&nbsp;</h3>
 <p>It is very simple.</p>
 <p>Start by asking&nbsp;yourself, not just what career you wish to have in
 future, but what skillset you wish to have.</p>
@@ -22,7 +26,7 @@ it is imperative to develop soft skills as well.</p>
 <p>The degree that you graduate with is simply&nbsp;a title. What is more
 important, is the skillset that you graduate&nbsp;with.</p>
 <p>Because the job you eventually enter, may not even exist yet.</p>
-<h5>Identify what skills and abilities you already have</h5>
+<h3>Identify what skills and abilities you already have.</h3>
 <h4>Think of your academic subjects, CCAs and hobbies</h4>
 <ul>
 <li>
@@ -41,7 +45,7 @@ and skills?</p>
 more information</p>
 </li>
 </ul>
-<h5>What kind of skillset do you want?</h5>
+<h3>What kind of skillset do you want?</h3>
 <h4>What skills do you wish to hone further?</h4>
 <ul>
 <li>
@@ -64,7 +68,7 @@ already good at?</p>
 <p>What skills are you lacking such as to make you think this way?</p>
 </li>
 </ul>
-<h5>How can you pick up new skills?</h5>
+<h3>How can you pick up new skills?</h3>
 <h4>In terms of academics, CCA and hobbies​</h4>
 <ul>
 <li>
@@ -129,7 +133,7 @@ programme</p>
 <p>Pick up coding or data science</p>
 </li>
 </ul>
-<h5>So what do I do with my skillset?</h5>
+<h3>So what do I do with my skillset?</h3>
 <h4>Search out careers that match your skillset​</h4>
 <ul>
 <li>
