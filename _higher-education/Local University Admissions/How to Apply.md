@@ -43,7 +43,8 @@ universities (<a href="https://www.princetonreview.com/college-advice/dream-matc
 so that you can make an informed decision.&nbsp;</p>
 </li>
 <li>
-<p>Learn more about choosing a suitable university and course <strong><a href="https://www.nyjcecg.com/how-to-choose-a-university-course" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong>.</p>
+<p>Learn more about choosing a suitable university and course <strong><a href="choosing uni" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> (update
+link).</p>
 </li>
 </ul>
 <h4><strong>2. Check out subject pre-requisites and selection criteria</strong></h4>
@@ -122,31 +123,26 @@ score (UAS), also known as rank points.</p>
 <p>The University Admission Score (UAS) is calculated as follows:</p>
 <ul>
 <li>
-<p>the best four content subjects (i.e. 3 H2 and 1 H1 content subjects OR
-3 best H2, with worst H2 subject counted as one H1 subject, with at least
-1 content subject to be from a contrasting discipline)</p>
+<p>the three H2 content-based subjects</p>
 </li>
 <li>
-<p>either GP or KI grade taken in the same sitting</p>
+<p>GP taken in the same sitting as the H2 content-based subjects</p>
+<p></p>
 </li>
 <li>
-<p>H1 Project Work</p>
+<p>The maximum points for H2 and H1 subjects are 20 and 10 respectively.
+Maximum number of points is 70.</p>
 </li>
 <li>
-<p>The maximum points for H2 and H1 subjects are 20 and 10 respectively (see
-table on the right)</p>
-</li>
-<li>
-<p>Maximum number of points is 90.</p>
-</li>
-<li>
-<p>Your MTL results may be included in the computation of the UAS. The better
-of the two scores (i.e. with and without MTL) will be the UAS of the candidate.</p>
+<p>Your H1 MTL and/or the fourth H1/H2 content-based subject may be considered
+if it improves the UAS. (i.e. with and without the H1 MTL and/or fourth
+H1/H2 content-based subject.)</p>
 </li>
 <li>
 <p>H3 papers taken at the ‘A’ Level examination are not considered in the
 computation of the UAS. Candidates who have taken H3 programmes may be
-considered for admission under Aptitude-based Admissions (ABA).</p>
+considered for admissions under Aptitude-based Admissions (ABA).</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Indicative Grade Profile (IGP)</strong>​</p>
@@ -330,19 +326,19 @@ may be separate or together with the admissions application.</p>
 <h4><strong>2. Request for teacher references</strong></h4>
 <ul>
 <li>
-<p>Follow the guidelines stated <strong><a href="https://www.nyjcecg.com/teacher-references" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> for
-teacher references.</p>
+<p>Follow the guidelines stated <strong><a href="teacher ref" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> (update
+link) for teacher references.</p>
 </li>
 </ul>
 <h4><strong>3. Write your personal statement and prepare for interviews</strong></h4>
 <ul>
 <li>
-<p>Follow the guidelines stated <strong><a href="https://www.nyjcecg.com/personal-statement-writing" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> for
-personal statement writing.</p>
+<p>Follow the guidelines stated <strong><a href="per state" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> (update
+link) for personal statement writing.</p>
 </li>
 <li>
-<p>Follow the guidelines stated <strong><a href="https://www.nyjcecg.com/interview-preparation" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> for
-interviews preparation.</p>
+<p>Follow the guidelines stated <strong><a href="inter prep" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> (update
+link) for interviews preparation.</p>
 </li>
 </ul>
 <h4><strong>4. After you submit your application, apply for scholarships and financial aid</strong></h4>
@@ -350,7 +346,7 @@ interviews preparation.</p>
 <li>
 <p>Besides university scholarships and financial aid, you should also apply
 for organisation scholarships. Find out more about scholarships and financial
-aid&nbsp;<strong><a href="https://www.nyjcecg.com/scholarships" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>.</strong>
+aid&nbsp;<strong><a href="scholarships" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a> (update link).</strong>
 </p>
 </li>
 </ul>
