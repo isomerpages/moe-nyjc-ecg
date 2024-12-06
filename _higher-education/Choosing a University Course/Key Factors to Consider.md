@@ -13,7 +13,7 @@ third_nav_title: Choosing a University Course
 <p>It is fundamental to be 120% sure about your subject. The subject you
 choose will equip you with skills that enable you to position yourself
 well for your first career. &nbsp;For more information on choosing a career,
-click <a href="https://www.nyjcecg.com/your-career-purpose" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>.</p>
+click <a href="career purpose" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a> (update link).</p>
 </li>
 <li>
 <p>There are some careers that require specific degrees e.g. accounting,
@@ -60,8 +60,9 @@ during Open Day and ask the professors and students.</p>
 <h4>Course entry requirements</h4>
 <ul>
 <li>
-<p>Check the <a href="https://www.nyjcecg.com/local-admissions" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Indicative grade profile</u></a>.
-Your academic grades should ideally be above the 10th percentile IGP.</p>
+<p>Check the <a href="local uni ad how to apply" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Indicative grade profile</u></a> (update
+link). Your academic grades should ideally be above the 10th percentile
+IGP.</p>
 </li>
 <li>
 <p>Check if there are any other requirements e.g. portfolio submission, testing</p>
@@ -73,12 +74,12 @@ Your academic grades should ideally be above the 10th percentile IGP.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.nyjcecg.com/overseas-education" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>U.S universities</u></a> require
-you to take SAT/ACT test before you apply</p>
+<p><a href="overseas" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>U.S universities</u></a> (update link) require you to
+take SAT/ACT test before you apply</p>
 </li>
 <li>
-<p><a href="https://www.nyjcecg.com/overseas-education" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>UK universities</u></a> may
-require you to take additional tests during your year of application</p>
+<p><a href="overseas" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>UK universities</u></a> (update link) may require you
+to take additional tests during your year of application</p>
 </li>
 <li>
 <p>NTU Medicine requires you to take <a href="https://www.ucat.ac.uk/ucat/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>UCAT</u></a> (required
@@ -185,7 +186,7 @@ choice is to study overseas in the country you wish to work in.&nbsp;</p>
 </li>
 <li>
 <p>As the number of overseas universities are huge, the <a href="https://www.topuniversities.com/qs-world-university-rankings" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>ranking tables</u></a> are
-a good place to start exploring. Look at the <a href="https://www.topuniversities.com/subject-rankings/2020" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>ranking tables by subject</u></a> as
+a good place to start exploring. Look at the <a href="https://www.topuniversities.com/subject-rankings" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>ranking tables by subject</u></a> as
 well. Usually top 100 universities are largely very reputable in their
 own countries. Specialist universities like SUTD cannot be found in the
 ranking tables.</p>
@@ -260,7 +261,8 @@ and happening!</p>
 SMU, and SUTD.&nbsp;</p>
 </li>
 <li>
-<p>Check here for more <a href="https://www.nyjcecg.com/scholarships" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>information</u></a>.</p>
+<p>Check here for more <a href="scholarships" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>information</u></a> (update
+link).</p>
 </li>
 </ul>
 <p>​</p>
