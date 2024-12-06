@@ -74,7 +74,7 @@ which one fits you better</p>
 <p>Outstanding students in the visual arts and performing fields</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.nus.edu.sg/oam/scholarships/freshmen-singapore-citizens/nus-performing-visual-arts-scholarship" rel="noopener" target="_blank"><u>NUS Performing and Visual Arts Scholarship</u></a>
+<p><a href="https://nus.edu.sg/oam/scholarships/scholarships-for-freshmen-singapore-citizens/nus-performing-visual-arts-scholarship" rel="noopener" target="_blank"><u>NUS Performing and Visual Arts Scholarship</u></a>
 </p>
 </td>
 </tr>
@@ -86,7 +86,7 @@ which one fits you better</p>
 <p>Outstanding sportsmen/sportswomen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.nus.edu.sg/oam/scholarships/freshmen-singapore-citizens/nus-sports-scholarship" rel="noopener" target="_blank"><u>NUS Sports Scholarship</u></a>
+<p><a href="https://nus.edu.sg/oam/scholarships/scholarships-for-freshmen-singapore-citizens/nus-sports-scholarship" rel="noopener" target="_blank"><u>NUS Sports Scholarship</u></a>
 </p>
 </td>
 </tr>
@@ -138,7 +138,7 @@ which one fits you better</p>
 <p>Students passionate in science and engineering</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://app-sitefinity-prod-002-hk.azurewebsites.net/admissions/undergraduate/scholarships/cn-yang-scholars-programme" rel="noopener" target="_blank"><u>NTU CN Yang Scholars Programme</u></a>
+<p><a href="https://www.ntu.edu.sg/admissions/undergraduate/premier-scholar-programmes/cn-yang-scholars-programme" rel="noopener" target="_blank"><u>NTU CN Yang Scholars Programme</u></a>
 </p>
 </td>
 </tr>
@@ -150,7 +150,7 @@ which one fits you better</p>
 <p>Student leaders with a passion for engineering</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.eng.nus.edu.sg/escholars/" rel="noopener" target="_blank"><u>NUS Engineering Scholars Programme</u></a>
+<p><a href="https://cde.nus.edu.sg/escholars/" rel="noopener" target="_blank"><u>NUS Engineering Scholars Programme</u></a>
 </p>
 <p><a href="https://www.ntu.edu.sg/admissions/undergraduate/scholarships/reps" rel="noopener" target="_blank"><u>NTU Renaissance Engineering Programme</u></a>
 </p>
@@ -165,7 +165,7 @@ which one fits you better</p>
 during your university</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.nus.edu.sg/oam/scholarships/freshmen-singapore-citizens/nus-global-merit-scholarship" rel="noopener" target="_blank"><u>NUS Global Merit Scholarship</u></a>
+<p><a href="https://nus.edu.sg/oam/scholarships/scholarships-for-freshmen-singapore-citizens/nus-global-merit-scholarship" rel="noopener" target="_blank"><u>NUS Global Merit Scholarship</u></a>
 </p>
 <p><a href="https://admissions.smu.edu.sg/scholarships/smu-global-impact-scholarship" rel="noopener" target="_blank"><u>SMU Global Impact Scholarship</u></a>
 </p>
