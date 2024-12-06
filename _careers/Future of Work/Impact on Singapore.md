@@ -16,11 +16,18 @@ below shows the combined impact of technology on both displacement and
 income effect in ASEAN. While some sectors&nbsp;will experience a net loss
 of jobs by 2028 like Agriculture, most sectors will experience a net increase
 like Wholesale &amp; Retail.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Changes in Workforce" src="/images/changes_in_workforce.png">
+</div>
 <p>It is well-known that there is an acute demand for IT skills, not just
 in IT industries but across all sectors. In the study, it is shown that <strong>41%</strong> of
 redundant workers are lacking in IT skills.&nbsp;&nbsp;This does not mean
 that half of the workforce should become data scientists.</p>
 <h3>It means that in Industry 4.0, Data Literacy is no longer optional.</h3>
-<h5></h5>
 <h3>However, despite the disruption being technology-based in nature, the&nbsp;workforce’s most significant challenge is to upgrade its softer, foundational and interactive skillset.</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Changes in Skills" src="/images/changes_in_skills.png">
+</div>
 <p></p>
