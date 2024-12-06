@@ -2,6 +2,7 @@ collections:
   higher-education:
     output: true
     order:
+      - Teacher References/Teacher References.md
       - Teacher References/.keep
       - Interview Preparation/.keep
       - Interview Preparation/Interview Preparation.md
