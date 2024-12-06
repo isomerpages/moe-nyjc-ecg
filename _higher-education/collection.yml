@@ -2,6 +2,7 @@ collections:
   higher-education:
     output: true
     order:
+      - Getting into Medicine/Getting into Medicine.md
       - Getting into Medicine/.keep
       - Higher Education Landscape/.keep
       - Higher Education Landscape/Higher Education Landscape.md
