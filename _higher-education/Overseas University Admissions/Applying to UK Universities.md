@@ -14,19 +14,15 @@ third_nav_title: Overseas University Admissions
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prepare</div>
-<div class="isomer-card-description">Explore and narrow down your choices to 5 choices Check out subject pre-requisites
-and selection criteria Download student guide and read it</div>
+<div class="isomer-card-description">Explore and narrow down your choices to 5 choices. Check out subject pre-requisites
+and selection criteria. Download student guide and read it.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.ucas.com/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Apply</div><div class="isomer-card-description">Set up online account in UCAS
-Request for teacher referral
-Write your personal statement
-Register for selection tests
-Apply for scholarship and financial aid</div><div class="isomer-card-link">UCAS</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://www.ucas.com/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Apply</div><div class="isomer-card-description">Set up online account in UCAS. Request for teacher referral. Write your personal statement. Register for selection tests. Apply for scholarship and financial aid.</div><div class="isomer-card-link">UCAS</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Achieve</div>
-<div class="isomer-card-description">Sit for selection test and interview Accept offers via UCAS Enter Clearing
-if rejected Apply for student visa Commencement of studies</div>
+<div class="isomer-card-description">Sit for selection test and interview. Accept offers via UCAS. Enter Clearing
+if rejected. Apply for student visa. Commencement of studies.</div>
 </div>
 </div>
 </div>
