@@ -160,4 +160,82 @@ start of holidays.</p>
 <p>In your email, include the following​​</p>
 </li>
 </ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Information to include</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Details</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name, class and NRIC&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Universites and course that you are applying for&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Application number&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>If you have yet to get an application number, inform the coordinator as
+soon as you get one.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Method of application&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For portal uploading, provide the portal log-in and password.</p>
+<p>For email submission, provide the email address.</p>
+<p>For snail mail submission, provide the mailing address.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Documents required&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For transcripts, follow instructions in Step 2.</p>
+<p>For predicted grades, provide the list of your subjects and your Mother
+Tongue and PW grades.</p>
+<p>For graduation certificate, provide the template, if any.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Names and emails of teacher referees</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Deadline of application submission</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
