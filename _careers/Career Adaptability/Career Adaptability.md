@@ -10,13 +10,11 @@ third_nav_title: Career Adaptability
 <h2>"It is not the strongest of the species that survives, nor the most intelligent. It is the one that is most adaptable to change."</h2>
 <h2><strong>Charles Darwin</strong></h2>
 </blockquote>
-<p>As we move further into <a href="https://www.nyjcecg.com/future-of-jobs" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Industry 4.0</u></a>&nbsp;and
-a <a href="https://www.forbes.com/sites/bernardmarr/2020/04/17/8-job-skills-to-succeed-in-a-post-coronavirus-world/#7860eb9c2096" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>post-covid-19 era</u></a>,
+<p>As we move further into Industry 4.0 and a <a href="https://www.forbes.com/sites/bernardmarr/2020/04/17/8-job-skills-to-succeed-in-a-post-coronavirus-world/#7860eb9c2096" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>post-covid-19 era</u></a>,
 the most important lesson we learn is that the&nbsp;skill that everyone
-must have is <a href="https://www.nyjcecg.com/future-of-jobs" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Adaptability</u></a>.
-No matter what the job market may look like by the time you graduate from
-university, as long as you are adaptable and flexible, you will be able
-to re-invent yourself.</p>
+must have is Adaptability. No matter what the job market may look like
+by the time you graduate from university, as long as you are adaptable
+and flexible, you will be able to re-invent yourself.</p>
 <h3>So how does one make oneself career-adaptable in this rapidly changing world?&nbsp;</h3>
 <p>It is very simple.</p>
 <p>Start by asking&nbsp;yourself, not just what career you wish to have in
@@ -41,8 +39,7 @@ stand out from the rest?</p>
 and skills?</p>
 </li>
 <li>
-<p>Refer to <a href="https://www.nyjcecg.com/your-career-purpose" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Career Purpose</u></a> for
-more information</p>
+<p>Refer to <a href="career-purpose" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Career Purpose</u></a> (update link) for more information</p>
 </li>
 </ul>
 <h3>What kind of skillset do you want?</h3>
@@ -96,15 +93,15 @@ never knew!</p>
 <h4>Suggestions of activities you can do</h4>
 <ul>
 <li>
-<p><a href="https://www.nyjcecg.com/edspirience" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDspirience</u></a> work attachment
+<p><a href="edspirience" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDspirience</u></a> (update link) work attachment
 programme</p>
 </li>
 <li>
-<p><a href="https://www.nyjcecg.com/edventure" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDventure</u></a>
+<p><a href="edventure" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDventure (update link)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.nyjcecg.com/edubuzz" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDubuzz</u></a>
+<p><a href="edubuzz" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDubuzz (update link)</u></a>
 </p>
 </li>
 <li>
@@ -148,8 +145,8 @@ interests and work values.</p>
 available in Singapore.</p>
 </li>
 <li>
-<p>And based on your&nbsp;<a href="https://www.nyjcecg.com/your-career-purpose" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Career Purpose</u></a>,
-decide which careers suit you the best.</p>
+<p>And based on your&nbsp;<a href="https://www.nyjcecg.com/your-career-purpose" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Career Purpose</u></a>,(update
+link) decide which careers suit you the best.</p>
 </li>
 </ul>
 <h4>Create a&nbsp;personal brand based on your unique skillset</h4>
@@ -166,8 +163,8 @@ unless you tell them</p>
 will start knocking on your door instead of the other way.</p>
 </li>
 <li>
-<p>Read <a href="https://www.nyjcecg.com/personal-branding" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Personal Branding</u></a> for
-more information</p>
+<p>Read <a href="https://www.nyjcecg.com/personal-branding" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Personal Branding</u></a> (update
+link) for more information</p>
 </li>
 </ul>
 <p></p>
