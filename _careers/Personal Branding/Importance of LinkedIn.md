@@ -57,7 +57,7 @@ when potential employers actively recruit via LinkedIn.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.channelnewsasia.com/today/big-read/big-read-networking-digital-age-youths-linkedin-social-media-platforms-4279876" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Why Is LinkedIn So Important For Millennials</u></a>
+<p><a href="https://www.channelnewsasia.com/today/big-read/big-read-networking-digital-age-youths-linkedin-social-media-platforms-4279876" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Why Is LinkedIn So Important For Gen Zs</u></a>
 </p>
 </li>
 </ul>
