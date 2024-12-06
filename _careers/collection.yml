@@ -2,7 +2,6 @@ collections:
   careers:
     output: true
     order:
-      - Career Purpose.md
       - Future of Work/.keep
       - Future of Work/Future of Work.md
       - Future of Work/The 4th Industrial Revolution.md
@@ -12,3 +11,4 @@ collections:
       - Future of Work/What do all these mean for you?.md
       - Career Adaptability/.keep
       - Career Adaptability/Career Adaptability.md
+      - Career Purpose.md
