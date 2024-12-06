@@ -2,6 +2,7 @@ collections:
   higher-education:
     output: true
     order:
+      - Interview Preparation/Interview Preparation.md
       - Interview Preparation/.keep
       - Higher Education Landscape/.keep
       - Higher Education Landscape/Higher Education Landscape.md
