@@ -277,9 +277,9 @@ are. Remember the 6 second rule!</p>
 <h4>When should one write a cover letter?</h4>
 <p>A cover letter is a letter to the hiring manager that accompanies the
 resume as part of your job application. It is submitted either as the first
-page of your resume or included as an accompanying <a href="mailto:lee_liang_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">attachment.You</a> should always
-write a cover letter unless it is specifically stated that you should not
-submit one.</p>
+page of your resume or included as an accompanying attachment. You should
+always write a cover letter unless it is specifically stated that you should
+not submit one.</p>
 <p>You can read up more on cover letters here:</p>
 <ul>
 <li>
