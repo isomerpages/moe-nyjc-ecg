@@ -55,8 +55,7 @@ link)</p>
 Ofri etc</p>
 </li>
 <li>
-<p>Keep a reflective diary on what is happening in the news and online (especially
-during Covid-19 pandemic)</p>
+<p>Keep a reflective diary on what is happening in the news and online</p>
 </li>
 <li>
 <p>Virtual work experience e.g. <a href="https://bsmsoutreach.thinkific.com/courses/VWE" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Brighton and Sussex Medical School</u></a>
