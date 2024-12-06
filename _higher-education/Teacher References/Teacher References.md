@@ -108,4 +108,7 @@ write referrals for you. CCA teachers are not recommended.</p>
 </ul>
 </li>
 </ul>
-<p></p>
+<p><strong>Is there a difference between referees, references, recommendations and referee reports?&nbsp;</strong>
+</p>
+<p>According to some sources, there may be some <a href="https://work.chron.com/difference-between-reference-recommendation-letter-26700.html" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>minor differences</u></a>.
+But for your context, they should all mean the same thing!</p>
