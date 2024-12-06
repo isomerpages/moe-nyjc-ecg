@@ -71,9 +71,12 @@ universities do not give teachers ample time to write the reference.</p>
 <p>Minimally, you must give your teacher&nbsp;3 weeks to write the referral.
 This&nbsp;means&nbsp;that you will have to approach your teacher even before
 submitting the application form.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Teacher Reference Timeline" src="/images/Teacher_reference_timeline.png">
+</div>
 </li>
 </ul>
-<h5>For overseas applications, follow the stipulated deadlines in the guides provided <a href="https://www.nyjcecg.com/overseas-education" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self">here</a>.</h5>
+<h5>For overseas applications, follow the stipulated deadlines in the guides provided <a href="overseas-education" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self">here</a>. (update link)</h5>
 <h3>4. Provide supporting documents and information for your teacher to write the reference</h3>
 <ul>
 <li>
@@ -109,7 +112,7 @@ submission</p>
 by the teacher (to remind the teacher of your good work)</p>
 </li>
 <li>
-<p><strong><a href="https://www.nyjcecg.com/personal-statement-writing" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>SGC &amp; University Pre-application reflection form&nbsp;</u></a></strong>
+<p><strong><a href="https://drive.google.com/file/d/1DYe7gEpaOWu1-X9PPZHwS8yG0qLa-X0k/view" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>SGC &amp; University Pre-application reflection form&nbsp;</u></a></strong>
 </p>
 <ul>
 <li>
