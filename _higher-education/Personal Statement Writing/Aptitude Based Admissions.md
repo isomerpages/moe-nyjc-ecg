@@ -6,62 +6,72 @@ description: ""
 third_nav_title: Personal Statement Writing
 ---
 <h1>Aptitude-based Admissions</h1>
-<h3>NUS Aptitude-based Admissions Scheme (ABAS)</h3>
+<h3>NUS Aptitude-based Admissions</h3>
 <ul>
 <li>
-<p>Under <a href="https://www.nyjcecg.com/local-admissions" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>ABAS</u></a>, NUS&nbsp;will
-consider factors besides academic grades and admit applicants on other
-bases, including demonstrated ability and interest, work experience, leadership,
-community service and exceptional talent, subject to a minimum level of
-academic competence.</p>
+<p>Under <a href="https://www.nus.edu.sg/oam/admissions/aptitude-based-admissions" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>ABA</u></a>,
+NUS&nbsp;will consider factors besides academic grades and admit applicants
+on other bases, including demonstrated ability and interest, work experience,
+leadership, community service and exceptional talent, subject to a minimum
+level of academic competence.</p>
 </li>
 <li>
 <p>The following are some samples of exceptional achievements that may be
 taken into consideration:</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Medal winner at the International Olympiads (Biology, Chemistry, Informatics,
+<p>Medals won at the International Olympiads (Biology, Chemistry, Informatics,
 Mathematics and Physics)</p>
 </li>
 <li>
-<p>Represented Singapore in Arts and/or Sports</p>
+<p>Represented Singapore in arts or sports competitions</p>
 </li>
 <li>
-<p>Active participation in community service and volunteer programmes</p>
+<p>Participation in community service and volunteering work</p>
 </li>
 <li>
-<p>Work experience relevant to the course applied for (supporting document/s
-is/are required)</p>
+<p>Internship or notable work experience related to your degree choices</p>
 </li>
 <li>
-<p>Key leadership positions in community organisations, sports and athletic
-clubs, etc (outside school)</p>
+<p>Key leadership positions in community service, or sports/arts associations,
+outside the school</p>
+</li>
+<li>
+<p>Leading role in entrepreneurship efforts</p>
+</li>
+<li>
+<p>Creation of a new software or app, or contribution to an open-source software,
+that is used by many people</p>
 </li>
 </ul>
 </li>
 <li>
-<p>Applicants who wish to be considered under ABAS must provide details under
-the 'Outstanding Achievements' section of the online application form.
-In the form, candidates will need to provide details of 2-3 activities
-and&nbsp;a 2000 character personal statement.</p>
+<p>Applicants who wish to be considered under ABA must answer <strong>four Short Response Questions</strong> under
+the Achievements Section of the online application form. You are to also <strong>list up to four achievements </strong>that
+may include CCA and non-academic activities (e.g. social work, competitive
+sports) in which you have participated.</p>
 <ul>
 <li>
-<p>Activity 1: For achievement attained in the International Olympiads (Biology,
-Chemistry, Mathematics, Physics and Informatics)</p>
+<p>Question 1: Tell us something you have done outside your school curriculum
+to prepare yourself for your chosen degree programme(s). (600 character
+limit)</p>
 </li>
 <li>
-<p>Activity 2 to 3: For other activities such as sports, cultural or academic
-competitions at the national and international level, community service,
-leadership positions and experience in research or entrepreneurial projects,
-etc.</p>
+<p>Question 2: Describe an instance when you did not succeed in accomplishing
+something on your first attempt but succeeded on subsequent attempts. How
+and what did you learn from your initial failure, and what changes did
+you make to your approach to eventually succeed? (600 character limit)</p>
 </li>
 <li>
-<p>Personal statement (2000 characters): Elaborate&nbsp;your achievements,
-including relevant work experience, which demonstrate your aptitude and
-passion for the course you have chosen.&nbsp;In addition, you may wish
-to discuss a special talent, a personal experience or an activity that
-you have been involved in that is of relevance to the course you are applying
-for at the university.</p>
+<p>Question 3: Share something that is meaningful to you and explain how
+it has impacted you in a concrete way. (600 character limit)</p>
+</li>
+<li>
+<p>Question 4: What is your proudest achievement, and what obstacles did
+you overcome with the help or inspiration from others to accomplish it?
+How does it display your commitment and how you have been enterprising?
+Please also explain how it exemplifies some of the five NUS values of Innovation,
+Resilience, Excellence, Respect and Integrity. (1100 character limit)</p>
 </li>
 </ul>
 </li>
