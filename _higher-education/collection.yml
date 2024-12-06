@@ -2,6 +2,7 @@ collections:
   higher-education:
     output: true
     order:
+      - Personal Statement Writing/UK Universities.md
       - Personal Statement Writing/.keep
       - Personal Statement Writing/Personal Statements.md
       - Personal Statement Writing/Aptitude Based Admissions.md
