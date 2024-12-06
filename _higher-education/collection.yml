@@ -2,9 +2,6 @@ collections:
   higher-education:
     output: true
     order:
-      - Scholarships and Financial Aid/.keep
-      - Scholarships and Financial Aid/Scholarships and Financial Aid.md
-      - Scholarships and Financial Aid/Why apply for scholarships?.md
       - Higher Education Landscape/.keep
       - Higher Education Landscape/Higher Education Landscape.md
       - Higher Education Landscape/Reasons to Pursue Higher Education.md
@@ -30,3 +27,6 @@ collections:
       - Getting into Medicine/What is work experience?.md
       - Getting into Medicine/Medical Options.md
       - Getting into Medicine/Preparation for MBBS Admissions.md
+      - Scholarships and Financial Aid/.keep
+      - Scholarships and Financial Aid/Scholarships and Financial Aid.md
+      - Scholarships and Financial Aid/Why apply for scholarships?.md
