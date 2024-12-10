@@ -6,7 +6,7 @@ links:
     collection: programmes
   - title: Higher Education
     collection: higher-education
-  - title: Contact Us
-    url: /contact-us/
   - title: Careers
     collection: careers
+  - title: Contact Us
+    url: /contact-us/
