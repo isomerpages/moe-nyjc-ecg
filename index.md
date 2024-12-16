@@ -8,8 +8,8 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: NYJC Education & Career Guidance Portal
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      subtitle: Brought to you by the NYJC ECG Committee
+      background: /images/SMU_Biz_3.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
