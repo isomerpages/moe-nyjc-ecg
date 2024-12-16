@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: NYJC Education and Career Guidance Portal
+description: One-Stop ECG Portal for NYJCians.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
