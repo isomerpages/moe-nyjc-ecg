@@ -1,7 +1,7 @@
 logo: /images/nyecg logo.png
 links:
   - title: Home
-    url: /homepage/
+    url: http://ecg.nanyangjc.moe.edu.sg/
   - title: Programmes
     collection: programmes
   - title: Higher Education
