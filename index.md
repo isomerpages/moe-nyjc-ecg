@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: EDventure
           description: ECG Learning Opportunities
-          url: /edventure/
+          url: https://staging.d20uom4gtmh3ul.amplifyapp.com/example-folder/example-subfolder/subfolder-page/
         - title: EDspirience
           description: Work Attachments
           url: ""
