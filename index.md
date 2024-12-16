@@ -4,7 +4,7 @@ title: NYJC Education and Career Guidance Portal
 description: One-Stop ECG Portal for NYJCians.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Welcome to the brand new NYJC ECG Portal!
 sections:
   - hero:
       title: NYJC Education & Career Guidance Portal
