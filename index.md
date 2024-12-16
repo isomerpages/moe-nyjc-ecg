@@ -15,13 +15,13 @@ sections:
       key_highlights:
         - title: EDventure
           description: ECG Learning Opportunities
-          url: https://staging.d20uom4gtmh3ul.amplifyapp.com/example-folder/example-subfolder/subfolder-page/
+          url: /edventure/
         - title: EDspirience
           description: Work Attachments
-          url: ""
+          url: /edspirience/
         - title: EDubuzz
           description: ECG Events @ NYJC
-          url: ""
+          url: /edubuzz/
         - title: A-Level Results Release 2025
           description: Application to Universities
           url: ""
