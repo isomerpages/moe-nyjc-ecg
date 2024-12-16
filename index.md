@@ -18,7 +18,7 @@ sections:
           url: /edventure/
         - title: EDspirience
           description: Work Attachments
-          url: /edspirience/
+          url: /nyjc-attachment-opportunities/
         - title: EDubuzz
           description: ECG Events @ NYJC
           url: /edubuzz/
