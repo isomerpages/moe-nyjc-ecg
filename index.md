@@ -25,46 +25,17 @@ sections:
         - title: A-Level Results Release 2025
           description: Application to Universities
           url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
-  - textcards:
-      title: Testing
-      id: textcards
-      description: Text card description
-      cards:
-        - title: EDspiration
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: EDventure
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: EDvocates
-          description: Card description
-          linktext: Learn more
-          url: ""
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
-        - title: New Announcement
-          date: 17 October 2024
-          announcement: This is a space.
+        - title: NTU Actuarial Networking Night 2025
+          date: 09 January 2025
+          announcement: "📅 Date: 9 January 2025 (Thursday) 🕒 Time: 7:30 PM – 10:00 PM 📍
+            Venue: Multifunctional Space @ House of Offline (near Lavender MRT
+            Station) 18 Penhas Rd, #02-00, Singapore 208182 ^ Dinner will be
+            provided For more info, please look out for the announcement in the
+            NYJC Integrated Portal."
           link_text: dfdfdfdsdfsdfdf
           link_url: www.abcd.com
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
-      button: Testin
 ---
