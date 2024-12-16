@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: EDventure
           description: ECG Learning Opportunities
-          url: ""
+          url: /edventure/
         - title: EDspirience
           description: Work Attachments
           url: ""
