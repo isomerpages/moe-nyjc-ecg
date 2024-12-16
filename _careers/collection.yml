@@ -2,10 +2,10 @@ collections:
   careers:
     output: true
     order:
-      - Networking/Informational Interviews.md
       - Networking/.keep
       - Networking/Networking.md
       - Networking/5 Ways to Network.md
+      - Networking/Informational Interviews.md
       - Future of Work/.keep
       - Future of Work/Future of Work.md
       - Future of Work/The 4th Industrial Revolution.md
