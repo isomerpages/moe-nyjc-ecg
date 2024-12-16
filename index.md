@@ -36,6 +36,6 @@ sections:
             Station) 18 Penhas Rd, #02-00, Singapore 208182 ^ Dinner will be
             provided For more info, please look out for the announcement in the
             NYJC Integrated Portal."
-          link_text: dfdfdfdsdfsdfdf
-          link_url: www.abcd.com
+          link_text: ""
+          link_url: ""
 ---
