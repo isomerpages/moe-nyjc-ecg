@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - Networking/5 Ways to Network.md
       - Networking/Networking.md
       - Networking/.keep
       - Future of Work/.keep
