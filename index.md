@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: EDventure
           description: ECG Learning Opportunities
-          url: /edventure/
+          url: /ecg-learning-journeys/
         - title: EDspirience
           description: Work Attachments
           url: /nyjc-attachment-opportunities/
