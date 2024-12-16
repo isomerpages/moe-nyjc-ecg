@@ -2,5 +2,6 @@ collections:
   a-level-results-release-2025:
     output: true
     order:
+      - Explore.md
       - University and Scholarship Application.md
       - Factors to Consider.md
