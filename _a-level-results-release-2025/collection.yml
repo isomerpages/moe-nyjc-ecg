@@ -1,0 +1,8 @@
+collections:
+  a-level-results-release-2025:
+    output: true
+    order:
+      - University and Scholarship Application.md
+      - Factors to Consider.md
+      - Explore.md
+      - Who to Approach.md

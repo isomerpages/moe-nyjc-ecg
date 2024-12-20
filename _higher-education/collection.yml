@@ -1,0 +1,50 @@
+collections:
+  higher-education:
+    output: true
+    order:
+      - Higher Education Landscape/.keep
+      - Higher Education Landscape/Higher Education Landscape.md
+      - Higher Education Landscape/Reasons to Pursue Higher Education.md
+      - Higher Education Landscape/Anatomy of a Degree.md
+      - Higher Education Landscape/Overseas Education.md
+      - Choosing a University Course/.keep
+      - Choosing a University Course/Choosing a University Course.md
+      - Choosing a University Course/Key Factors to Consider.md
+      - Choosing a University Course/Where to Look for Advice.md
+      - Local University Admissions/.keep
+      - Local University Admissions/Application Timeline.md
+      - Local University Admissions/How to Apply.md
+      - Overseas University Admissions/.keep
+      - Overseas University Admissions/Admissions Coordinators.md
+      - Overseas University Admissions/General Application Guide.md
+      - Overseas University Admissions/Applying to UK Universities.md
+      - Overseas University Admissions/Applying to US Universities.md
+      - Overseas University Admissions/Applying to China Universities.md
+      - Overseas University Admissions/Overseas Education Talks.md
+      - Getting into Medicine/.keep
+      - Getting into Medicine/Getting into Medicine.md
+      - Getting into Medicine/Why is gaining experience important?.md
+      - Getting into Medicine/What is work experience?.md
+      - Getting into Medicine/Medical Options.md
+      - Getting into Medicine/Preparation for MBBS Admissions.md
+      - Scholarships and Financial Aid/.keep
+      - Scholarships and Financial Aid/Scholarships and Financial Aid.md
+      - Scholarships and Financial Aid/Why apply for scholarships?.md
+      - Scholarships and Financial Aid/Applying for University Scholarship​​​s.md
+      - Interview Preparation/.keep
+      - Interview Preparation/Interview Preparation.md
+      - Interview Preparation/General Guide to Preparing for Interviews.md
+      - Interview Preparation/Oxbridge Interviews.md
+      - Interview Preparation/Medicine, Dentistry and Health Sciences
+        Interviews.md
+      - Personal Statement Writing/.keep
+      - Personal Statement Writing/SGC and University Pre application Form.md
+      - Personal Statement Writing/Personal Statements.md
+      - Personal Statement Writing/Aptitude Based Admissions.md
+      - Personal Statement Writing/University Scholarships.md
+      - Personal Statement Writing/UK Universities.md
+      - Personal Statement Writing/US Universities.md
+      - Personal Statement Writing/Medicine.md
+      - Teacher References/.keep
+      - Teacher References/Teacher References.md
+      - Teacher References/How to approach a teacher for reference?.md

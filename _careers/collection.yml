@@ -1,0 +1,27 @@
+collections:
+  careers:
+    output: true
+    order:
+      - Future of Work/.keep
+      - Future of Work/Future of Work.md
+      - Future of Work/The 4th Industrial Revolution.md
+      - Future of Work/Impact on Singapore.md
+      - Future of Work/Most Important Skills Today.md
+      - Future of Work/Gig Economy.md
+      - Future of Work/What do all these mean for you?.md
+      - Career Adaptability/.keep
+      - Career Adaptability/Career Adaptability.md
+      - Career Purpose.md
+      - Personal Branding/.keep
+      - Personal Branding/Personal Branding.md
+      - Personal Branding/Why build a personal brand?.md
+      - Personal Branding/How to build a strong personal brand?.md
+      - Personal Branding/Importance of LinkedIn.md
+      - Personal Branding/LinkedIn for JC Students.md
+      - Personal Branding/Resumes and CVs.md
+      - Networking/.keep
+      - Networking/Networking.md
+      - Networking/5 Ways to Network.md
+      - Networking/Informational Interviews.md
+      - Networking/Informational Interview Videos.md
+      - Networking/Online Courses.md

@@ -2,31 +2,57 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
-locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+agency_name: NYJC ECG!
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: ""
+      - email: chin_de_shun@moe.edu.sg
+      - other: Mr Chin De Shun
+    title: Local University Admissions
+  - content:
+      - phone: ""
+      - email: chua_xiu_ling@moe.edu.sg
+      - other: Ms Chua Xiu Ling
+    title: Overseas University Admissions (US)
+  - content:
+      - phone: ""
+      - email: siow_yunjie@moe.edu.sg
+      - other: Ms Siow Yunjie
+    title: Overseas University Admissions (UK)
+  - content:
+      - phone: ""
+      - email: ma_yuexia@moe.edu.sg
+      - other: Mdm Ma Yuexia
+    title: Overseas University Admissions (China)
+  - content:
+      - phone: ""
+      - email: yeong_mei_leng@moe.edu.sg
+      - other: Mrs Lee-Yeong Mei Leng
+    title: Overseas University Admissions (Others)
+  - content:
+      - phone: ""
+      - email: zhou_yefeng@moe.edu.sg
+      - other: Mr Zhou Yefeng
+    title: EDventure & Learning Journeys
+  - content:
+      - phone: ""
+      - email: lee_liang_lin@moe.edu.sg
+      - other: Mr Lee Liang Lin
+    title: EDspirience Work Attachment
+  - content:
+      - phone: ""
+      - email: goh_ching_liang@moe.edu.sg
+      - other: Mr Goh Ching Liang
+    title: EDubuzz Talks
+  - content:
+      - phone: ""
+      - email: han_swee_kwang_shaun@schools.gov.sg
+      - other: Mr Shaun Han
+    title: ECG Counselling
+  - content:
+      - phone: ""
+      - email: siow_yunjie@moe.edu.sg
+      - other: Ms Siow Yunjie
+    title: MySkillsFuture Portal
+feedback: ""
 ---

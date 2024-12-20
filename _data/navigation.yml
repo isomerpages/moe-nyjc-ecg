@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/nyecg logo.png
 links:
+  - title: Home
+    url: http://ecg.nanyangjc.moe.edu.sg/
+  - title: Programmes
+    collection: programmes
+  - title: Higher Education
+    collection: higher-education
+  - title: Careers
+    collection: careers
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
