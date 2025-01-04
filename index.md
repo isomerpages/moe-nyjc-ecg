@@ -43,8 +43,8 @@ sections:
       url: https://ecg.nanyangjc.moe.edu.sg/ntu-spms-open-house-2025/
       alt: Image alt text
       image: /images/NTU_SPMS_Open_House_2025.png
-      description: "📅Date: 18 January, 2025 🕒Time: 11 am - 2 pm 📍Venue: SPMS
-        Atrium, 21 Nanyang Link MAS Atrium Level 3 Singapore, 637371"
+      description: "📅Date: 18 January, 2025 (Saturday) 🕒Time: 11 AM - 2 PM 📍Venue:
+        SPMS Atrium, 21 Nanyang Link MAS Atrium Level 3 Singapore, 637371"
       subtitle: EDventure
   - infopic:
       title: SPF Specialist Unit Open House 2025
