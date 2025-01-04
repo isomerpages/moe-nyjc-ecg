@@ -38,4 +38,12 @@ sections:
             NYJC Integrated Portal."
           link_text: ""
           link_url: ""
+        - title: SPF Specialist Unit Open House 2025
+          date: 06 February 2025
+          announcement: Students interested in signing up for the event may click on the
+            registration link below. Alternatively, students may also visit the
+            SPF recruitment Instagram page (@spfrecruitment) with regards to the
+            event. Registration will close on 24th January 2025.
+          link_text: Register here
+          link_url: go.gov.sg/su-openhouse-2025
 ---
