@@ -61,6 +61,7 @@ sections:
       url: https://ecg.nanyangjc.moe.edu.sg/ntu-actuarial-networking-night-2025/
       alt: Image alt text
       image: /images/NTU_Actuarial_Networking_Night_2025.png
+      subtitle: EDventure
   - infopic:
       title: NTU SPMS Open House 2025
       id: infopic
@@ -68,4 +69,17 @@ sections:
       url: https://ecg.nanyangjc.moe.edu.sg/ntu-spms-open-house-2025/
       alt: Image alt text
       image: /images/NTU_SPMS_Open_House_2025.png
+      description: "📅Date: January 18, 2025 🕒Time: 11 am - 2 pm 📍Venue: SPMS
+        Atrium, 21 Nanyang Link MAS Atrium Level 3 Singapore, 637371"
+      subtitle: EDventure
+  - infopic:
+      title: SPF Specialist Unit Open House 2025
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 6 February 2025 (Thursday) 🕒 Time: 9:30 AM – 4:30 PM 📍
+        Venue: Mount Vernon Camp, Gurkha Contingent"
+      button: Click here for more info
+      url: d
+      image: /images/Specialist_Unit_Open_House_2025.png
+      alt: Image alt text
 ---
