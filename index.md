@@ -54,10 +54,6 @@ sections:
             Instagram page (@spfrecruitment) with regards to the event."
           link_text: Register here
           link_url: go.gov.sg/su-openhouse-2025
-  - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
-      id: resources
   - infopic:
       title: NTU Actuarial Networking Night 2025
       id: infopic
