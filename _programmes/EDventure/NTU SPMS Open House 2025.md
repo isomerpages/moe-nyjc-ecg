@@ -15,10 +15,12 @@ questions answered by our friendly professors and students.</p>
 <p>*Psst, there will be free flow bubble tea, Famous Amos cookies and exclusive
 merchandise up for grabs!</p>
 <p>Block your calendar and do bring your friends along. The more, the merrier!</p>
-<p><strong>Click on the EDM to register NOW!!</strong>
+<p><strong>Click <a href="https://bit.ly/spmsoh2025" rel="noopener nofollow" target="_blank">here</a> to register.</strong>
 </p>
 <p>&nbsp;See you all there!</p>
-<p></p>
+<p>📅 Date: 18 January 2025 (Saturday)</p>
+<p>🕒 Time: 11 AM – 2 PM</p>
+<p>📍 Venue: NTU SPMS Atrium</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NTU SPMS OH 2025" src="/images/NTU_SPMS_Open_House_2025.png">
 </div>
