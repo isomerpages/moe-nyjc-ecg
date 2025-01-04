@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - EDventure/NTU SPMS Open House 2025.md
       - EDventure/.keep
       - EDventure/EDventure.md
       - EDventure/NTU Actuarial Networking Night 2025.md
