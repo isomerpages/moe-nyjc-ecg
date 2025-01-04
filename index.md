@@ -65,6 +65,7 @@ sections:
       title: NTU SPMS Open House 2025
       id: infopic
       button: Click here for more info
-      url: d
+      url: https://ecg.nanyangjc.moe.edu.sg/ntu-spms-open-house-2025/
       alt: Image alt text
+      image: /images/NTU_SPMS_Open_House_2025.png
 ---
