@@ -61,4 +61,10 @@ sections:
       url: https://ecg.nanyangjc.moe.edu.sg/ntu-actuarial-networking-night-2025/
       alt: Image alt text
       image: /images/NTU_Actuarial_Networking_Night_2025.png
+  - infopic:
+      title: NTU SPMS Open House 2025
+      id: infopic
+      button: Click here for more info
+      url: d
+      alt: Image alt text
 ---
