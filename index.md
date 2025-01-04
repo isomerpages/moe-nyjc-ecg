@@ -64,4 +64,5 @@ sections:
       button: Click here for more info
       url: ecg.
       alt: Image alt text
+      image: /images/NTU_Actuarial_Networking_Night_2025.png
 ---
