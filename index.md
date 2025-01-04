@@ -38,12 +38,20 @@ sections:
             NYJC Integrated Portal."
           link_text: ""
           link_url: ""
+        - title: NTU SPMS Open House
+          date: 18 January 2025
+          announcement: "📅Date: January 18, 2025 🕒Time: 11 am - 2 pm 📍Venue: SPMS
+            Atrium, 21 Nanyang Link MAS Atrium Level 3 Singapore, 637371  Head
+            down to SPMS to see our facilities, visit our labs and have your
+            questions answered by our friendly professors and students."
+          link_text: Register here
+          link_url: https://bit.ly/spmsoh2025
         - title: SPF Specialist Unit Open House 2025
           date: 06 February 2025
-          announcement: Students interested in signing up for the event may click on the
-            registration link below. Alternatively, students may also visit the
-            SPF recruitment Instagram page (@spfrecruitment) with regards to the
-            event. Registration will close on 24th January 2025.
+          announcement: "📅 Date: 6 February 2025 (Thursday) 🕒 Time: 9:30 AM – 4:30 PM 📍
+            Venue: Mount Vernon Camp, Gurkha Contingent Registration will close
+            on 24th January 2025. Students may also visit the SPF recruitment
+            Instagram page (@spfrecruitment) with regards to the event."
           link_text: Register here
           link_url: go.gov.sg/su-openhouse-2025
 ---
