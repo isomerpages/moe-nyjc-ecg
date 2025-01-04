@@ -2,9 +2,9 @@ collections:
   programmes:
     output: true
     order:
-      - EDventure/NTU Actuarial Networking Night 2025.md
       - EDventure/.keep
       - EDventure/EDventure.md
+      - EDventure/NTU Actuarial Networking Night 2025.md
       - EDventure/ECG Learning Journeys.md
       - EDspirience/.keep
       - EDspirience/Importance of work attachments.md
