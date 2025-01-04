@@ -12,9 +12,10 @@ unique opportunity to dive deeper into the world of actuarial science and
 connect with professors, industry professionals, and peers who share the
 same passion!</p>
 <p>Event Details:</p>
-<p>Date: 9 January 2025 (Thursday)</p>
-<p>Time: 7:30 PM – 10:00 PM</p>
-<p>Venue: Multifunctional Space @ House of Offline (near Lavender MRT Station)</p>
+<p>📅 Date: 9 January 2025 (Thursday)</p>
+<p>🕒 Time: 7:30 PM – 10:00 PM</p>
+<p>📍 Venue: Multifunctional Space @ House of Offline (near Lavender MRT
+Station)</p>
 <p>18 Penhas&nbsp;Rd, #02-00, Singapore 208182</p>
 <p>^ Dinner will be provided</p>
 <p><strong><u>Who Should Attend?</u></strong>
