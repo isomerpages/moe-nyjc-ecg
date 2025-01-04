@@ -26,7 +26,7 @@ sections:
           description: Application to Universities
           url: ""
   - announcements:
-      title: Announcements
+      title: Announcements (Click on EDVENTURE for more info)
       id: announcements
       announcement_items:
         - title: NTU Actuarial Networking Night 2025
