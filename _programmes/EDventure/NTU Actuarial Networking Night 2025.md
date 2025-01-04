@@ -41,3 +41,7 @@ a direct message on Telegram @xianyiii (Xian Yi) or @sirukang (Si Ru).</p>
 <p>Brought to you by</p>
 <p>Actuarial Networking Night Committee&nbsp;</p>
 <p>NBS Actuarial Science Club</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NTU ANN 2025" src="/images/NTU_Actuarial_Networking_Night_2025.png">
+</div>
+<p></p>
