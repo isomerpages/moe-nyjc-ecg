@@ -58,4 +58,10 @@ sections:
       title: Resources
       subtitle: Add a preview and link to your Resource Room
       id: resources
+  - infopic:
+      title: NTU Actuarial Networking Night 2025
+      id: infopic
+      button: Click here for more info
+      url: ecg.
+      alt: Image alt text
 ---
