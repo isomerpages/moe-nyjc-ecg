@@ -33,6 +33,9 @@ sections:
       alt: Image alt text
       image: /images/NTU_Actuarial_Networking_Night_2025.png
       subtitle: EDventure
+      description: "📅Date: 9 January, 2025 (Thursday) 🕒Time: 7:30 PM - 10 PM
+        📍Venue: Multifunctional Space @ House of Offline  18 Penhas Rd, #02-00,
+        Singapore 208182"
   - infopic:
       title: NTU SPMS Open House 2025
       id: infopic
@@ -40,7 +43,7 @@ sections:
       url: https://ecg.nanyangjc.moe.edu.sg/ntu-spms-open-house-2025/
       alt: Image alt text
       image: /images/NTU_SPMS_Open_House_2025.png
-      description: "📅Date: January 18, 2025 🕒Time: 11 am - 2 pm 📍Venue: SPMS
+      description: "📅Date: 18 January, 2025 🕒Time: 11 am - 2 pm 📍Venue: SPMS
         Atrium, 21 Nanyang Link MAS Atrium Level 3 Singapore, 637371"
       subtitle: EDventure
   - infopic:
