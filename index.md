@@ -79,7 +79,7 @@ sections:
       description: "📅 Date: 6 February 2025 (Thursday) 🕒 Time: 9:30 AM – 4:30 PM 📍
         Venue: Mount Vernon Camp, Gurkha Contingent"
       button: Click here for more info
-      url: d
+      url: https://ecg.nanyangjc.moe.edu.sg/spf-specialist-unit-open-house-2025/
       image: /images/Specialist_Unit_Open_House_2025.png
       alt: Image alt text
 ---
