@@ -374,21 +374,20 @@ aid&nbsp;<strong><a href="https://ecg.nanyangjc.moe.edu.sg/scholarships-and-fina
 </ul>
 <hr>
 <h3><strong>Achieve</strong></h3>
-<h4><strong>1. Accept offers via Common Acceptance platform</strong></h4>
+<h4><strong>1. Accept offers via Joint Acceptance Portal</strong></h4>
 <ul>
 <li>
-<p>Successful applicants are required to accept the admission offer&nbsp;online&nbsp;via&nbsp;Common
-Acceptance Platform&nbsp;by the deadline shown in your electronic offer
-letter.</p>
+<p>Successful applicants are required to accept the admission offer&nbsp;online&nbsp;via&nbsp;Joint
+Acceptance Portal&nbsp;by the deadline shown in your electronic offer letter.</p>
 </li>
 <li>
 <p>The windows for acceptance are:
-<br><strong>1st window: 2 January to 24 May&nbsp;(for offers released before 24 May)<br>2nd window: 1 to 17 June&nbsp;(for offers released between 25 May and 17 June)</strong>
+<br><strong>1st window: 2 January to 24 May&nbsp;2024 (for offers released before 24 May)<br>2nd window: 1 to 18 June&nbsp;2024 (for offers released between 25 May and 18 June 2024)</strong>
 </p>
 </li>
 <li>
-<p>As the Common Acceptance Platform is the same across the six AUs, you
-may be offered a course of study in more than one university.</p>
+<p>As the Common Acceptance Portal is the same across the six AUs, you may
+be offered a course of study in more than one university.</p>
 </li>
 <li>
 <p>However, you are&nbsp;only allowed to accept one offer&nbsp;from one of
