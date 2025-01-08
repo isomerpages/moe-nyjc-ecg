@@ -43,18 +43,41 @@ universities (<a href="https://www.princetonreview.com/college-advice/dream-matc
 so that you can make an informed decision.&nbsp;</p>
 </li>
 <li>
-<p>Learn more about choosing a suitable university and course <strong><a href="choosing uni" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> (update
-link).</p>
+<p>Learn more about choosing a suitable university and course <strong><a href="https://ecg.nanyangjc.moe.edu.sg/choosing-a-university-course/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong>.</p>
 </li>
 </ul>
 <h4><strong>2. Check out subject pre-requisites and selection criteria</strong></h4>
 <p><strong>Base criteria for applying</strong>
 </p>
 <p>To apply to the AUs, you need to have:&nbsp;</p>
+<p><strong>For AY2025 and before:</strong>
+</p>
 <ul>
 <li>
 <p>3 H2 passes in content subjects, 1 H1 pass in content subjects, Project
 Work and GP/KI in the same sitting</p>
+</li>
+<li>
+<p>Meet one of the following Mother Tongue Language (MTL) requirement:</p>
+<ul>
+<li>
+<p>A minimum of ‘S’ grade in H1 MTL or General Studies in Chinese or H2 Mother
+Tongue Language &amp; Literature (MTLL) taken at ‘A’ level</p>
+</li>
+<li>
+<p>Pass in MTL ‘B’ syllabus taken at ‘A’ level</p>
+</li>
+<li>
+<p>A minimum of D7 in Higher MTL taken at ‘O’ level</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>For AY2026 and after:</strong>
+</p>
+<ul>
+<li>
+<p>3 H2 passes in content subjects and GP in the same sitting</p>
 </li>
 <li>
 <p>Meet one of the following Mother Tongue Language (MTL) requirement:</p>
@@ -326,19 +349,19 @@ may be separate or together with the admissions application.</p>
 <h4><strong>2. Request for teacher references</strong></h4>
 <ul>
 <li>
-<p>Follow the guidelines stated <strong><a href="teacher ref" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> (update
-link) for teacher references.</p>
+<p>Follow the guidelines stated <strong><a href="https://ecg.nanyangjc.moe.edu.sg/teacher-references/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> for
+teacher references.</p>
 </li>
 </ul>
 <h4><strong>3. Write your personal statement and prepare for interviews</strong></h4>
 <ul>
 <li>
-<p>Follow the guidelines stated <strong><a href="per state" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> (update
-link) for personal statement writing.</p>
+<p>Follow the guidelines stated <strong><a href="https://ecg.nanyangjc.moe.edu.sg/sgc-and-university-pre-application-form/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> for
+personal statement writing.</p>
 </li>
 <li>
-<p>Follow the guidelines stated <strong><a href="inter prep" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> (update
-link) for interviews preparation.</p>
+<p>Follow the guidelines stated <strong><a href="https://ecg.nanyangjc.moe.edu.sg/interview-preparation/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> for
+interviews preparation.</p>
 </li>
 </ul>
 <h4><strong>4. After you submit your application, apply for scholarships and financial aid</strong></h4>
@@ -346,27 +369,25 @@ link) for interviews preparation.</p>
 <li>
 <p>Besides university scholarships and financial aid, you should also apply
 for organisation scholarships. Find out more about scholarships and financial
-aid&nbsp;<strong><a href="scholarships" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a> (update link).</strong>
-</p>
+aid&nbsp;<strong><a href="https://ecg.nanyangjc.moe.edu.sg/scholarships-and-financial-aid/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong>.</p>
 </li>
 </ul>
 <hr>
 <h3><strong>Achieve</strong></h3>
-<h4><strong>1. Accept offers via Common Acceptance platform</strong></h4>
+<h4><strong>1. Accept offers via Joint Acceptance Portal</strong></h4>
 <ul>
 <li>
-<p>Successful applicants are required to accept the admission offer&nbsp;online&nbsp;via&nbsp;Common
-Acceptance Platform&nbsp;by the deadline shown in your electronic offer
-letter.</p>
+<p>Successful applicants are required to accept the admission offer&nbsp;online&nbsp;via&nbsp;Joint
+Acceptance Portal&nbsp;by the deadline shown in your electronic offer letter.</p>
 </li>
 <li>
 <p>The windows for acceptance are:
-<br><strong>1st window: 2 January to 24 May&nbsp;(for offers released before 24 May)<br>2nd window: 1 to 17 June&nbsp;(for offers released between 25 May and 17 June)</strong>
+<br><strong>1st window: 2 January to 24 May&nbsp;2024 (for offers released before 24 May)<br>2nd window: 1 to 18 June&nbsp;2024 (for offers released between 25 May and 18 June 2024)</strong>
 </p>
 </li>
 <li>
-<p>As the Common Acceptance Platform is the same across the six AUs, you
-may be offered a course of study in more than one university.</p>
+<p>As the Common Acceptance Portal is the same across the six AUs, you may
+be offered a course of study in more than one university.</p>
 </li>
 <li>
 <p>However, you are&nbsp;only allowed to accept one offer&nbsp;from one of

@@ -85,7 +85,7 @@ to go the extra mile.</p>
 <p>While at work, try your best to observe your supervisor at work (This
 is called work shadowing) and take the opportunity to interview your supervisor
 and his/her colleagues about their job during your break times. Read more
-about informational interviews <a href="https://www.nyjcecg.com/information-interviews" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>.</p>
+about informational interviews <a href="https://ecg.nanyangjc.moe.edu.sg/networking/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>.</p>
 </li>
 </ul>
 <h4>5.&nbsp; &nbsp;Be adaptable</h4>

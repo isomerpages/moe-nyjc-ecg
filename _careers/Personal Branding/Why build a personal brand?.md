@@ -34,7 +34,7 @@ if you have a unique personal brand.</p>
 <h4>It helps you in your university applications</h4>
 <ul>
 <li>
-<p>As universities move towards <u>a</u><a href="local-admissions" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>ptitude-based admissions</u></a>,
+<p>As universities move towards <a href="local-admissions" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>aptitude-based admissions</u></a>,
 grades become less important and there is an increasing need to brand yourself
 so that you can stand out from the rest of the candidates.</p>
 </li>

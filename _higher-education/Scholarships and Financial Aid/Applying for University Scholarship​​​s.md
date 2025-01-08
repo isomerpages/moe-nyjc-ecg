@@ -15,7 +15,7 @@ approach Mr Chng Yongxi (Talent Development).</p>
 <ul>
 <li>
 <p>Get to know the universities and understand their culture by participating
-in university outreach programmes e.g. <a href="edventure" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDventure (update link)</u></a>
+in university outreach programmes e.g. <a href="https://ecg.nanyangjc.moe.edu.sg/edventure/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDventure</u></a>
 </p>
 </li>
 <li>
@@ -190,13 +190,12 @@ university you are interested in to see the entire list of scholarships</p>
 <p>You will generally need to submit a personal statement. The focus of your
 personal statement should be about your fit for the scholarship and organisation.
 Start writing your personal statement as soon as possible.&nbsp;For more
-information, access this <a href="personal-statement-writing" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>page</u></a>.
-(update link)</p>
+information, access this <a href="https://ecg.nanyangjc.moe.edu.sg/sgc-and-university-pre-application-form/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>page</u></a>.</p>
 </li>
 <li>
 <p>Most university scholarships applications require teacher referrals. You
 should approach suitable teachers as soon as possible. Fore more information,
-access this <a href="teacher-references" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>page</u></a>. (update link)</p>
+access this <a href="https://ecg.nanyangjc.moe.edu.sg/teacher-references/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>page</u></a>.</p>
 </li>
 <li>
 <p>Application for the scholarship is either together with university application
@@ -232,8 +231,7 @@ faculty.</p>
 <p>All scholarships applications come with interview. Some are casual chats.
 Some are group interviews. Some (especially organisations) have multiple
 rounds and possible psychometric tests for you to take. F​or more information,
-access this <a href="interview-preparation" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>page. (update link)</u></a>
-</p>
+access this <a href="https://ecg.nanyangjc.moe.edu.sg/general-guide-to-preparing-for-interviews/" rel="noopener nofollow" target="_blank">page</a>.</p>
 </li>
 </ul>
 <h3>What to do if you failed to get a scholarship?</h3>

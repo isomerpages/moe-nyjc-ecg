@@ -21,7 +21,7 @@ communication, team work.&nbsp;</p>
 <p>Majority of jobs now are found through networking. Building a good relationship
 with your work attachment supervisor could help you secure a future internship
 with the same company. You would also make friends with fellow interns
-and&nbsp;make new connections from there. Find out more <a href="https://www.nyjcecg.com/information-interviews" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>.</p>
+and&nbsp;make new connections from there. Find out more <a href="https://ecg.nanyangjc.moe.edu.sg/networking/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>.</p>
 <h4>4. Build your portfolio</h4>
 <p>While the main objective of a work attachment is not for portfolio building,
 having work experience in a relevant field enhances your in-depth knowledge

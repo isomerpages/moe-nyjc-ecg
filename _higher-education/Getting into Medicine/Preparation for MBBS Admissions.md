@@ -9,8 +9,7 @@ third_nav_title: Getting into Medicine
 <p>This is the typical portfolio you will need to present</p>
 <ul>
 <li>
-<p>Personal statement (more information <a href="personal-statement-writing" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>)
-(update link)</p>
+<p>Personal statement (more information <a href="https://ecg.nanyangjc.moe.edu.sg/medicine/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>)</p>
 </li>
 <li>
 <p>List of co-curricular activities</p>
@@ -20,7 +19,7 @@ third_nav_title: Getting into Medicine
 </li>
 <li>
 <p>2 referee reports - <strong>one must be from the civics tutor&nbsp;for NTU LKC Medicine</strong>&nbsp;(more
-information <a href="teacher-references" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>) (update link)</p>
+information <a href="https://ecg.nanyangjc.moe.edu.sg/teacher-references/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>)</p>
 </li>
 <li>
 <p>BMAT results (UCAT results from AY2023-2024 onwards) (for NTU applicants)</p>
@@ -31,8 +30,7 @@ information <a href="teacher-references" class="wixui-rich-text__text" rel="noop
 <p>Short-listed applicants will be invited for</p>
 <ul>
 <li>
-<p>a Multiple Mini Interviews (MMI). (more information <a href="interview-preparation" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>)
-(update link)</p>
+<p>a Multiple Mini Interviews (MMI). (more information <a href="https://ecg.nanyangjc.moe.edu.sg/medicine-dentistry-and-health-sciences-interviews/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>)</p>
 </li>
 <li>
 <p>Situational Judgement test (for NUS applicants.</p>

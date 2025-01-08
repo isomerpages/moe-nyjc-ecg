@@ -25,8 +25,8 @@ and subsequently when you step into the corporate world.</p>
 in JC. One way that you could build your portfolio is to take online courses.
 Some online courses will issue softcopy certification on completion of
 the course. These certifications could add to your credentials.</p>
-<p>Read <a href="local-admissions" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a> (update link) for more information
-on Aptitude-based Admissions.</p>
+<p>Read <a href="https://ecg.nanyangjc.moe.edu.sg/how-to-apply/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a> for
+more information on Aptitude-based Admissions.</p>
 <h4><br>3. Personal Branding</h4>
 <p>These certifications could also be ported over to professional social
 media platform such as LinkedIn. This could add on to your personal branding

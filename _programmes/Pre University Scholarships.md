@@ -11,7 +11,7 @@ via morning assemblies or the intranet portal. Alternatively you may approach
 the teacher-in-charge to find out more.</p>
 <p></p>
 <p>Note that pre-university scholarships are awarded to students for their
-two years in junior college. They are different from <a href="https://www.nyjcecg.com/scholarships" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>university scholarships</u></a> which
+two years in junior college. They are different from <a href="https://ecg.nanyangjc.moe.edu.sg/scholarships-and-financial-aid/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>university scholarships</u></a> which
 are awarded to&nbsp;students for their university education.</p>
 <hr>
 <table style="minWidth: 125px">

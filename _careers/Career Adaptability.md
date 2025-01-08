@@ -3,7 +3,6 @@ title: Career Adaptability
 permalink: /career-adaptability/
 variant: tiptap
 description: ""
-third_nav_title: Career Adaptability
 ---
 <h1>Career Adaptability</h1>
 <blockquote>
@@ -93,15 +92,15 @@ never knew!</p>
 <h4>Suggestions of activities you can do</h4>
 <ul>
 <li>
-<p><a href="edspirience" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDspirience</u></a> (update link) work attachment
-programme</p>
+<p><a href="https://ecg.nanyangjc.moe.edu.sg/applying-for-edspirience/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDspirience</u></a> work
+attachment programme</p>
 </li>
 <li>
-<p><a href="edventure" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDventure (update link)</u></a>
+<p><a href="https://ecg.nanyangjc.moe.edu.sg/edventure/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDventure</u></a>
 </p>
 </li>
 <li>
-<p><a href="edubuzz" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDubuzz (update link)</u></a>
+<p><a href="https://ecg.nanyangjc.moe.edu.sg/edubuzz/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDubuzz</u></a>
 </p>
 </li>
 <li>
@@ -145,8 +144,8 @@ interests and work values.</p>
 available in Singapore.</p>
 </li>
 <li>
-<p>And based on your&nbsp;<a href="https://www.nyjcecg.com/your-career-purpose" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Career Purpose</u></a>,(update
-link) decide which careers suit you the best.</p>
+<p>And based on your&nbsp;<a href="https://ecg.nanyangjc.moe.edu.sg/career-purpose/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Career Purpose</u></a>,
+decide which careers suit you the best.</p>
 </li>
 </ul>
 <h4>Create a&nbsp;personal brand based on your unique skillset</h4>
@@ -163,8 +162,8 @@ unless you tell them</p>
 will start knocking on your door instead of the other way.</p>
 </li>
 <li>
-<p>Read <a href="https://www.nyjcecg.com/personal-branding" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Personal Branding</u></a> (update
-link) for more information</p>
+<p>Read <a href="https://ecg.nanyangjc.moe.edu.sg/how-to-build-a-strong-personal-brand/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Personal Branding</u></a> for
+more information</p>
 </li>
 </ul>
 <p></p>

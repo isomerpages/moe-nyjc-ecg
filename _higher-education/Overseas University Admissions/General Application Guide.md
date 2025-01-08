@@ -137,8 +137,7 @@ your teacher at least <strong>4&nbsp;weeks</strong> before the start of holidays
 any.&nbsp;</p>
 </li>
 <li>
-<p>Learn more about approaching teachers for references <a href="teacher-references" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a> (update
-link).</p>
+<p>Learn more about approaching teachers for references <a href="https://ecg.nanyangjc.moe.edu.sg/how-to-approach-a-teacher-for-reference/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>.</p>
 </li>
 </ul>
 <h2>7. Working with the admissions coordinator</h2>

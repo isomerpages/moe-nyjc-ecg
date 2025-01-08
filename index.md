@@ -25,17 +25,35 @@ sections:
         - title: A-Level Results Release 2025
           description: Application to Universities
           url: ""
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: NTU Actuarial Networking Night 2025
-          date: 09 January 2025
-          announcement: "📅 Date: 9 January 2025 (Thursday) 🕒 Time: 7:30 PM – 10:00 PM 📍
-            Venue: Multifunctional Space @ House of Offline (near Lavender MRT
-            Station) 18 Penhas Rd, #02-00, Singapore 208182 ^ Dinner will be
-            provided For more info, please look out for the announcement in the
-            NYJC Integrated Portal."
-          link_text: ""
-          link_url: ""
+  - infopic:
+      title: NTU Actuarial Networking Night 2025
+      id: infopic
+      button: Click here for more info
+      url: https://ecg.nanyangjc.moe.edu.sg/ntu-actuarial-networking-night-2025/
+      alt: Image alt text
+      image: /images/NTU_Actuarial_Networking_Night_2025.png
+      subtitle: EDventure
+      description: "📅Date: 9 January, 2025 (Thursday) 🕒Time: 7:30 PM - 10 PM
+        📍Venue: Multifunctional Space @ House of Offline  18 Penhas Rd, #02-00,
+        Singapore 208182"
+  - infopic:
+      title: NTU SPMS Open House 2025
+      id: infopic
+      button: Click here for more info
+      url: https://ecg.nanyangjc.moe.edu.sg/ntu-spms-open-house-2025/
+      alt: Image alt text
+      image: /images/NTU_SPMS_Open_House_2025.png
+      description: "📅Date: 18 January, 2025 (Saturday) 🕒Time: 11 AM - 2 PM 📍Venue:
+        SPMS Atrium, 21 Nanyang Link MAS Atrium Level 3 Singapore, 637371"
+      subtitle: EDventure
+  - infopic:
+      title: SPF Specialist Unit Open House 2025
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 6 February 2025 (Thursday) 🕒 Time: 9:30 AM – 4:30 PM 📍
+        Venue: Mount Vernon Camp, Gurkha Contingent"
+      button: Click here for more info
+      url: https://ecg.nanyangjc.moe.edu.sg/spf-specialist-unit-open-house-2025/
+      image: /images/Specialist_Unit_Open_House_2025.png
+      alt: Image alt text
 ---

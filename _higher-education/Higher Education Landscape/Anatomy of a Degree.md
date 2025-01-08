@@ -52,7 +52,7 @@ why the graduates from these universities typically command higher salaries.</p>
 <p>For more information, you can read</p>
 <ul>
 <li>
-<p><a href="https://digitalsenior.sg/calculating-gpa/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>What every student ought to know: Calculating your GPA</u></a>​</p>
+<p><a href="https://knowgpa.web.app/sg/nus" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>What every student ought to know: Calculating your GPA</u></a>​</p>
 </li>
 <li>
 <p><a href="http://www.nus.edu.sg/registrar/academic-information-policies/undergraduate-students/continuation-and-graduation-requirements#DegreeClassification" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Degree system in NUS</u></a>

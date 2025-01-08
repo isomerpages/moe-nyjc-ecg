@@ -3,7 +3,6 @@ title: NYJC Attachment Opportunities
 permalink: /nyjc-attachment-opportunities/
 variant: tiptap
 description: ""
-third_nav_title: EDspirience
 ---
 <h1>NYJC Attachment Opportunities</h1>
 <p>NYJC work attachment period typically fall during June and December holidays.

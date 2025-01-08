@@ -16,9 +16,10 @@ Do not miss them as you can walk around the campus and visit the facilities</p>
 <h4>Education and Career Guidance Counsellor</h4>
 <ul>
 <li>
-<p>The <a href="Career Counselling" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Counsellor</u></a> (update link) has up-to-date
-information on universities and is able to guide you through the process
-of selecting a university course that matches your interests and personality</p>
+<p>The <a href="https://ecg.nanyangjc.moe.edu.sg/career-counselling/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Counsellor</u></a> has
+up-to-date information on universities and is able to guide you through
+the process of selecting a university course that matches your interests
+and personality</p>
 </li>
 </ul>
 <h4>Teacher Admissions Coordinators</h4>
@@ -27,8 +28,8 @@ of selecting a university course that matches your interests and personality</p>
 <p>For local admissions, please approach <a href="mailto:chin_de_shun@moe.edu.sg" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Mr Chin De Shun</u></a>.</p>
 </li>
 <li>
-<p>For overseas admissions, teacher <a href="ad coord" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>admissions coordinators</u></a> (update
-link) can advise you on overseas application procedures</p>
+<p>For overseas admissions, teacher <a href="https://ecg.nanyangjc.moe.edu.sg/admissions-coordinators/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>admissions coordinators</u></a> can
+advise you on overseas application procedures</p>
 </li>
 </ul>
 <h4>Teachers</h4>

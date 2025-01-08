@@ -24,8 +24,8 @@ that you never knew.</p>
 <ul>
 <li>
 <p>Linkedin is the largest networking platform in the world. Find out more
-<a href="personal-branding" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u>
-</a>. (update link)</p>
+<a href="https://ecg.nanyangjc.moe.edu.sg/importance-of-linkedin/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u>
+</a>.</p>
 </li>
 </ul>
 <h4>3. Approach an adult / senior for an informational interview</h4>
@@ -44,8 +44,7 @@ easy to reach out to strange adults. Do start with adults that you are
 familiar with eg. family, internship supervisor, coach etc</p>
 </li>
 <li>
-<p>Find out more about informational interviews <a href="information-interviews" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>.
-(update link)</p>
+<p>Find out more about informational interviews <a href="https://ecg.nanyangjc.moe.edu.sg/informational-interviews/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>.</p>
 </li>
 </ul>
 <h4>4. Volunteer</h4>
