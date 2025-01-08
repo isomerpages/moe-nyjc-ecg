@@ -101,7 +101,7 @@ attachment programme</p>
 </p>
 </li>
 <li>
-<p><a href="edubuzz" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDubuzz (update link)</u></a>
+<p><a href="https://ecg.nanyangjc.moe.edu.sg/edubuzz/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDubuzz</u></a>
 </p>
 </li>
 <li>
