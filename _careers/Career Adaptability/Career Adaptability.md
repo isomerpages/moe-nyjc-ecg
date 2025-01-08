@@ -93,8 +93,8 @@ never knew!</p>
 <h4>Suggestions of activities you can do</h4>
 <ul>
 <li>
-<p><a href="edspirience" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDspirience</u></a> (update link) work attachment
-programme</p>
+<p><a href="https://ecg.nanyangjc.moe.edu.sg/applying-for-edspirience/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDspirience</u></a> work
+attachment programme</p>
 </li>
 <li>
 <p><a href="edventure" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDventure (update link)</u></a>
