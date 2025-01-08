@@ -369,8 +369,7 @@ interviews preparation.</p>
 <li>
 <p>Besides university scholarships and financial aid, you should also apply
 for organisation scholarships. Find out more about scholarships and financial
-aid&nbsp;<strong><a href="scholarships" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a> (update link).</strong>
-</p>
+aid&nbsp;<strong><a href="https://ecg.nanyangjc.moe.edu.sg/scholarships-and-financial-aid/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong>.</p>
 </li>
 </ul>
 <hr>
