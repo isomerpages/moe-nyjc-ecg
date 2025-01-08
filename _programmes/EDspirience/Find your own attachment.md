@@ -33,7 +33,7 @@ skills</p>
 you are applying to.</p>
 </li>
 <li>
-<p>Please learn more about resume writing and cover letters&nbsp;<a href="https://www.nyjcecg.com/personal-branding" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>.</p>
+<p>Please learn more about resume writing and cover letters&nbsp;<a href="https://ecg.nanyangjc.moe.edu.sg/resumes-and-cvs/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>.</p>
 </li>
 </ul>
 <h4>2. Email or call up the Human Resource Department, or better still, physically visit the organisation</h4>
