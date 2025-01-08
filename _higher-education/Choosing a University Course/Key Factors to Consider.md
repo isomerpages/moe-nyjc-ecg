@@ -261,8 +261,7 @@ and happening!</p>
 SMU, and SUTD.&nbsp;</p>
 </li>
 <li>
-<p>Check here for more <a href="scholarships" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>information</u></a> (update
-link).</p>
+<p>Check here for more <a href="https://ecg.nanyangjc.moe.edu.sg/scholarships-and-financial-aid/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>information</u></a>.</p>
 </li>
 </ul>
 <p>​</p>
