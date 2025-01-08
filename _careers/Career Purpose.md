@@ -226,7 +226,7 @@ trends, it is good to be aware of them and learn how to position yourself
 well in a particular market.</p>
 </li>
 <li>
-<p>The World Economic Forum has identified&nbsp; seven professional areas
+<p>The World Economic Forum has identified&nbsp;seven professional areas
 which may see good job growth in the near future. Read <a href="https://www.nyjcecg.com/future-of-jobs" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a> (update
 link) for more information.&nbsp;</p>
 </li>
