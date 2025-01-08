@@ -24,8 +24,8 @@ that you never knew.</p>
 <ul>
 <li>
 <p>Linkedin is the largest networking platform in the world. Find out more
-<a href="personal-branding" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u>
-</a>. (update link)</p>
+<a href="https://ecg.nanyangjc.moe.edu.sg/importance-of-linkedin/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u>
+</a>.</p>
 </li>
 </ul>
 <h4>3. Approach an adult / senior for an informational interview</h4>
