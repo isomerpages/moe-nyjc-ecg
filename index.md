@@ -56,13 +56,4 @@ sections:
       url: https://ecg.nanyangjc.moe.edu.sg/spf-specialist-unit-open-house-2025/
       image: /images/Specialist_Unit_Open_House_2025.png
       alt: Image alt text
-  - infopic:
-      title: Testing
-      subtitle: Testing
-      id: infopic
-      description: Infopic description
-      button: Click here for more info
-      url: https://ecg.nanyangjc.moe.edu.sg/testing/
-      image: /images/Specialist_Unit_Open_House_2025.png
-      alt: Image alt text
 ---
