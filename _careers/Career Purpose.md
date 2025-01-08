@@ -6,12 +6,12 @@ description: ""
 ---
 <h1>Career Purpose</h1>
 <p>In 2001, a clinical psychologist, Akihiro Hasegawa explained a Japanese
-term "<a href="https://www.bbc.com/worklife/article/20170807-ikigai-a-japanese-concept-to-improve-work-and-life" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Ikigai</u>" as</a>&nbsp;‘value
-in living.’&nbsp;It’s your purpose, the reason to jump out of bed each
-morning.&nbsp;It seems simple, however it’s quite difficult to achieve.
-While your ikigai need not necessarily be related to your career, the popular
-interpretation of ikigai today has evolved into finding your career purpose
-(see the venn diagram on the left).</p>
+term "<a href="https://www.bbc.com/worklife/article/20170807-ikigai-a-japanese-concept-to-improve-work-and-life" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Ikigai</u></a>"
+as value in living.’&nbsp;It’s your purpose, the reason to jump out of
+bed each morning.&nbsp;It seems simple, however it’s quite difficult to
+achieve. While your ikigai need not necessarily be related to your career,
+the popular interpretation of ikigai today has evolved into finding your
+career purpose (see the venn diagram on the left).</p>
 <p>Many people don’t get the balance – some may find joy in doing what they
 love, but can only earn just enough to get by, whilst others may have successful
 careers but are unable to find their passion. Though the premise is, if
@@ -178,8 +178,7 @@ online regularly.&nbsp;</p>
 course requirements.</p>
 </li>
 <li>
-<p>You can also check out the latest Graduate Employment Survey on <a href="https://www.myskillsfuture.gov.sg/content/student/en/preu.html" rel="noopener noreferrer nofollow" target="_blank"><u>Salary.sg</u></a>
-<a href="https://www.salary.sg/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank">or</a> <a href="https://blog.seedly.sg/graduate-starting-salary-nus-ntu-smu-sutd-sit/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>.</p>
+<p>You can also check out the latest Graduate Employment Survey on <a href="https://blog.seedly.sg/graduate-starting-salary-nus-ntu-smu-sutd-sit/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>.</p>
 </li>
 <li>
 <p>List down careers that you feel would provide you with a comfortable lifestyle.</p>
