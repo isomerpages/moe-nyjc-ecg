@@ -25,8 +25,7 @@ will put you ahead of the race!</p>
 <li>
 <p>In order to have a strong personal brand, you need to figure out who you
 are, what your values are and what motivates you. In other words, you need
-to know your ikigai.&nbsp; Find out more <a href="your-career-purpose" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>.
-(update link)</p>
+to know your ikigai.&nbsp; Find out more <a href="https://ecg.nanyangjc.moe.edu.sg/career-purpose/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>.</p>
 </li>
 </ul>
 <h4>What do you want to be known for?</h4>
