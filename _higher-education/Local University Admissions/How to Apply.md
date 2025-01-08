@@ -50,10 +50,34 @@ so that you can make an informed decision.&nbsp;</p>
 <p><strong>Base criteria for applying</strong>
 </p>
 <p>To apply to the AUs, you need to have:&nbsp;</p>
+<p><strong>For AY2025 and before:</strong>
+</p>
 <ul>
 <li>
 <p>3 H2 passes in content subjects, 1 H1 pass in content subjects, Project
 Work and GP/KI in the same sitting</p>
+</li>
+<li>
+<p>Meet one of the following Mother Tongue Language (MTL) requirement:</p>
+<ul>
+<li>
+<p>A minimum of ‘S’ grade in H1 MTL or General Studies in Chinese or H2 Mother
+Tongue Language &amp; Literature (MTLL) taken at ‘A’ level</p>
+</li>
+<li>
+<p>Pass in MTL ‘B’ syllabus taken at ‘A’ level</p>
+</li>
+<li>
+<p>A minimum of D7 in Higher MTL taken at ‘O’ level</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>For AY2026 and after:</strong>
+</p>
+<ul>
+<li>
+<p>3 H2 passes in content subjects and GP in the same sitting</p>
 </li>
 <li>
 <p>Meet one of the following Mother Tongue Language (MTL) requirement:</p>
