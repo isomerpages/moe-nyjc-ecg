@@ -76,7 +76,7 @@ submitting the application form.</p>
 </div>
 </li>
 </ul>
-<h5>For overseas applications, follow the stipulated deadlines in the guides provided <a href="overseas-education" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self">here</a>. (update link)</h5>
+<h5>For overseas applications, follow the stipulated deadlines in the guides provided <a href="https://ecg.nanyangjc.moe.edu.sg/general-application-guide/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self">here</a>.</h5>
 <h3>4. Provide supporting documents and information for your teacher to write the reference</h3>
 <ul>
 <li>
