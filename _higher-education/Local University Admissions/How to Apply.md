@@ -360,8 +360,8 @@ teacher references.</p>
 personal statement writing.</p>
 </li>
 <li>
-<p>Follow the guidelines stated <strong><a href="inter prep" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> (update
-link) for interviews preparation.</p>
+<p>Follow the guidelines stated <strong><a href="https://ecg.nanyangjc.moe.edu.sg/interview-preparation/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> for
+interviews preparation.</p>
 </li>
 </ul>
 <h4><strong>4. After you submit your application, apply for scholarships and financial aid</strong></h4>
