@@ -145,8 +145,8 @@ interests and work values.</p>
 available in Singapore.</p>
 </li>
 <li>
-<p>And based on your&nbsp;<a href="https://www.nyjcecg.com/your-career-purpose" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Career Purpose</u></a>,(update
-link) decide which careers suit you the best.</p>
+<p>And based on your&nbsp;<a href="https://ecg.nanyangjc.moe.edu.sg/career-purpose/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Career Purpose</u></a>,
+decide which careers suit you the best.</p>
 </li>
 </ul>
 <h4>Create a&nbsp;personal brand based on your unique skillset</h4>
