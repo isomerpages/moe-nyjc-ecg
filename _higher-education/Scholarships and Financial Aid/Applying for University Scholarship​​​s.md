@@ -190,8 +190,7 @@ university you are interested in to see the entire list of scholarships</p>
 <p>You will generally need to submit a personal statement. The focus of your
 personal statement should be about your fit for the scholarship and organisation.
 Start writing your personal statement as soon as possible.&nbsp;For more
-information, access this <a href="personal-statement-writing" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>page</u></a>.
-(update link)</p>
+information, access this <a href="https://ecg.nanyangjc.moe.edu.sg/sgc-and-university-pre-application-form/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>page</u></a>.</p>
 </li>
 <li>
 <p>Most university scholarships applications require teacher referrals. You
