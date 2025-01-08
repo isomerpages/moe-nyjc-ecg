@@ -52,8 +52,7 @@ and the objective is not to find job openings. Neither can your seniors
 help you enter the university course.</p>
 </li>
 <li>
-<p>Find out more about Informational Interviews <a href="networking" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>. (update
-link)</p>
+<p>Find out more about Informational Interviews <a href="https://ecg.nanyangjc.moe.edu.sg/informational-interviews/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>.</p>
 </li>
 </ul>
 <h4>You are a millenial, go online!</h4>
