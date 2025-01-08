@@ -349,8 +349,8 @@ may be separate or together with the admissions application.</p>
 <h4><strong>2. Request for teacher references</strong></h4>
 <ul>
 <li>
-<p>Follow the guidelines stated <strong><a href="teacher ref" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> (update
-link) for teacher references.</p>
+<p>Follow the guidelines stated <strong><a href="https://ecg.nanyangjc.moe.edu.sg/teacher-references/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> for
+teacher references.</p>
 </li>
 </ul>
 <h4><strong>3. Write your personal statement and prepare for interviews</strong></h4>
