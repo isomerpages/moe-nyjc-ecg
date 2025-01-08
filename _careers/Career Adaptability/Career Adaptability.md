@@ -97,7 +97,7 @@ never knew!</p>
 attachment programme</p>
 </li>
 <li>
-<p><a href="edventure" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDventure (update link)</u></a>
+<p><a href="https://ecg.nanyangjc.moe.edu.sg/edventure/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDventure</u></a>
 </p>
 </li>
 <li>
