@@ -15,7 +15,7 @@ approach Mr Chng Yongxi (Talent Development).</p>
 <ul>
 <li>
 <p>Get to know the universities and understand their culture by participating
-in university outreach programmes e.g. <a href="edventure" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDventure (update link)</u></a>
+in university outreach programmes e.g. <a href="https://ecg.nanyangjc.moe.edu.sg/edventure/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>EDventure</u></a>
 </p>
 </li>
 <li>
