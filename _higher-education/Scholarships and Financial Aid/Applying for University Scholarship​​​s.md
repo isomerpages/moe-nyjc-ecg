@@ -195,7 +195,7 @@ information, access this <a href="https://ecg.nanyangjc.moe.edu.sg/sgc-and-unive
 <li>
 <p>Most university scholarships applications require teacher referrals. You
 should approach suitable teachers as soon as possible. Fore more information,
-access this <a href="teacher-references" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>page</u></a>. (update link)</p>
+access this <a href="https://ecg.nanyangjc.moe.edu.sg/teacher-references/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>page</u></a>.</p>
 </li>
 <li>
 <p>Application for the scholarship is either together with university application
