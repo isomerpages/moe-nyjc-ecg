@@ -30,8 +30,7 @@ information <a href="https://ecg.nanyangjc.moe.edu.sg/teacher-references/" class
 <p>Short-listed applicants will be invited for</p>
 <ul>
 <li>
-<p>a Multiple Mini Interviews (MMI). (more information <a href="interview-preparation" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>)
-(update link)</p>
+<p>a Multiple Mini Interviews (MMI). (more information <a href="https://ecg.nanyangjc.moe.edu.sg/medicine-dentistry-and-health-sciences-interviews/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>)</p>
 </li>
 <li>
 <p>Situational Judgement test (for NUS applicants.</p>
