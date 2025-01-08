@@ -64,7 +64,7 @@ millenials nowadays is either Linkedin or a website/blog.</p>
 </li>
 <li>
 <p>For most professionals, Linkedin is the ideal platform for online profiles.
-Find out more <a href="importance of linkedin" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>. (update link)</p>
+Find out more <a href="https://ecg.nanyangjc.moe.edu.sg/importance-of-linkedin/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>.</p>
 </li>
 <li>
 <p>For freelancers who need to showcase a portfolio, a website/blog would
