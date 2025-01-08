@@ -16,9 +16,10 @@ Do not miss them as you can walk around the campus and visit the facilities</p>
 <h4>Education and Career Guidance Counsellor</h4>
 <ul>
 <li>
-<p>The <a href="Career Counselling" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Counsellor</u></a> (update link) has up-to-date
-information on universities and is able to guide you through the process
-of selecting a university course that matches your interests and personality</p>
+<p>The <a href="https://ecg.nanyangjc.moe.edu.sg/career-counselling/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Counsellor</u></a> has
+up-to-date information on universities and is able to guide you through
+the process of selecting a university course that matches your interests
+and personality</p>
 </li>
 </ul>
 <h4>Teacher Admissions Coordinators</h4>
