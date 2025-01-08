@@ -9,8 +9,7 @@ third_nav_title: Getting into Medicine
 <p>This is the typical portfolio you will need to present</p>
 <ul>
 <li>
-<p>Personal statement (more information <a href="personal-statement-writing" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>)
-(update link)</p>
+<p>Personal statement (more information <a href="https://ecg.nanyangjc.moe.edu.sg/medicine/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>)</p>
 </li>
 <li>
 <p>List of co-curricular activities</p>
