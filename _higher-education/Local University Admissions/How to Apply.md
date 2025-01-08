@@ -356,8 +356,8 @@ teacher references.</p>
 <h4><strong>3. Write your personal statement and prepare for interviews</strong></h4>
 <ul>
 <li>
-<p>Follow the guidelines stated <strong><a href="per state" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> (update
-link) for personal statement writing.</p>
+<p>Follow the guidelines stated <strong><a href="https://ecg.nanyangjc.moe.edu.sg/sgc-and-university-pre-application-form/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> for
+personal statement writing.</p>
 </li>
 <li>
 <p>Follow the guidelines stated <strong><a href="inter prep" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> (update
