@@ -19,7 +19,7 @@ third_nav_title: Getting into Medicine
 </li>
 <li>
 <p>2 referee reports - <strong>one must be from the civics tutor&nbsp;for NTU LKC Medicine</strong>&nbsp;(more
-information <a href="teacher-references" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>) (update link)</p>
+information <a href="https://ecg.nanyangjc.moe.edu.sg/teacher-references/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>)</p>
 </li>
 <li>
 <p>BMAT results (UCAT results from AY2023-2024 onwards) (for NTU applicants)</p>
