@@ -43,8 +43,7 @@ universities (<a href="https://www.princetonreview.com/college-advice/dream-matc
 so that you can make an informed decision.&nbsp;</p>
 </li>
 <li>
-<p>Learn more about choosing a suitable university and course <strong><a href="choosing uni" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong> (update
-link).</p>
+<p>Learn more about choosing a suitable university and course <strong><a href="https://ecg.nanyangjc.moe.edu.sg/choosing-a-university-course/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong>.</p>
 </li>
 </ul>
 <h4><strong>2. Check out subject pre-requisites and selection criteria</strong></h4>
