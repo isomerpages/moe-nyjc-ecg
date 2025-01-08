@@ -231,8 +231,7 @@ faculty.</p>
 <p>All scholarships applications come with interview. Some are casual chats.
 Some are group interviews. Some (especially organisations) have multiple
 rounds and possible psychometric tests for you to take. F​or more information,
-access this <a href="interview-preparation" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>page. (update link)</u></a>
-</p>
+access this <a href="https://ecg.nanyangjc.moe.edu.sg/general-guide-to-preparing-for-interviews/" rel="noopener nofollow" target="_blank">page</a>.</p>
 </li>
 </ul>
 <h3>What to do if you failed to get a scholarship?</h3>
