@@ -79,8 +79,8 @@ use of this feature and add links to videos and photos of your experience.&nbsp;
 <ul>
 <li>
 <p>You could start reaching out to alumni of NYJC and making contact with
-them. Request for an <a href="ormation-interviews" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>informational interview</u></a> (update
-link) to learn more about university life.</p>
+them. Request for an <a href="https://ecg.nanyangjc.moe.edu.sg/informational-interviews/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>informational interview</u></a> to
+learn more about university life.</p>
 </li>
 </ul>
 <h4>Examples of LinkedIn profiles of NYJC alumni</h4>
