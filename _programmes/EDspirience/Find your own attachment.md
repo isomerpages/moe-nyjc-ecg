@@ -60,7 +60,7 @@ and conditions offered.</p>
 <p>Bear in mind that the organisation has no obligation to take in a JC student.</p>
 </li>
 <li>
-<p>Read up more about preparing for interviews <a href="https://www.nyjcecg.com/interview-preparation" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>.&nbsp;</p>
+<p>Read up more about preparing for interviews <a href="https://ecg.nanyangjc.moe.edu.sg/general-guide-to-preparing-for-interviews/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>.&nbsp;</p>
 </li>
 <li>
 <p>If the organisation does not call you up after 1-2 weeks, you could give
