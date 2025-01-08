@@ -162,8 +162,8 @@ unless you tell them</p>
 will start knocking on your door instead of the other way.</p>
 </li>
 <li>
-<p>Read <a href="https://www.nyjcecg.com/personal-branding" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Personal Branding</u></a> (update
-link) for more information</p>
+<p>Read <a href="https://ecg.nanyangjc.moe.edu.sg/how-to-build-a-strong-personal-brand/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Personal Branding</u></a> for
+more information</p>
 </li>
 </ul>
 <p></p>
