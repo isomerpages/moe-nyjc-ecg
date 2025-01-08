@@ -13,7 +13,7 @@ third_nav_title: Choosing a University Course
 <p>It is fundamental to be 120% sure about your subject. The subject you
 choose will equip you with skills that enable you to position yourself
 well for your first career. &nbsp;For more information on choosing a career,
-click <a href="career purpose" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a> (update link).</p>
+click <a href="https://ecg.nanyangjc.moe.edu.sg/career-purpose/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>.</p>
 </li>
 <li>
 <p>There are some careers that require specific degrees e.g. accounting,
