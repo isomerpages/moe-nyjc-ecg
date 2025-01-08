@@ -78,8 +78,8 @@ IGP.</p>
 you to take SAT/ACT test before you apply</p>
 </li>
 <li>
-<p><a href="overseas" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>UK universities</u></a> (update link) may require you
-to take additional tests during your year of application</p>
+<p><a href="https://ecg.nanyangjc.moe.edu.sg/applying-to-uk-universities/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>UK universities</u></a> may
+require you to take additional tests during your year of application</p>
 </li>
 <li>
 <p>NTU Medicine requires you to take <a href="https://www.ucat.ac.uk/ucat/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>UCAT</u></a> (required
