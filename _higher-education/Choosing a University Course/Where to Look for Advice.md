@@ -28,8 +28,8 @@ and personality</p>
 <p>For local admissions, please approach <a href="mailto:chin_de_shun@moe.edu.sg" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Mr Chin De Shun</u></a>.</p>
 </li>
 <li>
-<p>For overseas admissions, teacher <a href="ad coord" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>admissions coordinators</u></a> (update
-link) can advise you on overseas application procedures</p>
+<p>For overseas admissions, teacher <a href="https://ecg.nanyangjc.moe.edu.sg/admissions-coordinators/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>admissions coordinators</u></a> can
+advise you on overseas application procedures</p>
 </li>
 </ul>
 <h4>Teachers</h4>
