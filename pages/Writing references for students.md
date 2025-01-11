@@ -184,33 +184,38 @@ teachers)</p>
 <p>UK universities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sep - 15 Jan</p>
+<p>Sep - Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Internal deadline: Cambridge/Oxford/Medicine/Dentistry/Vet Science courses
+- 10 Oct</p>
+<p>Other courses except certain art and science courses - 24 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher relevant for university course</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>More info <a href="https://drive.google.com/file/d/1_RFWw2Cd_aShpRL91bYFAqOMgY7EKFqW/view" rel="noopener nofollow" target="_blank">here</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>US universities (school couonsellor)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sep - Dec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Most Early Decision/Early Action - 1 Nov</p>
+<p>Most Regular Decision 31 Dec/1 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Civics Tutor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>More info <a href="https://drive.google.com/file/d/1pam4h1TBUfPSfAVAhDVEOzcV2SjVSQXk/view" rel="noopener nofollow" target="_blank">here</a>
+</p>
 </td>
 </tr>
 <tr>
