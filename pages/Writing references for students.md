@@ -60,7 +60,8 @@ to teachers)</p>
 <p>Late Feb - 19 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Within 7 days of scholarship application submission</p>
+<p>Within 7 days of scholarship application submission (latest by 24 Mar,
+whichever is earlier)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher who knows student in a holistic way</p>
@@ -152,7 +153,8 @@ teachers)</p>
 <p>Late Feb - 19 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Within 7 days of application submission</p>
+<p>Within 7 days of application submission (latest by 24 Mar, whichever is
+earlier)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Civics Tutor + 1 other referee</p>
