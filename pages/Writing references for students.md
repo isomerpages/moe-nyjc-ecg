@@ -170,7 +170,8 @@ teachers)</p>
 <p>Late Feb - 19 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Within 7 days of application submission (latest by 24 Mar)</p>
+<p>Within 7 days of application submission (latest by 24 Mar, whichever is
+earlier)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CCA Teacher/Coach/Community leader</p>
