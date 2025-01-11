@@ -47,13 +47,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Rating required. 3 sections (Academics, other strengths, unique circumstances/challenges/outstanding
-accomplishments). 1500 characters limit each. More info <a href="https://www.nus.edu.sg/oam/docs/default-source/scholarship/nus_scholarships_referee_information_sheet.pdf?sfvrsn=56e8ef7c_10" rel="noopener nofollow" target="_blank">here</a>
+accomplishments). 1500 character limit each. More info <a href="https://www.nus.edu.sg/oam/docs/default-source/scholarship/nus_scholarships_referee_information_sheet.pdf?sfvrsn=56e8ef7c_10" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NTU Scholarships</p>
+<p>NTU Scholarships (students should provide instructions and login details
+to teachers)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Late Feb - 19 Mar</p>
@@ -127,7 +128,8 @@ submission)</p>
 <p>NUS Medicine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Late Feb - 19 Mar</p>
+<p>ABA Scheme - 5 Mar, 12pm</p>
+<p>Standard Scheme - 19 Mar, 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Under ABA Scheme - 5 Mar, 12pm</p>
@@ -143,44 +145,46 @@ submission)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NTU Medicine</p>
+<p>NTU Medicine (students should provide instructions and login details to
+teachers)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Late Feb - 19 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Within 7 days of application submission</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1 Civics Tutor + 1 other referee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Open ended question. 200 word limit.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ABA to NTU (students should provide instructions and login details to
+teachers)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Late Feb - 19 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Within 7 days of application submission</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA Teacher/Coach/Community leader</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Open ended question. 200 word limit.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>UK universities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sep - 15 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
