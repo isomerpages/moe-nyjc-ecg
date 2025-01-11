@@ -20,5 +20,5 @@ the rest.&nbsp;</p>
 </p>
 <h4><a href="https://ecg.nanyangjc.moe.edu.sg/helping-students-with-overseas-university-applications/" rel="noopener nofollow" target="_blank">Helping students with overseas university applications</a></h4>
 <h4><a href="https://ecg.nanyangjc.moe.edu.sg/writing-references-for-students/" rel="noopener nofollow" target="_blank">Writing references for students</a></h4>
-<h4>ECG Advising</h4>
+<h4><a href="https://ecg.nanyangjc.moe.edu.sg/ecg-advising/" rel="noopener nofollow" target="_blank">ECG Advising</a></h4>
 <p></p>
