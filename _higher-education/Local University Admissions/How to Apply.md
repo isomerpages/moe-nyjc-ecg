@@ -218,8 +218,9 @@ guarantee admission to that course for the next year.&nbsp;</p>
 on a holistic criteria.</p>
 </li>
 <li>
-<p>Click here for the UAS Calculator. Use the calculator to compare your
-UAS with the UAS of the 10th percentile IGP.</p>
+<p>Click <a href="https://www.sgunistats.com/calculator#google_vignette" rel="noopener nofollow" target="_blank">here</a> for
+the UAS Calculator. Use the calculator to compare your UAS with the UAS
+of the 10th percentile IGP.</p>
 </li>
 </ul>
 <h4>Selection Criteria</h4>
