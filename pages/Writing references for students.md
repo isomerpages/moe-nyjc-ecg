@@ -259,9 +259,8 @@ teachers)</p>
 </tbody>
 </table>
 <p></p>
-<h5>What to do when your student approaches you for a reference</h5>
-<h4>1/&nbsp; &nbsp;&nbsp;Find out why you are being approached</h4>
-<p>​</p>
+<h2>What to do when your student approaches you for a reference</h2>
+<h3>1.&nbsp; &nbsp;&nbsp;Find out why you are being approached</h3>
 <ul>
 <li>
 <p>Allow the student to remind you why they feel that you are in the best
@@ -273,16 +272,13 @@ times where you gave positive comments about their standard of work etc.
 (a student should not expect the teacher to remember all these anecdotes)</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<h4>2/&nbsp; &nbsp;&nbsp;Request for ample time i.e. 2-3&nbsp;weeks to write the reference</h4>
+<h3>2.&nbsp; &nbsp;&nbsp;Request for ample time i.e. 2-3&nbsp;weeks to write the reference</h3>
 <ul>
 <li>
 <p>​If you require a longer time, please inform the students ahead of time</p>
 </li>
 </ul>
-<p>​</p>
-<h4>3/&nbsp; &nbsp;&nbsp;Ask the student for adequate information</h4>
-<p>​​</p>
+<h3>3.  &nbsp;&nbsp;Ask the student for adequate information</h3>
 <ul>
 <li>
 <p>You shouldn't feel at a loss of words&nbsp;when you are asked to write
@@ -319,7 +315,8 @@ the reference)</p>
 a picture of their best essay, times when you&nbsp;praised th student</p>
 </li>
 <li>
-<p>SGC &amp; University Pre-Application Reflection Form</p>
+<p>SGC &amp; University Pre-Application Reflection Form (the form can be
+found <a href="https://drive.google.com/file/d/1DYe7gEpaOWu1-X9PPZHwS8yG0qLa-X0k/view" rel="noopener nofollow" target="_blank">here</a>)</p>
 </li>
 </ul>
 </li>
@@ -328,9 +325,8 @@ a picture of their best essay, times when you&nbsp;praised th student</p>
 reflection before applying for university. The information in the form
 may be useful for you when writing the reference. Alternatively, you could
 come up with your own form and ask students to fill in.&nbsp;</p>
-<h5>What to include in a&nbsp;reference</h5>
-<h4>1/&nbsp; &nbsp;&nbsp;Context</h4>
-<p>​​</p>
+<h2>What to include in a&nbsp;reference</h2>
+<h3>1.&nbsp; &nbsp;&nbsp;Context</h3>
 <ul>
 <li>
 <p>How long have you known the student? A few months or 2 years?</p>
@@ -363,9 +359,7 @@ through a screening test</p>
 </ul>
 </li>
 </ul>
-<p>​</p>
-<h4>2/&nbsp;&nbsp;Anecdotal Evidence</h4>
-<h3>​​</h3>
+<h3>2.&nbsp;&nbsp;Anecdotal Evidence</h3>
 <ul>
 <li>
 <p>Evidence of intellectual ability</p>
@@ -392,9 +386,6 @@ be overly general or clichéd here</p>
 </li>
 </ul>
 </li>
-</ul>
-<p>​</p>
-<ul>
 <li>
 <p>Evidence of holistic development</p>
 <ul>
@@ -408,9 +399,6 @@ are irrelevant to course of study</p>
 </li>
 </ul>
 </li>
-</ul>
-<p>​</p>
-<ul>
 <li>
 <p>Personality</p>
 <ul>
@@ -427,19 +415,14 @@ incidences to back up any statements that you make about the student</p>
 </ul>
 </li>
 </ul>
-<p>​</p>
-<h4>3/&nbsp;&nbsp;&nbsp;Any factors e.g. personal circumstances that may have affected their performance</h4>
-<p>​​</p>
+<h3>3.&nbsp;&nbsp;&nbsp;Any factors e.g. personal circumstances that may have affected their performance</h3>
 <ul>
 <li>
 <p>Please get the student’s permission to reveal any personal circumstances</p>
 </li>
 </ul>
-<p>​</p>
-<h4>4/&nbsp;&nbsp;&nbsp;Your contact information</h4>
-<p>&nbsp;</p>
-<h4>​</h4>
-<h5>What makes a good reference?</h5>
+<h3>4.&nbsp;&nbsp;&nbsp;Your contact information</h3>
+<h2>What makes a good reference?</h2>
 <ul data-tight="true" class="tight">
 <li>
 <p>Be passionate and rave about the student (if he/she deserves it)</p>
@@ -476,9 +459,7 @@ with a list of academic achievements</p>
 </ul>
 </li>
 </ul>
-<p>&nbsp;</p>
-<h4>​</h4>
-<h5>Sample references</h5>
+<h2>Sample references</h2>
 <ul>
 <li>
 <p><a href="https://drive.google.com/file/d/1wsJeNuzlTvW2cTSmtQ8hZeiHDCTgZOY7/view?usp=sharing" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Samples Paragraphs (Boilerplate versus Strong)</u></a>
