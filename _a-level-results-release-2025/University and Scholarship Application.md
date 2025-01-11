@@ -384,10 +384,10 @@ letter.</p>
 </li>
 <li>
 <p>The windows for acceptance are:
-<br>1st window: 2 January to 24 May 2024 (for offers released before 24 May
-2024)
-<br>2nd window: 1 to 18 June 2024 (for offers released between 25 May and
-18 June 2024)</p>
+<br>1st window: 2 January to 23 May 2025 (for offers released before 23 May
+2025)
+<br>2nd window: 1 to 16 June 2025 (for offers released between 23 May and
+16 June 2025)</p>
 </li>
 <li>
 <p>As the Joint Acceptance Portal is the same across the six AUs, you may
