@@ -170,7 +170,7 @@ teachers)</p>
 <p>Late Feb - 19 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Within 7 days of application submission</p>
+<p>Within 7 days of application submission (latest by 24 Mar)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CCA Teacher/Coach/Community leader</p>
@@ -278,7 +278,7 @@ times where you gave positive comments about their standard of work etc.
 <p>​If you require a longer time, please inform the students ahead of time</p>
 </li>
 </ul>
-<h3>3.  &nbsp;&nbsp;Ask the student for adequate information</h3>
+<h3>3. &nbsp;&nbsp;Ask the student for adequate information</h3>
 <ul>
 <li>
 <p>You shouldn't feel at a loss of words&nbsp;when you are asked to write
