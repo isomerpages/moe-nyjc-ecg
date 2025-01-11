@@ -132,7 +132,7 @@ for learning journeys or work attachments?</p>
 <h3>For students who are unsure of their basic career direction</h3>
 <ul>
 <li>
-<p>Refer to the <a href="https://www.nyjcecg.com/career-counselling" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>ECG Counsellor (update)</u></a>
+<p>Refer to the <a href="https://ecg.nanyangjc.moe.edu.sg/career-counselling/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>ECG Counsellor</u></a>
 </p>
 </li>
 <li>
@@ -140,11 +140,11 @@ for learning journeys or work attachments?</p>
 under</p>
 <ul>
 <li>
-<p><a href="https://www.nyjcecg.com/future-of-jobs" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Future of Work</u></a> (landscape
+<p><a href="https://ecg.nanyangjc.moe.edu.sg/future-of-work/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Future of Work</u></a> (landscape
 of work now)​</p>
 </li>
 <li>
-<p><a href="https://www.nyjcecg.com/your-career-purpose" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Career Purpose</u></a> (Factors
+<p><a href="https://ecg.nanyangjc.moe.edu.sg/career-purpose/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Career Purpose</u></a> (Factors
 to consider for future career)</p>
 </li>
 </ul>
@@ -153,22 +153,22 @@ to consider for future career)</p>
 <h3>For students who are unsure of which university course to go as&nbsp;they have never explored</h3>
 <ul>
 <li>
-<p>Refer to the <a href="https://www.nyjcecg.com/career-counselling" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>ECG Counsellor</u></a>​</p>
+<p>Refer to the <a href="https://ecg.nanyangjc.moe.edu.sg/career-counselling/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>ECG Counsellor</u></a>​</p>
 </li>
 <li>
 <p>Direct them to the ECG Portal and get them to consider factors stated
 under</p>
 <ul>
 <li>
-<p><a href="https://www.nyjcecg.com/higher-education-landscape" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Higher Education Landscape</u></a> (learning
+<p><a href="https://ecg.nanyangjc.moe.edu.sg/higher-education-landscape/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Higher Education Landscape</u></a> (learning
 about basics of higher education and the choices out there)​</p>
 </li>
 <li>
-<p><a href="https://www.nyjcecg.com/how-to-choose-a-university-course" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Choosing a university course</u></a> (learning
+<p><a href="https://ecg.nanyangjc.moe.edu.sg/key-factors-to-consider/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Choosing a university course</u></a> (learning
 to narrow down choices based on sound reasoning)</p>
 </li>
 <li>
-<p><a href="https://www.nyjcecg.com/local-admissions" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Local university admissions</u></a> (how
+<p><a href="https://ecg.nanyangjc.moe.edu.sg/how-to-apply/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Local university admissions</u></a> (how
 to apply to universities)</p>
 </li>
 </ul>
@@ -181,19 +181,19 @@ to apply to universities)</p>
 under</p>
 <ul>
 <li>
-<p><a href="https://www.nyjcecg.com/scholarships" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Scholarships and financial aid</u></a>
+<p><a href="https://ecg.nanyangjc.moe.edu.sg/scholarships-and-financial-aid/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Scholarships and financial aid</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.nyjcecg.com/personal-statement-writing" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Personal Statement writing</u></a>
+<p><a href="https://ecg.nanyangjc.moe.edu.sg/personal-statements/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Personal Statement writing</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.nyjcecg.com/interview-preparation" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Interview preparation</u></a>
+<p><a href="https://ecg.nanyangjc.moe.edu.sg/general-guide-to-preparing-for-interviews/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Interview preparation</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.nyjcecg.com/teacher-references" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Teacher references</u></a>
+<p><a href="https://ecg.nanyangjc.moe.edu.sg/teacher-references/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Teacher references</u></a>
 </p>
 </li>
 </ul>
@@ -202,13 +202,13 @@ under</p>
 <h3>For students who fall short of their expected&nbsp;results, below are some advising strategies</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Refer to the <a href="https://www.nyjcecg.com/career-counselling" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>ECG Counsellor</u></a>​</p>
+<p>Refer to the <a href="https://ecg.nanyangjc.moe.edu.sg/career-counselling/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>ECG Counsellor</u></a>​</p>
 </li>
 </ul>
 <h3>​For students with&nbsp;outstanding achievements&nbsp;i.e. community service, leadership, work experience, exceptional talents in academics or CCA e.g. Olympiad, national representation&nbsp;subject to a minimum level of academic competence</h3>
 <ul>
 <li>
-<p>Advise them to consider the<a href="https://www.nyjcecg.com/local-admissions" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>&nbsp;Aptitude-based Admission Scheme</u></a>&nbsp;offered
+<p>Advise them to consider the<a href="https://ecg.nanyangjc.moe.edu.sg/how-to-apply/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>&nbsp;Aptitude-based Admission Scheme</u></a>&nbsp;offered
 by NUS, NTU and SMU.</p>
 </li>
 <li>
@@ -227,14 +227,14 @@ admission is not likely.</p>
 choose the 2nd choice wisely.</p>
 </li>
 <li>
-<p>Suggest <u>p</u><a href="https://drive.google.com/file/d/1Us7Lzl4qRnTV3Jve6fzhPuLDEaSw4gaP/view?usp=sharing" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>ossible alternative routes for competitive courses.</u></a>
+<p>Suggest <a href="https://drive.google.com/file/d/1Us7Lzl4qRnTV3Jve6fzhPuLDEaSw4gaP/view?usp=sharing" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>possible alternative routes for competitive courses.</u></a>
 </p>
 </li>
 </ul>
 <h3>For students who are&nbsp;way below the IGP&nbsp;i.e. Ds and Es</h3>
 <ul>
 <li>
-<p>Advise them to consider&nbsp;Polytechnics/NAFA/LaSalle.</p>
+<p>Advise them to consider&nbsp;Polytechnics/University of the Arts (UAS).</p>
 </li>
 <li>
 <p>If they do well in Polytechnic and in work, they can consider upgrading
