@@ -19,6 +19,6 @@ the rest.&nbsp;</p>
 <p><strong>Click on the links below to access the different sections.</strong>
 </p>
 <h4><a href="https://ecg.nanyangjc.moe.edu.sg/helping-students-with-overseas-university-applications/" rel="noopener nofollow" target="_blank">Helping students with overseas university applications</a></h4>
-<h4>Writing references for students</h4>
+<h4><a href="https://ecg.nanyangjc.moe.edu.sg/writing-references-for-students/" rel="noopener nofollow" target="_blank">Writing references for students</a></h4>
 <h4>ECG Advising</h4>
 <p></p>
