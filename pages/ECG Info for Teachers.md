@@ -16,7 +16,9 @@ advice when it comes to university applications. Through our recommendations,
 universities are able to differentiate truly-deserving individuals from
 the rest.&nbsp;</p>
 <hr>
-<h2>Helping students with overseas university applications</h2>
-<h2>Writing references for students</h2>
-<h2>ECG Advising</h2>
+<p><strong>Click on the links below to access the different sections.</strong>
+</p>
+<h4>Helping students with overseas university applications</h4>
+<h4>Writing references for students</h4>
+<h4>ECG Advising</h4>
 <p></p>
