@@ -19,8 +19,8 @@ of selecting a university course that matches your interests and personality.</p
 <p>For local admissions, please approach <a href="mailto:chin_de_shun@moe.edu.sg" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Mr Chin De Shun</u></a>.</p>
 </li>
 <li>
-<p>For overseas admissions,&nbsp;<a href="overseas-education" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>teacher admissions coordinators</u></a> (update
-link) can advise you on overseas application procedures​.</p>
+<p>For overseas admissions,&nbsp;<a href="https://ecg.nanyangjc.moe.edu.sg/admissions-coordinators/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>teacher admissions coordinators</u></a> can
+advise you on overseas application procedures​.</p>
 </li>
 </ul>
 <h5>Teachers</h5>
