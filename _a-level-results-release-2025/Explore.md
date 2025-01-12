@@ -83,17 +83,19 @@ description: ""
 <summary>SIT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p>Virtual Open House</p>
+<p>On Campus: 8 &amp; 9 Feb 2025</p>
 <p><a href="https://www.singaporetech.edu.sg/openhouse/node/2516" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
 <h4>Digital Resources</h4>
-<p><a href="https://www.singaporetech.edu.sg/sites/default/files/SITApplicationUserGuide.pdf" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>SIT System User Guide for Applicants</u></a>
+<p><a href="https://www.singaporetech.edu.sg/sites/default/files/2024-04/20240228%20SIT_Applicant%20Guide_0.pdf" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>SIT System User Guide for Applicants</u></a>
 </p>
 <p><a href="https://www.singaporetech.edu.sg/admissions/undergraduate/requirements/a-levels" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>GCE A Level requirements</u></a>
 </p>
 <p><a href="https://www.singaporetech.edu.sg/admissions/undergraduate/degree-programme-handbook" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Degree Handbook</u></a>
 </p>
-<p><a href="https://www.singaporetech.edu.sg/sites/default/files/Scholarships-and-Financial-Assistance.pdf" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships and Financial Assistance</u></a>
+<p><a href="https://www.singaporetech.edu.sg/admissions/scholarships" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships</u></a>
+</p>
+<p><a href="https://www.singaporetech.edu.sg/admissions/financial-aid" rel="noopener nofollow" target="_blank">Financial Aid</a>
 </p>
 </div>
 </details>
