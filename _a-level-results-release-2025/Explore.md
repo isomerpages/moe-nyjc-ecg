@@ -87,7 +87,7 @@ description: ""
 <p><a href="https://www.singaporetech.edu.sg/openhouse/node/2516" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
 <h4>Digital Resources</h4>
-<p><a href="https://www.singaporetech.edu.sg/sites/default/files/2024-04/20240228%20SIT_Applicant%20Guide_0.pdf" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>SIT System User Guide for Applicants</u></a>
+<p><a href="https://www.singaporetech.edu.sg/sites/default/files/2024-06/2020%20System%20User%20Guide%20for%20FA%20Application%20-%20Students.pdf" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>SIT System User Guide for Applicants</u></a>
 </p>
 <p><a href="https://www.singaporetech.edu.sg/admissions/undergraduate/requirements/a-levels" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>GCE A Level requirements</u></a>
 </p>
