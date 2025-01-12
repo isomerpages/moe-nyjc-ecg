@@ -51,7 +51,7 @@ These are general steps you can take to write an outstanding personal statement.
 they reflect your personality and values</p>
 </li>
 <li>
-<p>Start filling in the <strong><a href="https://www.nyjcecg.com/personal-statement-writing" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>SGC &amp; University Pre-application Reflection Form</u></a></strong>
+<p>Start filling in the <strong><a href="https://drive.google.com/file/d/1DYe7gEpaOWu1-X9PPZHwS8yG0qLa-X0k/view" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>SGC &amp; University Pre-application Reflection Form</u></a></strong>
 </p>
 </li>
 <li>
