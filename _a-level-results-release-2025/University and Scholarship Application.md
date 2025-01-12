@@ -303,7 +303,7 @@ fill it in and email your teacher referee within 1 week. The information
 you provide will greatly aid your teacher in writing a reference for you.</p>
 </li>
 <li>
-<p>For<a href="https://nyjcecg.wixsite.com/alvlresults/factors-to-consider" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u> NUS and NTU scholarship/aptitude-based admissions</u></a>,
+<p>For<a href="https://ecg.nanyangjc.moe.edu.sg/factors-to-consider/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u> NUS and NTU scholarship/aptitude-based admissions</u></a>,
 send your teacher the link to the reference submission portal immediately
 after submitting your application form.</p>
 </li>
