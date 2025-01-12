@@ -333,7 +333,7 @@ interviews preparation.</p>
 <h4>5. Consider applying for scholarship too</h4>
 <ul>
 <li>
-<p>Find out more about scholarships and financial assistance <a href="https://www.nyjcecg.com/scholarships" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>.</p>
+<p>Find out more about scholarships and financial assistance <a href="https://ecg.nanyangjc.moe.edu.sg/applying-for-university-scholarship-s/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>.</p>
 </li>
 <li>
 <p>Two key government scholarships would be, the&nbsp;</p>
