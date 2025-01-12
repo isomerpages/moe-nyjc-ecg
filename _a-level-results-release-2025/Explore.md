@@ -10,9 +10,9 @@ description: ""
 <summary>NUS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p>Virtual: 2 - 7 Mar 2024</p>
-<p>On Campus: 9 Mar 2024</p>
-<p><a href="https://nus.edu.sg/openhouse/home" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
+<p>Online Experience: 1 Mar 2025</p>
+<p>On-Campus Experience: 8 Mar 2025</p>
+<p><a href="https://nus.edu.sg/oam/why-nus/admissions-oh2025" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
 <h4>Digital Resources</h4>
 <p><a href="https://www.nus.edu.sg/oam/publications" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate viewbook, scholarship and financial aid brochures and application guides</u></a>
