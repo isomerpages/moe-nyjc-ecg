@@ -322,7 +322,7 @@ link.</p>
 <h4>4. Write your personal statement and prepare for interviews</h4>
 <ul>
 <li>
-<p>Follow the guidelines stated&nbsp;<a href="https://www.nyjcecg.com/personal-statement-writing" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>&nbsp;for
+<p>Follow the guidelines stated&nbsp;<a href="https://ecg.nanyangjc.moe.edu.sg/personal-statements/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>&nbsp;for
 personal statement writing.</p>
 </li>
 <li>
