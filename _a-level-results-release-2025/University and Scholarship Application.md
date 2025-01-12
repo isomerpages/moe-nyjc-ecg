@@ -316,7 +316,7 @@ link.</p>
 </ul>
 </li>
 <li>
-<p>For more information on teacher references, click&nbsp;<a href="https://www.nyjcecg.com/teacher-references" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>.</p>
+<p>For more information on teacher references, click&nbsp;<a href="https://ecg.nanyangjc.moe.edu.sg/how-to-approach-a-teacher-for-reference/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>.</p>
 </li>
 </ul>
 <h4>4. Write your personal statement and prepare for interviews</h4>
