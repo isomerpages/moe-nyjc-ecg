@@ -326,7 +326,7 @@ link.</p>
 personal statement writing.</p>
 </li>
 <li>
-<p>Follow the guidelines stated&nbsp;<a href="https://www.nyjcecg.com/interview-preparation" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>&nbsp;for
+<p>Follow the guidelines stated&nbsp;<a href="https://ecg.nanyangjc.moe.edu.sg/general-guide-to-preparing-for-interviews/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>&nbsp;for
 interviews preparation.</p>
 </li>
 </ul>
