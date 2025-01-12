@@ -50,7 +50,7 @@ description: ""
 <summary>SMU</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p>24 &amp; 25 Feb 2024</p>
+<p>22 &amp; 23 Feb 2025</p>
 <p><a href="https://admissions.smu.edu.sg/openhouse" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
 <h4>Digital Resources</h4>
@@ -71,11 +71,11 @@ description: ""
 </p>
 <p>Night Fiesta, 24 Feb, 6pm onwards</p>
 <h4>Digital Resources</h4>
-<p><a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Programmes" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate Programmes</u></a>
+<p><a href="https://www.sutd.edu.sg/admissions/undergraduate" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate Programmes</u></a>
 </p>
-<p><a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Scholarship/Application-for-scholarships" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships</u></a>
+<p><a href="https://www.sutd.edu.sg/admissions/undergraduate/scholarship/sutd-administered/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships</u></a>
 </p>
-<p><a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Financing-Your-Studies/Financial-Options-Financial-Aid" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Aid</u></a>
+<p><a href="https://www.sutd.edu.sg/admissions/undergraduate/financing-options-and-aid/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Aid</u></a>
 </p>
 </div>
 </details>
