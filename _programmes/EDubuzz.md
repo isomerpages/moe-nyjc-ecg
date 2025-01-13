@@ -13,8 +13,4 @@ give students an overview of overseas education.</p>
 <p>Workshops that we conduct aims to equip you with skills like personal
 statement writing, interview skills and resume writing.</p>
 <hr>
-<p>
-<br>
-</p>
-<h2>What's upcoming</h2>
 <p></p>
