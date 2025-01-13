@@ -73,6 +73,5 @@ yourself.</p>
 so that your juniors will have a better idea of what to expect for recurring
 activities.</p>
 <hr>
-<h2><strong>What's upcoming</strong></h2>
 <p></p>
 <p></p>
