@@ -28,8 +28,8 @@ sections:
   - infopic:
       title: NTU Actuarial Networking Night 2025
       id: infopic
-      button: Click here for more info
-      url: https://ecg.nanyangjc.moe.edu.sg/ntu-actuarial-networking-night-2025/
+      button: Login for more info
+      url: https://portal.nyjc.edu.sg/
       alt: Image alt text
       image: /images/NTU_Actuarial_Networking_Night_2025.png
       subtitle: EDventure
@@ -39,8 +39,8 @@ sections:
   - infopic:
       title: NTU SPMS Open House 2025
       id: infopic
-      button: Click here for more info
-      url: https://ecg.nanyangjc.moe.edu.sg/ntu-spms-open-house-2025/
+      button: login for more info
+      url: https://portal.nyjc.edu.sg/
       alt: Image alt text
       image: /images/NTU_SPMS_Open_House_2025.png
       description: "📅Date: 18 January, 2025 (Saturday) 🕒Time: 11 AM - 2 PM 📍Venue:
@@ -52,8 +52,8 @@ sections:
       id: infopic
       description: "📅 Date: 6 February 2025 (Thursday) 🕒 Time: 9:30 AM – 4:30 PM 📍
         Venue: Mount Vernon Camp, Gurkha Contingent"
-      button: Click here for more info
-      url: https://ecg.nanyangjc.moe.edu.sg/spf-specialist-unit-open-house-2025/
+      button: login for more info
+      url: https://portal.nyjc.edu.sg/
       image: /images/Specialist_Unit_Open_House_2025.png
       alt: Image alt text
 ---
