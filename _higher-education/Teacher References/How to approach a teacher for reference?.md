@@ -112,13 +112,13 @@ submission</p>
 by the teacher (to remind the teacher of your good work)</p>
 </li>
 <li>
-<p><strong><a href="https://drive.google.com/file/d/1DYe7gEpaOWu1-X9PPZHwS8yG0qLa-X0k/view" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>SGC &amp; University Pre-application reflection form&nbsp;</u></a></strong>
-</p>
+<p>SGC &amp; University Pre-application reflection form</p>
 <ul>
 <li>
 <p>This​ form is designed not only to help you reflect on your past experiences
 before applying for universities but also to&nbsp;act as a source of information
-for your teacher&nbsp; referee when writing your reference</p>
+for your teacher referee when writing your reference. You may download
+the form in the ECG Repository in our <a href="https://portal.nyjc.edu.sg/" rel="noopener nofollow" target="_blank">College Portal</a>.</p>
 </li>
 </ul>
 </li>
