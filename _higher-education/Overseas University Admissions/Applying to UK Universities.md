@@ -10,7 +10,7 @@ third_nav_title: Overseas University Admissions
 <img style="width: 100%" height="auto" width="100%" alt="Applying to UK Unis" src="/images/Applying_to_UK.png">
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/18Jm4hIREPpMMnchjuIs767rWuzxQd5X0/view" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Prepare</div><div class="isomer-card-description">Explore and narrow down your choices to 5 choices. Check out subject pre-requisites and selection criteria. Download student guide and read it.</div><div class="isomer-card-link">UK Student Guide</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://portal.nyjc.edu.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Prepare</div><div class="isomer-card-description">Explore and narrow down your choices to 5 choices. Check out subject pre-requisites and selection criteria. Download student guide from the ECG Repository in our College Portal and read it.</div><div class="isomer-card-link">Login to view the UK Student Guide.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.ucas.com/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Apply</div>
