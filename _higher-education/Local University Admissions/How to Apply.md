@@ -138,7 +138,8 @@ access the university websites:</p>
 </tr>
 </tbody>
 </table>
-<p>Alternatively, download a summary <a href="https://drive.google.com/file/d/1EpPMi2YgBse07ik7a8swDhQmBMw8P1aZ/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Alternatively, login to our College Portal <a href="https://drive.google.com/file/d/1EpPMi2YgBse07ik7a8swDhQmBMw8P1aZ/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> to
+view the summary under the ECG Repository.</p>
 <p><strong>University Admissions Score (UAS)&nbsp;</strong>
 </p>
 <p>The universities select candidates based on their university admissions
