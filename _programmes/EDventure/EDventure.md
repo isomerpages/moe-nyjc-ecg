@@ -13,7 +13,8 @@ Through this,&nbsp;you will get a clearer picture of the prospective university
 you would like to enter as well as a better sense of which prospective
 course of study you would like to pursue&nbsp;in the future.</p>
 <p></p>
-<p>EDventure events can be viewed in the ECG Repository on our <a href="https://portal.nyjc.edu.sg/" rel="noopener nofollow" target="_blank">College Portal</a>.</p>
+<p><strong>EDventure events can be viewed in the ECG Repository on our <a href="https://portal.nyjc.edu.sg/" rel="noopener nofollow" target="_blank">College Portal</a>.</strong>
+</p>
 <hr>
 <h2><strong>EDventurer's Code of Conduct</strong></h2>
 <table style="minWidth: 50px">
