@@ -96,11 +96,11 @@ the briefing slides on Application to Local Universities.)</p>
 <ul>
 <li>
 <p>Explore your choices by going to the various Open Houses (more information
-<a href="https://nyjcecg.wixsite.com/alvlresults/explore" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u>
+<a href="https://ecg.nanyangjc.moe.edu.sg/explore/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u>
 </a>)</p>
 </li>
 <li>
-<p>Seek for <a href="https://nyjcecg.wixsite.com/alvlresults/who-to-approach" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>advice</u></a>,
+<p>Seek for <a href="https://ecg.nanyangjc.moe.edu.sg/who-to-approach/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>advice</u></a>,
 if required.</p>
 </li>
 </ul>
@@ -169,7 +169,7 @@ may be separate or together with the admissions application.</p>
 </li>
 </ul>
 <p>For students interested in applying to Medicine</p>
-<p>Resources on getting into Medicine: <a href="https://www.nyjcecg.com/getting-into-medicine" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Link</u></a>
+<p>Resources on getting into Medicine: <a href="https://ecg.nanyangjc.moe.edu.sg/getting-into-medicine/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Link</u></a>
 </p>
 <p>Digital Certificate for Application to Local Autonomous Universities</p>
 <ul>
@@ -298,12 +298,12 @@ you submit the application)</p>
 <p>After inviting teacher,</p>
 <ul>
 <li>
-<p>Download the <a href="https://docs.google.com/document/d/1DYe7gEpaOWu1-X9PPZHwS8yG0qLa-X0k/edit?usp=sharing&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>university pre-application reflection form</u></a>,
+<p>Download the <a href="https://docs.google.com/document/d/1yIp049S994CRpn9JN0dDWhTpBsyU5bVy/edit?usp=sharing&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>university pre-application reflection form</u></a>,
 fill it in and email your teacher referee within 1 week. The information
 you provide will greatly aid your teacher in writing a reference for you.</p>
 </li>
 <li>
-<p>For<a href="https://nyjcecg.wixsite.com/alvlresults/factors-to-consider" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u> NUS and NTU scholarship/aptitude-based admissions</u></a>,
+<p>For<a href="https://ecg.nanyangjc.moe.edu.sg/factors-to-consider/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u> NUS and NTU scholarship/aptitude-based admissions</u></a>,
 send your teacher the link to the reference submission portal immediately
 after submitting your application form.</p>
 </li>
@@ -316,24 +316,24 @@ link.</p>
 </ul>
 </li>
 <li>
-<p>For more information on teacher references, click&nbsp;<a href="https://www.nyjcecg.com/teacher-references" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>.</p>
+<p>For more information on teacher references, click&nbsp;<a href="https://ecg.nanyangjc.moe.edu.sg/how-to-approach-a-teacher-for-reference/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>.</p>
 </li>
 </ul>
 <h4>4. Write your personal statement and prepare for interviews</h4>
 <ul>
 <li>
-<p>Follow the guidelines stated&nbsp;<a href="https://www.nyjcecg.com/personal-statement-writing" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>&nbsp;for
+<p>Follow the guidelines stated&nbsp;<a href="https://ecg.nanyangjc.moe.edu.sg/personal-statements/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>&nbsp;for
 personal statement writing.</p>
 </li>
 <li>
-<p>Follow the guidelines stated&nbsp;<a href="https://www.nyjcecg.com/interview-preparation" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>&nbsp;for
+<p>Follow the guidelines stated&nbsp;<a href="https://ecg.nanyangjc.moe.edu.sg/general-guide-to-preparing-for-interviews/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>&nbsp;for
 interviews preparation.</p>
 </li>
 </ul>
 <h4>5. Consider applying for scholarship too</h4>
 <ul>
 <li>
-<p>Find out more about scholarships and financial assistance <a href="https://www.nyjcecg.com/scholarships" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>.</p>
+<p>Find out more about scholarships and financial assistance <a href="https://ecg.nanyangjc.moe.edu.sg/applying-for-university-scholarship-s/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>.</p>
 </li>
 <li>
 <p>Two key government scholarships would be, the&nbsp;</p>
@@ -383,11 +383,8 @@ via Joint Acceptance Portal by the deadline shown in your electronic offer
 letter.</p>
 </li>
 <li>
-<p>The windows for acceptance are:
-<br>1st window: 2 January to 24 May 2024 (for offers released before 24 May
-2024)
-<br>2nd window: 1 to 18 June 2024 (for offers released between 25 May and
-18 June 2024)</p>
+<p><strong>The windows for acceptance are: <br>1st window: 2 January to 23 May 2025 (for offers released before 23 May 2025) <br>2nd window: 1 to 16 June 2025 (for offers released between 23 May and 16 June 2025)</strong>
+</p>
 </li>
 <li>
 <p>As the Joint Acceptance Portal is the same across the six AUs, you may

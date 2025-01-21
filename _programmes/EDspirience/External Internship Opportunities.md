@@ -31,7 +31,7 @@ your internship in December. This is so that you can have full 3 months
 of work experience before A-Level results are released in March.&nbsp;</p>
 <hr>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ecg.nanyangjc.moe.edu.sg/nyjc-attachment-opportunities/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">1. Explore</div><div class="isomer-card-description">Explore the external internships listings below. Ensure that you are available during the stated period. Consult your parents and get consent.</div><div class="isomer-card-link">Internship Listings</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://portal.nyjc.edu.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">1. Explore</div><div class="isomer-card-description">Explore the external internships in our College Portal under the ECG Repository. Ensure that you are available during the stated period. Consult your parents and get consent.</div><div class="isomer-card-link">Login to view the work attachments available.</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">2. Appy</div>

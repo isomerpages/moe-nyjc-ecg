@@ -30,7 +30,7 @@ school counsellor / official.&nbsp;</p>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">China Universities</div>
-<div class="isomer-card-description">Mdm Ma Yuexia ma_yuexia@moe.edu.sg</div>
+<div class="isomer-card-description">Mr Zhou Yefeng zhou_yefeng@moe.edu.sg</div>
 </div>
 </div>
 <div class="isomer-card">

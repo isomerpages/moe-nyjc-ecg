@@ -43,7 +43,7 @@ universities (<a href="https://www.princetonreview.com/college-advice/dream-matc
 so that you can make an informed decision.&nbsp;</p>
 </li>
 <li>
-<p>Learn more about choosing a suitable university and course <strong><a href="https://ecg.nanyangjc.moe.edu.sg/choosing-a-university-course/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a></strong>.</p>
+<p>Learn more about choosing a suitable university and course <a href="https://ecg.nanyangjc.moe.edu.sg/choosing-a-university-course/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>.</p>
 </li>
 </ul>
 <h4><strong>2. Check out subject pre-requisites and selection criteria</strong></h4>
@@ -138,7 +138,8 @@ access the university websites:</p>
 </tr>
 </tbody>
 </table>
-<p>Alternatively, download a summary <a href="https://drive.google.com/file/d/1EpPMi2YgBse07ik7a8swDhQmBMw8P1aZ/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Alternatively, login to our College Portal <a href="https://portal.nyjc.edu.sg/" rel="noopener nofollow" target="_blank">here</a> to view the summary under the
+ECG Repository.</p>
 <p><strong>University Admissions Score (UAS)&nbsp;</strong>
 </p>
 <p>The universities select candidates based on their university admissions
@@ -218,8 +219,9 @@ guarantee admission to that course for the next year.&nbsp;</p>
 on a holistic criteria.</p>
 </li>
 <li>
-<p>Click here for the UAS Calculator. Use the calculator to compare your
-UAS with the UAS of the 10th percentile IGP.</p>
+<p>Click <a href="https://www.sgunistats.com/calculator#google_vignette" rel="noopener nofollow" target="_blank">here</a> for
+the UAS Calculator. Use the calculator to compare your UAS with the UAS
+of the 10th percentile IGP.</p>
 </li>
 </ul>
 <h4>Selection Criteria</h4>

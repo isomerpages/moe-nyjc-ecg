@@ -37,7 +37,7 @@ interview.</p>
 </ul>
 <p>Besides considering your H2 subjects, you will need to consider many factors
 like special programmes, facilities, curriculum content,&nbsp; etc. Please
-read more <a href="choosing-a-university-course" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>. (update link)</p>
+read more <a href="https://ecg.nanyangjc.moe.edu.sg/key-factors-to-consider/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>.</p>
 <h4>Rank Point (UAS) calculation</h4>
 <p>To gauge if you meet the minimum Indicative Grade Profile (IGP) for each
 course, you need to compare your rank points (UAS) against the 10th percentile

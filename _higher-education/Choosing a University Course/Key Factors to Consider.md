@@ -60,9 +60,8 @@ during Open Day and ask the professors and students.</p>
 <h4>Course entry requirements</h4>
 <ul>
 <li>
-<p>Check the <a href="https://ecg.nanyangjc.moe.edu.sg/how-to-apply/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Indicative grade profile</u></a> (update
-link). Your academic grades should ideally be above the 10th percentile
-IGP.</p>
+<p>Check the <a href="https://ecg.nanyangjc.moe.edu.sg/how-to-apply/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Indicative grade profile</u></a>.
+Your academic grades should ideally be above the 10th percentile IGP.</p>
 </li>
 <li>
 <p>Check if there are any other requirements e.g. portfolio submission, testing</p>

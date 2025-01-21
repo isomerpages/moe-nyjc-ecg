@@ -38,7 +38,7 @@ stand out from the rest?</p>
 and skills?</p>
 </li>
 <li>
-<p>Refer to <a href="career-purpose" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Career Purpose</u></a> (update link) for more information</p>
+<p>Refer to <a href="career-purpose" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Career Purpose</u></a> for more information</p>
 </li>
 </ul>
 <h3>What kind of skillset do you want?</h3>

@@ -21,8 +21,8 @@ contacts:
     title: Overseas University Admissions (UK)
   - content:
       - phone: ""
-      - email: ma_yuexia@moe.edu.sg
-      - other: Mdm Ma Yuexia
+      - email: zhou_yefeng@moe.edu.sg
+      - other: Mr Zhou Yefeng
     title: Overseas University Admissions (China)
   - content:
       - phone: ""

@@ -31,7 +31,8 @@ organisational and emotional demands of a medical career</p>
 <p>Volunteer regularly (usually students join Interact Club or Red Cross)</p>
 </li>
 <li>
-<p>Hospital attachments (look out for opportunities <a href="https://ecg.nanyangjc.moe.edu.sg/nyjc-attachment-opportunities/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>)</p>
+<p>Hospital attachments (look out for opportunities under the ECG Repository
+in our <a href="https://portal.nyjc.edu.sg/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>College Portal</u></a>)</p>
 </li>
 <li>
 <p>Temporary jobs at a clinic or hospital after graduation</p>

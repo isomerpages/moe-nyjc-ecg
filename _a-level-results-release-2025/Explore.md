@@ -10,9 +10,9 @@ description: ""
 <summary>NUS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p>Virtual: 2 - 7 Mar 2024</p>
-<p>On Campus: 9 Mar 2024</p>
-<p><a href="https://nus.edu.sg/openhouse/home" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
+<p>Online Experience: 1 Mar 2025</p>
+<p>On-Campus Experience: 8 Mar 2025</p>
+<p><a href="https://nus.edu.sg/oam/why-nus/admissions-oh2025" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
 <h4>Digital Resources</h4>
 <p><a href="https://www.nus.edu.sg/oam/publications" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate viewbook, scholarship and financial aid brochures and application guides</u></a>
@@ -50,7 +50,7 @@ description: ""
 <summary>SMU</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p>24 &amp; 25 Feb 2024</p>
+<p>22 &amp; 23 Feb 2025</p>
 <p><a href="https://admissions.smu.edu.sg/openhouse" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
 <h4>Digital Resources</h4>
@@ -71,11 +71,11 @@ description: ""
 </p>
 <p>Night Fiesta, 24 Feb, 6pm onwards</p>
 <h4>Digital Resources</h4>
-<p><a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Programmes" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate Programmes</u></a>
+<p><a href="https://www.sutd.edu.sg/admissions/undergraduate" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate Programmes</u></a>
 </p>
-<p><a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Scholarship/Application-for-scholarships" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships</u></a>
+<p><a href="https://www.sutd.edu.sg/admissions/undergraduate/scholarship/sutd-administered/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships</u></a>
 </p>
-<p><a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Financing-Your-Studies/Financial-Options-Financial-Aid" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Aid</u></a>
+<p><a href="https://www.sutd.edu.sg/admissions/undergraduate/financing-options-and-aid/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Aid</u></a>
 </p>
 </div>
 </details>
@@ -83,17 +83,19 @@ description: ""
 <summary>SIT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p>Virtual Open House</p>
+<p>On Campus: 8 &amp; 9 Feb 2025</p>
 <p><a href="https://www.singaporetech.edu.sg/openhouse/node/2516" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
 <h4>Digital Resources</h4>
-<p><a href="https://www.singaporetech.edu.sg/sites/default/files/SITApplicationUserGuide.pdf" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>SIT System User Guide for Applicants</u></a>
+<p><a href="https://www.singaporetech.edu.sg/sites/default/files/2024-06/2020%20System%20User%20Guide%20for%20FA%20Application%20-%20Students.pdf" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>SIT System User Guide for Applicants</u></a>
 </p>
 <p><a href="https://www.singaporetech.edu.sg/admissions/undergraduate/requirements/a-levels" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>GCE A Level requirements</u></a>
 </p>
 <p><a href="https://www.singaporetech.edu.sg/admissions/undergraduate/degree-programme-handbook" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Degree Handbook</u></a>
 </p>
-<p><a href="https://www.singaporetech.edu.sg/sites/default/files/Scholarships-and-Financial-Assistance.pdf" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships and Financial Assistance</u></a>
+<p><a href="https://www.singaporetech.edu.sg/admissions/scholarships" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Scholarships</u></a>
+</p>
+<p><a href="https://www.singaporetech.edu.sg/admissions/financial-aid" rel="noopener nofollow" target="_blank">Financial Aid</a>
 </p>
 </div>
 </details>
@@ -101,7 +103,7 @@ description: ""
 <summary>SUSS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p>24 Feb 2024, 11am - 5pm</p>
+<p>22 Feb 2025, 10am - 5pm</p>
 <p><a href="https://www.suss.edu.sg/news-and-events/open-house" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
 <h4>Digital Resources</h4>
