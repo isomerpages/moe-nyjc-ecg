@@ -51,8 +51,8 @@ These are general steps you can take to write an outstanding personal statement.
 they reflect your personality and values</p>
 </li>
 <li>
-<p>Start filling in the <strong><a href="https://drive.google.com/file/d/1DYe7gEpaOWu1-X9PPZHwS8yG0qLa-X0k/view" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>SGC &amp; University Pre-application Reflection Form</u></a></strong>
-</p>
+<p>Start filling in the SGC &amp; University Pre-application Reflection Form
+(download from the ECG Repository in our <a href="https://portal.nyjc.edu.sg/" rel="noopener nofollow" target="_blank">College Portal</a>.)</p>
 </li>
 <li>
 <p>Start as early as in your JC2 year.&nbsp;This will give you time to identify
