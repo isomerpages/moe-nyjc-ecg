@@ -9,5 +9,5 @@ third_nav_title: Overseas University Admissions
 <p>Every year, there will be talks conducted on studying overseas by the
 admissions teachers. Lookout for EDubuzz events for the dates of such talks.
 Some recordings of the briefings can be viewed in the ECG Repository of
-our College Portal.</p>
+our <a href="https://portal.nyjc.edu.sg/" rel="noopener nofollow" target="_blank">College Portal</a>.</p>
 <p></p>
