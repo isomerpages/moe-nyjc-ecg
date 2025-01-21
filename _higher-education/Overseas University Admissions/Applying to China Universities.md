@@ -8,7 +8,7 @@ third_nav_title: Overseas University Admissions
 <h1><strong>How to apply to China&nbsp;universities</strong></h1>
 <ul>
 <li>
-<p>Contact <strong><a href="mailto:ma_yuexia@moe.edu.sg" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Ms Ma Yuexia</u></a></strong> to
+<p>Contact <strong><a href="mailto:zhou_yefeng@moe.edu.sg" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Mr Zhou Yefeng</u></a></strong> to
 help you with your your application.</p>
 </li>
 <li>
