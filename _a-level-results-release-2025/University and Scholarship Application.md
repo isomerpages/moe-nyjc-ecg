@@ -96,7 +96,7 @@ the briefing slides on Application to Local Universities.)</p>
 <ul>
 <li>
 <p>Explore your choices by going to the various Open Houses (more information
-<a href="https://nyjcecg.wixsite.com/alvlresults/explore" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u>
+<a href="https://ecg.nanyangjc.moe.edu.sg/explore/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u>
 </a>)</p>
 </li>
 <li>
