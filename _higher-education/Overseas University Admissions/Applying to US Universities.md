@@ -55,9 +55,10 @@ plan to apply.&nbsp;</p>
 <h6>Important notes</h6>
 <ul>
 <li>
-<p>Please download and read the Student Guide to US Applications before you
-set up your Common App account. There are important instructions and internal
-deadlines that you have to follow.</p>
+<p>Please download and read the Student Guide to US Applications from the
+ECG Repository in our College Portal before you set up your Common App
+account. There are important instructions and internal deadlines that you
+have to follow.</p>
 </li>
 <li>
 <p>Every year, there will be a US Application Briefing held at the start
