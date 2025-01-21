@@ -6,12 +6,13 @@ description: ""
 third_nav_title: EDspirience
 ---
 <h1>Applying for EDspirience work attachment programme</h1>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://ecg.nanyangjc.moe.edu.sg/nyjc-attachment-opportunities/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">1. Explore</div><div class="isomer-card-description">Explore the work attachment listings under NYJC Attachment Opportunities. Ensure that you are available during the stated period. Consult your parents and get consent.</div><div class="isomer-card-link">Attachment Listings</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://drive.google.com/open?id=1UbUrTqY7muR5vjKbRWyeOw1k7Nud5v8b" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://portal.nyjc.edu.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">1. Explore</div><div class="isomer-card-description">Explore the work attachments in our College Portal under the ECG Repository. Ensure that you are available during the stated period. Consult your parents and get consent.</div><div class="isomer-card-link">Login to view the work attachments available.</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://portal.nyjc.edu.sg/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">2. Apply</div>
-<div class="isomer-card-description">Submit the application form.</div>
-<div class="isomer-card-link">Application Form</div>
+<div class="isomer-card-description">Submit the application form. Application form can be downloaded for our
+College Portal under the ECG Repository.</div>
+<div class="isomer-card-link">Login to download the application form.</div>
 </div>
 </a>
 <div class="isomer-card">
