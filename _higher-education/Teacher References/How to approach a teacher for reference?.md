@@ -112,7 +112,8 @@ submission</p>
 by the teacher (to remind the teacher of your good work)</p>
 </li>
 <li>
-<p>SGC &amp; University Pre-application reflection form</p>
+<p><strong>SGC &amp; University Pre-application reflection form</strong>
+</p>
 <ul>
 <li>
 <p>This​ form is designed not only to help you reflect on your past experiences
