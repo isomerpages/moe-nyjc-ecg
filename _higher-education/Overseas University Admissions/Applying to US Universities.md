@@ -11,9 +11,7 @@ third_nav_title: Overseas University Admissions
 <img style="width: 100%" height="auto" width="100%" alt="Applying to US Unis" src="/images/Applying_to_US.png">
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1KD39KSr3mJMioCclH3TFAHfu7QekOT3C/view" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Prepare</div><div class="isomer-card-description">Explore and narrow down your choices
-Check out subject pre-requisites and selection criteria
-Download student guide and read it.</div><div class="isomer-card-link">US Student Guide</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://portal.nyjc.edu.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Prepare</div><div class="isomer-card-description">Explore and narrow down your choices Check out subject pre-requisites and selection criteria Download student guide from the ECG Repository in our College Portal and read it.</div><div class="isomer-card-link">Login to view the US Student Guide.</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.commonapp.org/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Apply</div>
@@ -57,9 +55,9 @@ plan to apply.&nbsp;</p>
 <h6>Important notes</h6>
 <ul>
 <li>
-<p>Please download and read the <strong><a href="https://drive.google.com/file/d/1KD39KSr3mJMioCclH3TFAHfu7QekOT3C/view" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Student Guide to US applications</u></a></strong> before
-you set up your Common App account. There are important instructions and
-internal deadlines that you have to follow.</p>
+<p>Please download and read the Student Guide to US Applications before you
+set up your Common App account. There are important instructions and internal
+deadlines that you have to follow.</p>
 </li>
 <li>
 <p>Every year, there will be a US Application Briefing held at the start
