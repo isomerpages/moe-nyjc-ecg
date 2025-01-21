@@ -61,8 +61,9 @@ is like.</p>
 will be more than happy to answer your questions.</p>
 </li>
 <li>
-<p>Click <a href="https://drive.google.com/file/d/1IJjL4rmg7FWOkgOIcGk9t_9cQgJky3gS/view?usp=sharing" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a> for
-the recording of the&nbsp;<strong>2024 JC2 Parents’ Dialogue with Representatives from Local Autonomous Universities</strong>.</p>
+<p>Click <a href="https://portal.nyjc.edu.sg/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a> to login to the College
+Portal to view the recording of the&nbsp;<strong>2024 JC2 Parents’ Dialogue with Representatives from Local Autonomous Universities</strong> under
+the ECG Repository.</p>
 </li>
 </ul>
 <h4>Student support groups, Social media, Forums and Blogs</h4>
