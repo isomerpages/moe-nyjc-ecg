@@ -103,7 +103,7 @@ description: ""
 <summary>SUSS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p>24 Feb 2024, 11am - 5pm</p>
+<p>22 Feb 2025, 10am - 5pm</p>
 <p><a href="https://www.suss.edu.sg/news-and-events/open-house" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
 <h4>Digital Resources</h4>
