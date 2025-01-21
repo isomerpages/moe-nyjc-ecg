@@ -12,6 +12,8 @@ workshops and talk&nbsp;to professors and current university students.
 Through this,&nbsp;you will get a clearer picture of the prospective university
 you would like to enter as well as a better sense of which prospective
 course of study you would like to pursue&nbsp;in the future.</p>
+<p></p>
+<p>EDventure events can be viewed in the ECG Repository on our <a href="https://portal.nyjc.edu.sg/" rel="noopener nofollow" target="_blank">College Portal</a>.</p>
 <hr>
 <h2><strong>EDventurer's Code of Conduct</strong></h2>
 <table style="minWidth: 50px">
@@ -72,6 +74,4 @@ yourself.</p>
 <p>We appreciate any photos taken to be sent to us via email (<a href="mailto:zhou_yefeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhou_yefeng@moe.edu.sg</a>)
 so that your juniors will have a better idea of what to expect for recurring
 activities.</p>
-<hr>
-<p></p>
 <p></p>
