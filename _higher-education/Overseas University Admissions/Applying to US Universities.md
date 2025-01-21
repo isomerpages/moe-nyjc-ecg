@@ -64,9 +64,10 @@ deadlines that you have to follow.</p>
 of Term 3. Watch out for the announcement and attend the briefing.</p>
 </li>
 <li>
-<p>Please download the <strong><a href="https://docs.google.com/document/d/1aKsWkks4gwUol6bm1rJA_PTqEiFGpmjW/edit?usp=sharing&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>US Universities School Counsellor and Teacher Recommenders Request Form</u></a></strong>,
-fill in the details and submit to your tutors <em>after</em> they have agreed
-to write references for you.&nbsp;</p>
+<p>Please download the US Universities School Counsellor and Teacher Recommenders
+Request Form from the ECG Repository in our College Portal, fill in the
+details and submit to your tutors <em>after</em> they have agreed to write
+references for you.&nbsp;</p>
 </li>
 <li>
 <p><strong>Note that the school does NOT work with any external agencies to process your application.</strong>
