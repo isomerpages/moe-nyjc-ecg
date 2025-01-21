@@ -33,8 +33,8 @@ third_nav_title: Interview Preparation
 <p>NUS and SMU Law</p>
 </li>
 <li>
-<p>Some local university courses (check the subject pre-requisites in the
-ECG Repository of our <a href="https://portal.nyjc.edu.sg/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>College Portal</u></a>.)</p>
+<p>Some local university courses (check the subject requirements in the ECG
+Repository of our <a href="https://portal.nyjc.edu.sg/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>College Portal</u></a>.)</p>
 </li>
 </ul>
 <p></p>
