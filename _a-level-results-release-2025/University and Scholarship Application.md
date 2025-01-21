@@ -100,7 +100,7 @@ the briefing slides on Application to Local Universities.)</p>
 </a>)</p>
 </li>
 <li>
-<p>Seek for <a href="https://nyjcecg.wixsite.com/alvlresults/who-to-approach" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>advice</u></a>,
+<p>Seek for <a href="https://ecg.nanyangjc.moe.edu.sg/who-to-approach/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>advice</u></a>,
 if required.</p>
 </li>
 </ul>
@@ -169,7 +169,7 @@ may be separate or together with the admissions application.</p>
 </li>
 </ul>
 <p>For students interested in applying to Medicine</p>
-<p>Resources on getting into Medicine: <a href="https://www.nyjcecg.com/getting-into-medicine" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Link</u></a>
+<p>Resources on getting into Medicine: <a href="https://ecg.nanyangjc.moe.edu.sg/getting-into-medicine/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Link</u></a>
 </p>
 <p>Digital Certificate for Application to Local Autonomous Universities</p>
 <ul>
