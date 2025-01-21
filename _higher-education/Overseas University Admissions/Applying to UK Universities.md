@@ -50,8 +50,8 @@ in UK such as University of Cambridge, University of Oxford and so on.
 <h6>Important Information</h6>
 <ul>
 <li>
-<p>Please download and read the <strong><a href="https://drive.google.com/file/d/18Jm4hIREPpMMnchjuIs767rWuzxQd5X0/view?usp=sharing" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Student Guide to UK applications</u></a></strong> before
-you set up your UCAS account. There are important instructions and internal
+<p>Please download and read the Student Guide to UK Applications before you
+set up your UCAS account. There are important instructions and internal
 deadlines that you have to follow.</p>
 </li>
 <li>
