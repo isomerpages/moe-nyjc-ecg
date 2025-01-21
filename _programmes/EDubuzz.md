@@ -12,5 +12,8 @@ UKLAS and <a href="https://cumsa.org/" rel="noopener nofollow" target="_blank">C
 give students an overview of overseas education.</p>
 <p>Workshops that we conduct aims to equip you with skills like personal
 statement writing, interview skills and resume writing.</p>
+<p></p>
+<p><strong>EDubuzz events can be viewed in the ECG Repository on our <a href="https://portal.nyjc.edu.sg/" rel="noopener nofollow" target="_blank">College Portal</a>.</strong>
+</p>
 <hr>
 <p></p>
