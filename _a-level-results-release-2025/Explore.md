@@ -10,8 +10,10 @@ description: ""
 <summary>NUS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p>Online Experience: 1 Mar 2025</p>
-<p>On-Campus Experience: 8 Mar 2025</p>
+<p><strong>Online Experience: 1 Mar 2025</strong>
+</p>
+<p><strong>On-Campus Experience: 8 Mar 2025</strong>
+</p>
 <p><a href="https://nus.edu.sg/oam/why-nus/admissions-oh2025" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
 <h4>Digital Resources</h4>
@@ -25,8 +27,10 @@ description: ""
 <summary>NTU/NIE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p>Virtual: 17 - 24 Feb 2024</p>
-<p>On Campus: 2 Mar 2024</p>
+<p><strong>Virtual: 17 - 24 Feb 2024</strong>
+</p>
+<p><strong>On Campus: 2 Mar 2024</strong>
+</p>
 <p><a href="https://www.ntu.edu.sg/openhouse" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link to NTU Open House</u></a>
 </p>
 <p><a href="https://www.ntu.edu.sg/nie/openhouse" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link to NIE Open House</u></a>
@@ -50,7 +54,8 @@ description: ""
 <summary>SMU</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p>22 &amp; 23 Feb 2025</p>
+<p><strong>22 &amp; 23 Feb 2025</strong>
+</p>
 <p><a href="https://admissions.smu.edu.sg/openhouse" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
 <h4>Digital Resources</h4>
@@ -66,7 +71,8 @@ description: ""
 <summary>SUTD</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p>24 &amp; 25 Feb 2024, 10:30am - 5:30pm</p>
+<p><strong>24 &amp; 25 Feb 2024, 10:30am - 5:30pm</strong>
+</p>
 <p><a href="https://openhouse.sutd.edu.sg/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
 <p>Night Fiesta, 24 Feb, 6pm onwards</p>
@@ -83,7 +89,8 @@ description: ""
 <summary>SIT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p>On Campus: 8 &amp; 9 Feb 2025</p>
+<p><strong>On Campus: 8 &amp; 9 Feb 2025</strong>
+</p>
 <p><a href="https://www.singaporetech.edu.sg/openhouse/node/2516" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
 <h4>Digital Resources</h4>
@@ -106,6 +113,10 @@ description: ""
 <p>22 Feb 2025, 10am - 5pm</p>
 <p><a href="https://www.suss.edu.sg/news-and-events/open-house" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SUSS OH 2025" src="/images/SUSS_Open_House_2025.png">
+</div>
 <h4>Digital Resources</h4>
 <p><a href="https://www.suss.edu.sg/docs/default-source/contentdoc/src/fulltime_programmes.pdf" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Full-time Undergraduate Programmes</u></a>
 </p>
