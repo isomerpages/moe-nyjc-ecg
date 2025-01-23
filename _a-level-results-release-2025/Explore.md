@@ -91,8 +91,12 @@ description: ""
 <h4>Open House Information</h4>
 <p><strong>On Campus: 8 &amp; 9 Feb 2025</strong>
 </p>
-<p><a href="https://www.singaporetech.edu.sg/openhouse/node/2516" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
+<p><a href="https://www.singaporetech.edu.sg/openhouse/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SIT OH 2025" src="/images/Screenshot_2025_01_23_151706.png">
+</div>
 <h4>Digital Resources</h4>
 <p><a href="https://www.singaporetech.edu.sg/sites/default/files/2024-06/2020%20System%20User%20Guide%20for%20FA%20Application%20-%20Students.pdf" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>SIT System User Guide for Applicants</u></a>
 </p>
