@@ -89,7 +89,7 @@ description: ""
 <summary>SIT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p><strong>On Campus: 8 &amp; 9 Feb 2025</strong>
+<p><strong>On Campus: 8 &amp; 9 Feb 2025, 10am - 6pm</strong>
 </p>
 <p><a href="https://www.singaporetech.edu.sg/openhouse/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
