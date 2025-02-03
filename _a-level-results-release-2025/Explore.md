@@ -77,6 +77,8 @@ description: ""
 </p>
 <p>SUTD World of Design AI @ VivoCity (Level 1, Central Court), 5 - 9 Feb,
 10am - 10pm</p>
+<p>Fly drones, race robots, bop to AI-generated beats and explore exciting
+AI-powered activities.</p>
 <p><a href="https://www.sutd.edu.sg/events-listing/sutd-world-of-design-ai/" rel="noopener nofollow" target="_blank">Link</a>
 </p>
 <h4>Digital Resources</h4>
