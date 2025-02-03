@@ -71,11 +71,14 @@ description: ""
 <summary>SUTD</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p><strong>24 &amp; 25 Feb 2024, 10:30am - 5:30pm</strong>
+<p><strong>22 &amp; 23 Feb 2025, 10:30am - 5pm</strong>
 </p>
 <p><a href="https://openhouse.sutd.edu.sg/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
-<p>Night Fiesta, 24 Feb, 6pm onwards</p>
+<p>SUTD World of Design AI @ VivoCity (Level 1, Central Court), 5 - 9 Feb,
+10am - 10pm</p>
+<p><a href="https://www.sutd.edu.sg/events-listing/sutd-world-of-design-ai/" rel="noopener nofollow" target="_blank">Link</a>
+</p>
 <h4>Digital Resources</h4>
 <p><a href="https://www.sutd.edu.sg/admissions/undergraduate" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate Programmes</u></a>
 </p>
