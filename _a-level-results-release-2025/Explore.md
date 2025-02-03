@@ -27,13 +27,13 @@ description: ""
 <summary>NTU/NIE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p><strong>Virtual: 17 - 24 Feb 2024</strong>
+<p><strong>1 Mar 2025</strong>
 </p>
-<p><strong>On Campus: 2 Mar 2024</strong>
+<p><strong>Day Event: 11am - 7pm</strong>
 </p>
-<p><a href="https://www.ntu.edu.sg/openhouse" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link to NTU Open House</u></a>
+<p><strong>Night Festival: 6 - 9pm</strong>
 </p>
-<p><a href="https://www.ntu.edu.sg/nie/openhouse" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link to NIE Open House</u></a>
+<p><a href="https://www.ntu.edu.sg/openhouse?gad_source=1&amp;gclid=CjwKCAiA74G9BhAEEiwA8kNfpQaJEUUMWeOU1sh5XhujbRm-pJCdKi56Zgzn5FZ9dx3z4FkqLlWG-xoC3ScQAvD_BwE" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link to NTU Open House</u></a>
 </p>
 <h4>Digital Resources</h4>
 <p><a href="https://www.ntu.edu.sg/education/degree-programmes#Content_C109_Col00" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate Programmes</u></a>
