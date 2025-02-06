@@ -47,13 +47,14 @@ sections:
         back or EXPO MRT station.)"
       subtitle: EDventure
   - infopic:
-      title: SPF Specialist Unit Open House 2025
+      title: NUS Chemistry Outreach 2025
       subtitle: EDventure
       id: infopic
-      description: "📅 Date: 6 February 2025 (Thursday) 🕒 Time: 9:30 AM – 4:30 PM 📍
-        Venue: Mount Vernon Camp, Gurkha Contingent"
+      description: "📅 Date: 2-4 or 2 - 6 June 2025 (Thursday) 🕒 Time: 8:30 AM – 5:30
+        PM 📍 Venue: Exact venue to be shared to confirmed participants 2 weeks
+        before the camp."
       button: login for more info
       url: https://portal.nyjc.edu.sg/
-      image: /images/Specialist_Unit_Open_House_2025.png
+      image: /images/Screenshot_2025_02_06_152210.png
       alt: Image alt text
 ---
