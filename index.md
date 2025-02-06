@@ -18,7 +18,7 @@ sections:
           url: /edventure/
         - title: EDspirience
           description: Work Attachments
-          url: /nyjc-attachment-opportunities/
+          url: https://ecg.nanyangjc.moe.edu.sg/applying-for-edspirience/
         - title: EDubuzz
           description: ECG Events @ NYJC
           url: /edubuzz/
