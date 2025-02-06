@@ -222,4 +222,4 @@ financial aid websites of the universities:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>For overseas scholarships, please click <a href="https://ecg.nanyangjc.moe.edu.sg/why-apply-for-scholarships/" rel="noopener nofollow" target="_blank">here</a>.</p>
