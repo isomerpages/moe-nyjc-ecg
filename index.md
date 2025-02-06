@@ -24,7 +24,7 @@ sections:
           url: /edubuzz/
         - title: A-Level Results Release 2025
           description: Application to Universities
-          url: ""
+          url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
       title: NTU Actuarial Networking Night 2025
       id: infopic
