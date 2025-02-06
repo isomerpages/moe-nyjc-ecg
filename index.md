@@ -26,16 +26,15 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
-      title: NTU Actuarial Networking Night 2025
+      title: JPMorganChase GenerationTech
       id: infopic
       button: Login for more info
       url: https://portal.nyjc.edu.sg/
       alt: Image alt text
-      image: /images/NTU_Actuarial_Networking_Night_2025.png
+      image: /images/Screenshot_2025_02_06_144831.png
       subtitle: EDventure
-      description: "📅Date: 9 January, 2025 (Thursday) 🕒Time: 7:30 PM - 10 PM
-        📍Venue: Multifunctional Space @ House of Offline  18 Penhas Rd, #02-00,
-        Singapore 208182"
+      description: "📅Date: 21 March, 2025 (Friday) 🕒Time: 8:30 AM - 6:30 PM 📍Venue:
+        JPMorganChase, One@Changi, Singapore 486036"
   - infopic:
       title: NTU SPMS Open House 2025
       id: infopic
