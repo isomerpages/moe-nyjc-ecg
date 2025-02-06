@@ -330,10 +330,15 @@ personal statement writing.</p>
 interviews preparation.</p>
 </li>
 </ul>
-<h4>5. Consider applying for scholarship too</h4>
+<h4>5. Consider applying for scholarship</h4>
 <ul>
 <li>
-<p>Find out more about scholarships and financial assistance <a href="https://ecg.nanyangjc.moe.edu.sg/applying-for-university-scholarship-s/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>.</p>
+<p>Find out more about <strong>scholarships and financial assistance</strong> 
+<a href="https://ecg.nanyangjc.moe.edu.sg/applying-for-university-scholarship-s/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u>
+</a>.</p>
+</li>
+<li>
+<p>For <strong>overseas scholarships</strong>, please click <a href="https://ecg.nanyangjc.moe.edu.sg/why-apply-for-scholarships/" rel="noopener nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
 <p>Two key government scholarships would be, the&nbsp;</p>
@@ -341,7 +346,7 @@ interviews preparation.</p>
 </ul>
 <ol>
 <li>
-<p>PSC Scholarships, and the</p>
+<p>PSC Scholarships, and</p>
 </li>
 <li>
 <p>Singapore-Industry Scholarship.</p>
