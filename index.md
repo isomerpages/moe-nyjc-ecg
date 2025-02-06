@@ -28,7 +28,7 @@ sections:
   - infopic:
       title: JPMorganChase GenerationTech
       id: infopic
-      button: Login for more info
+      button: Login for the sign up link
       url: https://portal.nyjc.edu.sg/
       alt: Image alt text
       image: /images/Screenshot_2025_02_06_144831.png
