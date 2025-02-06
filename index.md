@@ -50,7 +50,7 @@ sections:
       title: NUS Chemistry Outreach 2025
       subtitle: EDventure
       id: infopic
-      description: "📅 Date: 2-4 or 2 - 6 June 2025 (Thursday) 🕒 Time: 8:30 AM – 5:30
+      description: "📅 Date: 2-4 or 2-6 June 2025 (Thursday) 🕒 Time: 8:30 AM – 5:30
         PM 📍 Venue: Exact venue to be shared to confirmed participants 2 weeks
         before the camp."
       button: login for more info
