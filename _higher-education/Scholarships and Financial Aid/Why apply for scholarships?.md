@@ -199,6 +199,22 @@ year e.g. <a href="https://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=7615
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Taiwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.roc-taiwan.org/sg_en/post/13199.html" rel="noopener nofollow" target="_blank">MOE Taiwan Scholarship Program</a>
+</p>
+<p>Applicants for semiconductor-related programmes will be given prioritised
+consideration.</p>
+<p><a href="https://www.roc-taiwan.org/sg_en/post/13214.html" rel="noopener nofollow" target="_blank">MOE Huayu Enrichment Scholarship</a>
+</p>
+<p>The MOE Huayu Enrichment Scholarship Program is offered for mandarin learners
+including beginners to study at any university-affiliated language centers
+in Taiwan.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Japan</p>
 </td>
 <td rowspan="1" colspan="1">
