@@ -122,7 +122,18 @@ for all eligible Singaporeans.</p>
 <p>All students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://nus.edu.sg/oam/financial-aid/schemes-for-tuition-fees-and-or-living-costs/work-study-assistance-scheme" rel="noopener nofollow" target="_blank">NUS Work Study Assistance Scheme</a>
+</p>
+<p><a href="https://www.ntu.edu.sg/life-at-ntu/student-life/academic-and-career-development/work-study-scheme" rel="noopener nofollow" target="_blank">NTU Work Study Scheme</a>
+</p>
+<p><a href="https://admissions.smu.edu.sg/financial-matters/financial-aid/WSG_Grant" rel="noopener nofollow" target="_blank">SMU Work-Study Grant</a>
+</p>
+<p><a href="https://www.sutd.edu.sg/studentspart-time-work-scheme-2/" rel="noopener nofollow" target="_blank">SUTD Students@Part-Time Work Scheme</a>
+</p>
+<p><a href="https://www.singaporetech.edu.sg/applied-learning/integrated-work-study-programme" rel="noopener nofollow" target="_blank">SIT Integrated Work Study Programme</a>
+</p>
+<p><a href="https://www.suss.edu.sg/about-suss/centres/student-success-centre/career-development/work-study-degree-programme" rel="noopener nofollow" target="_blank">SUSS SkillsFuture Work Study Degree Programme</a>
+</p>
 </td>
 </tr>
 <tr>
