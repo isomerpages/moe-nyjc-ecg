@@ -24,11 +24,11 @@ unaware of the password to the ECG Portal, please approach your class EDvocate.<
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>23 Feb</strong>
+<p><strong>21 Feb</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>23 Feb - 19 Mar</strong>
+<p><strong>21 Feb - 19 Mar</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -149,7 +149,7 @@ if required.</p>
 <p></p>
 </li>
 <li>
-<p>The application deadline is 19 March 2024 for all AUs.</p>
+<p>The application deadline is 19 March 2025 for all AUs.</p>
 </li>
 <li>
 <p>Application to <a href="https://nuscollege.nus.edu.sg/admissions/how-to-apply/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>NUS College</u></a> is
@@ -259,8 +259,8 @@ write referrals for you. CCA teachers are not recommended.</p>
 <p></p>
 </li>
 <li>
-<p>The application deadline is 19 Mar 2024 which falls during March holidays
-(9 – 17 Mar 2024). Teachers may not be contactable during holidays.</p>
+<p>The application deadline is 19 Mar 2025 which falls during March holidays
+(15 – 23 Mar 2025). Teachers may not be contactable during holidays.</p>
 </li>
 </ul>
 <h4>IMPORTANT INFORMATION​</h4>
@@ -271,8 +271,8 @@ submit your application so as to give your teacher ample time to write
 the reference.</p>
 </li>
 <li>
-<p>Since the application deadline is 19 Mar 2024, the latest date to invite
-teachers is 8 Mar 2024.</p>
+<p>Since the application deadline is 19 Mar 2025, the latest date to invite
+teachers is 7 Mar 2024.</p>
 </li>
 </ul>
 <h4>Invitation process</h4>
