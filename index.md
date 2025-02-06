@@ -41,9 +41,10 @@ sections:
       button: login for more info
       url: https://portal.nyjc.edu.sg/
       alt: Image alt text
-      image: /images/NTU_SPMS_Open_House_2025.png
-      description: "📅Date: 18 January, 2025 (Saturday) 🕒Time: 11 AM - 2 PM 📍Venue:
-        SPMS Atrium, 21 Nanyang Link MAS Atrium Level 3 Singapore, 637371"
+      image: /images/SPS_corporate_advance_2025___1_.png
+      description: "📅Date: 15 April, 2025 (Saturday) 🕒Time: 2 PM - 5 PM 📍Venue:
+        SUTD (A two-way shuttle service will be arranged from NYJC to SUTD and
+        back or EXPO MRT station.)"
       subtitle: EDventure
   - infopic:
       title: SPF Specialist Unit Open House 2025
