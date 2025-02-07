@@ -2,7 +2,7 @@ collections:
   ecg-for-teachers:
     output: true
     order:
-      - ECG Advising.md
-      - Writing references for students.md
-      - Helping students with overseas university applications.md
       - ECG Info for Teachers.md
+      - Helping students with overseas university applications.md
+      - Writing references for students.md
+      - ECG Advising.md
