@@ -2,4 +2,5 @@ collections:
   ecg-for-teachers:
     output: true
     order:
+      - Helping students with overseas university applications.md
       - ECG Info for Teachers.md
