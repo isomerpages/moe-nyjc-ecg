@@ -42,15 +42,15 @@ sections:
       id: infopic
       description: "📅Date: 18-20 March, 2025 (Tuesday - Thursday) 🕒Time: 9 AM - 5 PM
         📍Venue: NTU"
-      button: Login for the sign up link
-      url: https://portal.nyjc.edu.sg/
+      button: Sign up here
+      url: https://event.ntu.edu.sg/cnyscdiscocamp2025
       image: /images/Screenshot_2025_02_06_152529.png
       alt: Image alt text
   - infopic:
       title: JPMorganChase GenerationTech
       id: infopic
-      button: Login for the sign up link
-      url: https://portal.nyjc.edu.sg/
+      button: Sign up here (parents only)
+      url: https://tinyurl.com/28bhyjjy
       alt: Image alt text
       image: /images/Screenshot_2025_02_06_144831.png
       subtitle: EDventure
@@ -59,8 +59,8 @@ sections:
   - infopic:
       title: Singapore Prison Service Recruitment Fair 2025
       id: infopic
-      button: login for more info
-      url: https://portal.nyjc.edu.sg/
+      button: sign up here
+      url: https://go.gov.sg/spsrecruitmentatcorporateadvance
       alt: Image alt text
       image: /images/SPS_corporate_advance_2025___1_.png
       description: "📅Date: 15 April, 2025 (Tuesday) 🕒Time: 2 PM - 5 PM 📍Venue: SUTD
