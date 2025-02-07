@@ -26,12 +26,23 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: The Straits Times Education Forum in partnership with SMU
+      subtitle: EDventure
+      id: infopic
+      description: "📅Date: 11 March, 2025 (Tuesday) 🕒Time: 2:15 PM - 5:30 PM
+        📍Venue: Yong Pung How School of Law, Basement 1 SMU Hall, 55 Armenian
+        Street Singapore 179943"
+      button: Sign up here
+      url: tinyurl.com/steduforum25
+      image: /images/ST_SMU_Education_Forum_2025.jpg
+      alt: Image alt text
+  - infopic:
       title: NTU CN Yang Scholars Programme
       subtitle: EDventure
       id: infopic
       description: "📅Date: 18-20 March, 2025 (Tuesday - Thursday) 🕒Time: 9 AM - 5 PM
         📍Venue: NTU"
-      button: Login for more info
+      button: Login for the sign up link
       url: https://portal.nyjc.edu.sg/
       image: /images/Screenshot_2025_02_06_152529.png
       alt: Image alt text
