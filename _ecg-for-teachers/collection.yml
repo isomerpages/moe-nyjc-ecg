@@ -1,4 +1,5 @@
 collections:
   ecg-for-teachers:
     output: true
-    order: []
+    order:
+      - ECG Info for Teachers.md
