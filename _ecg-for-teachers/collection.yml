@@ -2,5 +2,6 @@ collections:
   ecg-for-teachers:
     output: true
     order:
+      - Writing references for students.md
       - Helping students with overseas university applications.md
       - ECG Info for Teachers.md
