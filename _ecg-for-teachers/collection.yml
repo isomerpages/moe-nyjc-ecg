@@ -1,0 +1,4 @@
+collections:
+  ecg-for-teachers:
+    output: true
+    order: []
