@@ -24,7 +24,7 @@ sections:
           url: /edubuzz/
         - title: A-Level Results Release 2025
           description: Application to Universities
-          url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
+          url: https://ecg.nanyangjc.moe.edu.sg/
   - infopic:
       title: JC2 Parents' Dialogue with Autonomous University Reps
       subtitle: EDmissions
