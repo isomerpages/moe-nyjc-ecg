@@ -26,6 +26,16 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: JC2 Parents' Dialogue with Autonomous University Reps
+      subtitle: EDmissions
+      id: infopic
+      description: "📅 Date: 26 Feb 2025 (Wednesday) 🕒 Time: 7:30 – 9 PM 📍 Venue:
+        Zoom Webinar"
+      button: Login for the registration link in the announcement
+      url: https://portal.nyjc.edu.sg/
+      image: /images/Screenshot_2025_02_11_121050.png
+      alt: Image alt text
+  - infopic:
       title: The Straits Times Education Forum in partnership with SMU
       subtitle: EDventure
       id: infopic
@@ -67,14 +77,4 @@ sections:
         (A two-way shuttle service will be arranged from NYJC to SUTD and back
         or EXPO MRT station.)"
       subtitle: EDventure
-  - infopic:
-      title: JC2 Parents' Dialogue with Autonomous University Reps
-      subtitle: EDmissions
-      id: infopic
-      description: "📅 Date: 26 Feb 2025 (Wednesday) 🕒 Time: 7:30 – 9 PM 📍 Venue:
-        Zoom Webinar"
-      button: Login for the registration link in the announcement
-      url: https://portal.nyjc.edu.sg/
-      image: /images/Screenshot_2025_02_11_121050.png
-      alt: Image alt text
 ---
