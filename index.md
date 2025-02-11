@@ -68,14 +68,13 @@ sections:
         or EXPO MRT station.)"
       subtitle: EDventure
   - infopic:
-      title: NUS Chemistry Outreach 2025
-      subtitle: EDventure
+      title: JC2 Parents' Dialogue with Autonomous University Reps
+      subtitle: EDmissions
       id: infopic
-      description: "📅 Date: 2-4 or 2-6 June 2025 (Monday-Friday) 🕒 Time: 8:30 AM –
-        5:30 PM 📍 Venue: Exact venue to be shared to confirmed participants 2
-        weeks before the camp."
-      button: login for more info
+      description: "📅 Date: 26 Feb 2025 (Wednesday) 🕒 Time: 7:30 – 9 PM 📍 Venue:
+        Zoom Webinar"
+      button: Login for the registration link in the announcement
       url: https://portal.nyjc.edu.sg/
-      image: /images/Screenshot_2025_02_06_152210.png
+      image: /images/Screenshot_2025_02_11_121050.png
       alt: Image alt text
 ---
