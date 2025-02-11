@@ -18,42 +18,63 @@ sections:
           url: /edventure/
         - title: EDspirience
           description: Work Attachments
-          url: /nyjc-attachment-opportunities/
+          url: https://ecg.nanyangjc.moe.edu.sg/applying-for-edspirience/
         - title: EDubuzz
           description: ECG Events @ NYJC
-          url: /edubuzz/
+          url: https://ecg.nanyangjc.moe.edu.sg/edubuzz/
         - title: A-Level Results Release 2025
           description: Application to Universities
-          url: ""
+          url: https://ecg.nanyangjc.moe.edu.sg/
   - infopic:
-      title: NTU Actuarial Networking Night 2025
+      title: JC2 Parents' Dialogue with Autonomous University Reps
+      subtitle: EDmissions
       id: infopic
-      button: Login for more info
+      description: "📅 Date: 26 Feb 2025 (Wednesday) 🕒 Time: 7:30 – 9 PM 📍 Venue:
+        Zoom Webinar"
+      button: Login for the registration link in the announcement
       url: https://portal.nyjc.edu.sg/
+      image: /images/Screenshot_2025_02_11_121050.png
       alt: Image alt text
-      image: /images/NTU_Actuarial_Networking_Night_2025.png
-      subtitle: EDventure
-      description: "📅Date: 9 January, 2025 (Thursday) 🕒Time: 7:30 PM - 10 PM
-        📍Venue: Multifunctional Space @ House of Offline  18 Penhas Rd, #02-00,
-        Singapore 208182"
   - infopic:
-      title: NTU SPMS Open House 2025
-      id: infopic
-      button: login for more info
-      url: https://portal.nyjc.edu.sg/
-      alt: Image alt text
-      image: /images/NTU_SPMS_Open_House_2025.png
-      description: "📅Date: 18 January, 2025 (Saturday) 🕒Time: 11 AM - 2 PM 📍Venue:
-        SPMS Atrium, 21 Nanyang Link MAS Atrium Level 3 Singapore, 637371"
-      subtitle: EDventure
-  - infopic:
-      title: SPF Specialist Unit Open House 2025
+      title: The Straits Times Education Forum in partnership with SMU
       subtitle: EDventure
       id: infopic
-      description: "📅 Date: 6 February 2025 (Thursday) 🕒 Time: 9:30 AM – 4:30 PM 📍
-        Venue: Mount Vernon Camp, Gurkha Contingent"
-      button: login for more info
-      url: https://portal.nyjc.edu.sg/
-      image: /images/Specialist_Unit_Open_House_2025.png
+      description: "📅Date: 11 March, 2025 (Tuesday) 🕒Time: 2:15 PM - 5:30 PM
+        📍Venue: Yong Pung How School of Law, Basement 1 SMU Hall, 55 Armenian
+        Street Singapore 179943"
+      button: Sign up here
+      url: tinyurl.com/steduforum25
+      image: /images/ST_SMU_Education_Forum_2025.jpg
       alt: Image alt text
+  - infopic:
+      title: NTU CN Yang Scholars Programme
+      subtitle: EDventure
+      id: infopic
+      description: "📅Date: 18-20 March, 2025 (Tuesday - Thursday) 🕒Time: 9 AM - 5 PM
+        📍Venue: NTU"
+      button: Sign up here
+      url: https://event.ntu.edu.sg/cnyscdiscocamp2025
+      image: /images/Screenshot_2025_02_06_152529.png
+      alt: Image alt text
+  - infopic:
+      title: JPMorganChase GenerationTech
+      id: infopic
+      button: Sign up here (parents only)
+      url: https://tinyurl.com/28bhyjjy
+      alt: Image alt text
+      image: /images/Screenshot_2025_02_06_144831.png
+      subtitle: EDventure
+      description: "📅Date: 21 March, 2025 (Friday)  🕒Time: 8:30 AM - 6:30
+        PM  📍Venue: JPMorganChase, One@Changi, Singapore 486036"
+  - infopic:
+      title: Singapore Prison Service Recruitment Fair 2025
+      id: infopic
+      button: sign up here
+      url: https://go.gov.sg/spsrecruitmentatcorporateadvance
+      alt: Image alt text
+      image: /images/SPS_corporate_advance_2025___1_.png
+      description: "📅Date: 15 April, 2025 (Tuesday) 🕒Time: 2 PM - 5 PM 📍Venue: SUTD
+        (A two-way shuttle service will be arranged from NYJC to SUTD and back
+        or EXPO MRT station.)"
+      subtitle: EDventure
 ---

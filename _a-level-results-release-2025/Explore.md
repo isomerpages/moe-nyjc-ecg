@@ -10,8 +10,10 @@ description: ""
 <summary>NUS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p>Online Experience: 1 Mar 2025</p>
-<p>On-Campus Experience: 8 Mar 2025</p>
+<p><strong>Online Experience: 1 Mar 2025</strong>
+</p>
+<p><strong>On-Campus Experience: 8 Mar 2025</strong>
+</p>
 <p><a href="https://nus.edu.sg/oam/why-nus/admissions-oh2025" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
 <h4>Digital Resources</h4>
@@ -25,11 +27,13 @@ description: ""
 <summary>NTU/NIE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p>Virtual: 17 - 24 Feb 2024</p>
-<p>On Campus: 2 Mar 2024</p>
-<p><a href="https://www.ntu.edu.sg/openhouse" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link to NTU Open House</u></a>
+<p><strong>1 Mar 2025</strong>
 </p>
-<p><a href="https://www.ntu.edu.sg/nie/openhouse" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link to NIE Open House</u></a>
+<p><strong>Day Event: 11am - 7pm</strong>
+</p>
+<p><strong>Night Festival: 6 - 9pm</strong>
+</p>
+<p><a href="https://www.ntu.edu.sg/openhouse?gad_source=1&amp;gclid=CjwKCAiA74G9BhAEEiwA8kNfpQaJEUUMWeOU1sh5XhujbRm-pJCdKi56Zgzn5FZ9dx3z4FkqLlWG-xoC3ScQAvD_BwE" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link to NTU Open House</u></a>
 </p>
 <h4>Digital Resources</h4>
 <p><a href="https://www.ntu.edu.sg/education/degree-programmes#Content_C109_Col00" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate Programmes</u></a>
@@ -50,7 +54,8 @@ description: ""
 <summary>SMU</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p>22 &amp; 23 Feb 2025</p>
+<p><strong>22 &amp; 23 Feb 2025</strong>
+</p>
 <p><a href="https://admissions.smu.edu.sg/openhouse" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
 <h4>Digital Resources</h4>
@@ -66,10 +71,16 @@ description: ""
 <summary>SUTD</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p>24 &amp; 25 Feb 2024, 10:30am - 5:30pm</p>
+<p><strong>22 &amp; 23 Feb 2025, 10:30am - 5pm</strong>
+</p>
 <p><a href="https://openhouse.sutd.edu.sg/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
-<p>Night Fiesta, 24 Feb, 6pm onwards</p>
+<p>SUTD World of Design AI @ VivoCity (Level 1, Central Court), 5 - 9 Feb,
+10am - 10pm</p>
+<p>Fly drones, race robots, bop to AI-generated beats and explore exciting
+AI-powered activities.</p>
+<p><a href="https://www.sutd.edu.sg/events-listing/sutd-world-of-design-ai/" rel="noopener nofollow" target="_blank">Link</a>
+</p>
 <h4>Digital Resources</h4>
 <p><a href="https://www.sutd.edu.sg/admissions/undergraduate" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate Programmes</u></a>
 </p>
@@ -83,9 +94,14 @@ description: ""
 <summary>SIT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p>On Campus: 8 &amp; 9 Feb 2025</p>
-<p><a href="https://www.singaporetech.edu.sg/openhouse/node/2516" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
+<p><strong>On Campus: 8 &amp; 9 Feb 2025, 10am - 6pm</strong>
 </p>
+<p><a href="https://www.singaporetech.edu.sg/openhouse/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SIT OH 2025" src="/images/Screenshot_2025_01_23_151706.png">
+</div>
 <h4>Digital Resources</h4>
 <p><a href="https://www.singaporetech.edu.sg/sites/default/files/2024-06/2020%20System%20User%20Guide%20for%20FA%20Application%20-%20Students.pdf" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>SIT System User Guide for Applicants</u></a>
 </p>
@@ -103,9 +119,14 @@ description: ""
 <summary>SUSS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p>22 Feb 2025, 10am - 5pm</p>
+<p><strong>22 Feb 2025, 10am - 5pm</strong>
+</p>
 <p><a href="https://www.suss.edu.sg/news-and-events/open-house" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SUSS OH 2025" src="/images/SUSS_Open_House_2025.png">
+</div>
 <h4>Digital Resources</h4>
 <p><a href="https://www.suss.edu.sg/docs/default-source/contentdoc/src/fulltime_programmes.pdf" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Full-time Undergraduate Programmes</u></a>
 </p>

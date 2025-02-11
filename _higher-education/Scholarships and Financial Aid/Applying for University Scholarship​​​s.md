@@ -184,7 +184,7 @@ university you are interested in to see the entire list of scholarships</p>
 <p>For overseas scholarships, see the table above.</p>
 </li>
 </ul>
-<h6>2/ Apply</h6>
+<h3>2. Apply</h3>
 <ul>
 <li>
 <p>You will generally need to submit a personal statement. The focus of your

@@ -1,0 +1,8 @@
+collections:
+  ecg-for-teachers:
+    output: true
+    order:
+      - ECG Info for Teachers.md
+      - Helping students with overseas university applications.md
+      - Writing references for students.md
+      - ECG Advising.md

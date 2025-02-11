@@ -7,7 +7,7 @@ description: ""
 <h1>University and Scholarship Application</h1>
 <p>Dear NYJCian, congratulations on receiving your A level Results. Below
 are some important resources to aid you in your journey in applying for
-universities and scholarships. Click <a href="https://docs.google.com/presentation/d/1sr512LBIQRwkGfc6zbHx49KCsSSkg9EC/edit?usp=share_link&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a> for
+universities and scholarships. Click <a href="https://docs.google.com/presentation/d/1J2mwDsNFPnWs1WPAA7OJPZDYUcLSMutP/edit?usp=sharing&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a> for
 MOE's A level results release briefing slides.</p>
 <p>Many of the resources below are found in the NYJC ECG Portal. If you are
 unaware of the password to the ECG Portal, please approach your class EDvocate.</p>
@@ -24,11 +24,11 @@ unaware of the password to the ECG Portal, please approach your class EDvocate.<
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>23 Feb</strong>
+<p><strong>21 Feb</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>23 Feb - 19 Mar</strong>
+<p><strong>21 Feb - 19 Mar</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -149,7 +149,7 @@ if required.</p>
 <p></p>
 </li>
 <li>
-<p>The application deadline is 19 March 2024 for all AUs.</p>
+<p>The application deadline is 19 March 2025 for all AUs.</p>
 </li>
 <li>
 <p>Application to <a href="https://nuscollege.nus.edu.sg/admissions/how-to-apply/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>NUS College</u></a> is
@@ -259,8 +259,8 @@ write referrals for you. CCA teachers are not recommended.</p>
 <p></p>
 </li>
 <li>
-<p>The application deadline is 19 Mar 2024 which falls during March holidays
-(9 – 17 Mar 2024). Teachers may not be contactable during holidays.</p>
+<p>The application deadline is 19 Mar 2025 which falls during March holidays
+(15 – 23 Mar 2025). Teachers may not be contactable during holidays.</p>
 </li>
 </ul>
 <h4>IMPORTANT INFORMATION​</h4>
@@ -271,8 +271,8 @@ submit your application so as to give your teacher ample time to write
 the reference.</p>
 </li>
 <li>
-<p>Since the application deadline is 19 Mar 2024, the latest date to invite
-teachers is 8 Mar 2024.</p>
+<p>Since the application deadline is 19 Mar 2025, the latest date to invite
+teachers is 7 Mar 2024.</p>
 </li>
 </ul>
 <h4>Invitation process</h4>
@@ -298,7 +298,7 @@ you submit the application)</p>
 <p>After inviting teacher,</p>
 <ul>
 <li>
-<p>Download the <a href="https://docs.google.com/document/d/1yIp049S994CRpn9JN0dDWhTpBsyU5bVy/edit?usp=sharing&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>university pre-application reflection form</u></a>,
+<p>Download the <a href="https://docs.google.com/document/d/1DYe7gEpaOWu1-X9PPZHwS8yG0qLa-X0k/edit?usp=sharing&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>university pre-application reflection form</u></a>,
 fill it in and email your teacher referee within 1 week. The information
 you provide will greatly aid your teacher in writing a reference for you.</p>
 </li>
@@ -330,10 +330,15 @@ personal statement writing.</p>
 interviews preparation.</p>
 </li>
 </ul>
-<h4>5. Consider applying for scholarship too</h4>
+<h4>5. Consider applying for scholarship</h4>
 <ul>
 <li>
-<p>Find out more about scholarships and financial assistance <a href="https://ecg.nanyangjc.moe.edu.sg/applying-for-university-scholarship-s/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>.</p>
+<p>Find out more about <strong>scholarships and financial assistance</strong> 
+<a href="https://ecg.nanyangjc.moe.edu.sg/applying-for-university-scholarship-s/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u>
+</a>.</p>
+</li>
+<li>
+<p>For <strong>overseas scholarships</strong>, please click <a href="https://ecg.nanyangjc.moe.edu.sg/why-apply-for-scholarships/" rel="noopener nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
 <p>Two key government scholarships would be, the&nbsp;</p>
@@ -341,7 +346,7 @@ interviews preparation.</p>
 </ul>
 <ol>
 <li>
-<p>PSC Scholarships, and the</p>
+<p>PSC Scholarships, and</p>
 </li>
 <li>
 <p>Singapore-Industry Scholarship.</p>
