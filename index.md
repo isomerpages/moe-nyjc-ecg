@@ -21,7 +21,7 @@ sections:
           url: https://ecg.nanyangjc.moe.edu.sg/applying-for-edspirience/
         - title: EDubuzz
           description: ECG Events @ NYJC
-          url: /edubuzz/
+          url: https://ecg.nanyangjc.moe.edu.sg/edubuzz/
         - title: A-Level Results Release 2025
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/
