@@ -84,8 +84,8 @@ sections:
       description: "📅Date: 22 February, 2025 (Saturday) 🕒Time: 9:30 AM - 12 PM
         📍Venue: NUS High School of Math & Science, 20 Clementi Ave 1 Singapore
         129957"
-      button: Sign up here
-      url: https://tinyurl.com/JAMITCareerSharing2025
+      button: Login to sign up
+      url: https://portal.nyjc.edu.sg/
       image: /images/Screenshot_2025_02_12_110836.png
       alt: Image alt text
 ---
