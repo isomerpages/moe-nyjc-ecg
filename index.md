@@ -86,6 +86,6 @@ sections:
         129957"
       button: Sign up here
       url: https://tinyurl.com/JAMITCareerSharing2025
-      image: /images/Screenshot_2025_02_12_110644.png
+      image: /images/Screenshot_2025_02_12_110836.png
       alt: Image alt text
 ---
