@@ -77,4 +77,14 @@ sections:
         (A two-way shuttle service will be arranged from NYJC to SUTD and back
         or EXPO MRT station.)"
       subtitle: EDventure
+  - infopic:
+      title: An Insight into STEM Careers with MIT Alumni
+      subtitle: EDventure
+      id: infopic
+      description: "📅Date: 22 February, 2025 (Saturday) 🕒Time: 9 AM - 12 PM 📍Venue:
+        NUS High School of Math & Science, 20 Clementi Ave 1 Singapore 129957"
+      button: Sign up here
+      url: https://tinyurl.com/JAMITCareerSharing2025
+      image: /images/Screenshot_2025_02_12_110644.png
+      alt: Image alt text
 ---
