@@ -29,9 +29,9 @@ sections:
       title: An Insight into STEM Careers with MIT Alumni
       subtitle: EDventure
       id: infopic
-      description: "📅Date: 22 February, 2025 (Saturday) 🕒Time: 9:30 AM - 12 PM
-        📍Venue: NUS High School of Math & Science, 20 Clementi Ave 1 Singapore
-        129957"
+      description: "Register by 17 Feb. 📅Date: 22 February, 2025 (Saturday) 🕒Time:
+        9:30 AM - 12 PM 📍Venue: NUS High School of Math & Science, 20 Clementi
+        Ave 1 Singapore 129957"
       button: Login to view announcement
       url: https://portal.nyjc.edu.sg/
       image: /images/Screenshot_2025_02_12_110836.png
