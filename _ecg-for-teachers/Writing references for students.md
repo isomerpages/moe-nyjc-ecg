@@ -34,6 +34,24 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Green Harvesting (NUS, NTU, SMU, SUTD, SIT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nov - Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Around 1st week of Jan (NTU - within 7 days of scholarship application
+submission)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>As per university practice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>As per university practice</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>NUS Scholarships</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,7 +108,7 @@ whichever is earlier)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SUTD</p>
+<p>SUTD Application</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Late Feb - 19 Mar</p>
@@ -104,24 +122,6 @@ whichever is earlier)</p>
 <td rowspan="1" colspan="1">
 <p>Ratings required. 3 sections (Strengths, areas of improvement, other comments).
 300 word limit each.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Green Harvesting (NUS, NTU, SMU, SUTD, SIT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nov - Dec</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Around 1st week of Jan (NTU - within 7 days of scholarship application
-submission)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>As per university practice</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>As per university practice</p>
 </td>
 </tr>
 <tr>
