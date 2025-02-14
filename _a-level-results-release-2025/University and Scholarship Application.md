@@ -10,7 +10,8 @@ are some important resources to aid you in your journey in applying for
 universities and scholarships. Click <a href="https://docs.google.com/presentation/d/1J2mwDsNFPnWs1WPAA7OJPZDYUcLSMutP/edit?usp=sharing&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a> for
 MOE's A level results release briefing slides.</p>
 <p>Many of the resources regarding university admissions can found in this
-NYJC ECG Portal. Please visit the respective pages for more information.</p>
+NYJC ECG Portal. Please visit the respective pages under the "<strong>Higher Education</strong>"
+for more information.</p>
 <p></p>
 <p>Application Process</p>
 <table style="minWidth: 125px">
