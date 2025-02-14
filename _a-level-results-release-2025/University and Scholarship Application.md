@@ -92,7 +92,6 @@ for more information.</p>
 </table>
 <p>Application steps (Click <a href="https://docs.google.com/presentation/d/1J2mwDsNFPnWs1WPAA7OJPZDYUcLSMutP/edit?usp=sharing&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>&nbsp;for
 the briefing slides on Application to Local Universities.)</p>
-<p>&nbsp;</p>
 <h4>1. Explore</h4>
 <ul>
 <li>
