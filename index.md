@@ -24,7 +24,7 @@ sections:
           url: https://ecg.nanyangjc.moe.edu.sg/edubuzz/
         - title: A-Level Results Release 2025
           description: Application to Universities
-          url: https://ecg.nanyangjc.moe.edu.sg/
+          url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
       title: An Insight into STEM Careers with MIT Alumni
       subtitle: EDventure
