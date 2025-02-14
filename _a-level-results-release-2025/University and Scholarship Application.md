@@ -168,10 +168,12 @@ via the various programmes under each university.</p>
 may be separate or together with the admissions application.</p>
 </li>
 </ul>
-<p>For students interested in applying to Medicine</p>
+<p><u>For students interested in applying to Medicine</u>
+</p>
 <p>Resources on getting into Medicine: <a href="https://ecg.nanyangjc.moe.edu.sg/getting-into-medicine/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Link</u></a>
 </p>
-<p>Digital Certificate for Application to Local Autonomous Universities</p>
+<p><u>Digital Certificate for Application to Local Autonomous Universities</u>
+</p>
 <ul>
 <li>
 <p>Starting from this year, all A-Level candidates, who are Singapore Citizens
