@@ -136,5 +136,22 @@ AI-powered activities.</p>
 </p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>UAS</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4>Open House Information</h4>
+<p><strong>8 Mar 2025, 10:30am - 6:30pm</strong>
+</p>
+<p><a href="https://uas.edu.sg/news-and-events/EventDetails?title=Open+House+%40+UAS+2025" rel="noopener nofollow" target="_blank">Link</a>
+</p>
+<p><strong>'The University of the Arts Singapore and Higher Arts Education Today -- A Dialogue with UAS Leaders</strong>'
+at 11:00AM. Sign up link below.</p>
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=z4_P9Y5-Ck6xmoLMTBW3Rl66mkoZjWdPqnh4D3-oa0JURE9UTjk1NUpGV04yU0JHODJJQVYwSUhNVS4u&amp;route=shorturl" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="UAS OH 2025" src="/images/UAS_Open_House_2025.jpg">
+</div>
+</div>
+</details>
 </div>
 <p></p>

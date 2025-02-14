@@ -271,7 +271,7 @@ the universities and polytechnics.</p>
 the tertiary institutes.</p>
 </li>
 <li>
-<p>Students should approach&nbsp;General Office&nbsp;if they wish to re-take&nbsp;A&nbsp;levels.​</p>
+<p>Students should approach&nbsp;General Office&nbsp;if they wish to re-take&nbsp;A-Level.​</p>
 </li>
 </ul>
 <h2>Termly Sharing recordings</h2>
