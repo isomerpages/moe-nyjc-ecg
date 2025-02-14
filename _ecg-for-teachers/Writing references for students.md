@@ -111,12 +111,12 @@ whichever is earlier)</p>
 <p>NUS Medicine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ABA Scheme - 5 Mar, 12pm</p>
+<p>ABA Scheme - 11 Mar, 12pm</p>
 <p>Standard Scheme - 19 Mar, 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Under ABA Scheme - 5 Mar, 12pm</p>
-<p>Under Standard Scheme - 22 Mar, 12pm</p>
+<p>Under ABA Scheme - 11 Mar, 12pm</p>
+<p>Under Standard Scheme - 20 Mar, 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher who knows student well</p>
