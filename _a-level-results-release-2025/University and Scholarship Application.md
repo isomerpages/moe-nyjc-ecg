@@ -278,7 +278,7 @@ the reference.</p>
 </li>
 <li>
 <p>Since the application deadline is 19 Mar 2025, the latest date to invite
-teachers is 7 Mar 2024.</p>
+teachers is 7 Mar 2025.</p>
 </li>
 </ul>
 <h4>Invitation process</h4>
