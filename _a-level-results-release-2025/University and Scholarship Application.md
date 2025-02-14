@@ -168,7 +168,8 @@ via the various programmes under each university.</p>
 may be separate or together with the admissions application.</p>
 </li>
 <li>
-<p>To apply to overseas universities, please click here for more info.</p>
+<p>To apply to overseas universities, please click <a href="https://ecg.nanyangjc.moe.edu.sg/admissions-coordinators/" rel="noopener nofollow" target="_blank">here</a> for
+more info.</p>
 </li>
 </ul>
 <p><u>For students interested in applying to Medicine</u>
