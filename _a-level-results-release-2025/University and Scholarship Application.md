@@ -384,8 +384,8 @@ Mr Chng Yongxi (Subject Head Talent Development):&nbsp;<a href="https://docs.goo
 <ul>
 <li>
 <p>Successful applicants are required to accept the admission offer online
-via Joint Acceptance Portal by the deadline shown in your electronic offer
-letter.</p>
+via the <a href="https://www.jointacceptance.edu.sg/" rel="noopener nofollow" target="_blank">Joint Acceptance Portal</a> by
+the deadline shown in your electronic offer letter.</p>
 </li>
 <li>
 <p><strong>The windows for acceptance are: <br>1st window: 2 January to 23 May 2025 (for offers released before 23 May 2025) <br>2nd window: 1 to 16 June 2025 (for offers released between 23 May and 16 June 2025)</strong>
