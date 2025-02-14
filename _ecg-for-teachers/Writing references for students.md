@@ -147,7 +147,42 @@ earlier)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SUTD Application</p>
+<p>SIT Admissions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Late Feb - 19 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher who knows student well</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Free text (up to max. 800 words) with option to upload documents</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SUSS Admissions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Late Feb - 19 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19 Mar</p>
+<p>To be emailed to SUSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher who knows student well</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No word limit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SUTD Admissions</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Late Feb - 19 Mar</p>
