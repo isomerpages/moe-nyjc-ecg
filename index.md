@@ -37,6 +37,17 @@ sections:
       image: /images/Screenshot_2025_02_12_110836.png
       alt: Image alt text
   - infopic:
+      title: Discover Degree in the UK
+      subtitle: EDmissions
+      id: infopic
+      description: "📅Date: 21 February, 2025 (Friday) 🕒Time: 6:30 PM - 7:30 PM
+        📍Venue: Odeon Towers, N Bridge Rd, Singapore 188720 (Detailed location
+        will be emailed to you.)"
+      button: sign up here
+      url: https://form.jotform.com/250351339532048
+      image: /images/Discover_Degree_in_the_UK.jpg
+      alt: Image alt text
+  - infopic:
       title: JC2 Parents' Dialogue with Autonomous University Reps
       subtitle: EDmissions
       id: infopic
