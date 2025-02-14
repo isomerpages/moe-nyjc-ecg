@@ -108,24 +108,6 @@ whichever is earlier)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SUTD Application</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Late Feb - 19 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Within 7 days of application deadline</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math/Science teacher (Physics preferred)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ratings required. 3 sections (Strengths, areas of improvement, other comments).
-300 word limit each.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>NUS Medicine</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,6 +143,24 @@ earlier)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Open ended question. 200 word limit.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SUTD Application</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Late Feb - 19 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Within 7 days of application deadline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Math/Science teacher (Physics preferred)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ratings required. 3 sections (Strengths, areas of improvement, other comments).
+300 word limit each.</p>
 </td>
 </tr>
 <tr>
