@@ -9,8 +9,9 @@ description: ""
 are some important resources to aid you in your journey in applying for
 universities and scholarships. Click <a href="https://docs.google.com/presentation/d/1J2mwDsNFPnWs1WPAA7OJPZDYUcLSMutP/edit?usp=sharing&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a> for
 MOE's A level results release briefing slides.</p>
-<p>Many of the resources below are found in the NYJC ECG Portal. If you are
-unaware of the password to the ECG Portal, please approach your class EDvocate.</p>
+<p>Many of the resources regarding university admissions can found in this
+NYJC ECG Portal. Please visit the respective pages under the "<strong>Higher Education</strong>"
+for more information.</p>
 <p></p>
 <p>Application Process</p>
 <table style="minWidth: 125px">
@@ -91,7 +92,6 @@ unaware of the password to the ECG Portal, please approach your class EDvocate.<
 </table>
 <p>Application steps (Click <a href="https://docs.google.com/presentation/d/1J2mwDsNFPnWs1WPAA7OJPZDYUcLSMutP/edit?usp=sharing&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>&nbsp;for
 the briefing slides on Application to Local Universities.)</p>
-<p>&nbsp;</p>
 <h4>1. Explore</h4>
 <ul>
 <li>
@@ -167,11 +167,17 @@ via the various programmes under each university.</p>
 <p>Apply for university scholarships at the same time. The scholarship application
 may be separate or together with the admissions application.</p>
 </li>
+<li>
+<p>To apply to overseas universities, please click <a href="https://ecg.nanyangjc.moe.edu.sg/admissions-coordinators/" rel="noopener nofollow" target="_blank">here</a> for
+more info.</p>
+</li>
 </ul>
-<p>For students interested in applying to Medicine</p>
+<p><u>For students interested in applying to Medicine</u>
+</p>
 <p>Resources on getting into Medicine: <a href="https://ecg.nanyangjc.moe.edu.sg/getting-into-medicine/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Link</u></a>
 </p>
-<p>Digital Certificate for Application to Local Autonomous Universities</p>
+<p><u>Digital Certificate for Application to Local Autonomous Universities</u>
+</p>
 <ul>
 <li>
 <p>Starting from this year, all A-Level candidates, who are Singapore Citizens
@@ -384,8 +390,8 @@ Mr Chng Yongxi (Subject Head Talent Development):&nbsp;<a href="https://docs.goo
 <ul>
 <li>
 <p>Successful applicants are required to accept the admission offer online
-via Joint Acceptance Portal by the deadline shown in your electronic offer
-letter.</p>
+via the <a href="https://www.jointacceptance.edu.sg/" rel="noopener nofollow" target="_blank">Joint Acceptance Portal</a> by
+the deadline shown in your electronic offer letter.</p>
 </li>
 <li>
 <p><strong>The windows for acceptance are: <br>1st window: 2 January to 23 May 2025 (for offers released before 23 May 2025) <br>2nd window: 1 to 16 June 2025 (for offers released between 23 May and 16 June 2025)</strong>
