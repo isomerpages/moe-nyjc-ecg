@@ -171,7 +171,8 @@ earlier)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>19 Mar</p>
-<p>To be emailed to SUSS</p>
+<p>To be emailed to <a href="mailto:ft_admissions@suss.edu.sg" rel="noopener nofollow" target="_blank">SUSS</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher who knows student well</p>
