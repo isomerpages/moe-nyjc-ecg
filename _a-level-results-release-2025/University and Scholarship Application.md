@@ -167,6 +167,9 @@ via the various programmes under each university.</p>
 <p>Apply for university scholarships at the same time. The scholarship application
 may be separate or together with the admissions application.</p>
 </li>
+<li>
+<p>To apply to overseas universities, please click here for more info.</p>
+</li>
 </ul>
 <p><u>For students interested in applying to Medicine</u>
 </p>
