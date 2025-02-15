@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h1>University and Scholarship Application</h1>
-<p>Dear NYJCian, congratulations on receiving your A level Results. Below
+<p>Dear NYJCians, congratulations on receiving your A level Results. Below
 are some important resources to aid you in your journey in applying for
 universities and scholarships. Click <a href="https://docs.google.com/presentation/d/1uu6p_2rI6LMuEZEcnm15ZW5QiMCCU9L5/edit?usp=sharing&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a> for
 MOE's A-Level results release briefing slides.</p>
