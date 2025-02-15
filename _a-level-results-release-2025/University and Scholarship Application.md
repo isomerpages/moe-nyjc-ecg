@@ -72,11 +72,13 @@ for more information.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Application Period Apply to each university individually&nbsp;</strong>
+<p><strong>Application Period </strong>
+</p>
+<p><strong>Apply to each university individually&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Offer &amp; Acceptance (Joint Acceptance Portal) </strong>
+<p><strong>Offer &amp; Acceptance (Joint Acceptance Portal)</strong>
 </p>
 <p><strong>Referee Report Submission&nbsp;</strong>
 </p>
