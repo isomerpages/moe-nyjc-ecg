@@ -8,7 +8,7 @@ description: ""
 <p>Dear NYJCian, congratulations on receiving your A level Results. Below
 are some important resources to aid you in your journey in applying for
 universities and scholarships. Click <a href="https://docs.google.com/presentation/d/1uu6p_2rI6LMuEZEcnm15ZW5QiMCCU9L5/edit?usp=sharing&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a> for
-MOE's A level results release briefing slides.</p>
+MOE's A-Level results release briefing slides.</p>
 <p>Many of the resources regarding university admissions can found in this
 NYJC ECG Portal. Please visit the respective pages under the "<strong>Higher Education</strong>"
 for more information.</p>
