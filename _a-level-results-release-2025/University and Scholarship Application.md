@@ -349,7 +349,8 @@ interviews preparation.</p>
 </a>.</p>
 </li>
 <li>
-<p>For <strong>overseas scholarships</strong>, please click <a href="https://ecg.nanyangjc.moe.edu.sg/why-apply-for-scholarships/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>For <strong>overseas scholarships</strong>, please click <a href="https://ecg.nanyangjc.moe.edu.sg/why-apply-for-scholarships/" rel="noopener nofollow" target="_blank">here</a> (scroll
+to Point 2).</p>
 </li>
 <li>
 <p>Two key government scholarships would be, the&nbsp;</p>
