@@ -34,13 +34,31 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Green Harvesting (NUS, NTU, SMU, SUTD, SIT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nov - Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Around 1st week of Jan (NTU - within 7 days of scholarship application
+submission)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>As per university practice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>As per university practice</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>NUS Scholarships</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Late Feb - 19 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22 Mar</p>
+<p>26 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher who knows student well</p>
@@ -90,51 +108,15 @@ whichever is earlier)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SUTD</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Late Feb - 19 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Within 7 days of application deadline</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math/Science teacher (Physics preferred)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ratings required. 3 sections (Strengths, areas of improvement, other comments).
-300 word limit each.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Green Harvesting (NUS, NTU, SMU, SUTD, SIT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nov - Dec</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Around 1st week of Jan (NTU - within 7 days of scholarship application
-submission)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>As per university practice</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>As per university practice</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>NUS Medicine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ABA Scheme - 5 Mar, 12pm</p>
+<p>ABA Scheme - 11 Mar, 12pm</p>
 <p>Standard Scheme - 19 Mar, 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Under ABA Scheme - 5 Mar, 12pm</p>
-<p>Under Standard Scheme - 22 Mar, 12pm</p>
+<p>Under ABA Scheme - 11 Mar, 12pm</p>
+<p>Under Standard Scheme - 20 Mar, 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher who knows student well</p>
@@ -161,6 +143,60 @@ earlier)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Open ended question. 200 word limit.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SIT Admissions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Late Feb - 19 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher who knows student well</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Free text (up to max. 800 words) with option to upload documents</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SUSS Admissions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Late Feb - 19 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19 Mar</p>
+<p>To be emailed to <a href="mailto:ft_admissions@suss.edu.sg" rel="noopener nofollow" target="_blank">SUSS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher who knows student well</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No word limit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SUTD Admissions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Late Feb - 19 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Within 7 days of application deadline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Math/Science teacher (Physics preferred)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ratings required. 3 sections (Strengths, areas of improvement, other comments).
+300 word limit each.</p>
 </td>
 </tr>
 <tr>

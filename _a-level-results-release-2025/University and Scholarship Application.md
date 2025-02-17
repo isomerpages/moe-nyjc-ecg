@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h1>University and Scholarship Application</h1>
-<p>Dear NYJCian, congratulations on receiving your A level Results. Below
+<p>Dear NYJCians, congratulations on receiving your A-Level Results. Below
 are some important resources to aid you in your journey in applying for
-universities and scholarships. Click <a href="https://docs.google.com/presentation/d/1J2mwDsNFPnWs1WPAA7OJPZDYUcLSMutP/edit?usp=sharing&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a> for
-MOE's A level results release briefing slides.</p>
+universities and scholarships. Click <a href="https://docs.google.com/presentation/d/1uu6p_2rI6LMuEZEcnm15ZW5QiMCCU9L5/edit?usp=sharing&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a> for
+MOE's A-Level results release briefing slides.</p>
 <p>Many of the resources regarding university admissions can found in this
 NYJC ECG Portal. Please visit the respective pages under the "<strong>Higher Education</strong>"
 for more information.</p>
@@ -55,7 +55,7 @@ for more information.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Interviews and Selection Tests</strong>
+<p><strong>Interviews &amp; Selection Tests</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,15 +72,20 @@ for more information.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Application Period Apply to each university individually&nbsp;</strong>
+<p><strong>Application Period</strong>
+</p>
+<p></p>
+<p><strong>Apply separately to each university of your choice&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Offer &amp; Acceptance (Joint Acceptance Portal) Referee Report Submission&nbsp;</strong>
+<p><strong>Offer &amp; Acceptance (through Joint Acceptance Portal)</strong>
+</p>
+<p><strong>Referee Report Submission&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Offer &amp; Acceptance</strong>
+<p><strong>Offer &amp; Acceptance (through Joint Acceptance Portal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -168,7 +173,7 @@ via the various programmes under each university.</p>
 may be separate or together with the admissions application.</p>
 </li>
 <li>
-<p>To apply to overseas universities, please click <a href="https://ecg.nanyangjc.moe.edu.sg/admissions-coordinators/" rel="noopener nofollow" target="_blank">here</a> for
+<p>To apply to <strong>overseas universities</strong>, please click <a href="https://ecg.nanyangjc.moe.edu.sg/admissions-coordinators/" rel="noopener nofollow" target="_blank">here</a>for
 more info.</p>
 </li>
 </ul>
@@ -344,7 +349,8 @@ interviews preparation.</p>
 </a>.</p>
 </li>
 <li>
-<p>For <strong>overseas scholarships</strong>, please click <a href="https://ecg.nanyangjc.moe.edu.sg/why-apply-for-scholarships/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>For <strong>overseas scholarships</strong>, please click <a href="https://ecg.nanyangjc.moe.edu.sg/why-apply-for-scholarships/" rel="noopener nofollow" target="_blank">here</a> (scroll
+to Point 2).</p>
 </li>
 <li>
 <p>Two key government scholarships would be, the&nbsp;</p>

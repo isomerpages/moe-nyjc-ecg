@@ -149,8 +149,8 @@ find out more, explore the <a href="https://brightsparks.com.sg/searchScholarshi
 </li>
 <li>
 <p>Alternatively there are some but limited bond-free university scholarships
-available for international admissions below. List is not exhaustive, go
-to the international admissions page of each university to find out more.</p>
+available for overseas admissions below. List is not exhaustive, go to
+the international admissions page of each university to find out more.</p>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -161,7 +161,7 @@ to the international admissions page of each university to find out more.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Country</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Scholarship</p>
@@ -195,6 +195,20 @@ year e.g. <a href="https://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=7615
 <p><a href="https://www.campuschina.org/scholarships/index.html" rel="noopener nofollow" target="_blank">Campus China Scholarships</a>
 </p>
 <p>Or refer to the individual university websites</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hong Kong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/publicly-funded-programmes/scholarship.html" rel="noopener noreferrer nofollow" target="_blank">The Hong Kong Special Administrative Region Government Scholarship</a>
+</p>
+<p><a href="https://www.cspe.edu.hk/en/Overview-Measures-Fund-SPSS.html" rel="noopener noreferrer nofollow" target="_blank">The Self-financing Post-secondary Education Fund</a>
+</p>
+<p><a href="https://youtu.be/IFhW13Ez45o" rel="noopener noreferrer nofollow" target="_blank">The Belt and Road Scholarship</a> (click
+<a href="https://eng.yidaiyilu.gov.cn/info/iList.jsp?cat_id=10076&amp;cur_page=1" rel="noopener nofollow" target="_blank">here</a>for the list of the <em>Belt and Road countries)</em>
+</p>
 </td>
 </tr>
 <tr>
