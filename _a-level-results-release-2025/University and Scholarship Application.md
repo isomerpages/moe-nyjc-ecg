@@ -55,7 +55,7 @@ for more information.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Interviews and Selection Tests</strong>
+<p><strong>Interviews &amp; Selection Tests</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,8 +173,8 @@ via the various programmes under each university.</p>
 may be separate or together with the admissions application.</p>
 </li>
 <li>
-<p>To apply to overseas universities, please click <a href="https://ecg.nanyangjc.moe.edu.sg/admissions-coordinators/" rel="noopener nofollow" target="_blank">here</a> for
-more info.</p>
+<p>To apply to <strong><u>overseas universities</u></strong>, please click
+<a href="https://ecg.nanyangjc.moe.edu.sg/admissions-coordinators/" rel="noopener nofollow" target="_blank">here</a>for more info.</p>
 </li>
 </ul>
 <p><u>For students interested in applying to Medicine</u>
