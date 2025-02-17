@@ -149,8 +149,8 @@ find out more, explore the <a href="https://brightsparks.com.sg/searchScholarshi
 </li>
 <li>
 <p>Alternatively there are some but limited bond-free university scholarships
-available for international admissions below. List is not exhaustive, go
-to the international admissions page of each university to find out more.</p>
+available for overseas admissions below. List is not exhaustive, go to
+the international admissions page of each university to find out more.</p>
 </li>
 </ul>
 <table style="minWidth: 50px">
