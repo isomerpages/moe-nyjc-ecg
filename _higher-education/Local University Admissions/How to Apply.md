@@ -163,17 +163,19 @@ points.</p>
 </li>
 <li>
 <p>The maximum points for H2 and H1 subjects are 20 and 10 respectively.
-Maximum number of points is 70.</p>
+Maximum number of points is 90.</p>
 </li>
 <li>
-<p>Your H1 MTL and/or the fourth H1/H2 content-based subject may be considered
-if it improves the UAS. (i.e. with and without the H1 MTL and/or fourth
-H1/H2 content-based subject.)</p>
+<p>Your H1 MTL results may be considered if it improves the UAS.</p>
 </li>
 <li>
-<p>H3 papers taken at the ‘A’ Level examination are not considered in the
-computation of the UAS. Candidates who have taken H3 programmes may be
-considered for admissions under Aptitude-based Admissions (ABA).</p>
+<p>H3 papers taken at the A-Level examination are not considered in the computation
+of the UAS. Candidates who have taken H3 programmes may be considered for
+admissions under Aptitude-based Admissions (ABA).</p>
+</li>
+<li>
+<p><strong>NOTE: If you are applying in AY2026 and AY2027, your UAS will be computed based on 90 points and rebased to 70 points. If you are applying from AY2028 onwards, your UAS will be based on the revised computation method (i.e. 70 points based on 3 H2 content-based subjects and GP + Pass in Project Work and MTL).</strong>
+</p>
 </li>
 </ul>
 <p><strong>For those with A-Level results from 2025 onwards:</strong>
@@ -192,8 +194,7 @@ Maximum number of points is 70.</p>
 </li>
 <li>
 <p>Your H1 MTL and/or the fourth H1/H2 content-based subject may be considered
-if it improves the UAS. (i.e. with and without the H1 MTL and/or fourth
-H1/H2 content-based subject.)</p>
+if it improves the UAS.</p>
 </li>
 <li>
 <p>H3 papers taken at the ‘A’ Level examination are not considered in the
