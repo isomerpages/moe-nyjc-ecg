@@ -142,9 +142,9 @@ access the university websites:</p>
 ECG Repository.</p>
 <p><strong>University Admissions Score (UAS)&nbsp;(</strong>Click <a href="https://www.sgunistats.com/calculator#google_vignette" rel="noopener nofollow" target="_blank">here</a> for
 the UAS Calculator.)</p>
-<p>The universities select candidates based on their university admissions
-score (UAS), also known as rank points.</p>
-<p>The University Admission Score (UAS) is calculated as follows:</p>
+<p>The universities select candidates based on their UAS, also known as rank
+points.</p>
+<p>The UAS is calculated as follows:</p>
 <p><strong>For those with A-Level results from 2024 or earlier:</strong>
 </p>
 <ul>
