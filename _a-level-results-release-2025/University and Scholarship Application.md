@@ -79,13 +79,13 @@ for more information.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Offer &amp; Acceptance (Joint Acceptance Portal)</strong>
+<p><strong>Offer &amp; Acceptance (through Joint Acceptance Portal)</strong>
 </p>
 <p><strong>Referee Report Submission&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Offer &amp; Acceptance</strong>
+<p><strong>Offer &amp; Acceptance (through Joint Acceptance Portal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
