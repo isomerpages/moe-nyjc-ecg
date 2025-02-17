@@ -58,6 +58,10 @@ description: ""
 </p>
 <p><a href="https://admissions.smu.edu.sg/openhouse" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SMU OH 2025" src="/images/Screenshot_2025_02_17_175636.png">
+</div>
 <h4>Digital Resources</h4>
 <p><a href="https://admissions.smu.edu.sg/find-your-major" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Find your major generator</u></a>
 </p>
