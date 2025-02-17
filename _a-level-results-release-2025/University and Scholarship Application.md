@@ -72,9 +72,10 @@ for more information.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Application Period </strong>
+<p><strong>Application Period</strong>
 </p>
-<p><strong>Apply to each university individually&nbsp;</strong>
+<p></p>
+<p><strong>Apply separately to each university of your choice&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
