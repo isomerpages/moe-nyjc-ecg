@@ -83,10 +83,10 @@ description: ""
 </p>
 <p><a href="https://openhouse.sutd.edu.sg/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SUTD OH 2025" src="/images/SUTD_OH_2025.png">
 </div>
-<p></p>
 <p>SUTD World of Design AI @ VivoCity (Level 1, Central Court), 5 - 9 Feb,
 10am - 10pm</p>
 <p>Fly drones, race robots, bop to AI-generated beats and explore exciting
