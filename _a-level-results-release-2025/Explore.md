@@ -83,7 +83,6 @@ description: ""
 </p>
 <p><a href="https://openhouse.sutd.edu.sg/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SUTD OH 2025" src="/images/SUTD_OH_2025.png">
 </div>
@@ -157,13 +156,13 @@ AI-powered activities.</p>
 </p>
 <p><a href="https://uas.edu.sg/news-and-events/EventDetails?title=Open+House+%40+UAS+2025" rel="noopener nofollow" target="_blank">Link</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="UAS OH 2025" src="/images/UAS_Open_House_2025.jpg">
+</div>
 <p><strong>'The University of the Arts Singapore and Higher Arts Education Today -- A Dialogue with UAS Leaders</strong>'
 at 11:00AM. Sign up link below.</p>
 <p><a href="https://forms.office.com/pages/responsepage.aspx?id=z4_P9Y5-Ck6xmoLMTBW3Rl66mkoZjWdPqnh4D3-oa0JURE9UTjk1NUpGV04yU0JHODJJQVYwSUhNVS4u&amp;route=shorturl" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="UAS OH 2025" src="/images/UAS_Open_House_2025.jpg">
-</div>
 </div>
 </details>
 </div>
