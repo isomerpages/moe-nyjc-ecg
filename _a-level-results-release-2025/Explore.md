@@ -35,6 +35,10 @@ description: ""
 </p>
 <p><a href="https://www.ntu.edu.sg/openhouse?gad_source=1&amp;gclid=CjwKCAiA74G9BhAEEiwA8kNfpQaJEUUMWeOU1sh5XhujbRm-pJCdKi56Zgzn5FZ9dx3z4FkqLlWG-xoC3ScQAvD_BwE" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link to NTU Open House</u></a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NTU OH 2025" src="/images/E_invite_A4.jpg">
+</div>
 <h4>Digital Resources</h4>
 <p><a href="https://www.ntu.edu.sg/education/degree-programmes#Content_C109_Col00" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate Programmes</u></a>
 </p>
