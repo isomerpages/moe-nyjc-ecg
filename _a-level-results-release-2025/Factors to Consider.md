@@ -39,6 +39,107 @@ interview.</p>
 like special programmes, facilities, curriculum content,&nbsp; etc. Please
 read more <a href="https://ecg.nanyangjc.moe.edu.sg/key-factors-to-consider/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>.</p>
 <h4>University Admission Score (UAS) calculation</h4>
+<p>The universities select candidates based on their UAS, which is the sum
+of the rank points for subjects that are considered in the calculation
+of their UAS. The table below shows the corresponding rank points for each
+grade.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Grade</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>H2 Subject</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>H1 Subject</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17.5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.75</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.25</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>U</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>To gauge if you meet the minimum Indicative Grade Profile (IGP) for each
 course, you need to compare your UAS against the 10th percentile IGP for
 the course. Please note that meeting the previous year’s grade of a course
