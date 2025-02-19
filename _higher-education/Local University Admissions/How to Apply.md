@@ -140,10 +140,109 @@ access the university websites:</p>
 </table>
 <p>Alternatively, login to our College Portal <a href="https://portal.nyjc.edu.sg/" rel="noopener nofollow" target="_blank">here</a> to view the summary under the
 ECG Repository.</p>
-<p><strong>University Admissions Score (UAS)&nbsp;(</strong>Click <a href="https://www.sgunistats.com/calculator#google_vignette" rel="noopener nofollow" target="_blank">here</a> for
+<p><strong>University Admissions Score (UAS)&nbsp;</strong>(Click <a href="https://www.sgunistats.com/calculator#google_vignette" rel="noopener nofollow" target="_blank">here</a> for
 the UAS Calculator.)</p>
-<p>The universities select candidates based on their UAS, also known as rank
-points.</p>
+<p>The universities select candidates based on their UAS, which is the sum
+of the rank points for subjects that are considered in the calculation
+of their UAS. The table below shows the corresponding rank points for each
+grade.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Grade</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>H2 Subject</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>H1 Subject</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17.5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.75</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7.5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.25</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>E</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>U</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>The UAS is calculated as follows:</p>
 <p><strong>For those with A-Level results from 2024 or earlier:</strong>
 </p>
