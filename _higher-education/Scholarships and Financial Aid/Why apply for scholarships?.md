@@ -169,21 +169,40 @@ the international admissions page of each university to find out more.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>United States</p>
+<p>United Kingdom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://blog.prepscholar.com/colleges-with-the-best-financial-aid" rel="noopener nofollow" target="_blank">36 Colleges with the best financial aid</a>
+<p><a href="https://www.jardines.com/en/sustainability/our-strategy/shaping-social-inclusion/jardine-foundation?tab=apply-" rel="noopener" target="_blank"><u>Jardine Foundation Scholarship </u></a>(for
+Oxbridge)</p>
+<p><a href="https://warwick.ac.uk/study/international/admissions/finance/scholarships/friends_singapore/" rel="noopener" target="_blank"><u>Friends of Warwick Scholarship</u></a>
+</p>
+<p><a href="https://uwaterloo.ca/undergraduate-entrance-awards/awards/faculty-mathematics-global-scholarships" rel="noopener nofollow" target="_blank">Waterloo Faculty of Mathematics Global Scholarships</a>
+</p>
+<p><a href="https://registryservices.ed.ac.uk/student-funding/undergraduate/international/mathematics" rel="noopener nofollow" target="_blank">Edinburgh Global Undergraduate Mathematics Scholarships</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Korea</p>
+<p>United States</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.studyinkorea.go.kr/ko/scholarshipmain.do" rel="noopener" target="_blank"><u>Korean Government Scholarship</u></a> (Application
-announcement is posted on Korean Embassy <a href="https://overseas.mofa.go.kr/sg-en/brd/m_2435/list.do" rel="noopener" target="_blank"><u>notice board</u></a> every
-year e.g. <a href="https://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761512&amp;page=2" rel="noopener" target="_blank"><u>2025 scholarship</u>)</a>
+<p><a href="https://blog.prepscholar.com/colleges-with-the-best-financial-aid" rel="noopener nofollow" target="_blank">36 Colleges with the best financial aid</a>
+</p>
+<p><a href="https://scholarships.oregonstate.edu/scholarships-new-osu-students" rel="noopener nofollow" target="_blank">Provost's Scholarships for Excellence (Oregon State University)</a>
+</p>
+<p><a href="https://international-admissions.arizona.edu/cost-scholarships/undergraduate" rel="noopener nofollow" target="_blank">First-Year Global Wildcat Award (University of Arizona)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Canada</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://you.ubc.ca/financial-planning/scholarships-awards-international-students/" rel="noopener" target="_blank"><u>UBC Outstanding&nbsp;International Student Award</u></a>
+</p>
+<p><a href="https://future.utoronto.ca/pearson/about/" rel="noopener" target="_blank"><u>UoT Lester B. Pearson International Scholarship</u></a>
 </p>
 </td>
 </tr>
@@ -229,6 +248,17 @@ in Taiwan.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Korea</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.studyinkorea.go.kr/ko/scholarshipmain.do" rel="noopener" target="_blank"><u>Korean Government Scholarship</u></a> (Application
+announcement is posted on Korean Embassy <a href="https://overseas.mofa.go.kr/sg-en/brd/m_2435/list.do" rel="noopener" target="_blank"><u>notice board</u></a> every
+year e.g. <a href="https://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=761512&amp;page=2" rel="noopener" target="_blank"><u>2025 scholarship</u>)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Japan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -238,24 +268,28 @@ in Taiwan.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Canada</p>
+<p>Australia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://you.ubc.ca/financial-planning/scholarships-awards-international-students/" rel="noopener" target="_blank"><u>UBC Outstanding&nbsp;International Student Award</u></a>
-</p>
-<p><a href="https://future.utoronto.ca/pearson/about/" rel="noopener" target="_blank"><u>UoT Lester B. Pearson International Scholarship</u></a>
+<p><a href="https://international.unisa.edu.au/scholarships-and-sponsorships/international-merit-scholarship/" rel="noopener nofollow" target="_blank">South Australia International Merit Scholarship</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>United Kingdom</p>
+<p>Germany</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.jardines.com/en/sustainability/our-strategy/shaping-social-inclusion/jardine-foundation?tab=apply-" rel="noopener" target="_blank"><u>Jardine Foundation Scholarship </u></a>(for
-Oxbridge)</p>
-<p><a href="https://warwick.ac.uk/study/international/admissions/finance/scholarships/friends_singapore/" rel="noopener" target="_blank"><u>Friends of Warwick Scholarship</u></a>
+<p><a href="https://www.hua.uni-heidelberg.de/en/scholarships/haus-study-scholarship" rel="noopener nofollow" target="_blank">Heidelberg HAUS U.S. Scholarship</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
