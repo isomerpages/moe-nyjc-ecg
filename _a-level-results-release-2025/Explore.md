@@ -35,6 +35,10 @@ description: ""
 </p>
 <p><a href="https://www.ntu.edu.sg/openhouse?gad_source=1&amp;gclid=CjwKCAiA74G9BhAEEiwA8kNfpQaJEUUMWeOU1sh5XhujbRm-pJCdKi56Zgzn5FZ9dx3z4FkqLlWG-xoC3ScQAvD_BwE" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link to NTU Open House</u></a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NTU OH 2025" src="/images/E_invite_A4.jpg">
+</div>
 <h4>Digital Resources</h4>
 <p><a href="https://www.ntu.edu.sg/education/degree-programmes#Content_C109_Col00" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate Programmes</u></a>
 </p>
@@ -60,7 +64,7 @@ description: ""
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SMU OH 2025" src="/images/Screenshot_2025_02_17_175636.png">
+<img style="width: 100%" height="auto" width="100%" alt="SMU OH 2025" src="/images/SMU_OH_2025.png">
 </div>
 <h4>Digital Resources</h4>
 <p><a href="https://admissions.smu.edu.sg/find-your-major" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Find your major generator</u></a>
@@ -79,6 +83,10 @@ description: ""
 </p>
 <p><a href="https://openhouse.sutd.edu.sg/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SUTD OH 2025" src="/images/SUTD_OH_2025.png">
+</div>
 <p>SUTD World of Design AI @ VivoCity (Level 1, Central Court), 5 - 9 Feb,
 10am - 10pm</p>
 <p>Fly drones, race robots, bop to AI-generated beats and explore exciting
@@ -148,13 +156,13 @@ AI-powered activities.</p>
 </p>
 <p><a href="https://uas.edu.sg/news-and-events/EventDetails?title=Open+House+%40+UAS+2025" rel="noopener nofollow" target="_blank">Link</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="UAS OH 2025" src="/images/UAS_Open_House_2025.jpg">
+</div>
 <p><strong>'The University of the Arts Singapore and Higher Arts Education Today -- A Dialogue with UAS Leaders</strong>'
 at 11:00AM. Sign up link below.</p>
 <p><a href="https://forms.office.com/pages/responsepage.aspx?id=z4_P9Y5-Ck6xmoLMTBW3Rl66mkoZjWdPqnh4D3-oa0JURE9UTjk1NUpGV04yU0JHODJJQVYwSUhNVS4u&amp;route=shorturl" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="UAS OH 2025" src="/images/UAS_Open_House_2025.jpg">
-</div>
 </div>
 </details>
 </div>

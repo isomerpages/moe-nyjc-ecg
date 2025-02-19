@@ -26,17 +26,6 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
-      title: An Insight into STEM Careers with MIT Alumni
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 17 Feb. 📅Date: 22 February, 2025 (Saturday) 🕒Time:
-        9:30 AM - 12 PM 📍Venue: NUS High School of Math & Science, 20 Clementi
-        Ave 1 Singapore 129957"
-      button: Login to view announcement
-      url: https://portal.nyjc.edu.sg/
-      image: /images/Screenshot_2025_02_12_110836.png
-      alt: Image alt text
-  - infopic:
       title: Discover Degree in the UK
       subtitle: EDmissions
       id: infopic
@@ -46,6 +35,17 @@ sections:
       button: sign up here
       url: https://form.jotform.com/250351339532048
       image: /images/Discover_Degree_in_the_UK.jpg
+      alt: Image alt text
+  - infopic:
+      title: An Insight into STEM Careers with MIT Alumni
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 17 Feb. 📅Date: 22 February, 2025 (Saturday) 🕒Time:
+        9:30 AM - 12 PM 📍Venue: NUS High School of Math & Science, 20 Clementi
+        Ave 1 Singapore 129957"
+      button: Login to view announcement
+      url: https://portal.nyjc.edu.sg/
+      image: /images/Screenshot_2025_02_12_110836.png
       alt: Image alt text
   - infopic:
       title: JC2 Parents' Dialogue with Autonomous University Reps
@@ -98,6 +98,16 @@ sections:
       subtitle: EDventure
       description: "📅Date: 21 March, 2025 (Friday)  🕒Time: 8:30 AM - 6:30
         PM  📍Venue: JPMorganChase, One@Changi, Singapore 486036"
+  - infopic:
+      title: CSA CyberXperience
+      subtitle: EDventure
+      id: infopic
+      description: "📅Date: 21 March, 2025 (Friday) 🕒Time: 9 AM - 6 PM 📍Venue: MND
+        Complex, Exercise Room L2 (5 Maxwell Road, Singapore 069110)"
+      button: sign up here
+      url: https://go.gov.sg/csacyberxperience
+      image: /images/CSA_Cyberxperience_2025_jpg.png
+      alt: Image alt text
   - infopic:
       title: Singapore Prison Service Recruitment Fair 2025
       id: infopic
