@@ -284,14 +284,6 @@ year e.g. <a href="https://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=7615
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>3. Scholarship programmes groom you into a well-rounded individual</h3>
