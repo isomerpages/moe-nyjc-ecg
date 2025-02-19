@@ -99,6 +99,16 @@ sections:
       description: "📅Date: 21 March, 2025 (Friday)  🕒Time: 8:30 AM - 6:30
         PM  📍Venue: JPMorganChase, One@Changi, Singapore 486036"
   - infopic:
+      title: CSA CyberXperience
+      subtitle: EDventure
+      id: infopic
+      description: "📅Date: 21 March, 2025 (Friday) 🕒Time: 9 AM - 6 PM 📍Venue: MND
+        Complex, Exercise Room L2 (5 Maxwell Road, Singapore 069110)"
+      button: sign up here
+      url: https://go.gov.sg/csacyberxperience
+      image: /images/CSA_Cyberxperience_2025_jpg.png
+      alt: Image alt text
+  - infopic:
       title: Singapore Prison Service Recruitment Fair 2025
       id: infopic
       button: sign up here
@@ -109,14 +119,4 @@ sections:
         (A two-way shuttle service will be arranged from NYJC to SUTD and back
         or EXPO MRT station.)"
       subtitle: EDventure
-  - infopic:
-      title: CSA CyberXperience
-      subtitle: EDventure
-      id: infopic
-      description: "📅Date: 21 March, 2025 (Friday) 🕒Time: 9 AM - 6 PM 📍Venue: MND
-        Complex, Exercise Room L2 (5 Maxwell Road, Singapore 069110)"
-      button: sign up here
-      url: https://go.gov.sg/csacyberxperience
-      image: /images/CSA_Cyberxperience_2025_jpg.png
-      alt: Image alt text
 ---
