@@ -16,9 +16,9 @@ University of Social Sciences.</p>
 <p>Shaun is passionate about building and developing talents and has coached
 and mentored many business leaders in his career. He worked with many new
 entrants entering the workforce from school and found it rewarding to work
-with them and help them realise their potentials. In this volatile, uncertain,
-complex and ambiguous world, what remains constant are the students' passion
-and Shaun hopes to be able to help them find theirs.</p>
+with them and help them realise their potentials. In this <a href="https://www.forbes.com/sites/jeroenkraaijenbrink/2022/06/22/what-bani-really-means-and-how-it-corrects-your-world-view/" rel="noopener nofollow" target="_blank">Brittle, Anxious, Non-linear and Incomprehensible (BANI)</a> world,
+what remains constant are the students' passion and Shaun hopes to be able
+to help them find theirs.</p>
 <h4>Book an appointment with Mr Shaun Han</h4>
 <p>Click <a href="https://go.gov.sg/meet-shaun-han" rel="noopener nofollow" target="_blank">here</a> to
 book an appointment.</p>
