@@ -102,8 +102,9 @@ sections:
       title: CSA CyberXperience
       subtitle: EDventure
       id: infopic
-      description: "📅Date: 21 March, 2025 (Friday) 🕒Time: 9 AM - 6 PM 📍Venue: MND
-        Complex, Exercise Room L2 (5 Maxwell Road, Singapore 069110)"
+      description: "Register by 24 Feb. 📅Date: 21 March, 2025 (Friday) 🕒Time: 9 AM -
+        6 PM 📍Venue: MND Complex, Exercise Room L2 (5 Maxwell Road, Singapore
+        069110)"
       button: sign up here
       url: https://go.gov.sg/csacyberxperience
       image: /images/CSA_Cyberxperience_2025_jpg.png
