@@ -38,13 +38,12 @@ interview.</p>
 <p>Besides considering your H2 subjects, you will need to consider many factors
 like special programmes, facilities, curriculum content,&nbsp; etc. Please
 read more <a href="https://ecg.nanyangjc.moe.edu.sg/key-factors-to-consider/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>.</p>
-<h4>Rank Point (UAS) calculation</h4>
+<h4>University Admission Score (UAS) calculation</h4>
 <p>To gauge if you meet the minimum Indicative Grade Profile (IGP) for each
-course, you need to compare your rank points (UAS) against the 10th percentile
-IGP for the course. Please note that meeting the previous year’s grade
-of a course does NOT guarantee admission to that course for the next year.
-Other universities do not release an IGP as they select students based
-on a holistic criteria.</p>
+course, you need to compare your UAS against the 10th percentile IGP for
+the course. Please note that meeting the previous year’s grade of a course
+does NOT guarantee admission to that course for the next year. Other universities
+do not release an IGP as they select students based on a holistic criteria.</p>
 <ul>
 <li>
 <p>NUS IGP <a href="http://www.nus.edu.sg/oam/undergraduate-programmes/indicative-grade-profile-(igp)" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Link</u></a>&nbsp;</p>
@@ -64,8 +63,9 @@ on a holistic criteria.</p>
 </p>
 </li>
 </ul>
-<p>To calculate your rank points or convert the IGP to rank points, you can
-use this calculator: <a href="https://www.sgunistats.com/calculator" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>link</u></a>
+<p>To calculate your UAS or convert the IGP to a UAS, you can use this calculator:
+<a href="https://www.sgunistats.com/calculator" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>link</u>
+</a>
 </p>
 <h4>Aptitude-based Admission (ABA)</h4>
 <ul>
