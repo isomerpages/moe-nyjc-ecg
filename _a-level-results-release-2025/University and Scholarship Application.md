@@ -379,11 +379,7 @@ to Point 2).</p>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1nT8TJQEv_T35FS-pdRdoBEtW2RiubHdH/view?usp=sharing" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Other organisations (PSA, PA, CSA)</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://scholarshipguide.com.sg/uploads/magazine/feb-24/Vol-1-24.html" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Definitive guide to scholarships in Singapore</u></a>
+<p><a href="https://scholarshipguide.info/emag-for-nanyangjc" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Definitive guide to scholarships in Singapore</u></a>
 </p>
 </li>
 <li>
