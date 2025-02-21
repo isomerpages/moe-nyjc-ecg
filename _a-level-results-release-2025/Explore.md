@@ -17,6 +17,9 @@ description: ""
 <p><a href="https://nus.edu.sg/oam/why-nus/admissions-oh2025" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NUS OH 2025" src="/images/NUS_Open_House_2025.png">
+</div>
 <p><strong>NUS CDE e-Open House (Zoom Webinar)</strong>
 </p>
 <p><strong>Sunday, 2 March 2025</strong>
@@ -24,6 +27,9 @@ description: ""
 <p><a href="https://nus-sg.zoom.us/webinar/register/WN_QnzaB9-yRfyO_DOffQZNVw#/registration" rel="noopener nofollow" target="_blank">Register for the Zoom Webinar here</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NUS CDE eOH 2025" src="/images/NUS_CDE_e_Open_House_2025.png">
+</div>
 <p><strong>NUS CDE Open House (NUS Campus)</strong>
 </p>
 <p><strong>Saturday, 8 March 2025</strong>
