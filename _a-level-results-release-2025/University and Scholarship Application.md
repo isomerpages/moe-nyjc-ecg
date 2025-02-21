@@ -9,6 +9,9 @@ description: ""
 are some important resources to aid you in your journey in applying for
 universities and scholarships. Click <a href="https://docs.google.com/presentation/d/1uu6p_2rI6LMuEZEcnm15ZW5QiMCCU9L5/edit?usp=sharing&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a> for
 MOE's A-Level results release briefing slides.</p>
+<p>Application steps (Click <a href="https://docs.google.com/presentation/d/1J2mwDsNFPnWs1WPAA7OJPZDYUcLSMutP/edit?usp=sharing&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>&nbsp;for
+the <strong>briefing slides</strong> during the Results Release Day on Application
+to Local Universities.)</p>
 <p>Many of the resources regarding university admissions can found in this
 NYJC ECG Portal. Please visit the respective pages under the "<strong>Higher Education</strong>"
 for more information.</p>
@@ -95,8 +98,6 @@ for more information.</p>
 </tr>
 </tbody>
 </table>
-<p>Application steps (Click <a href="https://docs.google.com/presentation/d/1J2mwDsNFPnWs1WPAA7OJPZDYUcLSMutP/edit?usp=sharing&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>&nbsp;for
-the briefing slides on Application to Local Universities.)</p>
 <h4>1. Explore</h4>
 <ul>
 <li>
