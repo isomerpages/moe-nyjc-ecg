@@ -29,8 +29,9 @@ sections:
       title: SeeNTU 2025 Application
       subtitle: EDventure
       id: infopic
-      description: "📅Date: 24 February - 14 March 2025 (3:00 pm)📍Venue: NTU Login to
-        our college portal for sign up details under the Announcement."
+      description: "📅 Application Period: 24 February - 14 March 2025 (3:00
+        pm)  Login to our college portal for sign up details under the
+        Announcement."
       button: Login for more info
       url: https://portal.nyjc.edu.sg/
       image: /images/Screenshot_2025_02_26_164049.png
