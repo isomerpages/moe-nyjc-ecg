@@ -26,15 +26,14 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
-      title: Discover Degree in the UK
-      subtitle: EDmissions
+      title: SeeNTU 2025 Application
+      subtitle: EDventure
       id: infopic
-      description: "📅Date: 21 February, 2025 (Friday) 🕒Time: 6:30 PM - 7:30 PM
-        📍Venue: Odeon Towers, N Bridge Rd, Singapore 188720 (Detailed location
-        will be emailed to you.)"
-      button: sign up here
-      url: https://form.jotform.com/250351339532048
-      image: /images/Discover_Degree_in_the_UK.jpg
+      description: "📅Date: 24 February - 14 March 2025 (3:00 pm)📍Venue: NTU Login to
+        our college portal for sign up details under the Announcement."
+      button: Login for more info
+      url: https://portal.nyjc.edu.sg/
+      image: /images/Screenshot_2025_02_26_164049.png
       alt: Image alt text
   - infopic:
       title: An Insight into STEM Careers with MIT Alumni
