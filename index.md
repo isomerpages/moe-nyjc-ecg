@@ -96,6 +96,16 @@ sections:
       image: /images/Study_in_China_Education_Fair_2025.png
       alt: Image alt text
   - infopic:
+      title: Insights Singapore Forum
+      subtitle: EDventure
+      id: infopic
+      description: "📅Date: 1 April, 2025 (Tuesday) 🕒Time: 7 PM - 8:30 PM 📍Venue:
+        Hon Sui Sen Auditorium, NUS"
+      button: Sign up here
+      url: https://forms.office.com/Pages/ResponsePage.aspx?id=Xu-lWwkxd06Fvc_rDTR-gmJXA_0B2ZZKiwA_Dt5VlXFUOE1JMEU0WVFWNU1FTVgwQlBQNEJYSzdLRC4u
+      image: /images/Insights_Singapore_Forum.png
+      alt: Image alt text
+  - infopic:
       title: Singapore Prison Service Recruitment Fair 2025
       id: infopic
       button: sign up here
