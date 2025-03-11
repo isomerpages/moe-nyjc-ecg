@@ -37,25 +37,6 @@ sections:
       image: /images/Screenshot_2025_02_26_164049.png
       alt: Image alt text
   - infopic:
-      title: Explore Economics @NUS by NUS Economics Society
-      subtitle: EDventure
-      id: infopic
-      description: "📅RSVP by 14 March, 2025 Date: 21 March, 2025 (Friday) 🕒Time: 6
-        PM - 7 PM 📍Venue: LT13, NUS"
-      button: RSVP here
-      url: https://forms.office.com/r/7xT4efFRUW
-      image: /images/Explore_Economics___NUS.png
-      alt: Image alt text
-  - infopic:
-      title: (Virtual) Explore Economics @NUS by NUS Economics Society
-      subtitle: EDventure
-      id: infopic
-      description: "📅Date: 28 March, 2025 (Thursday) 🕒Time: 6 PM - 7 PM 📍Venue: Zoom"
-      button: Zoom meeting link here
-      url: https://nus-sg.zoom.us/j/89772073996?pwd=tY6Wh3bpjqxB8b9Z7yq2tM5oy9xrY3.1
-      image: /images/Explore_Economics___NUS_Virtual.png
-      alt: Image alt text
-  - infopic:
       title: "Project Kokoro (Ticket price: $20)"
       subtitle: EDventure
       id: infopic
@@ -76,6 +57,16 @@ sections:
       image: /images/Screenshot_2025_02_06_152529.png
       alt: Image alt text
   - infopic:
+      title: Explore Economics @NUS by NUS Economics Society
+      subtitle: EDventure
+      id: infopic
+      description: "📅RSVP by 14 March, 2025 Date: 21 March, 2025 (Friday) 🕒Time: 6
+        PM - 7 PM 📍Venue: LT13, NUS"
+      button: RSVP here
+      url: https://forms.office.com/r/7xT4efFRUW
+      image: /images/Explore_Economics___NUS.png
+      alt: Image alt text
+  - infopic:
       title: CSA CyberXperience
       subtitle: EDventure
       id: infopic
@@ -94,6 +85,15 @@ sections:
         Canadian International School (7 Jurong West Street 41, Singapore
         649414) No sign up required."
       image: /images/Study_in_China_Education_Fair_2025.png
+      alt: Image alt text
+  - infopic:
+      title: (Virtual) Explore Economics @NUS by NUS Economics Society
+      subtitle: EDventure
+      id: infopic
+      description: "📅Date: 28 March, 2025 (Thursday) 🕒Time: 6 PM - 7 PM 📍Venue: Zoom"
+      button: Zoom meeting link here
+      url: https://nus-sg.zoom.us/j/89772073996?pwd=tY6Wh3bpjqxB8b9Z7yq2tM5oy9xrY3.1
+      image: /images/Explore_Economics___NUS_Virtual.png
       alt: Image alt text
   - infopic:
       title: Insights Singapore Forum
