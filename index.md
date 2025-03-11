@@ -37,38 +37,6 @@ sections:
       image: /images/Screenshot_2025_02_26_164049.png
       alt: Image alt text
   - infopic:
-      title: An Insight into STEM Careers with MIT Alumni
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 17 Feb. 📅Date: 22 February, 2025 (Saturday) 🕒Time:
-        9:30 AM - 12 PM 📍Venue: NUS High School of Math & Science, 20 Clementi
-        Ave 1 Singapore 129957"
-      button: Login to view announcement
-      url: https://portal.nyjc.edu.sg/
-      image: /images/Screenshot_2025_02_12_110836.png
-      alt: Image alt text
-  - infopic:
-      title: JC2 Parents' Dialogue with Autonomous University Reps
-      subtitle: EDmissions
-      id: infopic
-      description: "📅 Date: 26 Feb 2025 (Wednesday) 🕒 Time: 7:30 – 9 PM 📍 Venue:
-        Zoom Webinar"
-      button: Login for the registration link in the announcement
-      url: https://portal.nyjc.edu.sg/
-      image: /images/Screenshot_2025_02_11_121050.png
-      alt: Image alt text
-  - infopic:
-      title: The Straits Times Education Forum in partnership with SMU
-      subtitle: EDventure
-      id: infopic
-      description: "📅Date: 11 March, 2025 (Tuesday) 🕒Time: 2:15 PM - 5:30 PM
-        📍Venue: Yong Pung How School of Law, Basement 1 SMU Hall, 55 Armenian
-        Street Singapore 179943"
-      button: Sign up here
-      url: tinyurl.com/steduforum25
-      image: /images/ST_SMU_Education_Forum_2025.jpg
-      alt: Image alt text
-  - infopic:
       title: "Project Kokoro (Ticket price: $20)"
       subtitle: EDventure
       id: infopic
@@ -89,15 +57,15 @@ sections:
       image: /images/Screenshot_2025_02_06_152529.png
       alt: Image alt text
   - infopic:
-      title: JPMorganChase GenerationTech
-      id: infopic
-      button: Sign up here (parents only)
-      url: https://tinyurl.com/28bhyjjy
-      alt: Image alt text
-      image: /images/Screenshot_2025_02_06_144831.png
+      title: Explore Economics @NUS by NUS Economics Society
       subtitle: EDventure
-      description: "📅Date: 21 March, 2025 (Friday)  🕒Time: 8:30 AM - 6:30
-        PM  📍Venue: JPMorganChase, One@Changi, Singapore 486036"
+      id: infopic
+      description: "📅RSVP by 14 March, 2025 Date: 21 March, 2025 (Friday) 🕒Time: 6
+        PM - 7 PM 📍Venue: LT13, NUS"
+      button: RSVP here
+      url: https://forms.office.com/r/7xT4efFRUW
+      image: /images/Explore_Economics___NUS.png
+      alt: Image alt text
   - infopic:
       title: CSA CyberXperience
       subtitle: EDventure
@@ -108,6 +76,34 @@ sections:
       button: sign up here
       url: https://go.gov.sg/csacyberxperience
       image: /images/CSA_Cyberxperience_2025_jpg.png
+      alt: Image alt text
+  - infopic:
+      title: Study In China Education Fair 2025
+      subtitle: EDventure
+      id: infopic
+      description: "📅Date: 26 March, 2025 (Wednesday) 🕒Time: 1 PM - 4 PM 📍Venue:
+        Canadian International School (7 Jurong West Street 41, Singapore
+        649414) No sign up required."
+      image: /images/Study_in_China_Education_Fair_2025.png
+      alt: Image alt text
+  - infopic:
+      title: (Virtual) Explore Economics @NUS by NUS Economics Society
+      subtitle: EDventure
+      id: infopic
+      description: "📅Date: 28 March, 2025 (Thursday) 🕒Time: 6 PM - 7 PM 📍Venue: Zoom"
+      button: Zoom meeting link here
+      url: https://nus-sg.zoom.us/j/89772073996?pwd=tY6Wh3bpjqxB8b9Z7yq2tM5oy9xrY3.1
+      image: /images/Explore_Economics___NUS_Virtual.png
+      alt: Image alt text
+  - infopic:
+      title: Insights Singapore Forum
+      subtitle: EDventure
+      id: infopic
+      description: "📅Date: 1 April, 2025 (Tuesday) 🕒Time: 7 PM - 8:30 PM 📍Venue:
+        Hon Sui Sen Auditorium, NUS"
+      button: Sign up here
+      url: https://forms.office.com/Pages/ResponsePage.aspx?id=Xu-lWwkxd06Fvc_rDTR-gmJXA_0B2ZZKiwA_Dt5VlXFUOE1JMEU0WVFWNU1FTVgwQlBQNEJYSzdLRC4u
+      image: /images/Insights_Singapore_Forum.png
       alt: Image alt text
   - infopic:
       title: Singapore Prison Service Recruitment Fair 2025
