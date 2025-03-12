@@ -142,7 +142,8 @@ earlier)</p>
 <p>1 Civics Tutor + 1 other referee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open ended question. 200 word limit.</p>
+<p>Open ended question. 200 word limit. More info <a href="https://drive.google.com/file/d/1GNVMFsKxk71NruaECPTK-M0sXeYi3_IT/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>
+</p>
 </td>
 </tr>
 <tr>
