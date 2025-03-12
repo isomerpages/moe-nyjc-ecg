@@ -65,8 +65,8 @@ submission)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rating required. 3 sections (Academics, other strengths, unique circumstances/challenges/outstanding
-accomplishments). 1500 character limit each. More info <a href="https://www.nus.edu.sg/oam/docs/default-source/scholarship/nus_scholarships_referee_information_sheet.pdf?sfvrsn=56e8ef7c_10" rel="noopener nofollow" target="_blank">here</a>
-</p>
+accomplishments). 1500 character limit each. More info <a href="https://www.nus.edu.sg/oam/docs/default-source/scholarship/nus_scholarships_referee_information_sheet.pdf?sfvrsn=56e8ef7c_10" rel="noopener nofollow" target="_blank">here</a>.
+Sample <a href="https://drive.google.com/file/d/1HcUpLXtWdoy0MlDvs-Q4P1QXHBLS7-wx/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +103,7 @@ whichever is earlier)</p>
 <p>Teacher who knows student well</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ratings required. Open ended question. 500 word limit.</p>
+<p>Ratings required. Open ended question. 500 word limit. Sample <a href="https://drive.google.com/file/d/1B3oKx4Boaaezx4NLL_Q9wxb8eHMmTY3x/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
@@ -142,8 +142,7 @@ earlier)</p>
 <p>1 Civics Tutor + 1 other referee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open ended question. 200 word limit. More info <a href="https://drive.google.com/file/d/1GNVMFsKxk71NruaECPTK-M0sXeYi3_IT/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>
-</p>
+<p>Open ended question. 200 word limit. Sample <a href="https://drive.google.com/file/d/1GNVMFsKxk71NruaECPTK-M0sXeYi3_IT/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
