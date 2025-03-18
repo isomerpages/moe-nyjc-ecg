@@ -121,8 +121,7 @@ whichever is earlier)</p>
 <p>Teacher who knows student well</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 questions. No word limit. More info <a href="https://drive.google.com/file/d/1gXcyAkpVWFnnDB79whW8A2lVdazabikh/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>
-</p>
+<p>8 questions. No word limit. Sample <a href="https://drive.google.com/file/d/1gXcyAkpVWFnnDB79whW8A2lVdazabikh/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
