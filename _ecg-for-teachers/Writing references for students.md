@@ -214,7 +214,7 @@ earlier)</p>
 <p>CCA Teacher/Coach/Community leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open ended question. 200 word limit.</p>
+<p>Open ended question. 200 word limit. Sample <a href="https://drive.google.com/file/d/1wjLA7qaR2oELeqhajCjbhAsTvYXN8J7A/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
