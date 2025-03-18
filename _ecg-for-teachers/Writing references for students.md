@@ -85,7 +85,8 @@ whichever is earlier)</p>
 <p>Teacher who knows student in a holistic way</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open ended question. 200 word limit. More info <a href="https://www.ntu.edu.sg/admissions/undergraduate/scholarships/appraisal-for-scholarship-application" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Open ended question. 200 word limit. More info <a href="https://www.ntu.edu.sg/admissions/undergraduate/scholarships/appraisal-for-scholarship-application" rel="noopener nofollow" target="_blank">here</a>.
+Sample <a href="https://drive.google.com/file/d/1cVntsAAdu3prTo15UmmPcjWsh_JsSIh6/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
