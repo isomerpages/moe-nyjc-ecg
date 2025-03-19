@@ -65,7 +65,7 @@ submission)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rating required. 3 sections (Academics, other strengths, unique circumstances/challenges/outstanding
-accomplishments). 1500 character limit each. More info <a href="https://www.nus.edu.sg/oam/docs/default-source/scholarship/nus_scholarships_referee_information_sheet.pdf?sfvrsn=56e8ef7c_10" rel="noopener nofollow" target="_blank">here</a>.
+accomplishments). 1500-2000 character limit each. More info <a href="https://www.nus.edu.sg/oam/docs/default-source/scholarship/nus_scholarships_referee_information_sheet.pdf?sfvrsn=56e8ef7c_10" rel="noopener nofollow" target="_blank">here</a>.
 Sample <a href="https://drive.google.com/file/d/1HcUpLXtWdoy0MlDvs-Q4P1QXHBLS7-wx/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
@@ -85,7 +85,8 @@ whichever is earlier)</p>
 <p>Teacher who knows student in a holistic way</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open ended question. 200 word limit. More info <a href="https://www.ntu.edu.sg/admissions/undergraduate/scholarships/appraisal-for-scholarship-application" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Open ended question. 200 word limit. More info <a href="https://www.ntu.edu.sg/admissions/undergraduate/scholarships/appraisal-for-scholarship-application" rel="noopener nofollow" target="_blank">here</a>.
+Sample <a href="https://drive.google.com/file/d/1cVntsAAdu3prTo15UmmPcjWsh_JsSIh6/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +103,7 @@ whichever is earlier)</p>
 <p>Teacher who knows student well</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ratings required. Open ended question. 500 word limit. Sample <a href="https://drive.google.com/file/d/1B3oKx4Boaaezx4NLL_Q9wxb8eHMmTY3x/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Ratings required. Open ended question. 500 word limit. Sample <a href="https://drive.google.com/file/d/1C-aszQFhPlsT-3hM9iFPCxg8gOy33jsU/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
@@ -121,8 +122,7 @@ whichever is earlier)</p>
 <p>Teacher who knows student well</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 questions. No word limit. More info <a href="https://drive.google.com/file/d/1gXcyAkpVWFnnDB79whW8A2lVdazabikh/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>
-</p>
+<p>8 questions. No word limit. Sample <a href="https://drive.google.com/file/d/1gXcyAkpVWFnnDB79whW8A2lVdazabikh/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
@@ -214,7 +214,7 @@ earlier)</p>
 <p>CCA Teacher/Coach/Community leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open ended question. 200 word limit.</p>
+<p>Open ended question. 200 word limit. Sample <a href="https://drive.google.com/file/d/1wjLA7qaR2oELeqhajCjbhAsTvYXN8J7A/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
