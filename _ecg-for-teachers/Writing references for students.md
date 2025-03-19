@@ -65,7 +65,7 @@ submission)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rating required. 3 sections (Academics, other strengths, unique circumstances/challenges/outstanding
-accomplishments). 1500 character limit each. More info <a href="https://www.nus.edu.sg/oam/docs/default-source/scholarship/nus_scholarships_referee_information_sheet.pdf?sfvrsn=56e8ef7c_10" rel="noopener nofollow" target="_blank">here</a>.
+accomplishments). 1500-2000 character limit each. More info <a href="https://www.nus.edu.sg/oam/docs/default-source/scholarship/nus_scholarships_referee_information_sheet.pdf?sfvrsn=56e8ef7c_10" rel="noopener nofollow" target="_blank">here</a>.
 Sample <a href="https://drive.google.com/file/d/1HcUpLXtWdoy0MlDvs-Q4P1QXHBLS7-wx/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
