@@ -219,6 +219,24 @@ earlier)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ABA to NUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Not required to write.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>UK universities</p>
 </td>
 <td rowspan="1" colspan="1">
