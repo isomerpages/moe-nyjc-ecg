@@ -37,16 +37,6 @@ sections:
       image: /images/Screenshot_2025_02_26_164049.png
       alt: Image alt text
   - infopic:
-      title: "Project Kokoro (Ticket price: $20)"
-      subtitle: EDventure
-      id: infopic
-      description: "📅Date: 15 March, 2025 (Saturday) 🕒Time: 8:30 AM - 3:30 PM
-        📍Venue: National Heart Centre Lecture Hall, Level 7"
-      button: Login for more info
-      url: https://portal.nyjc.edu.sg/
-      image: /images/Screenshot_2025_02_13_150755.png
-      alt: Image alt text
-  - infopic:
       title: NTU CN Yang Scholars Programme
       subtitle: EDventure
       id: infopic
