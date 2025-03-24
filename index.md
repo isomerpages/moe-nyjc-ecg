@@ -37,47 +37,6 @@ sections:
       image: /images/Screenshot_2025_02_26_164049.png
       alt: Image alt text
   - infopic:
-      title: "Project Kokoro (Ticket price: $20)"
-      subtitle: EDventure
-      id: infopic
-      description: "📅Date: 15 March, 2025 (Saturday) 🕒Time: 8:30 AM - 3:30 PM
-        📍Venue: National Heart Centre Lecture Hall, Level 7"
-      button: Login for more info
-      url: https://portal.nyjc.edu.sg/
-      image: /images/Screenshot_2025_02_13_150755.png
-      alt: Image alt text
-  - infopic:
-      title: NTU CN Yang Scholars Programme
-      subtitle: EDventure
-      id: infopic
-      description: "📅Date: 18-20 March, 2025 (Tuesday - Thursday) 🕒Time: 9 AM - 5 PM
-        📍Venue: NTU"
-      button: Sign up here
-      url: https://event.ntu.edu.sg/cnyscdiscocamp2025
-      image: /images/Screenshot_2025_02_06_152529.png
-      alt: Image alt text
-  - infopic:
-      title: Explore Economics @NUS by NUS Economics Society
-      subtitle: EDventure
-      id: infopic
-      description: "📅RSVP by 14 March, 2025 Date: 21 March, 2025 (Friday) 🕒Time: 6
-        PM - 7 PM 📍Venue: LT13, NUS"
-      button: RSVP here
-      url: https://forms.office.com/r/7xT4efFRUW
-      image: /images/Explore_Economics___NUS.png
-      alt: Image alt text
-  - infopic:
-      title: CSA CyberXperience
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 24 Feb. 📅Date: 21 March, 2025 (Friday) 🕒Time: 9 AM -
-        6 PM 📍Venue: MND Complex, Exercise Room L2 (5 Maxwell Road, Singapore
-        069110)"
-      button: sign up here
-      url: https://go.gov.sg/csacyberxperience
-      image: /images/CSA_Cyberxperience_2025_jpg.png
-      alt: Image alt text
-  - infopic:
       title: Study In China Education Fair 2025
       subtitle: EDventure
       id: infopic
@@ -116,4 +75,14 @@ sections:
         (A two-way shuttle service will be arranged from NYJC to SUTD and back
         or EXPO MRT station.)"
       subtitle: EDventure
+  - infopic:
+      title: NHG Nursing Open House 2025
+      subtitle: EDventure
+      id: infopic
+      description: "📅Date: 26 April, 2025 (Saturday) 🕒Time: 1 - 5 PM 📍Venue:
+        Woodlands Health, Learning Space (Tower E, Level B1)"
+      button: Sign up here
+      url: https://form.gov.sg/67be5ede50b83f2d5e1a54dc
+      image: /images/NHG_Nursing_OPEN_HOUSE_2025_EDM.png
+      alt: Image alt text
 ---
