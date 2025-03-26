@@ -26,26 +26,6 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
-      title: SeeNTU 2025 Application
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Application Period: 24 February - 14 March 2025 (3:00
-        pm)  Login to our college portal for sign up details under the
-        Announcement."
-      button: Login for more info
-      url: https://portal.nyjc.edu.sg/
-      image: /images/Screenshot_2025_02_26_164049.png
-      alt: Image alt text
-  - infopic:
-      title: Study In China Education Fair 2025
-      subtitle: EDventure
-      id: infopic
-      description: "📅Date: 26 March, 2025 (Wednesday) 🕒Time: 1 PM - 4 PM 📍Venue:
-        Canadian International School (7 Jurong West Street 41, Singapore
-        649414) No sign up required."
-      image: /images/Study_in_China_Education_Fair_2025.png
-      alt: Image alt text
-  - infopic:
       title: (Virtual) Explore Economics @NUS by NUS Economics Society
       subtitle: EDventure
       id: infopic
@@ -84,5 +64,16 @@ sections:
       button: Sign up here
       url: https://form.gov.sg/67be5ede50b83f2d5e1a54dc
       image: /images/NHG_Nursing_OPEN_HOUSE_2025_EDM.png
+      alt: Image alt text
+  - infopic:
+      title: AMSA SG Incision Challenge 2025
+      subtitle: EDventure
+      id: infopic
+      description: "Apply by 20 April 2025. 📅 Date: 21 June & 28 June 2025
+        (Saturday)  📍Venue: National University of Singapore MD6  14 Medical
+        Dr, Singapore 117599"
+      button: Sign up here
+      url: https://forms.gle/RTn8zBmdi5BCQ3NA7
+      image: /images/Screenshot_2025_03_26_171341.png
       alt: Image alt text
 ---
