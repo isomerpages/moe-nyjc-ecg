@@ -26,6 +26,14 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: SUTD InspireCon 2025
+      subtitle: EDventure
+      id: infopic
+      description: "📅Date: 14 April, 2025 (Monday) 🕒Time: 10 AM - 3 PM 📍Venue:
+        Campus Centre, Level 1, SUTD"
+      image: /images/InspireCon_2025.jpg
+      alt: Image alt text
+  - infopic:
       title: Singapore Prison Service Recruitment Fair 2025
       id: infopic
       button: sign up here
@@ -56,13 +64,5 @@ sections:
       button: Sign up here
       url: https://forms.gle/RTn8zBmdi5BCQ3NA7
       image: /images/Screenshot_2025_03_26_171341.png
-      alt: Image alt text
-  - infopic:
-      title: SUTD InspireCon 2025
-      subtitle: EDventure
-      id: infopic
-      description: "📅Date: 14 April, 2025 (Monday) 🕒Time: 10 AM - 3 PM 📍Venue:
-        Campus Centre, Level 1, SUTD"
-      image: /images/InspireCon_2025.jpg
       alt: Image alt text
 ---
