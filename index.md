@@ -45,15 +45,6 @@ sections:
         or EXPO MRT station.)"
       subtitle: EDventure
   - infopic:
-      title: EducationUSA Student Visa Webinar 2025
-      subtitle: EDventure
-      id: infopic
-      description: "📅Date: 24 April, 2025 (Thursday) 🕒Time: 4 PM 📍Venue: Zoom Webinar"
-      button: Sign up here
-      url: https://statedept.zoomgov.com/meeting/register/q9geH86gRoqwghygmlMkzQ
-      alt: Image alt text
-      image: /images/EducationUSA_Student_Visa_Webinar_2025.png
-  - infopic:
       title: NHG Nursing Open House 2025
       subtitle: EDventure
       id: infopic
