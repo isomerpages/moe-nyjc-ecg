@@ -26,25 +26,6 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
-      title: (Virtual) Explore Economics @NUS by NUS Economics Society
-      subtitle: EDventure
-      id: infopic
-      description: "📅Date: 28 March, 2025 (Thursday) 🕒Time: 6 PM - 7 PM 📍Venue: Zoom"
-      button: Zoom meeting link here
-      url: https://nus-sg.zoom.us/j/89772073996?pwd=tY6Wh3bpjqxB8b9Z7yq2tM5oy9xrY3.1
-      image: /images/Explore_Economics___NUS_Virtual.png
-      alt: Image alt text
-  - infopic:
-      title: Insights Singapore Forum
-      subtitle: EDventure
-      id: infopic
-      description: "📅Date: 1 April, 2025 (Tuesday) 🕒Time: 7 PM - 8:30 PM 📍Venue:
-        Hon Sui Sen Auditorium, NUS"
-      button: Sign up here
-      url: https://forms.office.com/Pages/ResponsePage.aspx?id=Xu-lWwkxd06Fvc_rDTR-gmJXA_0B2ZZKiwA_Dt5VlXFUOE1JMEU0WVFWNU1FTVgwQlBQNEJYSzdLRC4u
-      image: /images/Insights_Singapore_Forum.png
-      alt: Image alt text
-  - infopic:
       title: Singapore Prison Service Recruitment Fair 2025
       id: infopic
       button: sign up here
@@ -75,5 +56,13 @@ sections:
       button: Sign up here
       url: https://forms.gle/RTn8zBmdi5BCQ3NA7
       image: /images/Screenshot_2025_03_26_171341.png
+      alt: Image alt text
+  - infopic:
+      title: SUTD InspireCon 2025
+      subtitle: EDventure
+      id: infopic
+      description: "📅Date: 14 April, 2025 (Monday) 🕒Time: 10 AM - 3 PM 📍Venue:
+        Campus Centre, Level 1, SUTD"
+      image: /images/InspireCon_2025.jpg
       alt: Image alt text
 ---
