@@ -39,7 +39,7 @@ sections:
       button: sign up here
       url: https://go.gov.sg/spsrecruitmentatcorporateadvance
       alt: Image alt text
-      image: /images/EducationUSA_Student_Visa_Webinar_2025.png
+      image: /images/SPS_corporate_advance_2025___1_.png
       description: "📅Date: 15 April, 2025 (Tuesday) 🕒Time: 2 PM - 5 PM 📍Venue: SUTD
         (A two-way shuttle service will be arranged from NYJC to SUTD and back
         or EXPO MRT station.)"
@@ -52,6 +52,7 @@ sections:
       button: Sign up here
       url: https://statedept.zoomgov.com/meeting/register/q9geH86gRoqwghygmlMkzQ
       alt: Image alt text
+      image: /images/EducationUSA_Student_Visa_Webinar_2025.png
   - infopic:
       title: NHG Nursing Open House 2025
       subtitle: EDventure
