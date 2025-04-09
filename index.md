@@ -26,23 +26,12 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
-      title: (Virtual) Explore Economics @NUS by NUS Economics Society
+      title: SUTD InspireCon 2025
       subtitle: EDventure
       id: infopic
-      description: "📅Date: 28 March, 2025 (Thursday) 🕒Time: 6 PM - 7 PM 📍Venue: Zoom"
-      button: Zoom meeting link here
-      url: https://nus-sg.zoom.us/j/89772073996?pwd=tY6Wh3bpjqxB8b9Z7yq2tM5oy9xrY3.1
-      image: /images/Explore_Economics___NUS_Virtual.png
-      alt: Image alt text
-  - infopic:
-      title: Insights Singapore Forum
-      subtitle: EDventure
-      id: infopic
-      description: "📅Date: 1 April, 2025 (Tuesday) 🕒Time: 7 PM - 8:30 PM 📍Venue:
-        Hon Sui Sen Auditorium, NUS"
-      button: Sign up here
-      url: https://forms.office.com/Pages/ResponsePage.aspx?id=Xu-lWwkxd06Fvc_rDTR-gmJXA_0B2ZZKiwA_Dt5VlXFUOE1JMEU0WVFWNU1FTVgwQlBQNEJYSzdLRC4u
-      image: /images/Insights_Singapore_Forum.png
+      description: "📅Date: 14 April, 2025 (Monday) 🕒Time: 10 AM - 3 PM 📍Venue:
+        Campus Centre, Level 1, SUTD"
+      image: /images/InspireCon_2025.jpg
       alt: Image alt text
   - infopic:
       title: Singapore Prison Service Recruitment Fair 2025
@@ -55,6 +44,15 @@ sections:
         (A two-way shuttle service will be arranged from NYJC to SUTD and back
         or EXPO MRT station.)"
       subtitle: EDventure
+  - infopic:
+      title: EducationUSA Student Visa Webinar 2025
+      subtitle: EDventure
+      id: infopic
+      description: "📅Date: 24 April, 2025 (Thursday) 🕒Time: 4 PM 📍Venue: Zoom Webinar"
+      button: Sign up here
+      url: https://statedept.zoomgov.com/meeting/register/q9geH86gRoqwghygmlMkzQ
+      alt: Image alt text
+      image: /images/EducationUSA_Student_Visa_Webinar_2025.png
   - infopic:
       title: NHG Nursing Open House 2025
       subtitle: EDventure

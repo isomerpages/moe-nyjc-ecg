@@ -199,8 +199,9 @@ do not release an IGP as they select students based on a holistic criteria.</p>
 </p>
 </li>
 </ul>
-<p>To calculate your UAS or convert the IGP to a UAS, you can use this calculator:
-<a href="https://www.sgunistats.com/calculator" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>link</u>
+<p>To calculate your UAS or convert the IGP to a UAS, you can use this calculator
+(<strong>Credits: Manuel Gabriel Thomas and Shane Yeo from 2426</strong>):
+<a href="https://for.edu.sg/uascalc" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>link</u>
 </a>
 </p>
 <h4>Aptitude-based Admission (ABA)</h4>

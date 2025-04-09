@@ -140,8 +140,8 @@ access the university websites:</p>
 </table>
 <p>Alternatively, login to our College Portal <a href="https://portal.nyjc.edu.sg/" rel="noopener nofollow" target="_blank">here</a> to view the summary under the
 ECG Repository.</p>
-<p><strong>University Admissions Score (UAS)&nbsp;</strong>(Click <a href="https://www.sgunistats.com/calculator#google_vignette" rel="noopener nofollow" target="_blank">here</a> for
-the UAS Calculator.)</p>
+<p><strong>University Admissions Score (UAS)&nbsp;</strong>(Click <a href="https://for.edu.sg/uascalc" rel="noopener nofollow" target="_blank">here</a> for the
+UAS Calculator. <strong>Credits: Manuel Gabriel Thomas and Shane Yeo from 2426</strong>)</p>
 <p>The universities select candidates based on their UAS, which is the sum
 of the rank points for subjects that are considered in the calculation
 of their UAS. The table below shows the corresponding rank points for each
@@ -352,9 +352,10 @@ guarantee admission to that course for the next year.&nbsp;</p>
 on a holistic criteria.</p>
 </li>
 <li>
-<p>Click <a href="https://www.sgunistats.com/calculator#google_vignette" rel="noopener nofollow" target="_blank">here</a> for
-the UAS Calculator. Use the calculator to compare your UAS with the UAS
-of the 10th percentile IGP.</p>
+<p>Click <a href="https://for.edu.sg/uascalc" rel="noopener nofollow" target="_blank">here</a> for
+the UAS Calculator (<strong>Credits: Manuel Gabriel Thomas and Shane Yeo from 2426</strong>).
+Use the calculator to compare your UAS with the UAS of the 10th percentile
+IGP.</p>
 </li>
 </ul>
 <h4>Selection Criteria</h4>
