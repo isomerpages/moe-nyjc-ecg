@@ -34,6 +34,14 @@ sections:
       image: /images/InspireCon_2025.jpg
       alt: Image alt text
   - infopic:
+      title: EducationUSA Student Visa Webinar 2025
+      subtitle: EDventure
+      id: infopic
+      description: "📅Date: 24 April, 2025 (Thursday) 🕒Time: 4 PM 📍Venue: Zoom Webinar"
+      button: Sign up here
+      url: https://statedept.zoomgov.com/meeting/register/q9geH86gRoqwghygmlMkzQ
+      alt: Image alt text
+  - infopic:
       title: Singapore Prison Service Recruitment Fair 2025
       id: infopic
       button: sign up here
