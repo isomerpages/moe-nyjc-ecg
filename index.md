@@ -26,13 +26,16 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
-      title: SUTD InspireCon 2025
+      title: YOUTH@SPF (deadline 31 May 2025)
       subtitle: EDventure
       id: infopic
-      description: "📅Date: 14 April, 2025 (Monday) 🕒Time: 10 AM - 3 PM 📍Venue:
-        Campus Centre, Level 1, SUTD"
-      image: /images/InspireCon_2025.jpg
+      description: "📅Date: 13 June, 2025 (Friday) 🕒Time: 9 AM - 4:30 PM 📍Venue:
+        Woodlands Division HQ, 1 Woodlands St 12 S738622 (Transport provided
+        from Bishan MRT)"
+      image: /images/Youth_SPF_2025.png
       alt: Image alt text
+      url: https://go.gov.sg/youth-at-spf
+      button: Sign up here (limited space!)
   - infopic:
       title: Singapore Prison Service Recruitment Fair 2025
       id: infopic
