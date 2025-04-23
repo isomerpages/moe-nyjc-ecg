@@ -62,7 +62,7 @@ will be more than happy to answer your questions.</p>
 </li>
 <li>
 <p>Click <a href="https://portal.nyjc.edu.sg/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a> to login to the College
-Portal to view the recording of the&nbsp;<strong>2024 JC2 Parents’ Dialogue with Representatives from Local Autonomous Universities</strong> under
+Portal to view the recording of the&nbsp;<strong>2025 JC2 Parents’ Dialogue with Representatives from Local Autonomous Universities</strong> under
 the ECG Repository.</p>
 </li>
 </ul>
