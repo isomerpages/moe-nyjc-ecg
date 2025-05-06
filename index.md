@@ -57,4 +57,15 @@ sections:
       url: https://forms.gle/RTn8zBmdi5BCQ3NA7
       image: /images/Screenshot_2025_03_26_171341.png
       alt: Image alt text
+  - infopic:
+      title: Healthcare Outreach Project (HOP) Outreach Webinar
+      subtitle: EDventure
+      id: infopic
+      description: "Apply by 31 May 2025. 📅 Date: 7 & 14 June 2025 (Saturday) 🕒Time:
+        11 AM - 3 PM 📍Venue: Online via Zoom (access details will be shared
+        closer to the date)"
+      button: Register here
+      url: https://docs.google.com/forms/d/e/1FAIpQLSdKprWRu2U2L2dZvhjWwul539O9g-_27UjqCDAcQOI2AiQHKg/viewform
+      image: /images/Screenshot_2025_05_06_163957.png
+      alt: Image alt text
 ---
