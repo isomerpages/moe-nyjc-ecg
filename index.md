@@ -26,6 +26,27 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: Healthcare Outreach Project (HOP) Outreach Webinar
+      subtitle: EDventure
+      id: infopic
+      description: "Apply by 31 May 2025. 📅 Date: 7 & 14 June 2025 (Saturday) 🕒Time:
+        11 AM - 3 PM 📍Venue: Online via Zoom (access details will be shared
+        closer to the date)"
+      button: Register here
+      url: https://docs.google.com/forms/d/e/1FAIpQLSdKprWRu2U2L2dZvhjWwul539O9g-_27UjqCDAcQOI2AiQHKg/viewform
+      image: /images/Screenshot_2025_05_06_163957.png
+      alt: Image alt text
+  - infopic:
+      title: Explore Study Opportunities in New Zealand Webinar
+      subtitle: EDventure
+      id: infopic
+      description: "📅Date: 10 May, 2025 (Saturday) 🕒Time: 10 AM - 12 PM 📍Venue:
+        Microsoft Teams"
+      button: Register here
+      url: https://nzedu.com.sg/contact-us/
+      image: /images/StudyInNZ_MayWebinar.png
+      alt: Image alt text
+  - infopic:
       title: YOUTH@SPF (deadline 31 May 2025)
       subtitle: EDventure
       id: infopic
@@ -36,16 +57,6 @@ sections:
       alt: Image alt text
       url: https://go.gov.sg/youth-at-spf
       button: Sign up here (limited space!)
-  - infopic:
-      title: NHG Nursing Open House 2025
-      subtitle: EDventure
-      id: infopic
-      description: "📅Date: 26 April, 2025 (Saturday) 🕒Time: 1 - 5 PM 📍Venue:
-        Woodlands Health, Learning Space (Tower E, Level B1)"
-      button: Sign up here
-      url: https://form.gov.sg/67be5ede50b83f2d5e1a54dc
-      image: /images/NHG_Nursing_OPEN_HOUSE_2025_EDM.png
-      alt: Image alt text
   - infopic:
       title: AMSA SG Incision Challenge 2025
       subtitle: EDventure
