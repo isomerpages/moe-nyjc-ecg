@@ -26,7 +26,7 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
-      title: SIT IT Day 2025
+      title: SIM IT Day 2025
       subtitle: EDventure
       id: infopic
       description: "📅Date: 17 May, 2025 (Saturday) 🕒Time: 10 AM - 3 PM 📍Venue: SIM
