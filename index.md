@@ -26,6 +26,16 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: SIM IT Day 2025
+      subtitle: EDventure
+      id: infopic
+      description: "📅Date: 17 May, 2025 (Saturday) 🕒Time: 10 AM - 3 PM 📍Venue: SIM
+        Campus (461 Clementi Road S599491)"
+      button: Register here
+      url: https://events.sim.edu.sg/ZQvq53?RefId=JC+EDM
+      image: /images/SIM_IT_Day_2025.png
+      alt: Image alt text
+  - infopic:
       title: Healthcare Outreach Project (HOP) Outreach Webinar
       subtitle: EDventure
       id: infopic
@@ -35,16 +45,6 @@ sections:
       button: Register here
       url: https://docs.google.com/forms/d/e/1FAIpQLSdKprWRu2U2L2dZvhjWwul539O9g-_27UjqCDAcQOI2AiQHKg/viewform
       image: /images/Screenshot_2025_05_06_163957.png
-      alt: Image alt text
-  - infopic:
-      title: Explore Study Opportunities in New Zealand Webinar
-      subtitle: EDventure
-      id: infopic
-      description: "📅Date: 10 May, 2025 (Saturday) 🕒Time: 10 AM - 12 PM 📍Venue:
-        Microsoft Teams"
-      button: Register here
-      url: https://nzedu.com.sg/contact-us/
-      image: /images/StudyInNZ_MayWebinar.png
       alt: Image alt text
   - infopic:
       title: YOUTH@SPF (deadline 31 May 2025)
