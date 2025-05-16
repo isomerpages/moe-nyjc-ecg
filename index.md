@@ -26,6 +26,47 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: Family Justice Courts Open House 2025
+      subtitle: EDventure
+      id: infopic
+      description: "Apply by 30 May 2025. 📅 Date: 23 July 2025 (Wednesday)🕒Time:
+        2:30 - 4:30 PM 📍Venue: 3 Havelock Square, Singapore 059727"
+      button: register your interest here
+      url: https://form.gov.sg/6826f02077003bbd551d3854
+      image: /images/Registration_for_Family_Justice_Courts_Open_House.png
+      alt: Image alt text
+  - infopic:
+      title: "#askLKCMedicine2025 (Virtual@Zoom 1)"
+      subtitle: EDventure
+      id: infopic
+      description: "Apply by 22 May, 12pm. 📅 Date: 22 May 2025 (Thursday) 🕒Time: 2 -
+        4 PM 📍Venue: Online via Zoom. Register using the link below."
+      button: register here
+      url: https://event.ntu.edu.sg/asklkcmedicine2025-22may
+      image: /images/Screenshot_2025_05_16_185448.png
+      alt: Image alt text
+  - infopic:
+      title: "#askLKCMedicine2025 (Virtual@Zoom 2)"
+      subtitle: EDventure
+      id: infopic
+      description: "Apply by 10 June, 12pm. 📅 Date: 10 June 2025 (Tuesday) 🕒Time: 3
+        - 5 PM 📍Venue: Online via Zoom. Register using the link below."
+      button: register here
+      url: https://event.ntu.edu.sg/asklkcmedicine2025-10june
+      image: /images/Screenshot_2025_05_16_185341.png
+      alt: Image alt text
+  - infopic:
+      title: "#askLKCMedicine2025 (Novena Campus)"
+      subtitle: EDventure
+      id: infopic
+      description: "Apply by 30 June, 12pm. 📅 Date: 4 July 2025 (Friday) 🕒Time: 3 -
+        5 PM 📍Venue: LKCSOM, Clinical Sciences Building, Novena Campus, 11
+        Mandalay Road S(308232)"
+      button: register here
+      url: https://event.ntu.edu.sg/asklkcmedicine2025-4july
+      image: /images/Screenshot_2025_05_16_185050.png
+      alt: Image alt text
+  - infopic:
       title: SIM IT Day 2025
       subtitle: EDventure
       id: infopic
