@@ -26,6 +26,16 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: Family Justice Courts Open House 2025
+      subtitle: EDventure
+      id: infopic
+      description: "Apply by 30 May 2025. 📅 Date: 23 July 2025 (Wednesday)🕒Time:
+        2:30 - 4:30 PM 📍Venue: 3 Havelock Square, Singapore 059727"
+      button: register your interest here
+      url: https://form.gov.sg/6826f02077003bbd551d3854
+      image: /images/Registration_for_Family_Justice_Courts_Open_House.png
+      alt: Image alt text
+  - infopic:
       title: "#askLKCMedicine2025 (Virtual@Zoom 1)"
       subtitle: EDventure
       id: infopic
