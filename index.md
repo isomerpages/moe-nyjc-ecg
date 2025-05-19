@@ -26,6 +26,17 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: NTU CEE Summer Camp 2025
+      subtitle: EDventure
+      id: infopic
+      description: "Indicate interest by 26 May. 📅 Date: 18, 19, 21 & 22 July 2025
+        (Fri - Tue; Sun off)🕒Time: 8 AM - 6 PM (10:00 PM on 22 July)📍Venue:
+        NTU campus & Site Visits"
+      button: Indicate your interest here
+      url: https://form.gov.sg/681acd78ede78baa4fd5d5e9
+      image: /images/Screenshot_2025_05_19_152448.png
+      alt: Image alt text
+  - infopic:
       title: Family Justice Courts Open House 2025
       subtitle: EDventure
       id: infopic
