@@ -26,6 +26,17 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: Changi Naval Base Visit 2025
+      subtitle: EDventure
+      id: infopic
+      description: "Apply by 2 June 2025. 📅 Date: 6 June 2025 (Friday) 🕒Time: 2 - 6
+        PM 📍Venue: Changi Naval Base (more details will be sent at a later
+        date)"
+      button: Register here
+      url: https://go.gov.sg/navalbasevisit
+      image: /images/NavalBaseVisit.jpg
+      alt: Image alt text
+  - infopic:
       title: NTU CEE Summer Camp 2025
       subtitle: EDventure
       id: infopic
