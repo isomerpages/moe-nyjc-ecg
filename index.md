@@ -26,6 +26,17 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: National Council of Social Service - TribeX 2025
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 11 June. 📅 Date: 2 & 3 July 2025 (Wed - Thu)🕒Time:
+        anytime between 9 AM - 5 PM📍Venue: Sands Expo & Convention Centre
+        (talks are optional)"
+      button: register to explore the zones
+      url: https://go.gov.sg/social-service-summit2025
+      image: /images/TribeXEDM_Registration_1080px_R4.jpg
+      alt: Image alt text
+  - infopic:
       title: Changi Naval Base Visit 2025
       subtitle: EDventure
       id: infopic
@@ -130,16 +141,5 @@ sections:
       button: Sign up here
       url: https://forms.gle/RTn8zBmdi5BCQ3NA7
       image: /images/Screenshot_2025_03_26_171341.png
-      alt: Image alt text
-  - infopic:
-      title: National Council of Social Service - TribeX 2025
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 11 June. 📅 Date: 2 & 3 July 2025 (Wed - Thu)🕒Time:
-        anytime between 9 AM - 5 PM📍Venue: Sands Expo & Convention Centre
-        (talks are optional)"
-      button: register to explore the zones
-      url: https://go.gov.sg/social-service-summit2025
-      image: /images/TribeXEDM_Registration_1080px_R4.jpg
       alt: Image alt text
 ---
