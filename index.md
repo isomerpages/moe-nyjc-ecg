@@ -26,6 +26,14 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: NTU OneArena 2025 – Guardians of Nature
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 12 June 2025 (Thu)🕒Time: 9 AM - 6 PM📍Venue: HeartBeat @
+        Bedok, Atrium 1"
+      image: /images/One_Arena_2025.png
+      alt: Image alt text
+  - infopic:
       title: National Council of Social Service - TribeX 2025
       subtitle: EDventure
       id: infopic
