@@ -37,15 +37,14 @@ sections:
       image: /images/CAAS_Oneaviation_2025.png
       alt: Image alt text
   - infopic:
-      title: National Council of Social Service - TribeX 2025
+      title: Family Justice Courts Open House 2025
       subtitle: EDventure
       id: infopic
-      description: "Register by 11 June. 📅 Date: 2 & 3 July 2025 (Wed - Thu)🕒Time:
-        anytime between 9 AM - 5 PM📍Venue: Sands Expo & Convention Centre
-        (talks are optional)"
-      button: register to explore the zones
-      url: https://go.gov.sg/social-service-summit2025
-      image: /images/TribeXEDM_Registration_1080px_R4.jpg
+      description: "Apply by 30 May 2025. 📅 Date: 23 July 2025 (Wednesday)🕒Time:
+        2:30 - 4:30 PM 📍Venue: 3 Havelock Square, Singapore 059727"
+      button: register your interest here
+      url: https://form.gov.sg/6826f02077003bbd551d3854
+      image: /images/Registration_for_Family_Justice_Courts_Open_House.png
       alt: Image alt text
   - infopic:
       title: NTU CEE Summer Camp 2025
@@ -59,16 +58,6 @@ sections:
       image: /images/Screenshot_2025_05_19_152448.png
       alt: Image alt text
   - infopic:
-      title: Family Justice Courts Open House 2025
-      subtitle: EDventure
-      id: infopic
-      description: "Apply by 30 May 2025. 📅 Date: 23 July 2025 (Wednesday)🕒Time:
-        2:30 - 4:30 PM 📍Venue: 3 Havelock Square, Singapore 059727"
-      button: register your interest here
-      url: https://form.gov.sg/6826f02077003bbd551d3854
-      image: /images/Registration_for_Family_Justice_Courts_Open_House.png
-      alt: Image alt text
-  - infopic:
       title: "#askLKCMedicine2025 (Novena Campus)"
       subtitle: EDventure
       id: infopic
@@ -78,6 +67,17 @@ sections:
       button: register here
       url: https://event.ntu.edu.sg/asklkcmedicine2025-4july
       image: /images/Screenshot_2025_05_16_185050.png
+      alt: Image alt text
+  - infopic:
+      title: National Council of Social Service - TribeX 2025
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 11 June. 📅 Date: 2 & 3 July 2025 (Wed - Thu)🕒Time:
+        anytime between 9 AM - 5 PM📍Venue: Sands Expo & Convention Centre
+        (talks are optional)"
+      button: register to explore the zones
+      url: https://go.gov.sg/social-service-summit2025
+      image: /images/TribeXEDM_Registration_1080px_R4.jpg
       alt: Image alt text
   - infopic:
       title: "#askLKCMedicine2025 (Virtual@Zoom 2)"
