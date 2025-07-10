@@ -37,14 +37,6 @@ sections:
       image: /images/CAAS_Oneaviation_2025.png
       alt: Image alt text
   - infopic:
-      title: NTU OneArena 2025 – Guardians of Nature
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 12 June 2025 (Thu)🕒Time: 9 AM - 6 PM📍Venue: HeartBeat @
-        Bedok, Atrium 1"
-      image: /images/One_Arena_2025.png
-      alt: Image alt text
-  - infopic:
       title: National Council of Social Service - TribeX 2025
       subtitle: EDventure
       id: infopic
@@ -54,17 +46,6 @@ sections:
       button: register to explore the zones
       url: https://go.gov.sg/social-service-summit2025
       image: /images/TribeXEDM_Registration_1080px_R4.jpg
-      alt: Image alt text
-  - infopic:
-      title: Changi Naval Base Visit 2025
-      subtitle: EDventure
-      id: infopic
-      description: "Apply by 2 June 2025. 📅 Date: 6 June 2025 (Friday) 🕒Time: 2 - 6
-        PM 📍Venue: Changi Naval Base (more details will be sent at a later
-        date)"
-      button: Register here
-      url: https://go.gov.sg/navalbasevisit
-      image: /images/NavalBaseVisit.jpg
       alt: Image alt text
   - infopic:
       title: NTU CEE Summer Camp 2025
@@ -88,14 +69,15 @@ sections:
       image: /images/Registration_for_Family_Justice_Courts_Open_House.png
       alt: Image alt text
   - infopic:
-      title: "#askLKCMedicine2025 (Virtual@Zoom 1)"
+      title: "#askLKCMedicine2025 (Novena Campus)"
       subtitle: EDventure
       id: infopic
-      description: "Apply by 22 May, 12pm. 📅 Date: 22 May 2025 (Thursday) 🕒Time: 2 -
-        4 PM 📍Venue: Online via Zoom. Register using the link below."
+      description: "Apply by 30 June, 12pm. 📅 Date: 4 July 2025 (Friday) 🕒Time: 3 -
+        5 PM 📍Venue: LKCSOM, Clinical Sciences Building, Novena Campus, 11
+        Mandalay Road S(308232)"
       button: register here
-      url: https://event.ntu.edu.sg/asklkcmedicine2025-22may
-      image: /images/Screenshot_2025_05_16_185448.png
+      url: https://event.ntu.edu.sg/asklkcmedicine2025-4july
+      image: /images/Screenshot_2025_05_16_185050.png
       alt: Image alt text
   - infopic:
       title: "#askLKCMedicine2025 (Virtual@Zoom 2)"
@@ -108,14 +90,13 @@ sections:
       image: /images/Screenshot_2025_05_16_185341.png
       alt: Image alt text
   - infopic:
-      title: "#askLKCMedicine2025 (Novena Campus)"
+      title: "#askLKCMedicine2025 (Virtual@Zoom 1)"
       subtitle: EDventure
       id: infopic
-      description: "Apply by 30 June, 12pm. 📅 Date: 4 July 2025 (Friday) 🕒Time: 3 -
-        5 PM 📍Venue: LKCSOM, Clinical Sciences Building, Novena Campus, 11
-        Mandalay Road S(308232)"
+      description: "Apply by 22 May, 12pm. 📅 Date: 22 May 2025 (Thursday) 🕒Time: 2 -
+        4 PM 📍Venue: Online via Zoom. Register using the link below."
       button: register here
-      url: https://event.ntu.edu.sg/asklkcmedicine2025-4july
-      image: /images/Screenshot_2025_05_16_185050.png
+      url: https://event.ntu.edu.sg/asklkcmedicine2025-22may
+      image: /images/Screenshot_2025_05_16_185448.png
       alt: Image alt text
 ---
