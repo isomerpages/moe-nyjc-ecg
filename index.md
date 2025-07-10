@@ -26,6 +26,17 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: CAAS ONEAVIATION 2025
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 18 & 19 July 2025 (Fri & Sat) 🕒Time: 10 AM - 6
+        PM📍Venue: Suntec City Convention Centre, Level 4, Halls 403 & 404
+        (inform tutors if missing lessons)"
+      button: Sign up here
+      url: http://oneaviation2025.com/
+      image: /images/CAAS_Oneaviation_2025.png
+      alt: Image alt text
+  - infopic:
       title: NTU OneArena 2025 – Guardians of Nature
       subtitle: EDventure
       id: infopic
@@ -106,48 +117,5 @@ sections:
       button: register here
       url: https://event.ntu.edu.sg/asklkcmedicine2025-4july
       image: /images/Screenshot_2025_05_16_185050.png
-      alt: Image alt text
-  - infopic:
-      title: SIM IT Day 2025
-      subtitle: EDventure
-      id: infopic
-      description: "📅Date: 17 May, 2025 (Saturday) 🕒Time: 10 AM - 3 PM 📍Venue: SIM
-        Campus (461 Clementi Road S599491)"
-      button: Register here
-      url: https://events.sim.edu.sg/ZQvq53?RefId=JC+EDM
-      image: /images/SIM_IT_Day_2025.png
-      alt: Image alt text
-  - infopic:
-      title: Healthcare Outreach Project (HOP) Outreach Webinar
-      subtitle: EDventure
-      id: infopic
-      description: "Apply by 31 May 2025. 📅 Date: 7 & 14 June 2025 (Saturday) 🕒Time:
-        11 AM - 3 PM 📍Venue: Online via Zoom (access details will be shared
-        closer to the date)"
-      button: Register here
-      url: https://docs.google.com/forms/d/e/1FAIpQLSdKprWRu2U2L2dZvhjWwul539O9g-_27UjqCDAcQOI2AiQHKg/viewform
-      image: /images/Screenshot_2025_05_06_163957.png
-      alt: Image alt text
-  - infopic:
-      title: YOUTH@SPF (deadline 31 May 2025)
-      subtitle: EDventure
-      id: infopic
-      description: "📅Date: 13 June, 2025 (Friday) 🕒Time: 9 AM - 4:30 PM 📍Venue:
-        Woodlands Division HQ, 1 Woodlands St 12 S738622 (Transport provided
-        from Bishan MRT)"
-      image: /images/Youth_SPF_2025.png
-      alt: Image alt text
-      url: https://go.gov.sg/youth-at-spf
-      button: Sign up here (limited space!)
-  - infopic:
-      title: CAAS ONEAVIATION 2025
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 18 & 19 July 2025 (Fri & Sat) 🕒Time: 10 AM - 6
-        PM📍Venue: Suntec City Convention Centre, Level 4, Halls 403 & 404
-        (inform tutors if missing lessons)"
-      button: Sign up here
-      url: http://oneaviation2025.com/
-      image: /images/CAAS_Oneaviation_2025.png
       alt: Image alt text
 ---
