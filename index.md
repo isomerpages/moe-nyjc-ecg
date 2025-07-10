@@ -140,14 +140,14 @@ sections:
       url: https://go.gov.sg/youth-at-spf
       button: Sign up here (limited space!)
   - infopic:
-      title: AMSA SG Incision Challenge 2025
+      title: CAAS ONEAVIATION 2025
       subtitle: EDventure
       id: infopic
-      description: "Apply by 20 April 2025. 📅 Date: 21 June & 28 June 2025
-        (Saturday)  📍Venue: National University of Singapore MD6  14 Medical
-        Dr, Singapore 117599"
+      description: "📅 Date: 18 & 19 July 2025 (Fri & Sat) 🕒Time: 10 AM - 6
+        PM📍Venue: Suntec City Convention Centre, Level 4, Halls 403 & 404
+        (inform tutors if missing lessons)"
       button: Sign up here
-      url: https://forms.gle/RTn8zBmdi5BCQ3NA7
-      image: /images/Screenshot_2025_03_26_171341.png
+      url: http://oneaviation2025.com/
+      image: /images/CAAS_Oneaviation_2025.png
       alt: Image alt text
 ---
