@@ -42,6 +42,7 @@ sections:
       button: register here
       url: https://event.ntu.edu.sg/asklkcmedicine-VAC-20aug
       alt: Image alt text
+      image: /images/askLKCMedicine_Virtual_Admissions_Clinic_2025.jpg
   - infopic:
       title: Huddle+ 2025 (Healthcare attachments)
       subtitle: EDventure
