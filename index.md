@@ -26,6 +26,16 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: Huddle+ 2025 (Healthcare attachments)
+      subtitle: EDventure
+      id: infopic
+      description: "Huddle+ Workshop: 8th December 2025 (Mon) (Morning) *Compulsory*
+        Attachment Programme: Any 1 day between 9th December to 19th December"
+      button: more info in announcement here
+      url: https://portal.nyjc.edu.sg/
+      image: /images/Screenshot_2025_07_24_103739.png
+      alt: Image alt text
+  - infopic:
       title: CAAS ONEAVIATION 2025
       subtitle: EDventure
       id: infopic
