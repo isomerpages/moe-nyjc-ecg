@@ -26,6 +26,15 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: Mastering US College Applications
+      subtitle: EDubuzz
+      id: infopic
+      description: "📅 Date: 22 August 2025 (Friday)🕒Time: 6 - 8 PM📍Venue: NYJC LT4"
+      button: Register here (use @nyjc.edu.sg email for NYJCians)
+      url: http://sgyouthai.org/link/ustalk
+      image: /images/NYJCxSYAI_US_Admission_Talk.jpg
+      alt: Image alt text
+  - infopic:
       title: "#askLKCMedicine2025 (Virtual Admissions Clinic for all)"
       subtitle: EDventure
       id: infopic
