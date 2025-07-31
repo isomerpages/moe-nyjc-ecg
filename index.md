@@ -96,4 +96,13 @@ sections:
       url: https://go.gov.sg/social-service-summit2025
       image: /images/TribeXEDM_Registration_1080px_R4.jpg
       alt: Image alt text
+  - infopic:
+      title: Mastering US College Applications
+      subtitle: EDubuzz
+      id: infopic
+      description: "📅 Date: 22 August 2025 (Friday)🕒Time: 6 - 8 PM📍Venue: NYJC LT4"
+      button: Register here (use @nyjc.edu.sg email for NYJCians)
+      url: http://sgyouthai.org/link/ustalk
+      image: /images/NYJCxSYAI_US_Admission_Talk.jpg
+      alt: Image alt text
 ---
