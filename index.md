@@ -26,6 +26,16 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: Digital and Intelligence Service Experience Programme 2025
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 11 Sep 2025 (Thursday)🕒Time: 11 AM - 4:30 PM📍Venue: 2
+        Bukit Merah Central, #03-01, Singapore 159835"
+      button: Register here
+      url: http://go.gov.sg/disep
+      image: /images/DISEP_2025.jpg
+      alt: Image alt text
+  - infopic:
       title: Mastering US College Applications
       subtitle: EDubuzz
       id: infopic
@@ -93,16 +103,5 @@ sections:
       button: Indicate your interest here
       url: https://form.gov.sg/681acd78ede78baa4fd5d5e9
       image: /images/Screenshot_2025_05_19_152448.png
-      alt: Image alt text
-  - infopic:
-      title: National Council of Social Service - TribeX 2025
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 11 June. 📅 Date: 2 & 3 July 2025 (Wed - Thu)🕒Time:
-        anytime between 9 AM - 5 PM📍Venue: Sands Expo & Convention Centre
-        (talks are optional)"
-      button: register to explore the zones
-      url: https://go.gov.sg/social-service-summit2025
-      image: /images/TribeXEDM_Registration_1080px_R4.jpg
       alt: Image alt text
 ---
