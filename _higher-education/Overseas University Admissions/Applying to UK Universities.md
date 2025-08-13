@@ -91,3 +91,20 @@ of Term 3. Watch out for the announcement and attend the briefing.</p>
 </li>
 </ul>
 <p></p>
+<p>External Contacts</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cambridge University Malaysia and Singapore Association (CUMSA)</p>
+</li>
+</ul>
+<p><a href="http://cumsa.org/" rel="noopener nofollow" target="_blank">Website</a> |
+<a href="http://linktr.ee/cumsa_" rel="noopener nofollow" target="_blank">Linktree</a>| Instagram: cumsa_</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The United Kingdom-Singapore Students' Council</p>
+</li>
+</ul>
+<p><a href="https://www.theukssc.co.uk/" rel="noopener nofollow" target="_blank">Website</a> |
+<a href="https://t.me/uksscchannel" rel="noopener nofollow" target="_blank">Telegram</a>| <a href="https://www.instagram.com/theukssc/" rel="noopener nofollow" target="_blank">Instagram</a>
+</p>
+<p></p>
