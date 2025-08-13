@@ -63,7 +63,7 @@ of Term 3. Watch out for the announcement and attend the briefing.</p>
 </p>
 </li>
 </ul>
-<h6>Resources</h6>
+<h6><strong>Resources</strong></h6>
 <ul>
 <li>
 <p><a href="https://studyuk-singapore.cmail20.com/t/t-e-qkyydo-l-r/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Your Path to the UK Guide</u></a>
@@ -91,7 +91,8 @@ of Term 3. Watch out for the announcement and attend the briefing.</p>
 </li>
 </ul>
 <p></p>
-<p>External Contacts</p>
+<p><strong>External Contacts</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Cambridge University Malaysia and Singapore Association (CUMSA)</p>
