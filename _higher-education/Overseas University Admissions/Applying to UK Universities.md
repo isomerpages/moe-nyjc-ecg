@@ -98,7 +98,8 @@ of Term 3. Watch out for the announcement and attend the briefing.</p>
 </li>
 </ul>
 <p><a href="http://cumsa.org/" rel="noopener nofollow" target="_blank">Website</a> |
-<a href="http://linktr.ee/cumsa_" rel="noopener nofollow" target="_blank">Linktree</a>| Instagram: cumsa_</p>
+<a href="http://linktr.ee/cumsa_" rel="noopener nofollow" target="_blank">Linktree</a>| <a href="https://www.instagram.com/cumsa_" rel="noopener nofollow" target="_blank">Instagram</a>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The United Kingdom-Singapore Students' Council</p>
