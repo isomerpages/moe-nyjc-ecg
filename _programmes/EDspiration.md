@@ -15,4 +15,5 @@ MOHH, CSA/GovTech/IMDA and many more. This is also the day that Higher
 Education institutes and scholarhips organisations set up exhibitions for
 students to know more about their higher education and career options.</p>
 <p></p>
-<p>Login here</p>
+<p><strong>Recorded talks from EDspiration can be viewed in the ECG Repository on our <a href="https://portal.nyjc.edu.sg/" rel="noopener nofollow" target="_blank">College Portal</a>.</strong>
+</p>
