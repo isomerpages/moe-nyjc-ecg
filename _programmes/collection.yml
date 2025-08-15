@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - EDspiration.md
       - EDventure/.keep
       - EDventure/EDventure.md
       - EDspirience/.keep
