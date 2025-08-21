@@ -244,8 +244,8 @@ earlier)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Internal deadline: Cambridge/Oxford/Medicine/Dentistry/Vet Science courses
-- 10 Oct</p>
-<p>Other courses except certain art and science courses - 24 Jan</p>
+- 10 Oct 2025</p>
+<p>Other courses except certain art and science courses - 23 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher relevant for university course</p>
@@ -256,15 +256,15 @@ earlier)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>US universities <strong>(school couonsellor)</strong>
+<p>US universities <strong>(school counselor)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sep - Dec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Most Early Decision/Early Action - 1 Nov</p>
-<p>Most Regular Decision 31 Dec/1 Jan</p>
+<p>Most Early Decision/Early Action - 1 Nov 2025</p>
+<p>Most Regular Decision 31 Dec 2025/1 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Civics Tutor</p>
@@ -282,8 +282,8 @@ earlier)</p>
 <p>Sep - Dec</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Most Early Decision/Early Action - 1 Nov</p>
-<p>Most Regular Decision 31 Dec/1 Jan</p>
+<p>Most Early Decision/Early Action - 1 Nov 2025</p>
+<p>Most Regular Decision 31 Dec 2025/1 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Tutor</p>

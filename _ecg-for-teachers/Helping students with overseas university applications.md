@@ -35,9 +35,4 @@ filling in the School Report</p>
 <p>The&nbsp;<a href="https://drive.google.com/file/d/1uE_pa1yEZGxothKjTQMG-ktaCq4GXdZQ/view?usp=sharing" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Teacher Recommender’s Guide</u></a>&nbsp;will
 bring you through the process of filling up the Teacher Evaluation Form
 for your recommended student.</p>
-<h2>For HKU Applications</h2>
-<h3>Documents for School Counselor / Referee</h3>
-<p>The&nbsp;<a href="https://drive.google.com/file/d/1jXDDrGbWiA9Ny7wh6e-Z-SKZ0WRV-Il2/view?usp=sharing" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>School Official/Referee’s Guide</u></a>&nbsp;will
-bring you through the process of filling up the Referee Report for your
-recommended student.</p>
 <p></p>
