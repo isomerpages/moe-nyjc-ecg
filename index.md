@@ -46,23 +46,14 @@ sections:
       image: /images/NYJCxSYAI_US_Admission_Talk.jpg
       alt: Image alt text
   - infopic:
-      title: "#askLKCMedicine2025 (Virtual Admissions Clinic for all)"
+      title: "#askLKCMedicine2025 (Virtual Admissions Clinic - Final Run)"
       subtitle: EDventure
       id: infopic
-      description: "📅 Date: 15 Aug 2025 (Friday) 🕒Time: 4 - 5 PM 📍Venue: Zoom"
+      description: "📅 Date: 27 Aug 2025 (Friday) 🕒Time: 4 - 5 PM 📍Venue: Zoom"
       button: register here
-      url: https://event.ntu.edu.sg/asklkcmedicine-VAC-15aug
+      url: https://event.ntu.edu.sg/asklkcmedicine-VAC-27aug
       image: /images/askLKCMedicine_Virtual_Admissions_Clinic_2025.jpg
       alt: Image alt text
-  - infopic:
-      title: "#askLKCMedicine2025 (Virtual Admissions Clinic for JC/IP/IB)"
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 20 Aug 2025 (Wednesday) 🕒Time: 4 - 5 PM 📍Venue: Zoom"
-      button: register here
-      url: https://event.ntu.edu.sg/asklkcmedicine-VAC-20aug
-      alt: Image alt text
-      image: /images/askLKCMedicine_Virtual_Admissions_Clinic_2025.jpg
   - infopic:
       title: Huddle+ 2025 (Healthcare attachments)
       subtitle: EDventure
