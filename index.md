@@ -26,6 +26,16 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: The Global University Expo 20 September 2025 (Singapore)
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 20 September 2025 (Saturday)🕒Time: 12 - 6:30 PM 📍Venue:
+        Marina Bay Sands - Level 3 Begonia Hall"
+      button: register your interest here
+      url: https://jackabroad.benchurl.com/c/l?u=12EE74B5&e=1A5525A&c=7FE1F&&t=0&l=156FEBB6&email=jIeM83EPzmEuQNv87nw6Ug%3D%3D&seq=5
+      image: /images/Global_Uni_Expo_2025.png
+      alt: Image alt text
+  - infopic:
       title: Monash University Australia Open Day 2025 in Singapore
       subtitle: EDventure
       id: infopic
@@ -84,15 +94,5 @@ sections:
       button: Sign up here
       url: http://oneaviation2025.com/
       image: /images/CAAS_Oneaviation_2025.png
-      alt: Image alt text
-  - infopic:
-      title: Family Justice Courts Open House 2025
-      subtitle: EDventure
-      id: infopic
-      description: "Apply by 30 May 2025. 📅 Date: 23 July 2025 (Wednesday)🕒Time:
-        2:30 - 4:30 PM 📍Venue: 3 Havelock Square, Singapore 059727"
-      button: register your interest here
-      url: https://form.gov.sg/6826f02077003bbd551d3854
-      image: /images/Registration_for_Family_Justice_Courts_Open_House.png
       alt: Image alt text
 ---
