@@ -78,7 +78,7 @@ of Term 3. Watch out for the announcement and attend the briefing.</p>
 </p>
 </li>
 <li>
-<p><a href="https://tiny.cc/CUMSAAdmGuide" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>CUMSA Application Guide 2022-23</u></a>
+<p><a href="https://cumsa.org/resources/prospective-students" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>CUMSA Application Guide 2025/2026</u></a>
 </p>
 </li>
 <li>
