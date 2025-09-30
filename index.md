@@ -26,6 +26,17 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: NTU LKCMedicine's Art & Science of Medicine Festival 2025
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 4 October 2025 (Sat) 🕒Time: 10 AM - 8 PM📍Venue: Central
+        Plaza, Our Tampines Hub (free one-way shuttle bus from Novena Campus at
+        10am, 12pm, and 3pm)"
+      button: Click here for more info (no registration required)
+      url: https://www.ntu.edu.sg/medicine/news-events/events/detail/2025/10/04/default-calendar/the-art---science-of-medicine-festival-2025
+      image: /images/NTULKCMedicine_The_Art_and_Science_of_Medicine_Festival_2025.jpg
+      alt: Image alt text
+  - infopic:
       title: The Global University Expo 20 September 2025 (Singapore)
       subtitle: EDventure
       id: infopic
