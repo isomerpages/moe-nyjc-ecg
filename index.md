@@ -34,7 +34,7 @@ sections:
         10am, 12pm, and 3pm)"
       button: Click here for more info (no registration required)
       url: https://www.ntu.edu.sg/medicine/news-events/events/detail/2025/10/04/default-calendar/the-art
-      image: /images/NTULKCMedicine_The_Art_and_Science_of_Medicine_Festival_2025.jpg
+      image: /images/askLKCMedicine_Virtual_Admissions_Clinic_2025.jpg
   - infopic:
       title: Women in Policing Scholarships (WIP) Reception 2025
       subtitle: EDventure
