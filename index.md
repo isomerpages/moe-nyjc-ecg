@@ -33,77 +33,15 @@ sections:
         Plaza, Our Tampines Hub (free one-way shuttle bus from Novena Campus at
         10am, 12pm, and 3pm)"
       button: Click here for more info (no registration required)
-      url: https://www.ntu.edu.sg/medicine/news-events/events/detail/2025/10/04/default-calendar/the-art---science-of-medicine-festival-2025
-      image: /images/NTULKCMedicine_The_Art_and_Science_of_Medicine_Festival_2025.jpg
-      alt: Image alt text
+      url: https://www.ntu.edu.sg/medicine/news-events/events/detail/2025/10/04/default-calendar/the-art
   - infopic:
-      title: The Global University Expo 20 September 2025 (Singapore)
+      title: Women in Policing Scholarships (WIP) Reception 2025
       subtitle: EDventure
       id: infopic
-      description: "📅 Date: 20 September 2025 (Saturday)🕒Time: 12 - 6:30 PM 📍Venue:
-        Marina Bay Sands - Level 3 Begonia Hall"
-      button: register your interest here
-      url: https://jackabroad.benchurl.com/c/l?u=12EE74B5&e=1A5525A&c=7FE1F&&t=0&l=156FEBB6&email=jIeM83EPzmEuQNv87nw6Ug%3D%3D&seq=5
-      image: /images/Global_Uni_Expo_2025.png
-      alt: Image alt text
-  - infopic:
-      title: Monash University Australia Open Day 2025 in Singapore
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 14 September 2025 (Sun) 🕒Time: 1 - 5 PM📍Venue: Hilton
-        Orchard, 333 Orchard Road, Singapore 238867"
+      description: "📅 Date: 2 December 2025 (Tue) 🕒Time: 9 AM - 1 PM📍Venue:
+        Woodleigh Neighbourhood Police Centre"
       button: Register here
-      url: https://forms.gle/fqDnryx3PhFDosWu7
-      image: /images/Monash_2025.jpg
-      alt: Image alt text
-  - infopic:
-      title: Digital and Intelligence Service Experience Programme 2025
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 11 Sep 2025 (Thursday)🕒Time: 11 AM - 4:30 PM📍Venue: 2
-        Bukit Merah Central, #03-01, Singapore 159835"
-      button: Register here
-      url: http://go.gov.sg/disep
-      image: /images/DISEP_2025.jpg
-      alt: Image alt text
-  - infopic:
-      title: Huddle+ 2025 (Healthcare attachments)
-      subtitle: EDventure
-      id: infopic
-      description: "Huddle+ Workshop: 8th December 2025 (Mon) (Morning) *Compulsory*
-        Attachment Programme: Any 1 day between 9th December to 19th December"
-      button: more info in announcement here
-      url: https://portal.nyjc.edu.sg/
-      image: /images/Screenshot_2025_07_24_103739.png
-      alt: Image alt text
-  - infopic:
-      title: "#askLKCMedicine2025 (Virtual Admissions Clinic - Final Run)"
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 27 Aug 2025 (Friday) 🕒Time: 4 - 5 PM 📍Venue: Zoom"
-      button: register here
-      url: https://event.ntu.edu.sg/asklkcmedicine-VAC-27aug
-      image: /images/askLKCMedicine_Virtual_Admissions_Clinic_2025.jpg
-      alt: Image alt text
-  - infopic:
-      title: Mastering US College Applications
-      subtitle: EDubuzz
-      id: infopic
-      description: "Registration ends on 21 Aug (Thursday), 12pm. 📅 Date: 22 August
-        2025 (Friday)🕒Time: 6 - 8 PM📍Venue: NYJC LT4"
-      button: Register here (use @nyjc.edu.sg email for NYJCians)
-      url: http://sgyouthai.org/link/ustalk
-      image: /images/NYJCxSYAI_US_Admission_Talk.jpg
-      alt: Image alt text
-  - infopic:
-      title: CAAS ONEAVIATION 2025
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 18 & 19 July 2025 (Fri & Sat) 🕒Time: 10 AM - 6
-        PM📍Venue: Suntec City Convention Centre, Level 4, Halls 403 & 404
-        (inform tutors if missing lessons)"
-      button: Sign up here
-      url: http://oneaviation2025.com/
-      image: /images/CAAS_Oneaviation_2025.png
+      url: https://go.gov.sg/spf-women-in-policing
+      image: /images/SPF_Women_in_Policing_EDM.png
       alt: Image alt text
 ---
