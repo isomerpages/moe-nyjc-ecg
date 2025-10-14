@@ -26,6 +26,16 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: Women in Policing Scholarships (WIP) Reception 2025
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 2 December 2025 (Tue) 🕒Time: 9 AM - 1 PM📍Venue:
+        Woodleigh Neighbourhood Police Centre"
+      button: Register here
+      url: https://go.gov.sg/spf-women-in-policing
+      image: /images/SPF_Women_in_Policing_EDM.png
+      alt: Image alt text
+  - infopic:
       title: NTU LKCMedicine's Art & Science of Medicine Festival 2025
       subtitle: EDventure
       id: infopic
@@ -35,14 +45,5 @@ sections:
       button: Click here for more info (no registration required)
       url: https://www.ntu.edu.sg/medicine/news-events/events/detail/2025/10/04/default-calendar/the-art
       image: /images/NTULKCMedicine_The_Art_and_Science_of_Medicine_Festival_2025.jpg
-  - infopic:
-      title: Women in Policing Scholarships (WIP) Reception 2025
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 2 December 2025 (Tue) 🕒Time: 9 AM - 1 PM📍Venue:
-        Woodleigh Neighbourhood Police Centre"
-      button: Register here
-      url: https://go.gov.sg/spf-women-in-policing
-      image: /images/SPF_Women_in_Policing_EDM.png
       alt: Image alt text
 ---
