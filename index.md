@@ -26,6 +26,15 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: NUS XPharm Camp 2025
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 18-20 December 2025 (Thu-Sun) 🕒Time: Day 1: 0900 - 1715
+        Day 2: 0900 - 1830 Day 3: 0900 - 1800 📍Venue: NUS Faculty of Science"
+      button: register here
+      url: https://forms.office.com/Pages/ResponsePage.aspx?id=Xu-lWwkxd06Fvc_rDTR-ghnzd-CFJDJLvhqBC7s-okNUOUhITjA2QzlGSVJHVE4xRDI5VTdSMFlZTS4u
+      image: /images/NUS_XPharm_Camp_2025.png
+  - infopic:
       title: Women in Policing Scholarships (WIP) Reception 2025
       subtitle: EDventure
       id: infopic
