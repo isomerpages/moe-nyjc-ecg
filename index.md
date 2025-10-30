@@ -36,6 +36,16 @@ sections:
       image: /images/Screenshot_2025_10_30_112920.png
       alt: Image alt text
   - infopic:
+      title: The SUTD Experience
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 24 Nov 2025, 12 PM 📅 Date: 3 December 2025 (Wed)
+        🕒Time: 1 - 5 PM📍Venue: SUTD Campus"
+      button: register here
+      url: https://forms.office.com/r/CuBuy2k6se
+      image: /images/SUTD.png
+      alt: Image alt text
+  - infopic:
       title: Introduction to Mental Healthcare Programme (Dec 2025)
       subtitle: EDventure
       id: infopic
