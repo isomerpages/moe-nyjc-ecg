@@ -43,7 +43,7 @@ sections:
         🕒Time: 1 - 5 PM📍Venue: SUTD Campus"
       button: register here
       url: https://forms.office.com/r/CuBuy2k6se
-      image: /images/SUTD.png
+      image: /images/Screenshot_2025_10_30_173016.png
       alt: Image alt text
   - infopic:
       title: Introduction to Mental Healthcare Programme (Dec 2025)
