@@ -36,6 +36,17 @@ sections:
       image: /images/Screenshot_2025_10_30_112920.png
       alt: Image alt text
   - infopic:
+      title: NUS CDE - EDIC Project Showcase 2025
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 5 Nov 2025. 📅 Date: 14 November 2025 (Fri) 🕒Time: 5
+        - 8 PM📍Venue: CDE Campus (Block EA Atrium, 9 Engineering Drive
+        S117575)"
+      button: register here
+      url: https://forms.office.com/r/bMzq4yJRNT
+      image: /images/Screenshot_2025_10_30_174515.png
+      alt: Image alt text
+  - infopic:
       title: The SUTD Experience
       subtitle: EDventure
       id: infopic
