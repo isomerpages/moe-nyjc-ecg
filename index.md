@@ -26,6 +26,16 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: 17th Stem Cell Society Singapore (SCSS) Symposium
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 31 Oct 2025 📅 Date: 11 - 14 November 2025 (Tue-Fri)
+        🕒Time: Full Day Event📍Venue: Matrix, Biopolis, Singapore"
+      button: login for more info in annoucement
+      url: https://portal.nyjc.edu.sg/
+      image: /images/Screenshot_2025_10_30_112920.png
+      alt: Image alt text
+  - infopic:
       title: Introduction to Mental Healthcare Programme (Dec 2025)
       subtitle: EDventure
       id: infopic
