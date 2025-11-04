@@ -289,7 +289,10 @@ year e.g. <a href="https://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=7615
 <p>Hungary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://apply.stipendiumhungaricum.hu/" rel="noopener nofollow" target="_blank">Stipendium Hungaricum Scholarship Programme</a>
+<p><a href="https://apply.stipendiumhungaricum.hu/" rel="noopener nofollow" target="_blank">Stipendium Hungaricum Scholarship Programme </a>
+</p>
+<p></p>
+<p><a href="/files/BA_MA_OTM_Call_for_Applications_2026_27.pdf" rel="noopener nofollow" target="_blank">Stipendium Hungaricum Scholarship Guide</a>
 </p>
 </td>
 </tr>
