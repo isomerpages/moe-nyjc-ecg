@@ -287,9 +287,11 @@ year e.g. <a href="https://overseas.mofa.go.kr/sg-en/brd/m_2435/view.do?seq=7615
 <tr>
 <td rowspan="1" colspan="1">
 <p>Hungary</p>
+<p>For students who have NS obligations to fulfil, please apply for the scholarship <u>in the year </u><strong><u>prior</u></strong><u> to the commencement of their studies</u>,
+as the Hungarian government will not defer their scholarship for NS commitments.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://apply.stipendiumhungaricum.hu/" rel="noopener nofollow" target="_blank">Stipendium Hungaricum Scholarship Programme </a>
+<p><a href="https://apply.stipendiumhungaricum.hu/" rel="noopener nofollow" target="_blank">Stipendium Hungaricum Scholarship Programme</a>
 </p>
 <p></p>
 <p><a href="/files/BA_MA_OTM_Call_for_Applications_2026_27.pdf" rel="noopener nofollow" target="_blank">Stipendium Hungaricum Scholarship Guide</a>
