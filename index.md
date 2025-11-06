@@ -26,6 +26,16 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: MATERIALS EXPOSITION 2026 – The Amazing World of Materials!
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 10 January 2026 (Sat) 🕒Time: 10 AM - 2 PM📍Venue: The
+        Arc, Levels B1 and B2 at NTU Campus"
+      button: Register here
+      url: https://bit.ly/MatExpo2026
+      image: /images/Screenshot_2025_11_06_115439.png
+      alt: Image alt text
+  - infopic:
       title: 17th Stem Cell Society Singapore (SCSS) Symposium
       subtitle: EDventure
       id: infopic
