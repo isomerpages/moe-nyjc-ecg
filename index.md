@@ -26,6 +26,16 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: HTX Hackathon HacX! 2025 Pitch Day
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 12 November 2025 (Wed) 🕒Time: 8:30 AM - 5:30 PM📍Venue:
+        SUTD Campus Centre Level 1 (no registration required)"
+      button: more info here
+      url: https://hacx.sg/
+      image: /images/HacX_Pitch_Day_12_Nov_2025.jpg
+      alt: Image alt text
+  - infopic:
       title: MATERIALS EXPOSITION 2026 – The Amazing World of Materials!
       subtitle: EDventure
       id: infopic
