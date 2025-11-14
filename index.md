@@ -26,6 +26,17 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: NUS Food Science & Technology (FST) Outreach Programme 2026
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 26 Dec 2025. (Cost: $20) 📅 Date: 10 January 2026
+        (Sat) 🕒Time: 9 AM - 5 PM (lunch provided)📍Venue: NUS, Faculty of
+        Science, S13 and S14"
+      button: Register here
+      url: https://forms.cloud.microsoft/r/wLMmaz8P5S
+      image: /images/Screenshot_2025_11_14_161323.png
+      alt: Image alt text
+  - infopic:
       title: HTX Hackathon HacX! 2025 Pitch Day
       subtitle: EDventure
       id: infopic
