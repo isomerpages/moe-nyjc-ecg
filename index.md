@@ -127,4 +127,15 @@ sections:
       url: https://www.ntu.edu.sg/medicine/news-events/events/detail/2025/10/04/default-calendar/the-art
       image: /images/NTULKCMedicine_The_Art_and_Science_of_Medicine_Festival_2025.jpg
       alt: Image alt text
+  - infopic:
+      title: Science Centre Singapore DiscovHER 2026
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 23 Nov 2025 📅 Date: 11 - 13 March 2026 (Wed-Fri)
+        🕒Time: 10:30 AM - 12:30 PM or 2:30 - 4:30 PM📍Venue: Science Centre
+        Singapore"
+      button: Login for more info
+      url: https://portal.nyjc.edu.sg/
+      image: /images/Screenshot_2025_11_18_173249.png
+      alt: Image alt text
 ---
