@@ -26,6 +26,15 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: "Global Pathways 2025: NUS COLLEGE"
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 22 November 2025 (Sat) 🕒Time: 4 - 5 PM📍Venue: Zoom"
+      button: Register here
+      url: https://nus-sg.zoom.us/webinar/register/WN_Ex0Q9h9IR0umyRuOf4rBUA#/registration
+      image: /images/Screenshot_2025_11_19_144606.png
+      alt: Image alt text
+  - infopic:
       title: Science Centre Singapore DiscovHER 2026
       subtitle: EDventure
       id: infopic
