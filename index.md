@@ -40,9 +40,9 @@ sections:
       title: NUS CDE Turtlebot3 YOLO Workshop (for JC1 students)
       subtitle: EDventure
       id: infopic
-      description: "📅 Date: 5 & 8 December 2025 (Fri & Mon) 🕒Time: 9 AM - 5
-        PM📍Venue: NUS College of Design and Engineering - Digital Systems &
-        Applications Lab (E4A-04-08)"
+      description: "Register by 25 Nov 2025 📅 Date: 5 & 8 Dec 2025 (Fri & Mon)
+        🕒Time: 9 AM - 5 PM📍Venue: NUS CDE - Digital Systems & Applications Lab
+        (E4A-04-08)"
       button: register here
       url: https://cde.nus.edu.sg/ece/event-detail/turtlebot3-yolo-workshop/
       image: /images/Screenshot_2025_11_21_134720.png
