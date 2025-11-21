@@ -26,16 +26,6 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
-      title: Veterinary Medicine and Veterinary Biosciences Talk
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 13 December 2025 (Sat) 🕒Time: 2 - 5 PM📍Venue: Kaplan
-        City Campus @ Odeon 331, Room OD801/801A (Level 8) Singapore 188720"
-      button: register here
-      url: https://app.geckoform.com/public/#/modern/21FO00rqt60n6f003o4gc6to1b
-      image: /images/Screenshot_2025_11_21_133457.png
-      alt: Image alt text
-  - infopic:
       title: NTU EEE Innovation Challenge 2025
       subtitle: EDventure
       id: infopic
@@ -47,6 +37,17 @@ sections:
       image: /images/NTU_EEE_Innovation_Challenge_2025.png
       alt: Image alt text
   - infopic:
+      title: NUS CDE Turtlebot3 YOLO Workshop (for JC1 students)
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 5 & 8 December 2025 (Fri & Mon) 🕒Time: 9 AM - 5
+        PM📍Venue: NUS College of Design and Engineering - Digital Systems &
+        Applications Lab (E4A-04-08)"
+      button: register here
+      url: https://cde.nus.edu.sg/ece/event-detail/turtlebot3-yolo-workshop/
+      image: /images/Screenshot_2025_11_21_134720.png
+      alt: Image alt text
+  - infopic:
       title: "Global Pathways 2025: NUS COLLEGE"
       subtitle: EDventure
       id: infopic
@@ -54,6 +55,16 @@ sections:
       button: Register here
       url: https://nus-sg.zoom.us/webinar/register/WN_Ex0Q9h9IR0umyRuOf4rBUA#/registration
       image: /images/Screenshot_2025_11_19_144606.png
+      alt: Image alt text
+  - infopic:
+      title: Veterinary Medicine and Veterinary Biosciences Talk
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 13 December 2025 (Sat) 🕒Time: 2 - 5 PM📍Venue: Kaplan
+        City Campus @ Odeon 331, Room OD801/801A (Level 8) Singapore 188720"
+      button: register here
+      url: https://app.geckoform.com/public/#/modern/21FO00rqt60n6f003o4gc6to1b
+      image: /images/Screenshot_2025_11_21_133457.png
       alt: Image alt text
   - infopic:
       title: Science Centre Singapore DiscovHER 2026
