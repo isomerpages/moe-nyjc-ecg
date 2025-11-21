@@ -26,6 +26,16 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: Veterinary Medicine and Veterinary Biosciences Talk
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 13 December 2025 (Sat) 🕒Time: 2 - 5 PM📍Venue: Kaplan
+        City Campus @ Odeon 331, Room OD801/801A (Level 8) Singapore 188720"
+      button: register here
+      url: https://app.geckoform.com/public/#/modern/21FO00rqt60n6f003o4gc6to1b
+      image: /images/Screenshot_2025_11_21_133457.png
+      alt: Image alt text
+  - infopic:
       title: NTU EEE Innovation Challenge 2025
       subtitle: EDventure
       id: infopic
