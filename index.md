@@ -37,7 +37,7 @@ sections:
       image: /images/NTU_EEE_Innovation_Challenge_2025.png
       alt: Image alt text
   - infopic:
-      title: NUS CDE Turtlebot3 YOLO Workshop (for JC1 students)
+      title: NUS CDE Turtlebot3 YOLO Workshop (JC1 students preferred)
       subtitle: EDventure
       id: infopic
       description: "Register by 25 Nov 2025 📅 Date: 5 & 8 Dec 2025 (Fri & Mon)
