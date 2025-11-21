@@ -45,7 +45,7 @@ sections:
         (E4A-04-08)"
       button: register here
       url: https://cde.nus.edu.sg/ece/event-detail/turtlebot3-yolo-workshop/
-      image: /images/Screenshot_2025_11_21_134720.png
+      image: /images/Screenshot_2025_11_21_135533.png
       alt: Image alt text
   - infopic:
       title: "Global Pathways 2025: NUS COLLEGE"
