@@ -26,16 +26,6 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
-      title: NUH Allied Health & Pharmacy Open House 2026
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 31 January 2026 (Sat) 🕒Time: 9 AM - 1 PM (registration
-        at 8:30 AM)📍Venue: NUHS Tower Block"
-      button: register here
-      url: https://for.sg/ahp-open-house-2026-interest-form
-      image: /images/NUH_AH_P_Open_House_2026.jpg
-      alt: Image alt text
-  - infopic:
       title: NTU EEE Innovation Challenge 2025
       subtitle: EDventure
       id: infopic
@@ -45,6 +35,16 @@ sections:
       button: register here
       url: https://forms.office.com/r/T7ednuHQuH
       image: /images/NTU_EEE_Innovation_Challenge_2025.png
+      alt: Image alt text
+  - infopic:
+      title: NUH Allied Health & Pharmacy Open House 2026
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 31 January 2026 (Sat) 🕒Time: 9 AM - 1 PM (registration
+        at 8:30 AM)📍Venue: NUHS Tower Block"
+      button: register here
+      url: https://for.sg/ahp-open-house-2026-interest-form
+      image: /images/NUH_AH_P_Open_House_2026.jpg
       alt: Image alt text
   - infopic:
       title: NUS CDE Turtlebot3 YOLO Workshop (JC1 students preferred)
