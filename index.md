@@ -39,8 +39,8 @@ sections:
       title: NTU EEE Innovation Challenge 2025
       subtitle: EDventure
       id: infopic
-      description: "Register by 3 Dec 2025 📅 Date: 10 - 12 December 2025 (Wed-Fri)
-        🕒Time: 3 Day-2 Night📍Venue: NTU Lee Kong Chian Lecture Theatre, South
+      description: "Register by 3 Dec 2025 📅 Date: 11 - 12 December 2025 (Thu-Fri)
+        🕒Time: 2 Day-1 Night📍Venue: NTU Lee Kong Chian Lecture Theatre, South
         Spine Block S2 Level B2"
       button: register here
       url: https://forms.office.com/r/T7ednuHQuH
