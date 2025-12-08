@@ -34,7 +34,7 @@ sections:
         Spine Block S2 Level B2"
       button: register here
       url: https://forms.office.com/r/T7ednuHQuH
-      image: /images/NTU_EEE_Innovation_Challenge_2025_2.png
+      image: /images/Screenshot_2025_12_08_153619.png
       alt: Image alt text
   - infopic:
       title: NUH Allied Health & Pharmacy Open House 2026
