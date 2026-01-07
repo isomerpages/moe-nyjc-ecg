@@ -26,6 +26,57 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: NUS Maritime Hackathon 2026
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 12 January 2026 📅 Date: 6-7 February 2026 (Fri-Sat)
+        🕒Time: 24-hr Hackathon📍Venue: NUS University Town, Auditorium"
+      button: Click here to register
+      url: https://nus.syd1.qualtrics.com/jfe/form/SV_dmMkIgcuGy7x2Au
+      image: /images/Screenshot_2026_01_07_120831.png
+      alt: Image alt text
+  - infopic:
+      title: NTU International Trading Programme (ITP)
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 22 January 2026 (Thu) 🕒Time: 6:30 - 9:30 PM📍Venue: NTUC
+        Centre, Level 8 Training Room, 1 Marina Boulevard, Singapore 018989
+        Attire: Smart Casual"
+      button: Click here to register
+      url: https://forms.office.com/r/yFZ82feLHt
+      image: /images/Screenshot_2026_01_07_121520.png
+      alt: Image alt text
+  - infopic:
+      title: NTU ADM Curriculum 2026 Briefing and Q&A
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 23 January 2026 📅 Date: 28 January 2026 (Wed) 🕒Time:
+        4 - 5 PM📍Venue: Online"
+      button: Click here to register
+      url: https://event.ntu.edu.sg/adm-curriculum-briefing-and-q-a-2026
+      image: /images/NTU_ADM_2026.png
+      alt: Image alt text
+  - infopic:
+      title: Meet USYD in Singapore 2026
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 7 February 2026 (Sat) 🕒Time: 1 - 4 PM📍Venue: Fairmont
+        Singapore (South Tower), 80 Bras Basah Road, S(189560)"
+      button: Click here to register
+      url: https://www.eventbrite.com.au/e/meet-sydney-in-singapore-2026-tickets-1975362446252?aff=nyjc
+      image: /images/Meet_Sydney_in_Singapore_2026.png
+      alt: Image alt text
+  - infopic:
+      title: MATERIALS EXPOSITION 2026 – The Amazing World of Materials!
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 10 January 2026 (Sat) 🕒Time: 10 AM - 2 PM📍Venue: The
+        Arc, Levels B1 and B2 at NTU Campus"
+      button: Register here
+      url: https://bit.ly/MatExpo2026
+      image: /images/Screenshot_2025_11_06_115439.png
+      alt: Image alt text
+  - infopic:
       title: NTU EEE Innovation Challenge 2025
       subtitle: EDventure
       id: infopic
@@ -99,47 +150,6 @@ sections:
       image: /images/Screenshot_2025_11_14_161323.png
       alt: Image alt text
   - infopic:
-      title: HTX Hackathon HacX! 2025 Pitch Day
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 12 November 2025 (Wed) 🕒Time: 8:30 AM - 5:30 PM📍Venue:
-        SUTD Campus Centre Level 1 (no registration required)"
-      button: more info here
-      url: https://hacx.sg/
-      image: /images/HacX_Pitch_Day_12_Nov_2025.jpg
-      alt: Image alt text
-  - infopic:
-      title: MATERIALS EXPOSITION 2026 – The Amazing World of Materials!
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 10 January 2026 (Sat) 🕒Time: 10 AM - 2 PM📍Venue: The
-        Arc, Levels B1 and B2 at NTU Campus"
-      button: Register here
-      url: https://bit.ly/MatExpo2026
-      image: /images/Screenshot_2025_11_06_115439.png
-      alt: Image alt text
-  - infopic:
-      title: 17th Stem Cell Society Singapore (SCSS) Symposium
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 31 Oct 2025 📅 Date: 11 - 14 November 2025 (Tue-Fri)
-        🕒Time: Full Day Event📍Venue: Matrix, Biopolis, Singapore"
-      button: login for more info in annoucement
-      url: https://portal.nyjc.edu.sg/
-      image: /images/Screenshot_2025_10_30_112920.png
-      alt: Image alt text
-  - infopic:
-      title: NUS CDE - EDIC Project Showcase 2025
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 5 Nov 2025. 📅 Date: 14 November 2025 (Fri) 🕒Time: 5
-        - 8 PM📍Venue: CDE Campus (Block EA Atrium, 9 Engineering Drive
-        S117575)"
-      button: register here
-      url: https://forms.office.com/r/bMzq4yJRNT
-      image: /images/Screenshot_2025_10_30_174515.png
-      alt: Image alt text
-  - infopic:
       title: The SUTD Experience
       subtitle: EDventure
       id: infopic
@@ -177,16 +187,5 @@ sections:
       button: Register here
       url: https://go.gov.sg/spf-women-in-policing
       image: /images/SPF_Women_in_Policing_EDM.png
-      alt: Image alt text
-  - infopic:
-      title: NTU LKCMedicine's Art & Science of Medicine Festival 2025
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 4 October 2025 (Sat) 🕒Time: 10 AM - 8 PM📍Venue: Central
-        Plaza, Our Tampines Hub (free one-way shuttle bus from Novena Campus at
-        10am, 12pm, and 3pm)"
-      button: Click here for more info (no registration required)
-      url: https://www.ntu.edu.sg/medicine/news-events/events/detail/2025/10/04/default-calendar/the-art
-      image: /images/NTULKCMedicine_The_Art_and_Science_of_Medicine_Festival_2025.jpg
       alt: Image alt text
 ---
