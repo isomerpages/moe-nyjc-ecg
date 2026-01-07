@@ -29,8 +29,8 @@ sections:
       title: NUS Maritime Hackathon 2026
       subtitle: EDventure
       id: infopic
-      description: "📅 Date: 6-7 February 2026 (Fri-Sat) 🕒Time: 24-hr
-        Hackathon📍Venue: NUS University Town, Auditorium"
+      description: "Register by 12 January 2026 📅 Date: 6-7 February 2026 (Fri-Sat)
+        🕒Time: 24-hr Hackathon📍Venue: NUS University Town, Auditorium"
       button: Click here to register
       url: https://nus.syd1.qualtrics.com/jfe/form/SV_dmMkIgcuGy7x2Au
       image: /images/Screenshot_2026_01_07_120831.png
@@ -45,6 +45,16 @@ sections:
       button: Click here to register
       url: https://forms.office.com/r/yFZ82feLHt
       image: /images/Screenshot_2026_01_07_121520.png
+      alt: Image alt text
+  - infopic:
+      title: Meet USYD in Singapore 2026
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 7 February 2026 (Sat) 🕒Time: 1 - 4 PM📍Venue: Fairmont
+        Singapore (South Tower), 80 Bras Basah Road, S(189560)"
+      button: Click here to register
+      url: https://www.eventbrite.com.au/e/meet-sydney-in-singapore-2026-tickets-1975362446252?aff=nyjc
+      image: /images/Meet_Sydney_in_Singapore_2026.png
       alt: Image alt text
   - infopic:
       title: MATERIALS EXPOSITION 2026 – The Amazing World of Materials!
@@ -128,16 +138,6 @@ sections:
       button: Register here
       url: https://forms.cloud.microsoft/r/wLMmaz8P5S
       image: /images/Screenshot_2025_11_14_161323.png
-      alt: Image alt text
-  - infopic:
-      title: 17th Stem Cell Society Singapore (SCSS) Symposium
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 31 Oct 2025 📅 Date: 11 - 14 November 2025 (Tue-Fri)
-        🕒Time: Full Day Event📍Venue: Matrix, Biopolis, Singapore"
-      button: login for more info in annoucement
-      url: https://portal.nyjc.edu.sg/
-      image: /images/Screenshot_2025_10_30_112920.png
       alt: Image alt text
   - infopic:
       title: NUS CDE - EDIC Project Showcase 2025
