@@ -10,8 +10,8 @@ are some important resources to aid you in your journey in applying for
 universities and scholarships. Click <a href="https://docs.google.com/presentation/d/1uu6p_2rI6LMuEZEcnm15ZW5QiMCCU9L5/edit?usp=sharing&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a> for
 MOE's A-Level results release briefing slides.</p>
 <p>Application steps (Click <a href="https://docs.google.com/presentation/d/1J2mwDsNFPnWs1WPAA7OJPZDYUcLSMutP/edit?usp=sharing&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>&nbsp;for
-the <strong>briefing slides</strong> during the Results Release Day on Application
-to Local Universities.)</p>
+the <strong>briefing slides (2026 to be updated)</strong> during the Results
+Release Day on Application to Local Universities.)</p>
 <p>Many of the resources regarding university admissions can found in this
 NYJC ECG Portal. Please visit the respective pages under the "<strong>Higher Education</strong>"
 for more information.</p>
@@ -155,7 +155,7 @@ if required.</p>
 <p></p>
 </li>
 <li>
-<p>The application deadline is 19 March 2025 for all AUs.</p>
+<p>The application deadline is 19 March 2026 for all AUs.</p>
 </li>
 <li>
 <p>Application to <a href="https://nuscollege.nus.edu.sg/admissions/how-to-apply/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>NUS College</u></a> is
@@ -174,7 +174,7 @@ via the various programmes under each university.</p>
 may be separate or together with the admissions application.</p>
 </li>
 <li>
-<p>To apply to <strong>overseas universities</strong>, please click <a href="https://ecg.nanyangjc.moe.edu.sg/admissions-coordinators/" rel="noopener nofollow" target="_blank">here</a>for
+<p>To apply to <strong>overseas universities</strong>, please click <a href="https://ecg.nanyangjc.moe.edu.sg/admissions-coordinators/" rel="noopener nofollow" target="_blank">here</a> for
 more info.</p>
 </li>
 </ul>
@@ -397,7 +397,7 @@ via the <a href="https://www.jointacceptance.edu.sg/" rel="noopener nofollow" ta
 the deadline shown in your electronic offer letter.</p>
 </li>
 <li>
-<p><strong>The windows for acceptance are: <br>1st window: 2 January to 23 May 2025 (for offers released before 23 May 2025) <br>2nd window: 1 to 16 June 2025 (for offers released between 23 May and 16 June 2025)</strong>
+<p><strong>The windows for acceptance are: (2026 to be confirmed)<br>1st window: 2 January to 23 May 2025 (for offers released before 23 May 2025) <br>2nd window: 1 to 16 June 2025 (for offers released between 23 May and 16 June 2025)</strong>
 </p>
 </li>
 <li>
