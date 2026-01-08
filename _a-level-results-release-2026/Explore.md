@@ -151,13 +151,12 @@ AI-powered activities.</p>
 <summary>SIT</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p><strong>On Campus: 8 &amp; 9 Feb 2025, 10am - 6pm</strong>
+<p><strong>On Campus: 7 &amp; 8 Feb 2026, 10am - 6pm</strong>
 </p>
 <p><a href="https://www.singaporetech.edu.sg/openhouse/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SIT OH 2025" src="/images/Screenshot_2025_01_23_151706.png">
+<img style="width: 100%" height="auto" width="100%" alt="SIT OH 2026" src="/images/SIT2026_OPENHOUSE.png">
 </div>
 <h4>Digital Resources</h4>
 <p><a href="https://www.singaporetech.edu.sg/sites/default/files/2024-06/2020%20System%20User%20Guide%20for%20FA%20Application%20-%20Students.pdf" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>SIT System User Guide for Applicants</u></a>
