@@ -141,8 +141,47 @@ grade.</p>
 </tbody>
 </table>
 <p></p>
-<p>The UAS is calculated as follows:</p>
-<p><strong>For those with A-Level results from 2024 or earlier:</strong>
+<p>The UAS (for university admission in 2026) is calculated as follows:</p>
+<p><strong>For those who have taken their A-Level from 2025 onwards:</strong>
+</p>
+<ul>
+<li>
+<p>three H2 content-based subjects</p>
+</li>
+<li>
+<p>GP taken in the same sitting as the content-based subjects</p>
+</li>
+<li>
+<p>Pass in Project Work</p>
+</li>
+<li>
+<p>Meet one of the following Mother Tongue Language (MTL) requirement:</p>
+<p>o&nbsp; A minimum of 'S' grade in H1 MTL or General Studies in Chinese
+or H2 Mother Tongue Language &amp; Literature (MTLL) taken at A-Level</p>
+<p>o&nbsp; Pass in MTL ‘B’ syllabus taken at A-Level</p>
+<p>o&nbsp; A minimum of D7 in Higher MTL taken at O-Level</p>
+<p></p>
+</li>
+<li>
+<p>The maximum points for H2 and H1 subjects are 20 and 10 respectively.
+Maximum number of points is 70.</p>
+</li>
+<li>
+<p>Your H1 MTL and/or the fourth H1/H2 content-based subject may be considered
+if it improves the UAS. (i.e. with and without the H1 MTL and/or fourth
+H1/H2 content-based subject.)</p>
+</li>
+<li>
+<p>H2 Knowledge &amp; Inquiry (KI) will no longer be considered in lieu of
+GP. If offered, H2 KI will be considered as a H2 content-based subject.</p>
+</li>
+<li>
+<p>H3 papers taken at the A-Level examination are not considered in the computation
+of the UAS. Candidates who have taken H3 programmes may be considered for
+admissions under Aptitude-based Admissions (ABA).</p>
+</li>
+</ul>
+<p><strong>For those who have taken their A-Level from 2024 or earlier:</strong>
 </p>
 <ul>
 <li>
@@ -164,6 +203,10 @@ Maximum number of points is 90.</p>
 </li>
 <li>
 <p>Your H1 MTL results may be considered if it improves the UAS.</p>
+</li>
+<li>
+<p>Applicants who offered H2 KI can use it in lieu of H1 GP and the H1 content-based
+subject in UAS computation.</p>
 </li>
 <li>
 <p>H3 papers taken at the A-Level examination are not considered in the computation
