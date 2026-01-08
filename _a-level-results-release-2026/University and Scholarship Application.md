@@ -271,8 +271,8 @@ write referrals for you. CCA teachers are not recommended.</p>
 <p></p>
 </li>
 <li>
-<p>The application deadline is 19 Mar 2025 which falls during March holidays
-(15 – 23 Mar 2025). Teachers may not be contactable during holidays.</p>
+<p>The application deadline is 19 Mar 2026 which falls during March holidays
+(14 – 23 Mar 2026). Teachers may not be contactable during holidays.</p>
 </li>
 </ul>
 <h4>IMPORTANT INFORMATION​</h4>
@@ -283,8 +283,8 @@ submit your application so as to give your teacher ample time to write
 the reference.</p>
 </li>
 <li>
-<p>Since the application deadline is 19 Mar 2025, the latest date to invite
-teachers is 7 Mar 2025.</p>
+<p>Since the application deadline is 19 Mar 2026, the latest date to invite
+teachers is 6 Mar 2026.</p>
 </li>
 </ul>
 <h4>Invitation process</h4>
