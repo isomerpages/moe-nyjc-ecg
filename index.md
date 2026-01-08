@@ -22,7 +22,7 @@ sections:
         - title: EDubuzz
           description: ECG Events @ NYJC
           url: https://ecg.nanyangjc.moe.edu.sg/edubuzz/
-        - title: A-Level Results Release 2025
+        - title: A-Level Results Release 2026
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
