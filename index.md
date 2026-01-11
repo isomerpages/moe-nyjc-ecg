@@ -30,7 +30,8 @@ sections:
       subtitle: EDventure
       id: infopic
       description: "📅 Date: 17 January 2026 (Sat) 🕒Time: 2 PM (Registration: 1:30
-        PM)📍Venue: SIT, 1 Punggol Coast Road, S(828608) E2-01-02, Lectorial 7"
+        PM)📍Venue: SIT@Punggol, 1 Punggol Coast Road, S(828608). E3 Building,
+        Level 1, Lectorial 8"
       button: Click here to register
       url: https://www.digipen.edu.sg/visit-us/for-prospective-undergraduate-students/preview-day
       image: /images/SIT_DigiPen__Singapore__Preview_Day.png
