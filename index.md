@@ -26,6 +26,17 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: SIT DigiPen (Singapore) Preview Day
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 17 January 2026 (Sat) 🕒Time: 2 PM (Registration: 1:30
+        PM)📍Venue: SIT@Punggol, 1 Punggol Coast Road, S(828608). E3 Building,
+        Level 1, Lectorial 8"
+      button: Click here to register
+      url: https://www.digipen.edu.sg/visit-us/for-prospective-undergraduate-students/preview-day
+      image: /images/SIT_DigiPen__Singapore__Preview_Day.png
+      alt: Image alt text
+  - infopic:
       title: NUS Maritime Hackathon 2026
       subtitle: EDventure
       id: infopic
@@ -47,26 +58,6 @@ sections:
       image: /images/Screenshot_2026_01_07_121520.png
       alt: Image alt text
   - infopic:
-      title: NTU ADM Curriculum 2026 Briefing and Q&A
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 23 January 2026 📅 Date: 28 January 2026 (Wed) 🕒Time:
-        4 - 5 PM📍Venue: Online"
-      button: Click here to register
-      url: https://event.ntu.edu.sg/adm-curriculum-briefing-and-q-a-2026
-      image: /images/NTU_ADM_2026.png
-      alt: Image alt text
-  - infopic:
-      title: Meet USYD in Singapore 2026
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 7 February 2026 (Sat) 🕒Time: 1 - 4 PM📍Venue: Fairmont
-        Singapore (South Tower), 80 Bras Basah Road, S(189560)"
-      button: Click here to register
-      url: https://www.eventbrite.com.au/e/meet-sydney-in-singapore-2026-tickets-1975362446252?aff=nyjc
-      image: /images/Meet_Sydney_in_Singapore_2026.png
-      alt: Image alt text
-  - infopic:
       title: MATERIALS EXPOSITION 2026 – The Amazing World of Materials!
       subtitle: EDventure
       id: infopic
@@ -77,15 +68,14 @@ sections:
       image: /images/Screenshot_2025_11_06_115439.png
       alt: Image alt text
   - infopic:
-      title: NTU EEE Innovation Challenge 2025
+      title: NTU ADM Curriculum 2026 Briefing and Q&A
       subtitle: EDventure
       id: infopic
-      description: "Register by 3 Dec 2025 📅 Date: 11 - 12 December 2025 (Thu-Fri)
-        🕒Time: 2 Day-1 Night📍Venue: NTU Lee Kong Chian Lecture Theatre, South
-        Spine Block S2 Level B2"
-      button: register here
-      url: https://forms.office.com/r/T7ednuHQuH
-      image: /images/Screenshot_2025_12_08_153619.png
+      description: "Register by 23 January 2026 📅 Date: 28 January 2026 (Wed) 🕒Time:
+        4 - 5 PM📍Venue: Online"
+      button: Click here to register
+      url: https://event.ntu.edu.sg/adm-curriculum-briefing-and-q-a-2026
+      image: /images/NTU_ADM_2026.png
       alt: Image alt text
   - infopic:
       title: NUH Allied Health & Pharmacy Open House 2026
@@ -98,6 +88,27 @@ sections:
       image: /images/NUH_AH_P_Open_House_2026.jpg
       alt: Image alt text
   - infopic:
+      title: Meet USYD in Singapore 2026
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 7 February 2026 (Sat) 🕒Time: 1 - 4 PM📍Venue: Fairmont
+        Singapore (South Tower), 80 Bras Basah Road, S(189560)"
+      button: Click here to register
+      url: https://www.eventbrite.com.au/e/meet-sydney-in-singapore-2026-tickets-1975362446252?aff=nyjc
+      image: /images/Meet_Sydney_in_Singapore_2026.png
+      alt: Image alt text
+  - infopic:
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 3 Dec 2025 📅 Date: 11 - 12 December 2025 (Thu-Fri)
+        🕒Time: 2 Day-1 Night📍Venue: NTU Lee Kong Chian Lecture Theatre, South
+        Spine Block S2 Level B2"
+      button: register here
+      url: https://forms.office.com/r/T7ednuHQuH
+      image: /images/Screenshot_2025_12_08_153619.png
+      alt: Image alt text
+      title: NTU EEE Innovation Challenge
+  - infopic:
       title: NUS CDE Turtlebot3 YOLO Workshop (JC1 students preferred)
       subtitle: EDventure
       id: infopic
@@ -107,15 +118,6 @@ sections:
       button: register here
       url: https://cde.nus.edu.sg/ece/event-detail/turtlebot3-yolo-workshop/
       image: /images/Screenshot_2025_11_21_135533.png
-      alt: Image alt text
-  - infopic:
-      title: "Global Pathways 2025: NUS COLLEGE"
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 22 November 2025 (Sat) 🕒Time: 4 - 5 PM📍Venue: Zoom"
-      button: Register here
-      url: https://nus-sg.zoom.us/webinar/register/WN_Ex0Q9h9IR0umyRuOf4rBUA#/registration
-      image: /images/Screenshot_2025_11_19_144606.png
       alt: Image alt text
   - infopic:
       title: Veterinary Medicine and Veterinary Biosciences Talk
