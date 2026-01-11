@@ -107,6 +107,7 @@ sections:
       url: https://forms.office.com/r/T7ednuHQuH
       image: /images/Screenshot_2025_12_08_153619.png
       alt: Image alt text
+      title: NTU EEE Innovation Challenge
   - infopic:
       title: NUS CDE Turtlebot3 YOLO Workshop (JC1 students preferred)
       subtitle: EDventure
