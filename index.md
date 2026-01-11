@@ -26,6 +26,16 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: SIT DigiPen (Singapore) Preview Day
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 17 January 2026 (Sat) 🕒Time: 2 PM (Registration: 1:30
+        PM)📍Venue: SIT, 1 Punggol Coast Road, S(828608) E2-01-02, Lectorial 7"
+      button: Click here to register
+      url: https://www.digipen.edu.sg/visit-us/for-prospective-undergraduate-students/preview-day
+      image: /images/SIT_DigiPen__Singapore__Preview_Day.png
+      alt: Image alt text
+  - infopic:
       title: NUS Maritime Hackathon 2026
       subtitle: EDventure
       id: infopic
@@ -107,15 +117,6 @@ sections:
       button: register here
       url: https://cde.nus.edu.sg/ece/event-detail/turtlebot3-yolo-workshop/
       image: /images/Screenshot_2025_11_21_135533.png
-      alt: Image alt text
-  - infopic:
-      title: "Global Pathways 2025: NUS COLLEGE"
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 22 November 2025 (Sat) 🕒Time: 4 - 5 PM📍Venue: Zoom"
-      button: Register here
-      url: https://nus-sg.zoom.us/webinar/register/WN_Ex0Q9h9IR0umyRuOf4rBUA#/registration
-      image: /images/Screenshot_2025_11_19_144606.png
       alt: Image alt text
   - infopic:
       title: Veterinary Medicine and Veterinary Biosciences Talk
