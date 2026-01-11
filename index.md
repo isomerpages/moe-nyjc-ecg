@@ -58,6 +58,16 @@ sections:
       image: /images/Screenshot_2026_01_07_121520.png
       alt: Image alt text
   - infopic:
+      title: MATERIALS EXPOSITION 2026 – The Amazing World of Materials!
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 10 January 2026 (Sat) 🕒Time: 10 AM - 2 PM📍Venue: The
+        Arc, Levels B1 and B2 at NTU Campus"
+      button: Register here
+      url: https://bit.ly/MatExpo2026
+      image: /images/Screenshot_2025_11_06_115439.png
+      alt: Image alt text
+  - infopic:
       title: NTU ADM Curriculum 2026 Briefing and Q&A
       subtitle: EDventure
       id: infopic
@@ -66,6 +76,16 @@ sections:
       button: Click here to register
       url: https://event.ntu.edu.sg/adm-curriculum-briefing-and-q-a-2026
       image: /images/NTU_ADM_2026.png
+      alt: Image alt text
+  - infopic:
+      title: NUH Allied Health & Pharmacy Open House 2026
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 31 January 2026 (Sat) 🕒Time: 9 AM - 1 PM (registration
+        at 8:30 AM)📍Venue: NUHS Tower Block"
+      button: register here
+      url: https://for.sg/ahp-open-house-2026-interest-form
+      image: /images/NUH_AH_P_Open_House_2026.jpg
       alt: Image alt text
   - infopic:
       title: Meet USYD in Singapore 2026
@@ -78,17 +98,6 @@ sections:
       image: /images/Meet_Sydney_in_Singapore_2026.png
       alt: Image alt text
   - infopic:
-      title: MATERIALS EXPOSITION 2026 – The Amazing World of Materials!
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 10 January 2026 (Sat) 🕒Time: 10 AM - 2 PM📍Venue: The
-        Arc, Levels B1 and B2 at NTU Campus"
-      button: Register here
-      url: https://bit.ly/MatExpo2026
-      image: /images/Screenshot_2025_11_06_115439.png
-      alt: Image alt text
-  - infopic:
-      title: NTU EEE Innovation Challenge 2025
       subtitle: EDventure
       id: infopic
       description: "Register by 3 Dec 2025 📅 Date: 11 - 12 December 2025 (Thu-Fri)
@@ -97,16 +106,6 @@ sections:
       button: register here
       url: https://forms.office.com/r/T7ednuHQuH
       image: /images/Screenshot_2025_12_08_153619.png
-      alt: Image alt text
-  - infopic:
-      title: NUH Allied Health & Pharmacy Open House 2026
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 31 January 2026 (Sat) 🕒Time: 9 AM - 1 PM (registration
-        at 8:30 AM)📍Venue: NUHS Tower Block"
-      button: register here
-      url: https://for.sg/ahp-open-house-2026-interest-form
-      image: /images/NUH_AH_P_Open_House_2026.jpg
       alt: Image alt text
   - infopic:
       title: NUS CDE Turtlebot3 YOLO Workshop (JC1 students preferred)
