@@ -26,6 +26,16 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: Bachelor of Environmental Studies (BES) Discovery Day 2026
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 7 Feb 2026 (Sat) 🕒Time: 1 - 4 PM📍Venue: NUS Kent Ridge
+        Campus, Block S16, Level 4, S16-04-30 & S16-04-36"
+      button: register here
+      url: https://au.cglink.me/2sg/s212
+      image: /images/NUS_Environmental_Studies_Discovery_Day_2026.png
+      alt: Image alt text
+  - infopic:
       title: SIT DigiPen (Singapore) Preview Day
       subtitle: EDventure
       id: infopic
@@ -108,17 +118,6 @@ sections:
       image: /images/Screenshot_2025_12_08_153619.png
       alt: Image alt text
       title: NTU EEE Innovation Challenge
-  - infopic:
-      title: NUS CDE Turtlebot3 YOLO Workshop (JC1 students preferred)
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 25 Nov 2025 📅 Date: 5 & 8 Dec 2025 (Fri & Mon)
-        🕒Time: 9 AM - 5 PM📍Venue: NUS CDE - Digital Systems & Applications Lab
-        (E4A-04-08)"
-      button: register here
-      url: https://cde.nus.edu.sg/ece/event-detail/turtlebot3-yolo-workshop/
-      image: /images/Screenshot_2025_11_21_135533.png
-      alt: Image alt text
   - infopic:
       title: Veterinary Medicine and Veterinary Biosciences Talk
       subtitle: EDventure
