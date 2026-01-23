@@ -26,6 +26,17 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 28 Jan 2026 📅 Date: 7 January 2026 (Sat) 🕒Time:
+        10:30 AM - 4:30 PM📍Venue: Singapore Maritime Gallery (Nearest MRT:
+        Marina South Pier) Lunch given"
+      button: register here
+      url: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=SJPOFSq-K0aPwOF2WpsgSsjxR-lFxtZKs9MtaSQtaPJUQ0hOSVgwSjVJUkhRS1dZTlYxTFc4MzBRSC4u
+      image: /images/Voyage_VI.png
+      alt: Image alt text
+      title: "NTU MBS Voyage VI: Shaping the Seas of Tomorrow"
+  - infopic:
       title: Bachelor of Environmental Studies (BES) Discovery Day 2026
       subtitle: EDventure
       id: infopic
@@ -107,17 +118,6 @@ sections:
       url: https://www.eventbrite.com.au/e/meet-sydney-in-singapore-2026-tickets-1975362446252?aff=nyjc
       image: /images/Meet_Sydney_in_Singapore_2026.png
       alt: Image alt text
-  - infopic:
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 3 Dec 2025 📅 Date: 11 - 12 December 2025 (Thu-Fri)
-        🕒Time: 2 Day-1 Night📍Venue: NTU Lee Kong Chian Lecture Theatre, South
-        Spine Block S2 Level B2"
-      button: register here
-      url: https://forms.office.com/r/T7ednuHQuH
-      image: /images/Screenshot_2025_12_08_153619.png
-      alt: Image alt text
-      title: NTU EEE Innovation Challenge
   - infopic:
       title: Veterinary Medicine and Veterinary Biosciences Talk
       subtitle: EDventure
