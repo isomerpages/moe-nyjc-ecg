@@ -26,6 +26,27 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 28 Jan 2026 📅 Date: 7 February 2026 (Sat) 🕒Time:
+        10:30 AM - 4:30 PM📍Venue: Singapore Maritime Gallery (Nearest MRT:
+        Marina South Pier)"
+      button: register here
+      url: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=SJPOFSq-K0aPwOF2WpsgSsjxR-lFxtZKs9MtaSQtaPJUQ0hOSVgwSjVJUkhRS1dZTlYxTFc4MzBRSC4u
+      image: /images/Voyage_VI.png
+      alt: Image alt text
+      title: "NTU MBS Voyage VI: Shaping the Seas of Tomorrow"
+  - infopic:
+      title: Bachelor of Environmental Studies (BES) Discovery Day 2026
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 7 Feb 2026 (Sat) 🕒Time: 1 - 4 PM📍Venue: NUS Kent Ridge
+        Campus, Block S16, Level 4, S16-04-30 & S16-04-36"
+      button: register here
+      url: https://au.cglink.me/2sg/s212
+      image: /images/NUS_Environmental_Studies_Discovery_Day_2026.png
+      alt: Image alt text
+  - infopic:
       title: SIT DigiPen (Singapore) Preview Day
       subtitle: EDventure
       id: infopic
@@ -96,28 +117,6 @@ sections:
       button: Click here to register
       url: https://www.eventbrite.com.au/e/meet-sydney-in-singapore-2026-tickets-1975362446252?aff=nyjc
       image: /images/Meet_Sydney_in_Singapore_2026.png
-      alt: Image alt text
-  - infopic:
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 3 Dec 2025 📅 Date: 11 - 12 December 2025 (Thu-Fri)
-        🕒Time: 2 Day-1 Night📍Venue: NTU Lee Kong Chian Lecture Theatre, South
-        Spine Block S2 Level B2"
-      button: register here
-      url: https://forms.office.com/r/T7ednuHQuH
-      image: /images/Screenshot_2025_12_08_153619.png
-      alt: Image alt text
-      title: NTU EEE Innovation Challenge
-  - infopic:
-      title: NUS CDE Turtlebot3 YOLO Workshop (JC1 students preferred)
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 25 Nov 2025 📅 Date: 5 & 8 Dec 2025 (Fri & Mon)
-        🕒Time: 9 AM - 5 PM📍Venue: NUS CDE - Digital Systems & Applications Lab
-        (E4A-04-08)"
-      button: register here
-      url: https://cde.nus.edu.sg/ece/event-detail/turtlebot3-yolo-workshop/
-      image: /images/Screenshot_2025_11_21_135533.png
       alt: Image alt text
   - infopic:
       title: Veterinary Medicine and Veterinary Biosciences Talk
