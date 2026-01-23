@@ -28,9 +28,9 @@ sections:
   - infopic:
       subtitle: EDventure
       id: infopic
-      description: "Register by 28 Jan 2026 📅 Date: 7 January 2026 (Sat) 🕒Time:
+      description: "Register by 28 Jan 2026 📅 Date: 7 February 2026 (Sat) 🕒Time:
         10:30 AM - 4:30 PM📍Venue: Singapore Maritime Gallery (Nearest MRT:
-        Marina South Pier) Lunch given"
+        Marina South Pier)"
       button: register here
       url: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=SJPOFSq-K0aPwOF2WpsgSsjxR-lFxtZKs9MtaSQtaPJUQ0hOSVgwSjVJUkhRS1dZTlYxTFc4MzBRSC4u
       image: /images/Voyage_VI.png
