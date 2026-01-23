@@ -26,6 +26,16 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: Young Health Ambassadors Programme (YHAP) 2026
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 6 Feb 2026 📅 Date: 14, 15 & 22 March 2026
+        (Sat/Sun/Sun) 🕒Time: Full-day📍Venue: NUS Campus"
+      button: register here
+      url: https://forms.gle/5udpJ9w6REVrawMZ6
+      image: /images/Screenshot_2026_01_23_184110.png
+      alt: Image alt text
+  - infopic:
       subtitle: EDventure
       id: infopic
       description: "Register by 28 Jan 2026 📅 Date: 7 February 2026 (Sat) 🕒Time:
@@ -149,16 +159,6 @@ sections:
       button: Register here
       url: https://forms.cloud.microsoft/r/wLMmaz8P5S
       image: /images/Screenshot_2025_11_14_161323.png
-      alt: Image alt text
-  - infopic:
-      title: The SUTD Experience
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 24 Nov 2025, 12 PM 📅 Date: 3 December 2025 (Wed)
-        🕒Time: 1 - 5 PM📍Venue: SUTD Campus"
-      button: register here
-      url: https://forms.office.com/r/CuBuy2k6se
-      image: /images/Screenshot_2025_10_30_173016.png
       alt: Image alt text
   - infopic:
       title: Introduction to Mental Healthcare Programme (Dec 2025)
