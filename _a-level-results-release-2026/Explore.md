@@ -31,29 +31,20 @@ description: ""
 <summary>NTU/NIE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p><strong>1 Mar 2025</strong>
+<p><strong>28 Feb 2026</strong>
 </p>
-<p><strong>Day Event: 11am - 7pm</strong>
+<p><strong>Time: 9:30am - 6:30pm</strong>
 </p>
-<p><strong>Night Festival: 6 - 9pm</strong>
-</p>
-<p><a href="https://www.ntu.edu.sg/openhouse?gad_source=1&amp;gclid=CjwKCAiA74G9BhAEEiwA8kNfpQaJEUUMWeOU1sh5XhujbRm-pJCdKi56Zgzn5FZ9dx3z4FkqLlWG-xoC3ScQAvD_BwE" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link to NTU Open House</u></a>
+<p><a href="https://www.ntu.edu.sg/OpenHouse" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link to NTU Open House</u></a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NTU OH 2025" src="/images/E_invite_A4.jpg">
-</div>
-<p></p>
-<p><strong>LKCMedicine @ NTU Open House 2025</strong>
+<p><strong>LKCMedicine @ NTU Open House 2026</strong>
 </p>
-<p><strong>1 Mar 2025</strong>
+<p><strong>28 Feb 2026</strong>
 </p>
-<p><strong>11am - 7pm</strong>
+<p><a href="https://www.ntu.edu.sg/medicine/news-events/events/detail/2026/02/28/default-calendar/ntu-lkcmedicine-open-house-2025" rel="noopener nofollow" target="_blank">Link to LKCMedicine Open House</a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NTULKCMed OH 2025" src="/images/NTULKCMedicine_Open_House_2025.jpg">
-</div>
 <h4>Digital Resources</h4>
 <p><a href="https://www.ntu.edu.sg/education/degree-programmes#Content_C109_Col00" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate Programmes</u></a>
 </p>
