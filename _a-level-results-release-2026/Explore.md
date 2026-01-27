@@ -64,14 +64,10 @@ description: ""
 <summary>SMU</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p><strong>22 &amp; 23 Feb 2025</strong>
+<p><strong>28 Feb - 1 Mar 2026</strong>
 </p>
 <p><a href="https://admissions.smu.edu.sg/openhouse" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SMU OH 2025" src="/images/SMU_OH_2025.png">
-</div>
 <h4>Digital Resources</h4>
 <p><a href="https://admissions.smu.edu.sg/find-your-major" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Find your major generator</u></a>
 </p>
