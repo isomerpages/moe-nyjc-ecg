@@ -81,19 +81,18 @@ description: ""
 <summary>SUTD</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p><strong>22 &amp; 23 Feb 2025, 10:30am - 5pm</strong>
+<p><strong>Century Square (Level 1): 6 - 8 Feb 2026, 10:30am - 10pm</strong>
 </p>
-<p><a href="https://openhouse.sutd.edu.sg/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
+<p><strong>Vivocity (Level 1 Central Court 2): 27 Feb - 1 Mar 2026, 10:30am - 10pm</strong>
+</p>
+<p><strong>SUTD (Campus Centre Level 1): 14 Feb 2026, 11am - 3pm</strong>
+</p>
+<p><a href="https://www.sutd.edu.sg/openhouse/campus-experience" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SUTD OH 2025" src="/images/SUTD_OH_2025.png">
-</div>
-<p>SUTD World of Design AI @ VivoCity (Level 1, Central Court), 5 - 9 Feb,
-10am - 10pm</p>
-<p>Fly drones, race robots, bop to AI-generated beats and explore exciting
-AI-powered activities.</p>
-<p><a href="https://www.sutd.edu.sg/events-listing/sutd-world-of-design-ai/" rel="noopener nofollow" target="_blank">Link</a>
+<p><strong>SUTD Digital Open House 2026</strong>
+</p>
+<p><a href="https://digitalopenhouse.sutd.edu.sg/" rel="noopener nofollow" target="_blank">Link</a>
 </p>
 <h4>Digital Resources</h4>
 <p><a href="https://www.sutd.edu.sg/admissions/undergraduate" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate Programmes</u></a>
