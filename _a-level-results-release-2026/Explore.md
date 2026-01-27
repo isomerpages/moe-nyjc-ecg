@@ -10,45 +10,15 @@ description: ""
 <summary>NUS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p><strong>Online Experience: 1 Mar 2025</strong>
+<p><strong>Online Experience: 28 Feb - 5 Mar 2026</strong>
 </p>
-<p><strong>On-Campus Experience: 8 Mar 2025</strong>
+<p><strong>On-Campus Experience: 7 Mar 2026</strong>
 </p>
-<p><a href="https://nus.edu.sg/oam/why-nus/admissions-oh2025" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
+<p><a href="https://nus.edu.sg/openhouse/home" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NUS OH 2025" src="/images/NUS_Open_House_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="NUS Open House 2026" src="/images/NUS_Open_House_2026.png">
 </div>
-<p><strong>NUS CDE e-Open House (Zoom Webinar)</strong>
-</p>
-<p><strong>Sunday, 2 March 2025</strong>
-</p>
-<p><a href="https://nus-sg.zoom.us/webinar/register/WN_QnzaB9-yRfyO_DOffQZNVw#/registration" rel="noopener nofollow" target="_blank">Register for the Zoom Webinar here</a>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NUS CDE eOH 2025" src="/images/NUS_CDE_e_Open_House_2025.png">
-</div>
-<p><strong>NUS CDE Open House (NUS Campus)</strong>
-</p>
-<p><strong>Saturday, 8 March 2025</strong>
-</p>
-<p><a href="https://nus.syd1.qualtrics.com/jfe/form/SV_bszV7vVrdeOhafk" rel="noopener nofollow" target="_blank">Sign up here</a>
-</p>
-<p></p>
-<p><strong>NUS CDE Robotics Fair</strong>
-</p>
-<p><strong>Saturday, 8 March 2025</strong>
-</p>
-<p>Location:<strong> CDE Campus, EA Atrium</strong>
-</p>
-<p><strong>Block EA 9 Engineering Drive 1, Level 1, Singapore 117575</strong>
-</p>
-<p>Event Time: <strong>10:30 am – 5:30 pm</strong>
-</p>
-<p><a href="https://cde.nus.edu.sg/admissions25-robotics-fair/" rel="noopener nofollow" target="_blank">Click here for more info</a>
-</p>
 <p></p>
 <h4>Digital Resources</h4>
 <p><a href="https://www.nus.edu.sg/oam/publications" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate viewbook, scholarship and financial aid brochures and application guides</u></a>
@@ -61,29 +31,20 @@ description: ""
 <summary>NTU/NIE</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p><strong>1 Mar 2025</strong>
+<p><strong>28 Feb 2026</strong>
 </p>
-<p><strong>Day Event: 11am - 7pm</strong>
+<p><strong>Time: 9:30am - 6:30pm</strong>
 </p>
-<p><strong>Night Festival: 6 - 9pm</strong>
-</p>
-<p><a href="https://www.ntu.edu.sg/openhouse?gad_source=1&amp;gclid=CjwKCAiA74G9BhAEEiwA8kNfpQaJEUUMWeOU1sh5XhujbRm-pJCdKi56Zgzn5FZ9dx3z4FkqLlWG-xoC3ScQAvD_BwE" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link to NTU Open House</u></a>
+<p><a href="https://www.ntu.edu.sg/OpenHouse" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link to NTU Open House</u></a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NTU OH 2025" src="/images/E_invite_A4.jpg">
-</div>
-<p></p>
-<p><strong>LKCMedicine @ NTU Open House 2025</strong>
+<p><strong>LKCMedicine @ NTU Open House 2026</strong>
 </p>
-<p><strong>1 Mar 2025</strong>
+<p><strong>28 Feb 2026</strong>
 </p>
-<p><strong>11am - 7pm</strong>
+<p><a href="https://www.ntu.edu.sg/medicine/news-events/events/detail/2026/02/28/default-calendar/ntu-lkcmedicine-open-house-2025" rel="noopener nofollow" target="_blank">Link to LKCMedicine Open House</a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NTULKCMed OH 2025" src="/images/NTULKCMedicine_Open_House_2025.jpg">
-</div>
 <h4>Digital Resources</h4>
 <p><a href="https://www.ntu.edu.sg/education/degree-programmes#Content_C109_Col00" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate Programmes</u></a>
 </p>
@@ -103,14 +64,10 @@ description: ""
 <summary>SMU</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p><strong>22 &amp; 23 Feb 2025</strong>
+<p><strong>28 Feb - 1 Mar 2026</strong>
 </p>
 <p><a href="https://admissions.smu.edu.sg/openhouse" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SMU OH 2025" src="/images/SMU_OH_2025.png">
-</div>
 <h4>Digital Resources</h4>
 <p><a href="https://admissions.smu.edu.sg/find-your-major" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Find your major generator</u></a>
 </p>
@@ -124,19 +81,18 @@ description: ""
 <summary>SUTD</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p><strong>22 &amp; 23 Feb 2025, 10:30am - 5pm</strong>
+<p><strong>Century Square (Level 1): 6 - 8 Feb 2026, 10:30am - 10pm</strong>
 </p>
-<p><a href="https://openhouse.sutd.edu.sg/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
+<p><strong>Vivocity (Level 1 Central Court 2): 27 Feb - 1 Mar 2026, 10:30am - 10pm</strong>
+</p>
+<p><strong>SUTD (Campus Centre Level 1): 14 Feb 2026, 11am - 3pm</strong>
+</p>
+<p><a href="https://www.sutd.edu.sg/openhouse/campus-experience" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SUTD OH 2025" src="/images/SUTD_OH_2025.png">
-</div>
-<p>SUTD World of Design AI @ VivoCity (Level 1, Central Court), 5 - 9 Feb,
-10am - 10pm</p>
-<p>Fly drones, race robots, bop to AI-generated beats and explore exciting
-AI-powered activities.</p>
-<p><a href="https://www.sutd.edu.sg/events-listing/sutd-world-of-design-ai/" rel="noopener nofollow" target="_blank">Link</a>
+<p><strong>SUTD Digital Open House 2026</strong>
+</p>
+<p><a href="https://digitalopenhouse.sutd.edu.sg/" rel="noopener nofollow" target="_blank">Link</a>
 </p>
 <h4>Digital Resources</h4>
 <p><a href="https://www.sutd.edu.sg/admissions/undergraduate" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate Programmes</u></a>
@@ -175,13 +131,12 @@ AI-powered activities.</p>
 <summary>SUSS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p><strong>22 Feb 2025, 10am - 5pm</strong>
+<p><strong>28 Feb 2026, Saturday, 10am - 5pm</strong>
 </p>
-<p><a href="https://www.suss.edu.sg/news-and-events/open-house" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
+<p><a href="https://www.suss.edu.sg/news-events/happenings/open-house" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SUSS OH 2025" src="/images/SUSS_Open_House_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="SUSS Open House 2026" src="/images/SUSS_Open_House_2026.jpg">
 </div>
 <h4>Digital Resources</h4>
 <p><a href="https://www.suss.edu.sg/docs/default-source/contentdoc/src/fulltime_programmes.pdf" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Full-time Undergraduate Programmes</u></a>
