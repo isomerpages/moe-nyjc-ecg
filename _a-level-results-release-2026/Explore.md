@@ -175,13 +175,12 @@ AI-powered activities.</p>
 <summary>SUSS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p><strong>22 Feb 2025, 10am - 5pm</strong>
+<p><strong>28 Feb 2026, Saturday, 10am - 5pm</strong>
 </p>
-<p><a href="https://www.suss.edu.sg/news-and-events/open-house" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
+<p><a href="https://www.suss.edu.sg/news-events/happenings/open-house" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SUSS OH 2025" src="/images/SUSS_Open_House_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="SUSS Open House 2026" src="/images/SUSS_Open_House_2026.jpg">
 </div>
 <h4>Digital Resources</h4>
 <p><a href="https://www.suss.edu.sg/docs/default-source/contentdoc/src/fulltime_programmes.pdf" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Full-time Undergraduate Programmes</u></a>
