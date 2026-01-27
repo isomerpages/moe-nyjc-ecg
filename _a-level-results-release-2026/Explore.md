@@ -10,45 +10,15 @@ description: ""
 <summary>NUS</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Open House Information</h4>
-<p><strong>Online Experience: 1 Mar 2025</strong>
+<p><strong>Online Experience: 28 Feb - 5 Mar 2026</strong>
 </p>
-<p><strong>On-Campus Experience: 8 Mar 2025</strong>
+<p><strong>On-Campus Experience: 7 Mar 2026</strong>
 </p>
-<p><a href="https://nus.edu.sg/oam/why-nus/admissions-oh2025" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
+<p><a href="https://nus.edu.sg/openhouse/home" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NUS OH 2025" src="/images/NUS_Open_House_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="NUS Open House 2026" src="/images/NUS_Open_House_2026.png">
 </div>
-<p><strong>NUS CDE e-Open House (Zoom Webinar)</strong>
-</p>
-<p><strong>Sunday, 2 March 2025</strong>
-</p>
-<p><a href="https://nus-sg.zoom.us/webinar/register/WN_QnzaB9-yRfyO_DOffQZNVw#/registration" rel="noopener nofollow" target="_blank">Register for the Zoom Webinar here</a>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NUS CDE eOH 2025" src="/images/NUS_CDE_e_Open_House_2025.png">
-</div>
-<p><strong>NUS CDE Open House (NUS Campus)</strong>
-</p>
-<p><strong>Saturday, 8 March 2025</strong>
-</p>
-<p><a href="https://nus.syd1.qualtrics.com/jfe/form/SV_bszV7vVrdeOhafk" rel="noopener nofollow" target="_blank">Sign up here</a>
-</p>
-<p></p>
-<p><strong>NUS CDE Robotics Fair</strong>
-</p>
-<p><strong>Saturday, 8 March 2025</strong>
-</p>
-<p>Location:<strong> CDE Campus, EA Atrium</strong>
-</p>
-<p><strong>Block EA 9 Engineering Drive 1, Level 1, Singapore 117575</strong>
-</p>
-<p>Event Time: <strong>10:30 am – 5:30 pm</strong>
-</p>
-<p><a href="https://cde.nus.edu.sg/admissions25-robotics-fair/" rel="noopener nofollow" target="_blank">Click here for more info</a>
-</p>
 <p></p>
 <h4>Digital Resources</h4>
 <p><a href="https://www.nus.edu.sg/oam/publications" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate viewbook, scholarship and financial aid brochures and application guides</u></a>
