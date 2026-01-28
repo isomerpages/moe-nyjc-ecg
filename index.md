@@ -26,6 +26,15 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: National AI Student Challenge (NAISC) 2026
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 2-6 March, Apr-May & 22-23 May"
+      button: Register here
+      url: https://naisc.aisingapore.org/
+      image: /images/IMH_Dec_2025.png
+      alt: Image alt text
+  - infopic:
       title: NUS CDE Robotics Meets AI Showcase 2026
       subtitle: EDventure
       id: infopic
@@ -159,15 +168,6 @@ sections:
       button: Register here
       url: https://forms.cloud.microsoft/r/wLMmaz8P5S
       image: /images/Screenshot_2025_11_14_161323.png
-      alt: Image alt text
-  - infopic:
-      title: Introduction to Mental Healthcare Programme (Dec 2025)
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 3-5 December 2025 (Wed-Fri) 🕒Time: TBC 📍Venue: IMH"
-      button: Register here (JC2 students only)
-      url: https://www.imh.com.sg/Education/Pages/Pre-University-and-Polytechnic-Programme.aspx
-      image: /images/IMH_Dec_2025.png
       alt: Image alt text
   - infopic:
       title: NUS XPharm Camp 2025
