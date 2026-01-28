@@ -32,7 +32,7 @@ sections:
       description: "📅 Date: 2-6 March, Apr-May & 22-23 May"
       button: Register here
       url: https://naisc.aisingapore.org/
-      image: /images/IMH_Dec_2025.png
+      image: /images/NAISC_2026_EDM_LKCMedicine_Track.jpg
       alt: Image alt text
   - infopic:
       title: NUS CDE Robotics Meets AI Showcase 2026
