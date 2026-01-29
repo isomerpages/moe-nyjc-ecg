@@ -26,6 +26,17 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: Centre for Computational Social Science and Humanities
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 28 Feb 2026. 📅 Date: 4 March 2026 (Wed) 🕒Time: 2  -
+        4 PM📍Venue: Auditorium, Shaw Foundation Alumni House, 11 Kent Ridge Dr,
+        #01-02"
+      button: Register here
+      url: https://forms.office.com/r/6QKDLVJXdw
+      image: /images/Centre_for_Computational_Social_Science_and_Humanities__CSSH__Launch_Event.png
+      alt: Image alt text
+  - infopic:
       title: National AI Student Challenge (NAISC) 2026
       subtitle: EDventure
       id: infopic
@@ -178,15 +189,5 @@ sections:
       button: Register here
       url: https://forms.office.com/Pages/ResponsePage.aspx?id=Xu-lWwkxd06Fvc_rDTR-ghnzd-CFJDJLvhqBC7s-okNUOUhITjA2QzlGSVJHVE4xRDI5VTdSMFlZTS4u
       image: /images/NUS_XPharm_Camp_2025.png
-      alt: Image alt text
-  - infopic:
-      title: Women in Policing Scholarships (WIP) Reception 2025
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 2 December 2025 (Tue) 🕒Time: 9 AM - 1 PM📍Venue:
-        Woodleigh Neighbourhood Police Centre"
-      button: Register here
-      url: https://go.gov.sg/spf-women-in-policing
-      image: /images/SPF_Women_in_Policing_EDM.png
       alt: Image alt text
 ---
