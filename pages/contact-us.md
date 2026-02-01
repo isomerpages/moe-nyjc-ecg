@@ -6,53 +6,58 @@ agency_name: NYJC ECG!
 contacts:
   - content:
       - phone: ""
-      - email: chin_de_shun@moe.edu.sg
+      - email: ""
       - other: Mr Chin De Shun
     title: Local University Admissions
   - content:
       - phone: ""
-      - email: chua_xiu_ling@moe.edu.sg
+      - email: ""
       - other: Ms Chua Xiu Ling
     title: Overseas University Admissions (US)
   - content:
       - phone: ""
-      - email: siow_yunjie@moe.edu.sg
+      - email: ""
       - other: Ms Siow Yunjie
     title: Overseas University Admissions (UK)
   - content:
       - phone: ""
-      - email: zhou_yefeng@moe.edu.sg
+      - email: ""
       - other: Mr Zhou Yefeng
     title: Overseas University Admissions (China)
   - content:
       - phone: ""
-      - email: yeong_mei_leng@moe.edu.sg
+      - email: ""
       - other: Mrs Lee-Yeong Mei Leng
     title: Overseas University Admissions (Others)
   - content:
       - phone: ""
-      - email: zhou_yefeng@moe.edu.sg
+      - email: ""
       - other: Mr Zhou Yefeng
     title: EDventure & Learning Journeys
   - content:
       - phone: ""
-      - email: lee_liang_lin@moe.edu.sg
+      - email: ""
       - other: Mr Lee Liang Lin
     title: EDspirience Work Attachment
   - content:
       - phone: ""
-      - email: goh_ching_liang@moe.edu.sg
+      - email: ""
       - other: Mr Goh Ching Liang
     title: EDubuzz Talks
   - content:
       - phone: ""
-      - email: han_swee_kwang_shaun@schools.gov.sg
+      - email: ""
       - other: Mr Shaun Han
     title: ECG Counselling
   - content:
       - phone: ""
-      - email: siow_yunjie@moe.edu.sg
+      - email: ""
       - other: Ms Siow Yunjie
     title: MySkillsFuture Portal
+  - content:
+      - phone: ""
+      - email: ""
+      - other: https://portal.nyjc.edu.sg/
+    title: Login to college portal for our email addresses.
 feedback: ""
 ---
