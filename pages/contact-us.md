@@ -54,5 +54,10 @@ contacts:
       - email: ""
       - other: Ms Siow Yunjie
     title: MySkillsFuture Portal
+  - content:
+      - phone: ""
+      - email: ""
+      - other: https://portal.nyjc.edu.sg/
+    title: Login to college portal for our email addresses.
 feedback: ""
 ---
