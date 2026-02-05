@@ -111,12 +111,12 @@ Sample <a href="https://drive.google.com/file/d/1cVntsAAdu3prTo15UmmPcjWsh_JsSIh
 <p>NUS Medicine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ABA Scheme - 11 Mar, 12pm</p>
-<p>Standard Scheme - 19 Mar, 12pm</p>
+<p>EBAS Scheme - 29 Jan - 10 Mar</p>
+<p>Standard Scheme - Feb - 19 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Under ABA Scheme - 11 Mar, 12pm</p>
-<p>Under Standard Scheme - 20 Mar, 12pm</p>
+<p>Under EBAS Scheme - 10 Mar, 12pm</p>
+<p>Under Standard Scheme - 19 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher who knows student well</p>
