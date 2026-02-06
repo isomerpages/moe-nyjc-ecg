@@ -26,7 +26,7 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
-      title: NTU Ideas Festival 2026
+      title: Ideas Festival 2026
       subtitle: EDventure
       id: infopic
       description: "📅 Date: 26 Feb -30 Mar 2026 🕒Time: Please see the
