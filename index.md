@@ -26,6 +26,16 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: NTU Ideas Festival 2026
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 26 Feb -30 Mar 2026 🕒Time: Please see the
+        schedule📍Venue: Please see the schedule"
+      button: Register here
+      url: https://www.ideasfestival.edu.sg/
+      image: /images/Ideas_Festival_2026.png
+      alt: Image alt text
+  - infopic:
       title: Centre for Computational Social Science and Humanities
       subtitle: EDventure
       id: infopic
@@ -59,7 +69,7 @@ sections:
       title: Young Health Ambassadors Programme (YHAP) 2026
       subtitle: EDventure
       id: infopic
-      description: "Register by 6 Feb 2026 📅 Date: 14, 15 & 22 March 2026
+      description: "Register by 9 Feb 2026, 10 AM 📅 Date: 14, 15 & 22 March 2026
         (Sat/Sun/Sun) 🕒Time: Full-day📍Venue: NUS Campus"
       button: register here
       url: https://forms.gle/5udpJ9w6REVrawMZ6
@@ -179,15 +189,5 @@ sections:
       button: Register here
       url: https://forms.cloud.microsoft/r/wLMmaz8P5S
       image: /images/Screenshot_2025_11_14_161323.png
-      alt: Image alt text
-  - infopic:
-      title: NUS XPharm Camp 2025
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 18-20 December 2025 (Thu-Sun) 🕒Time: Day 1: 0900 - 1715
-        Day 2: 0900 - 1830 Day 3: 0900 - 1800 📍Venue: NUS Faculty of Science"
-      button: Register here
-      url: https://forms.office.com/Pages/ResponsePage.aspx?id=Xu-lWwkxd06Fvc_rDTR-ghnzd-CFJDJLvhqBC7s-okNUOUhITjA2QzlGSVJHVE4xRDI5VTdSMFlZTS4u
-      image: /images/NUS_XPharm_Camp_2025.png
       alt: Image alt text
 ---
