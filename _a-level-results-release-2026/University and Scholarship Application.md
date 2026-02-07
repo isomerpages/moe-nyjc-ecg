@@ -397,7 +397,7 @@ via the <a href="https://www.jointacceptance.edu.sg/" rel="noopener nofollow" ta
 the deadline shown in your electronic offer letter.</p>
 </li>
 <li>
-<p><strong>The windows for acceptance are: (2026 to be confirmed)<br>1st window: 2 January to 25 May 2026 (for offers released before 25 May 2026) <s><br></s>2nd window: 1 to 16 June 2026 (for offers released between 25 May and 16 June 2026)</strong>
+<p><strong>The windows for acceptance are:<br>1st window: 2 January to 25 May 2026 (for offers released before 25 May 2026) <s><br></s>2nd window: 1 to 16 June 2026 (for offers released between 25 May and 16 June 2026)</strong>
 </p>
 </li>
 <li>
