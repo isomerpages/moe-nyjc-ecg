@@ -26,6 +26,16 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: NUS Food Science & Technology (FST) Outreach Programme 2026
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 14 - 15 March 2026 (Sat - Sun) 🕒Time: 10 AM - 6
+        PM📍Venue: Singapore Expo Hall 4A"
+      button: Register here
+      url: https://go.gov.sg/youthfestivalatsoutheast
+      image: /images/Main_Poster_A4_Youth_Festival___South_East_2026.jpg
+      alt: Image alt text
+  - infopic:
       title: Ideas Festival 2026
       subtitle: EDventure
       id: infopic
@@ -178,16 +188,5 @@ sections:
       button: Login for more info
       url: https://portal.nyjc.edu.sg/
       image: /images/Screenshot_2025_11_18_173249.png
-      alt: Image alt text
-  - infopic:
-      title: NUS Food Science & Technology (FST) Outreach Programme 2026
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 26 Dec 2025. (Cost: $20) 📅 Date: 10 January 2026
-        (Sat) 🕒Time: 9 AM - 5 PM (lunch provided)📍Venue: NUS, Faculty of
-        Science, S13 and S14"
-      button: Register here
-      url: https://forms.cloud.microsoft/r/wLMmaz8P5S
-      image: /images/Screenshot_2025_11_14_161323.png
       alt: Image alt text
 ---
