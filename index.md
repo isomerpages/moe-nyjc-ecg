@@ -26,6 +26,16 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: NTU ADM Portfolio Review 2026
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 5 Mar 2026. 📅 Date: 7 March 2026 (Sat) 🕒Time: 10 AM
+        - 3 PM📍Venue: Nanyang Drive, School Of Art, Design and Media"
+      button: Click here to register
+      url: https://event.ntu.edu.sg/adm-juniorcollege-portfolio-review-2026
+      image: /images/ADM_Portfolio_Review_2026.jpg
+      alt: Image alt text
+  - infopic:
       title: Digital and Intelligence Service’s Online Puzzle
       subtitle: EDventure
       id: infopic
@@ -114,17 +124,6 @@ sections:
       button: register here
       url: https://au.cglink.me/2sg/s212
       image: /images/NUS_Environmental_Studies_Discovery_Day_2026.png
-      alt: Image alt text
-  - infopic:
-      title: SIT DigiPen (Singapore) Preview Day
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 17 January 2026 (Sat) 🕒Time: 2 PM (Registration: 1:30
-        PM)📍Venue: SIT@Punggol, 1 Punggol Coast Road, S(828608). E3 Building,
-        Level 1, Lectorial 8"
-      button: Click here to register
-      url: https://www.digipen.edu.sg/visit-us/for-prospective-undergraduate-students/preview-day
-      image: /images/SIT_DigiPen__Singapore__Preview_Day.png
       alt: Image alt text
   - infopic:
       title: NUS Maritime Hackathon 2026
