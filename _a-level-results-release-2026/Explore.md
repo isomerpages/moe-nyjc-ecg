@@ -38,12 +38,20 @@ description: ""
 <p><a href="https://www.ntu.edu.sg/OpenHouse" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link to NTU Open House</u></a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NTU OH 2026" src="/images/NTU_Open_House_2026.png">
+</div>
+<p></p>
 <p><strong>LKCMedicine @ NTU Open House 2026</strong>
 </p>
 <p><strong>28 Feb 2026</strong>
 </p>
 <p><a href="https://www.ntu.edu.sg/medicine/news-events/events/detail/2026/02/28/default-calendar/ntu-lkcmedicine-open-house-2025" rel="noopener nofollow" target="_blank">Link to LKCMedicine Open House</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NTU LKC Med OH 2026" src="/images/NTU_LKC_Med_Open_House_2026.png">
+</div>
 <p></p>
 <h4>Digital Resources</h4>
 <p><a href="https://www.ntu.edu.sg/education/degree-programmes#Content_C109_Col00" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate Programmes</u></a>
@@ -68,6 +76,11 @@ description: ""
 </p>
 <p><a href="https://admissions.smu.edu.sg/openhouse" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SMU OH 2026" src="/images/SMU_Open_House_2026.png">
+</div>
+<p></p>
 <h4>Digital Resources</h4>
 <p><a href="https://admissions.smu.edu.sg/find-your-major" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Find your major generator</u></a>
 </p>
@@ -89,6 +102,10 @@ description: ""
 </p>
 <p><a href="https://www.sutd.edu.sg/openhouse/campus-experience" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SUTD OH 2026" src="/images/SUTD_Open_House_2026.png">
+</div>
 <p></p>
 <p><strong>SUTD Digital Open House 2026</strong>
 </p>
