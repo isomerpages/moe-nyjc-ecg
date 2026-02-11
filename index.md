@@ -45,7 +45,7 @@ sections:
       image: /images/DIS_Online_Puzzle_Campaign_2026.png
       alt: Image alt text
   - infopic:
-      title: NUS Food Science & Technology (FST) Outreach Programme 2026
+      title: Youth Festival @ South East (Career Fair)
       subtitle: EDventure
       id: infopic
       description: "📅 Date: 14 - 15 March 2026 (Sat - Sun) 🕒Time: 10 AM - 6
