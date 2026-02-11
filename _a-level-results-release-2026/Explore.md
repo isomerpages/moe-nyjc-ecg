@@ -38,6 +38,10 @@ description: ""
 <p><a href="https://www.ntu.edu.sg/OpenHouse" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link to NTU Open House</u></a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NTU OH 2026" src="/images/NTU_Open_House_2026.png">
+</div>
+<p></p>
 <p><strong>LKCMedicine @ NTU Open House 2026</strong>
 </p>
 <p><strong>28 Feb 2026</strong>
