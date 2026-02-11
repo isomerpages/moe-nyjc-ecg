@@ -76,6 +76,11 @@ description: ""
 </p>
 <p><a href="https://admissions.smu.edu.sg/openhouse" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SMU OH 2026" src="/images/SMU_Open_House_2026.png">
+</div>
+<p></p>
 <h4>Digital Resources</h4>
 <p><a href="https://admissions.smu.edu.sg/find-your-major" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Find your major generator</u></a>
 </p>
@@ -97,6 +102,10 @@ description: ""
 </p>
 <p><a href="https://www.sutd.edu.sg/openhouse/campus-experience" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Link</u></a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SUTD OH 2026" src="/images/SUTD_Open_House_2026.png">
+</div>
 <p></p>
 <p><strong>SUTD Digital Open House 2026</strong>
 </p>
