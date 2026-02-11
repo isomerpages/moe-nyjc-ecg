@@ -26,6 +26,15 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: Digital and Intelligence Service’s Online Puzzle
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 28 January - 27 February 2026"
+      button: click here for me info
+      url: http://dis-changes-everything.com
+      image: /images/DIS_Online_Puzzle_Campaign_2026.png
+      alt: Image alt text
+  - infopic:
       title: NUS Food Science & Technology (FST) Outreach Programme 2026
       subtitle: EDventure
       id: infopic
@@ -137,16 +146,6 @@ sections:
       button: Click here to register
       url: https://forms.office.com/r/yFZ82feLHt
       image: /images/Screenshot_2026_01_07_121520.png
-      alt: Image alt text
-  - infopic:
-      title: MATERIALS EXPOSITION 2026 – The Amazing World of Materials!
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 10 January 2026 (Sat) 🕒Time: 10 AM - 2 PM📍Venue: The
-        Arc, Levels B1 and B2 at NTU Campus"
-      button: Register here
-      url: https://bit.ly/MatExpo2026
-      image: /images/Screenshot_2025_11_06_115439.png
       alt: Image alt text
   - infopic:
       title: NTU ADM Curriculum 2026 Briefing and Q&A
