@@ -53,6 +53,19 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="NTU LKC Med OH 2026" src="/images/NTU_LKC_Med_Open_House_2026.png">
 </div>
 <p></p>
+<p><strong>ADM Portfolio Review 2026</strong>
+</p>
+<p><strong>7 March 2026</strong>
+</p>
+<p><strong>Time: 10am - 3pm</strong>
+</p>
+<p><a href="https://event.ntu.edu.sg/adm-juniorcollege-portfolio-review-2026" rel="noopener nofollow" target="_blank">Link to sign up for ADM Portfolio Review 2026</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ADM Portfolio Review 2026" src="/images/ADM_Portfolio_Review_2026.jpg">
+</div>
+<p></p>
 <h4>Digital Resources</h4>
 <p><a href="https://www.ntu.edu.sg/education/degree-programmes#Content_C109_Col00" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate Programmes</u></a>
 </p>
