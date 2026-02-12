@@ -26,6 +26,16 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: "Post-A-Level Planning: Education Expo & Seminar"
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 28 February 2026 (Sat) 🕒Time: 12 - 6 PM📍Venue: Raffles
+        City Convention Centre, Level 4, Atrium Ballroom"
+      button: Click here to register
+      url: https://augstudy.com/singapore/studyexpo/?aug_comment=_EVENT_171074__OFFICE_SGP__SOURCE_P_High_School___
+      image: /images/February_Expo_HIGHSCHOOL_2.jpg
+      alt: Image alt text
+  - infopic:
       title: NTU ADM Portfolio Review 2026
       subtitle: EDventure
       id: infopic
@@ -134,17 +144,6 @@ sections:
       button: Click here to register
       url: https://nus.syd1.qualtrics.com/jfe/form/SV_dmMkIgcuGy7x2Au
       image: /images/Screenshot_2026_01_07_120831.png
-      alt: Image alt text
-  - infopic:
-      title: NTU International Trading Programme (ITP)
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 22 January 2026 (Thu) 🕒Time: 6:30 - 9:30 PM📍Venue: NTUC
-        Centre, Level 8 Training Room, 1 Marina Boulevard, Singapore 018989
-        Attire: Smart Casual"
-      button: Click here to register
-      url: https://forms.office.com/r/yFZ82feLHt
-      image: /images/Screenshot_2026_01_07_121520.png
       alt: Image alt text
   - infopic:
       title: NTU ADM Curriculum 2026 Briefing and Q&A
