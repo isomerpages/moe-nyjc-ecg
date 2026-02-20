@@ -32,7 +32,7 @@ sections:
       description: "Register by 6 Mar 2026. 📅 Date: 16 March 2026 (Sat) 🕒Time: 12 -
         5:15 PM📍Venue: 2 Bukit Merah Central, #03-01, S(159835)"
       button: register here
-      url: go.gov.sg/disepmar26
+      url: https://go.gov.sg/disepmar26
       image: /images/DIS_Experience_Programme_2026.png
       alt: Image alt text
   - infopic:
