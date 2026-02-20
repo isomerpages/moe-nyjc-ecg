@@ -26,6 +26,16 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: DIS Experience Programme 2026
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 6 Mar 2026. 📅 Date: 16 March 2026 (Sat) 🕒Time: 12 -
+        5:15 PM📍Venue: 2 Bukit Merah Central, #03-01, S(159835)"
+      button: register here
+      url: go.gov.sg/disepmar26
+      image: /images/DIS_Experience_Programme_2026.png
+      alt: Image alt text
+  - infopic:
       title: "Post-A-Level Planning: Education Expo & Seminar"
       subtitle: EDventure
       id: infopic
