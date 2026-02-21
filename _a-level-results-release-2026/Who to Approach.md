@@ -21,7 +21,7 @@ and Career Guidance): <a href="mailto:chin_de_shun@moe.edu.sg" rel="noopener nor
 </p>
 </li>
 <li>
-<p>For overseas admissions,&nbsp;<a href="https://ecg.nanyangjc.moe.edu.sg/admissions-coordinators/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>teacher admissions coordinators</u></a> can
+<p>For overseas admissions,&nbsp;our <a href="https://ecg.nanyangjc.moe.edu.sg/admissions-coordinators/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>university admissions teacher coordinators</u></a> can
 advise you on overseas application procedures​.</p>
 </li>
 <li>
