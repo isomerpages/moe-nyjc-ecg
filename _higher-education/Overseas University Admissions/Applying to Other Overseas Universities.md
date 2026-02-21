@@ -12,8 +12,8 @@ third_nav_title: Overseas University Admissions
 Australia/Hong Kong/Rest of the World to help you with your your application.</p>
 </li>
 <li>
-<p>Please view the respective application guides for each country under the
-ECG Repository in our College Portal before you start your application.</p>
+<p>Please view the application guides under the ECG Repository in our <a href="https://portal.nyjc.edu.sg/" rel="noopener nofollow" target="_blank">College Portal</a> before
+you start your application.</p>
 </li>
 </ul>
 <p></p>
