@@ -140,7 +140,11 @@ grade.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>To calculate your UAS or convert the IGP to a UAS, you can use this calculator
+(<strong>Credits: Manuel Gabriel Thomas and Shane Yeo from 2426</strong>):
+<a href="https://for.edu.sg/uascalc" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>link</u>
+</a>
+</p>
 <p>The UAS (for university admission in 2026) is calculated as follows:</p>
 <p><strong>For those who have taken their A-Level from 2025 onwards:</strong>
 </p>
