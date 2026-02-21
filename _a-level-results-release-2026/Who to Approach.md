@@ -16,11 +16,18 @@ of selecting a university course that matches your interests and personality.</p
 <h6>Teacher Admissions Coordinators</h6>
 <ul>
 <li>
-<p>For local admissions, please approach <a href="mailto:chin_de_shun@moe.edu.sg" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>Mr Chin De Shun</u></a>.</p>
+<p>For local admissions, please approach Mr Chin De Shun (Subject Head Education
+and Career Guidance): <a href="mailto:chin_de_shun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_de_shun@moe.edu.sg</a>
+</p>
 </li>
 <li>
-<p>For overseas admissions,&nbsp;<a href="https://ecg.nanyangjc.moe.edu.sg/admissions-coordinators/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>teacher admissions coordinators</u></a> can
+<p>For overseas admissions,&nbsp;our <a href="https://ecg.nanyangjc.moe.edu.sg/admissions-coordinators/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>university admissions teacher coordinators</u></a> can
 advise you on overseas application procedures​.</p>
+</li>
+<li>
+<p>For scholarship matters, please approach Mr Chng Yongxi (Subject Head
+Talent Development):&nbsp;<a href="https://docs.google.com/presentation/d/1J2mwDsNFPnWs1WPAA7OJPZDYUcLSMutP/edit?usp=sharing&amp;amp;ouid=112344556037189096760&amp;amp;rtpof=true&amp;amp;sd=true" rel="noopener noreferrer nofollow" target="_blank"><u>chng_yongxi@moe.edu.sg</u></a>
+</p>
 </li>
 </ul>
 <h5>Teachers</h5>

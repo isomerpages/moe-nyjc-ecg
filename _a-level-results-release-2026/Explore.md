@@ -196,5 +196,24 @@ at 11:00AM. Sign up link below.</p>
 </p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>SIM Global Education</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4>Open House Information</h4>
+<p><strong>7 Mar 2026, 10am - 5pm</strong>
+</p>
+<p><strong>Venue: SIM Campus</strong>
+</p>
+<p></p>
+<p><strong>15 Mar 2026, 10am - 5pm</strong>
+</p>
+<p><strong>Venue: Sands Expo &amp; Convention Centre</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SIM OH 2026" src="/images/SIM_Open_House_2026.png">
+</div>
+</div>
+</details>
 </div>
 <p></p>

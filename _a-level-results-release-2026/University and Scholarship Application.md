@@ -8,7 +8,7 @@ description: ""
 <p>Dear NYJCians, congratulations on receiving your A-Level Results. Below
 are some important resources to aid you in your journey in applying for
 universities and scholarships. Click <a href="https://docs.google.com/presentation/d/1uu6p_2rI6LMuEZEcnm15ZW5QiMCCU9L5/edit?usp=sharing&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a> for
-MOE's A-Level results release briefing slides.</p>
+MOE's A-Level results release briefing slides <strong>(2026 to be updated)</strong>.</p>
 <p>Application steps (Click <a href="https://docs.google.com/presentation/d/1J2mwDsNFPnWs1WPAA7OJPZDYUcLSMutP/edit?usp=sharing&amp;ouid=112344556037189096760&amp;rtpof=true&amp;sd=true" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>here</u></a>&nbsp;for
 the <strong>briefing slides (2026 to be updated)</strong> during the Results
 Release Day on Application to Local Universities.)</p>
@@ -28,11 +28,11 @@ for more information.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>25 Feb (TBC)</strong>
+<p><strong>27 Feb</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>25 Feb (TBC) - 19 Mar</strong>
+<p><strong>27 Feb - 19 Mar</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
