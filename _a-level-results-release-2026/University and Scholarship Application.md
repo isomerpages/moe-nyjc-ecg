@@ -14,7 +14,24 @@ the <strong>briefing slides (2026 to be updated)</strong> during the Results
 Release Day on Application to Local Universities.)</p>
 <p>Many of the resources regarding university admissions can found in this
 NYJC ECG Portal. Please visit the respective pages under the "<strong>Higher Education</strong>"
-for more information.</p>
+for more information. In addition, online ECG resources from MOE are available
+at <a href="https://go.gov.sg/ecg-resources" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ecg-resources</a>.</p>
+<p></p>
+<p>Students can access key features in the <strong>Education Guide</strong> via
+the Pre-University portal.</p>
+<p><strong>Singapore Education Landscape</strong> – Students can find out
+more about various local educational institutions and the programmes. Students
+can also explore the programmes offered by the junior colleges/ Centralised
+Institute, Institute of Technical Education, polytechnics and arts.</p>
+<p><strong>Know Yourself</strong><em> – </em>Students can discover more about
+their career interests, skills, work values and learning styles. These
+tools are meant to facilitate self-awareness and exploration.</p>
+<p><strong>World of Work</strong> – Students can explore over 1000 job roles
+across more than 30 industries. Parents may like to explore the portal
+with their children and take the opportunity to begin a conversation on
+education and career options.</p>
+<p>Students can access the Pre-University portal via <a href="https://go.gov.sg/MySFPreU" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFPreU</a>
+</p>
 <p></p>
 <p>Application Process</p>
 <table style="minWidth: 125px">
