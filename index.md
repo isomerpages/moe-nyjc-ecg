@@ -26,6 +26,16 @@ sections:
           description: Application to Universities
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: Making sense of the new UAS with SMU Admissions
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 28 February 2026 (Sat) 🕒Time: 10 - 11:30 AM📍Venue: SMU
+        Campus"
+      button: Click here to register
+      url: https://ugmarketing.smu.edu.sg/acton/ct/11273/e-0f0b-2602:0/Bct/l-tst/l-tst:51/ct10_1/1/lu?sid=TV2%3A3AoE1KBz5
+      image: /images/Making_sense_of_the_new_UAS_with_SMU_Admissions_2026.png
+      alt: Image alt text
+  - infopic:
       title: DIS Experience Programme 2026
       subtitle: EDventure
       id: infopic
@@ -154,16 +164,6 @@ sections:
       button: Click here to register
       url: https://nus.syd1.qualtrics.com/jfe/form/SV_dmMkIgcuGy7x2Au
       image: /images/Screenshot_2026_01_07_120831.png
-      alt: Image alt text
-  - infopic:
-      title: NTU ADM Curriculum 2026 Briefing and Q&A
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 23 January 2026 📅 Date: 28 January 2026 (Wed) 🕒Time:
-        4 - 5 PM📍Venue: Online"
-      button: Click here to register
-      url: https://event.ntu.edu.sg/adm-curriculum-briefing-and-q-a-2026
-      image: /images/NTU_ADM_2026.png
       alt: Image alt text
   - infopic:
       title: NUH Allied Health & Pharmacy Open House 2026
