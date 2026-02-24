@@ -20,6 +20,22 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="NUS Open House 2026" src="/images/NUS_Open_House_2026.png">
 </div>
 <p></p>
+<p><strong>NUS Pharmacy and Pharmaceutical Sciences Talks 2026</strong>
+</p>
+<p><strong>Online: 1 March 2026, 2-3pm</strong>
+</p>
+<p><strong>In-person: 7 March 2026, 11am - 6pm</strong>
+</p>
+<p><a href="https://www.science.nus.edu.sg/pharmacy-open-house-2026/" rel="noopener nofollow" target="_blank">Link to Pharmacy and Pharmaceutical Sciences Talks</a>
+</p>
+<p></p>
+<p><strong>NUS CDE e-Open House 2026</strong>
+</p>
+<p><strong>2 March 2026, 11 am-6pm</strong>
+</p>
+<p><a href="https://cde.nus.edu.sg/admissions/e-open-house-2026/" rel="noopener nofollow" target="_blank">Link to CDE e-Open House 2026</a>
+</p>
+<p></p>
 <h4>Digital Resources</h4>
 <p><a href="https://www.nus.edu.sg/oam/publications" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate viewbook, scholarship and financial aid brochures and application guides</u></a>
 </p>
@@ -46,6 +62,10 @@ description: ""
 </p>
 <p><strong>28 Feb 2026</strong>
 </p>
+<p><strong>Time: 9:30am - 6:30pm</strong>
+</p>
+<p><strong>Venue: NTU Main Campus, Experimental Medicine Building</strong>
+</p>
 <p><a href="https://www.ntu.edu.sg/medicine/news-events/events/detail/2026/02/28/default-calendar/ntu-lkcmedicine-open-house-2025" rel="noopener nofollow" target="_blank">Link to LKCMedicine Open House</a>
 </p>
 <p></p>
@@ -64,6 +84,19 @@ description: ""
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ADM Portfolio Review 2026" src="/images/ADM_Portfolio_Review_2026.jpg">
+</div>
+<p></p>
+<p><strong>NIE Open House 2026</strong>
+</p>
+<p><strong>Online: 9 - 23 February 2026</strong>
+</p>
+<p><strong>In-person: 28 February 2026, 10am - 5pm</strong>
+</p>
+<p><a href="https://www.ntu.edu.sg/nie/admissions/undergraduate-education-admissions/open-house" rel="noopener nofollow" target="_blank">Link to NIE Open House 2026</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NIE OH 2026" src="/images/NIE_Open_House_2026.png">
 </div>
 <p></p>
 <h4>Digital Resources</h4>
