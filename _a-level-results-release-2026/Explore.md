@@ -20,6 +20,22 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="NUS Open House 2026" src="/images/NUS_Open_House_2026.png">
 </div>
 <p></p>
+<p><strong>NUS Pharmacy and Pharmaceutical Sciences Talks 2026</strong>
+</p>
+<p><strong>Online: 1 March 2026, 2-3pm</strong>
+</p>
+<p><strong>In-person: 7 March 2026, 11am - 6pm</strong>
+</p>
+<p><a href="https://www.science.nus.edu.sg/pharmacy-open-house-2026/" rel="noopener nofollow" target="_blank">Link to Pharmacy and Pharmaceutical Sciences Talks</a>
+</p>
+<p></p>
+<p><strong>NUS CDE Open House 2026</strong>
+</p>
+<p><strong>Online: 1 March 2026, 2-3pm</strong>
+</p>
+<p><strong>In-person: 7 March 2026, 11am - 6pm</strong>
+</p>
+<p></p>
 <h4>Digital Resources</h4>
 <p><a href="https://www.nus.edu.sg/oam/publications" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_blank"><u>Undergraduate viewbook, scholarship and financial aid brochures and application guides</u></a>
 </p>
