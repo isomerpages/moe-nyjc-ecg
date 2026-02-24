@@ -46,6 +46,10 @@ description: ""
 </p>
 <p><strong>28 Feb 2026</strong>
 </p>
+<p><strong>Time: 9:30am - 6:30pm</strong>
+</p>
+<p><strong>Venue: NTU Main Campus, Experimental Medicine Building</strong>
+</p>
 <p><a href="https://www.ntu.edu.sg/medicine/news-events/events/detail/2026/02/28/default-calendar/ntu-lkcmedicine-open-house-2025" rel="noopener nofollow" target="_blank">Link to LKCMedicine Open House</a>
 </p>
 <p></p>
