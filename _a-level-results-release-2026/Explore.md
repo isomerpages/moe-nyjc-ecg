@@ -29,11 +29,11 @@ description: ""
 <p><a href="https://www.science.nus.edu.sg/pharmacy-open-house-2026/" rel="noopener nofollow" target="_blank">Link to Pharmacy and Pharmaceutical Sciences Talks</a>
 </p>
 <p></p>
-<p><strong>NUS CDE Open House 2026</strong>
+<p><strong>NUS CDE e-Open House 2026</strong>
 </p>
-<p><strong>Online: 1 March 2026, 2-3pm</strong>
+<p><strong>2 March 2026, 11 am-6pm</strong>
 </p>
-<p><strong>In-person: 7 March 2026, 11am - 6pm</strong>
+<p><a href="https://cde.nus.edu.sg/admissions/e-open-house-2026/" rel="noopener nofollow" target="_blank">Link to CDE e-Open House 2026</a>
 </p>
 <p></p>
 <h4>Digital Resources</h4>
