@@ -385,24 +385,64 @@ to Point 2).</p>
 <p>Resources</p>
 <ul>
 <li>
-<p><a href="https://drive.google.com/file/d/1d-JmgdzMCr4mQag9KEaa2mGxIxwZY-UK/view?usp=share_link" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>General guide on scholarship matters for NYJCians</u></a>
+<p><a href="https://drive.google.com/file/d/1d-JmgdzMCr4mQag9KEaa2mGxIxwZY-UK/view?usp=share_link" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>General guide on scholarship matters</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/11ORpeCwsKazjrtXszgnxxc7Kh5pW1XaK/view?usp=sharing" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>PSC Scholarships Information</u></a>
+<p><a href="https://drive.google.com/file/d/11ORpeCwsKazjrtXszgnxxc7Kh5pW1XaK/view?usp=sharing" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Information on PSC Scholarships</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1VAE-ggYpVUrvfW_xSg1BbK0GQWOH_zJE/view?usp=share_link" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Singapore-Industry Scholarships (SgIS)&nbsp;Information</u></a>
+<p><a href="https://www.moe.gov.sg/sgis" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Information on Singapore-Industry Scholarships (SgIS)</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://scholarshipguide.info/emag-for-nanyangjc" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Definitive guide to scholarships in Singapore</u></a>
+<p><a href="https://scholarshipguide.hflip.co/vol-1-2025" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>Latest copy of Scholarship Guide</u></a>
+</p>
+<p></p>
+<p>Some upcoming opportunities offered by various organisations</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/sgis/explore-with-sgis" rel="noopener nofollow" target="_blank">SgIS information session (Feb-March)</a>
 </p>
 </li>
 <li>
-<p>If you have any query with regard to scholarship matters, please contact
-Mr Chng Yongxi (Subject Head Talent Development):&nbsp;<a href="https://docs.google.com/presentation/d/1J2mwDsNFPnWs1WPAA7OJPZDYUcLSMutP/edit?usp=sharing&amp;amp;ouid=112344556037189096760&amp;amp;rtpof=true&amp;amp;sd=true" rel="noopener noreferrer nofollow" target="_blank"><u>chng_yongxi@moe.edu.sg</u></a>
+<p><a href="https://form.gov.sg/696736f11e1885619f6ae780" rel="noopener nofollow" target="_blank">DSTA Scholarship information session (March)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.eventbrite.sg/e/designsingapore-scholarship-2026-briefing-session-tickets-1982249189687?utm_campaign=Dsg%20Marketing%20EDMs&amp;utm_medium=email&amp;_hsenc=p2ANqtz---lpDIKaQk1o-8HPf3EE5KfpyiKw3Tx0-Uzi73kqSFXYpvu55IhGrLdF2Ja36QzjBI59QoZ0sY-" rel="noopener nofollow" target="_blank">DesignSingapore Scholarship information session (March)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.ura.gov.sg/Corporate/Careers/Opportunities-for-Students/URA-Scholarship" rel="noopener nofollow" target="_blank">URA Scholarship</a>
+</p>
+</li>
+<li>
+<p><a href="https://brightsparks.com.sg/profile/iras/index.php" rel="noopener nofollow" target="_blank">IRAS Scholarship</a>
+</p>
+</li>
+<li>
+<p><a href="https://brightsparks.com.sg/profile/hdb/scholarship.php" rel="noopener nofollow" target="_blank">HDB Scholarships</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.mddi.gov.sg/join-us/scholarships/scholarships/" rel="noopener nofollow" target="_blank">MDDI Scholarships</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.sph.com.sg/careers-and-scholarships/#scholarships" rel="noopener nofollow" target="_blank">SPH Media Scholarships</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.imda.gov.sg/how-we-can-help/singapore-digital-scholarship" rel="noopener nofollow" target="_blank">Singapore Digital Scholarship</a>
+</p>
+<p></p>
+</li>
+<li>
+<p>Lastly, if you have any queries regarding scholarship matters, please
+feel free to contact Mr Chng Yongxi (Subject Head / Talent Development)
+at <a href="mailto:chng_yongxi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng_yongxi@moe.edu.sg</a>
 </p>
 </li>
 </ul>
