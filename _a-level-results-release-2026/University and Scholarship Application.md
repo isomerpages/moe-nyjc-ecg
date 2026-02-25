@@ -437,6 +437,10 @@ to Point 2).</p>
 <li>
 <p><a href="https://www.imda.gov.sg/how-we-can-help/singapore-digital-scholarship" rel="noopener nofollow" target="_blank">Singapore Digital Scholarship</a>
 </p>
+</li>
+<li>
+<p><a href="https://brightsparks.com.sg/profile/PA/scholarship.php" rel="noopener nofollow" target="_blank">PA Scholarship</a>
+</p>
 <p></p>
 </li>
 <li>

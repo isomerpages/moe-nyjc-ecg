@@ -195,8 +195,9 @@ who do not qualify for MOE Study Loan or for specific purposes.</p>
 </table>
 <p>For more information on tuition fees and financial aid,&nbsp;access the
 financial aid websites of the universities:</p>
-<table style="minWidth: 150px">
+<table style="minWidth: 175px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -212,6 +213,10 @@ financial aid websites of the universities:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.ntu.edu.sg/admissions/undergraduate/financial-matters" rel="noopener nofollow" target="_blank">NTU</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ntu.edu.sg/nie/admissions/undergraduate-education-admissions/teaching-scholars-programme" rel="noopener nofollow" target="_blank">NTU-NIE</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
