@@ -216,7 +216,7 @@ financial aid websites of the universities:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ntu.edu.sg/nie/admissions/undergraduate-education-admissions/teaching-scholars-programme" rel="noopener nofollow" target="_blank">NTU-NIE</a>
+<p><a href="https://www.ntu.edu.sg/nie/student-life/student-services-centre/financial-aid" rel="noopener nofollow" target="_blank">NTU-NIE</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

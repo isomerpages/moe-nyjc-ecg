@@ -158,6 +158,19 @@ which one fits you better</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Teaching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students leaders with a passion in teaching and international exposure
+in interdisciplinary training</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ntu.edu.sg/nie/admissions/undergraduate-education-admissions/teaching-scholars-programme" rel="noopener nofollow" target="_blank">NTU-NIE Teaching Scholars Programme</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Global</p>
 </td>
 <td rowspan="1" colspan="1">
