@@ -22,6 +22,9 @@ sections:
         - title: EDubuzz
           description: ECG Events @ NYJC
           url: https://ecg.nanyangjc.moe.edu.sg/edubuzz/
+        - title: A-Level Results Release 2026
+          description: Resources
+          url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
       title: Making sense of the new UAS with SMU Admissions
       subtitle: EDventure
