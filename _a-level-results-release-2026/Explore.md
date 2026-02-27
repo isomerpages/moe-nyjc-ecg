@@ -90,6 +90,8 @@ description: ""
 </p>
 <p><strong>In-person: 28 February 2026, 9:30am - 6:30pm</strong>
 </p>
+<p><a href="https://www.ntu.edu.sg/computing/news-events/events/detail/2026/02/28/default-calendar/ntu-open-house-2026" rel="noopener nofollow" target="_blank">Link to CCDS Open House Events</a>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NTU CCDS OH 2026" src="/images/NTU_Comp_2026.jpg">
@@ -258,4 +260,5 @@ at 11:00AM. Sign up link below.</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
