@@ -86,6 +86,15 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="ADM Portfolio Review 2026" src="/images/ADM_Portfolio_Review_2026.jpg">
 </div>
 <p></p>
+<p><strong>NTU College of Computing and Data Science Open House 2026</strong>
+</p>
+<p><strong>In-person: 28 February 2026, 9:30am - 6:30pm</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NTU CCDS OH 2026" src="/images/NTU_Comp_2026.jpg">
+</div>
+<p></p>
 <p><strong>NIE Open House 2026</strong>
 </p>
 <p><strong>Online: 9 - 23 February 2026</strong>
