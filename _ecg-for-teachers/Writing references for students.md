@@ -20,10 +20,10 @@ description: ""
 <p>Type of reference</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Application period</p>
+<p>Student Application Period</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Deadline</p>
+<p>Teachers' Referee Deadline</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Who is suitable to write</p>
@@ -61,7 +61,7 @@ submission)</p>
 <p>26 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher who knows student well</p>
+<p>A teacher who knows student well</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rating required. 3 sections (Academics, other strengths, unique circumstances/challenges/outstanding
@@ -78,11 +78,11 @@ to teachers)</p>
 <p>Late Feb - 19 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Within 7 days of scholarship application submission (latest by 24 Mar,
+<p>Within 7 days of scholarship application submission (latest by 26 Mar,
 whichever is earlier)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher who knows student in a holistic way</p>
+<p>A teacher who knows student in a holistic way</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Open ended question. 200 word limit. More info <a href="https://www.ntu.edu.sg/admissions/undergraduate/scholarships/appraisal-for-scholarship-application" rel="noopener nofollow" target="_blank">here</a>.
@@ -100,7 +100,7 @@ Sample <a href="https://drive.google.com/file/d/1cVntsAAdu3prTo15UmmPcjWsh_JsSIh
 <p>Varies from year to year</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher who knows student well</p>
+<p>A teacher who knows student well</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ratings required. Open ended question. 500 word limit. Sample <a href="https://drive.google.com/file/d/1C-aszQFhPlsT-3hM9iFPCxg8gOy33jsU/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
@@ -111,15 +111,15 @@ Sample <a href="https://drive.google.com/file/d/1cVntsAAdu3prTo15UmmPcjWsh_JsSIh
 <p>NUS Medicine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>EBAS Scheme - 29 Jan - 10 Mar</p>
-<p>Standard Scheme - Feb - 19 Mar</p>
+<p>EBAS Scheme - 29 Jan - 10 Mar, 12pm</p>
+<p>Standard Scheme - Feb - 19 Mar, 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Under EBAS Scheme - 10 Mar, 12pm</p>
-<p>Under Standard Scheme - 19 Mar</p>
+<p>EBAS Scheme - 10 Mar, 12pm</p>
+<p>Standard Scheme - 19 Mar, 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher who knows student well</p>
+<p>2 teachers who know student well</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8 questions. No word limit. Sample <a href="https://drive.google.com/file/d/1gXcyAkpVWFnnDB79whW8A2lVdazabikh/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>.</p>
@@ -134,11 +134,11 @@ teachers)</p>
 <p>Late Feb - 19 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Within 7 days of application submission (latest by 24 Mar, whichever is
+<p>Within 7 days of application submission (latest by 26 Mar, whichever is
 earlier)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Civics Tutor + 1 other referee</p>
+<p>1 Civics Tutor + 1 other referee who know student well</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Open ended question. 200 word limit. Sample <a href="https://drive.google.com/file/d/1GNVMFsKxk71NruaECPTK-M0sXeYi3_IT/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>.</p>
@@ -155,7 +155,7 @@ earlier)</p>
 <p>19 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher who knows student well</p>
+<p>A teacher who knows student well</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Free text (up to max. 800 words) with option to upload documents</p>
@@ -174,7 +174,7 @@ earlier)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher who knows student well</p>
+<p>A teacher who knows student well</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No word limit</p>
@@ -188,10 +188,11 @@ earlier)</p>
 <p>Late Feb - 19 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Within 7 days of application deadline</p>
+<p>Within 7 days of application submission (latest by 26 Mar, whichever is
+earlier)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Math/Science teacher (Physics preferred)</p>
+<p>A Math/Science teacher (Physics preferred)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ratings required. 3 sections (Strengths, areas of improvement, other comments).
@@ -207,11 +208,11 @@ teachers)</p>
 <p>Late Feb - 19 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Within 7 days of application submission (latest by 24 Mar, whichever is
+<p>Within 7 days of application submission (latest by 26 Mar, whichever is
 earlier)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA Teacher/Coach/Community leader</p>
+<p>A CCA Teacher/Coach/Community leader</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Open ended question. 200 word limit. Sample <a href="https://drive.google.com/file/d/1wjLA7qaR2oELeqhajCjbhAsTvYXN8J7A/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>.</p>
@@ -248,7 +249,7 @@ earlier)</p>
 <p>Other courses except certain art and science courses - 23 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher relevant for university course</p>
+<p>A teacher relevant for university course</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>More info <a href="https://drive.google.com/file/d/1_RFWw2Cd_aShpRL91bYFAqOMgY7EKFqW/view" rel="noopener nofollow" target="_blank">here</a>.</p>
@@ -286,7 +287,7 @@ earlier)</p>
 <p>Most Regular Decision 31 Dec 2025/1 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Tutor</p>
+<p>A Subject Tutor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>More info <a href="https://drive.google.com/file/d/1uE_pa1yEZGxothKjTQMG-ktaCq4GXdZQ/view" rel="noopener nofollow" target="_blank">here</a>.</p>
@@ -303,7 +304,7 @@ earlier)</p>
 <p>Depends</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher who knows student well</p>
+<p>A teacher who knows student well</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Depends on the university</p>
