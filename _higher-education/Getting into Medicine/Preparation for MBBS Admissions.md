@@ -33,20 +33,19 @@ information <a href="https://ecg.nanyangjc.moe.edu.sg/teacher-references/" class
 <p>a Multiple Mini Interviews (MMI). (more information <a href="https://ecg.nanyangjc.moe.edu.sg/medicine-dentistry-and-health-sciences-interviews/" class="wixui-rich-text__text" rel="noopener noreferrer nofollow" target="_self"><u>here</u></a>)</p>
 </li>
 <li>
-<p>Situational Judgement test (for NUS applicants.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vtoE39ULTU0?si=SjCkhqK6ZBuqvn_Q"></iframe>
-</div>
+<p>Situational Judgement test (for NUS applicants).</p>
 </li>
 </ul>
-<h4>Do you need 90 rank points to be short-listed for interview?</h4>
+<p><a href="https://www.facebook.com/share/v/1GostbL6ux/?mibextid=wwXIfr" rel="noopener nofollow" target="_blank">FB Reels: How do I get into NUS Medicine?</a>
+</p>
+<h4>Do you need 70 rank points to be short-listed for interview?</h4>
 <ul>
 <li>
 <p>Short answer is no.</p>
 </li>
 <li>
 <p>However, since the course is so competitive, it is recommended that you
-apply through aptitude-based admissions if you did not get 90 rank points.</p>
+apply through aptitude-based admissions if you did not get 70 rank points.</p>
 <ul>
 <li>
 <p>NUS YLLSoM&nbsp;<a href="https://medicine.nus.edu.sg/admissions/aptitude-based-admissions-scheme-abas/" class="wixui-rich-text__text" rel="noreferrer noopener" target="_blank"><u>ABAS</u></a>​</p>
