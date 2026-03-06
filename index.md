@@ -26,6 +26,16 @@ sections:
           description: Resources
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: NUS Civil & Environmental Engineering Tea Session
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 8 March 2026. 📅 Date: 14 March 2026 (Sat) 🕒Time:
+        2:30 - 5 PM📍Venue: Royal Plaza on Scotts"
+      button: register here
+      url: https://nus.syd1.qualtrics.com/jfe/form/SV_dhVgnCaJjCUbLxQ
+      image: /images/CEE_Fireside_Chat_Tea_Session_Invitation__14_March_2026_.png
+      alt: Image alt text
+  - infopic:
       title: Making sense of the new UAS with SMU Admissions
       subtitle: EDventure
       id: infopic
@@ -164,16 +174,6 @@ sections:
       button: Click here to register
       url: https://nus.syd1.qualtrics.com/jfe/form/SV_dmMkIgcuGy7x2Au
       image: /images/Screenshot_2026_01_07_120831.png
-      alt: Image alt text
-  - infopic:
-      title: NUH Allied Health & Pharmacy Open House 2026
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 31 January 2026 (Sat) 🕒Time: 9 AM - 1 PM (registration
-        at 8:30 AM)📍Venue: NUHS Tower Block"
-      button: register here
-      url: https://for.sg/ahp-open-house-2026-interest-form
-      image: /images/NUH_AH_P_Open_House_2026.jpg
       alt: Image alt text
   - infopic:
       title: Meet USYD in Singapore 2026
