@@ -26,6 +26,17 @@ sections:
           description: Resources
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: "IDEAS Festival 2026: Urban Resilience in 3 Acts"
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 9 Mar 2026. 📅 Date: 13 Mar 2026 (Fri) 🕒Time: 2 - 6
+        PM📍Venue: : 8 Somapah Road, Building 2 (lift lobby F), Level 4,
+        Singapore 487372"
+      button: Click here to register
+      url: https://forms.office.com/pages/responsepage.aspx?id=drd2NJDpck-5UGJImDFiPZKcsVz0CgNElFw7_OdFD01URVNVSDVPRlBTRlQ2SjlOT1hXRUwyUEQ3SS4u&route=shorturl
+      image: /images/Ideas_Festival_Urban_Resilience_in_3_Acts.png
+      alt: Image alt text
+  - infopic:
       title: NUS Civil & Environmental Engineering Tea Session
       subtitle: EDventure
       id: infopic
@@ -164,16 +175,6 @@ sections:
       button: register here
       url: https://au.cglink.me/2sg/s212
       image: /images/NUS_Environmental_Studies_Discovery_Day_2026.png
-      alt: Image alt text
-  - infopic:
-      title: NUS Maritime Hackathon 2026
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 12 January 2026 📅 Date: 6-7 February 2026 (Fri-Sat)
-        🕒Time: 24-hr Hackathon📍Venue: NUS University Town, Auditorium"
-      button: Click here to register
-      url: https://nus.syd1.qualtrics.com/jfe/form/SV_dmMkIgcuGy7x2Au
-      image: /images/Screenshot_2026_01_07_120831.png
       alt: Image alt text
   - infopic:
       title: Meet USYD in Singapore 2026
