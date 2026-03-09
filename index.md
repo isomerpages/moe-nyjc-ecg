@@ -26,6 +26,17 @@ sections:
           description: Resources
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 10 March 2026 📅 Date: 14 March 2026 (Sat) 🕒Time:
+        11:45 AM - 5 PM (registration starts at 11:30 AM)📍Venue: SMUC Event
+        Square (L5 Connexion)"
+      button: register here
+      url: https://docs.google.com/forms/d/e/1FAIpQLSeeM4eATvxnuSMPAfEJRjxEvfuizVzcKSzbTr8n8kDIlBtkpA/viewform?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3AAGnPm1JUli39qvbd708jzAndY4ukl8nlFwbGxTJelJLQtb2qQuB6JRM5v5llzQ_aem_zXK23v70Cr1-F2_Tpb_yGA&pli=1
+      image: /images/SMU_SOA_Stimulus_2026.png
+      alt: Image alt text
+      title: SMU Accounting Stimulus 2026
+  - infopic:
       title: "IDEAS Festival 2026: Urban Resilience in 3 Acts"
       subtitle: EDventure
       id: infopic
@@ -155,17 +166,6 @@ sections:
       url: https://forms.gle/5udpJ9w6REVrawMZ6
       image: /images/Screenshot_2026_01_23_184110.png
       alt: Image alt text
-  - infopic:
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 28 Jan 2026 📅 Date: 7 February 2026 (Sat) 🕒Time:
-        10:30 AM - 4:30 PM📍Venue: Singapore Maritime Gallery (Nearest MRT:
-        Marina South Pier)"
-      button: register here
-      url: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=SJPOFSq-K0aPwOF2WpsgSsjxR-lFxtZKs9MtaSQtaPJUQ0hOSVgwSjVJUkhRS1dZTlYxTFc4MzBRSC4u
-      image: /images/Voyage_VI.png
-      alt: Image alt text
-      title: "NTU MBS Voyage VI: Shaping the Seas of Tomorrow"
   - infopic:
       title: Bachelor of Environmental Studies (BES) Discovery Day 2026
       subtitle: EDventure
