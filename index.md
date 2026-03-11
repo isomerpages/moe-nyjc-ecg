@@ -26,6 +26,16 @@ sections:
           description: Resources
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: NTU Actuarial Science Insight Day 2026
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 18 Mar 2026 (Wed) 🕒Time: 6 - 9:30 PM📍Venue: Wee Cho Yaw
+        Auditorium, NTU (Level 1)"
+      button: register here
+      url: https://forms.cloud.microsoft/r/HWSktUi9D1
+      image: /images/ASCISC_Insight_Day_2026.png
+      alt: Image alt text
+  - infopic:
       subtitle: EDventure
       id: infopic
       description: "Register by 10 March 2026 📅 Date: 14 March 2026 (Sat) 🕒Time:
@@ -165,16 +175,6 @@ sections:
       button: register here
       url: https://forms.gle/5udpJ9w6REVrawMZ6
       image: /images/Screenshot_2026_01_23_184110.png
-      alt: Image alt text
-  - infopic:
-      title: Bachelor of Environmental Studies (BES) Discovery Day 2026
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 7 Feb 2026 (Sat) 🕒Time: 1 - 4 PM📍Venue: NUS Kent Ridge
-        Campus, Block S16, Level 4, S16-04-30 & S16-04-36"
-      button: register here
-      url: https://au.cglink.me/2sg/s212
-      image: /images/NUS_Environmental_Studies_Discovery_Day_2026.png
       alt: Image alt text
   - infopic:
       title: Meet USYD in Singapore 2026
