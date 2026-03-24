@@ -26,6 +26,17 @@ sections:
           description: Resources
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: Discover the ‘U’ in Uni
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 11 April 2026 (Sat) 🕒Time: 11 AM - 1 PM📍Venue: Ministry
+        of Education, Office Tower (Level 24), 1 North Buona Vista Drive,
+        S138675"
+      button: Click here to register
+      url: https://forms.gle/kMyQeMn6buY5j2TL7
+      image: /images/Y4Y_Discover_the__U__in_Uni_2026.jpg
+      alt: Image alt text
+  - infopic:
       title: NTU Actuarial Science Insight Day 2026
       subtitle: EDventure
       id: infopic
@@ -86,16 +97,6 @@ sections:
       button: register here
       url: https://go.gov.sg/disepmar26
       image: /images/DIS_Experience_Programme_2026.png
-      alt: Image alt text
-  - infopic:
-      title: "Post-A-Level Planning: Education Expo & Seminar"
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 28 February 2026 (Sat) 🕒Time: 12 - 6 PM📍Venue: Raffles
-        City Convention Centre, Level 4, Atrium Ballroom"
-      button: Click here to register
-      url: https://augstudy.com/singapore/studyexpo/?aug_comment=_EVENT_171074__OFFICE_SGP__SOURCE_P_High_School___
-      image: /images/February_Expo_HIGHSCHOOL_2.jpg
       alt: Image alt text
   - infopic:
       title: NTU ADM Portfolio Review 2026
