@@ -26,6 +26,16 @@ sections:
           description: Resources
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: SIM GE Summer Enrichment Camp (SEC) 2026
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 9 - 11 June 2026 (Tue-Thu) 🕒Time: 9am - 6pm (9 - 10 Jun)
+        | 9am - 10pm (11 Jun)📍Venue: SIM Campus, 461 Clementi Rd"
+      button: Click here to register
+      url: http://bit.ly/3MYq3ZY
+      image: /images/SIM_GE_Summer_Enrichment_Camp_2026.png
+      alt: Image alt text
+  - infopic:
       title: Incision Challenge 2026
       subtitle: EDventure
       id: infopic
@@ -166,16 +176,6 @@ sections:
       button: Register here
       url: https://naisc.aisingapore.org/
       image: /images/NAISC_2026_EDM_LKCMedicine_Track.jpg
-      alt: Image alt text
-  - infopic:
-      title: NUS CDE Robotics Meets AI Showcase 2026
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 4 - 8 February 2026 (Wed-Sun) 🕒Time:11 AM - 9 PM📍Venue:
-        Funan, Basement 2 Exhibition Space (free entry)"
-      button: click here for me info
-      url: https://cde.nus.edu.sg/event-detail/robotics-meets-ai-showcase/
-      image: /images/Screenshot_2026_01_26_144900.png
       alt: Image alt text
   - infopic:
       title: Young Health Ambassadors Programme (YHAP) 2026
