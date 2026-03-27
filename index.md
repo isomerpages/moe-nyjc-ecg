@@ -26,6 +26,16 @@ sections:
           description: Resources
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: IDP Study Abroad Education Fair
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 11 April 2026 (Sat) 🕒Time: 12 - 6 PM📍Venue: Marina Bay
+        Sands, Level 3 Begonia Ballroom"
+      button: Click here to register
+      url: https://www.idp.com/singapore/events/11-12-april-idp-study-abroad-education-fair-april-2026/defeb078-6fc2-41a5-8bf7-7ed99e8252c6/?utm_source=schoolinvite&utm_medium=email&utm_campaign=aprfair2026
+      image: /images/IDP_2026.png
+      alt: Image alt text
+  - infopic:
       title: SIM GE Summer Enrichment Camp (SEC) 2026
       subtitle: EDventure
       id: infopic
@@ -97,16 +107,6 @@ sections:
       button: register here
       url: https://nus.syd1.qualtrics.com/jfe/form/SV_dhVgnCaJjCUbLxQ
       image: /images/CEE_Fireside_Chat_Tea_Session_Invitation__14_March_2026_.png
-      alt: Image alt text
-  - infopic:
-      title: Making sense of the new UAS with SMU Admissions
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 28 February 2026 (Sat) 🕒Time: 10 - 11:30 AM📍Venue: SMU
-        Campus"
-      button: Click here to register
-      url: https://ugmarketing.smu.edu.sg/acton/ct/11273/e-0f0b-2602:0/Bct/l-tst/l-tst:51/ct10_1/1/lu?sid=TV2%3A3AoE1KBz5
-      image: /images/Making_sense_of_the_new_UAS_with_SMU_Admissions_2026.png
       alt: Image alt text
   - infopic:
       title: DIS Experience Programme 2026
