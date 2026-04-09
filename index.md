@@ -26,6 +26,16 @@ sections:
           description: Resources
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: "[NUS] Singapore Landscape Architecture Workshop"
+      subtitle: EDventure
+      id: infopic
+      description: "Phase 1: Submission by 21 Apr 2026 Phase 2 Workshop:  📅 Date: 3 -
+        5 Jun 2026 (Wed - Fri)"
+      button: show interest here
+      url: https://docs.google.com/forms/d/e/1FAIpQLScSIozT5H3q2N5UpIHdoUCN6Y_3MvTPGlGm2b5Cy1F03FJMpg/viewform?usp=publish-editor
+      image: /images/SLAW_2026.png
+      alt: Image alt text
+  - infopic:
       title: "[SMU] Shaping Society: Law and Social Progress in Singapore"
       subtitle: EDventure
       id: infopic
@@ -127,15 +137,6 @@ sections:
       button: Click here to register
       url: https://event.ntu.edu.sg/adm-juniorcollege-portfolio-review-2026
       image: /images/ADM_Portfolio_Review_2026.jpg
-      alt: Image alt text
-  - infopic:
-      title: Digital and Intelligence Service’s Online Puzzle
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 28 January - 27 February 2026"
-      button: click here for me info
-      url: http://dis-changes-everything.com
-      image: /images/DIS_Online_Puzzle_Campaign_2026.png
       alt: Image alt text
   - infopic:
       title: Youth Festival @ South East (Career Fair)
