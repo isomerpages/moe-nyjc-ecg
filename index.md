@@ -26,6 +26,16 @@ sections:
           description: Resources
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: "[SMU] Shaping Society: Law and Social Progress in Singapore"
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 30 Apr 2026. 📅 Date: 6 May 2026 (Wed) 🕒Time: 7:30 -
+        8:30 PM📍Venue: SMU Ngee Ann Kongsi Auditorium"
+      button: register here
+      url: https://forms.office.com/r/JAXf2wkjhF
+      image: /images/SMU_Apolitical_Min_Law_EDM.jpg
+      alt: Image alt text
+  - infopic:
       title: IDP Study Abroad Education Fair
       subtitle: EDventure
       id: infopic
@@ -107,16 +117,6 @@ sections:
       button: register here
       url: https://nus.syd1.qualtrics.com/jfe/form/SV_dhVgnCaJjCUbLxQ
       image: /images/CEE_Fireside_Chat_Tea_Session_Invitation__14_March_2026_.png
-      alt: Image alt text
-  - infopic:
-      title: DIS Experience Programme 2026
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 6 Mar 2026. 📅 Date: 16 March 2026 (Mon) 🕒Time: 12 -
-        5:15 PM📍Venue: 2 Bukit Merah Central, #03-01, S(159835)"
-      button: register here
-      url: https://go.gov.sg/disepmar26
-      image: /images/DIS_Experience_Programme_2026.png
       alt: Image alt text
   - infopic:
       title: NTU ADM Portfolio Review 2026
