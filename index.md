@@ -26,6 +26,17 @@ sections:
           description: Resources
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: AMSA Singapore Community Engagement Camp 2026
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 25 Apr 2026 📅 Date: 6-7 Jun (Sat-Sun) & 26 Jul (Sun)
+        🕒Time: 9 AM - 4 PM & 9 AM - 2:30 PM📍Venue: NUS Yong Loo Lin School of
+        Medicine"
+      button: Register here
+      url: https://forms.gle/VmdBHC891DJCoyBT9
+      image: /images/AMSA_CEC_2026.png
+      alt: Image alt text
+  - infopic:
       title: "[NUS] Singapore Landscape Architecture Workshop"
       subtitle: EDventure
       id: infopic
@@ -187,16 +198,5 @@ sections:
       button: register here
       url: https://forms.gle/5udpJ9w6REVrawMZ6
       image: /images/Screenshot_2026_01_23_184110.png
-      alt: Image alt text
-  - infopic:
-      title: Science Centre Singapore DiscovHER 2026
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 23 Nov 2025 📅 Date: 11 - 13 March 2026 (Wed-Fri)
-        🕒Time: 10:30 AM - 12:30 PM or 2:30 - 4:30 PM📍Venue: Science Centre
-        Singapore"
-      button: Login for more info
-      url: https://portal.nyjc.edu.sg/
-      image: /images/Screenshot_2025_11_18_173249.png
       alt: Image alt text
 ---
