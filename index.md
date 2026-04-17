@@ -26,6 +26,17 @@ sections:
           description: Resources
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: Looking for Life – The Drake Equation
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 25 Apr 2026 (Sat) 🕒Time: 10  - 11:30 AM📍Venue: Ong
+        Tiong Tat & Irene Tan Liang Kheng Auditorium LKCSOM, Clinical Sciences
+        Building, NTU Novena Campus"
+      button: Register here
+      url: https://event.ntu.edu.sg/Seminar-by-Prof-Thomas-Zurbuchen-25-Apr
+      image: /images/NTU_Looking_for_Life___The_Drake_Equation.png
+      alt: Image alt text
+  - infopic:
       title: AMSA Singapore Community Engagement Camp 2026
       subtitle: EDventure
       id: infopic
@@ -168,17 +179,6 @@ sections:
       button: Register here
       url: https://www.ideasfestival.edu.sg/
       image: /images/Ideas_Festival_2026.png
-      alt: Image alt text
-  - infopic:
-      title: Centre for Computational Social Science and Humanities
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 28 Feb 2026. 📅 Date: 4 March 2026 (Wed) 🕒Time: 2  -
-        4 PM📍Venue: Auditorium, Shaw Foundation Alumni House, 11 Kent Ridge Dr,
-        #01-02"
-      button: Register here
-      url: https://forms.office.com/r/6QKDLVJXdw
-      image: /images/Centre_for_Computational_Social_Science_and_Humanities__CSSH__Launch_Event.png
       alt: Image alt text
   - infopic:
       title: National AI Student Challenge (NAISC) 2026
