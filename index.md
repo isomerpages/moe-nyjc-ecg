@@ -26,6 +26,17 @@ sections:
           description: Resources
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: NTU CEE Summer Camp 2026
+      subtitle: EDventure
+      id: infopic
+      description: "Register by 1 May 2026 📅 Date: June 5-9, 2025 (Fri - Tue. Break
+        on 7th Jun, Sun) 🕒Time: 8 AM - 6 PM (until 10 PM on last day)📍Venue:
+        NTU"
+      button: Register here
+      url: https://forms.cloud.microsoft/r/wWDzUVvx2t
+      image: /images/NTU_CEE_Summer_Camp_Poster.png
+      alt: Image alt text
+  - infopic:
       title: Looking for Life – The Drake Equation
       subtitle: EDventure
       id: infopic
