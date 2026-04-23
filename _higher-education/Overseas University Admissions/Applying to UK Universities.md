@@ -103,6 +103,15 @@ of Term 3. Watch out for the announcement and attend the briefing.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Imperial College Singapore Society (ICSS)</p>
+</li>
+</ul>
+<p><a href="http://www.tinyurl.com/kntsubscription/" rel="noopener nofollow" target="_blank">Website</a> |
+<a href="https://www.linkedin.com/company/icsingaporesociety/" rel="noopener nofollow" target="_blank">LinkedIn</a>| <a href="http://www.facebook.com/imperial.singsoc/" rel="noopener nofollow" target="_blank">Instagram</a>|
+<a href="https://drive.google.com/file/d/1wCIMKMgOBxSBW54qz8y1iDJ7zWltgfjF/view?usp=sharing" rel="noopener nofollow" target="_blank">Portfolio</a>
+</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>The United Kingdom-Singapore Students' Council</p>
 </li>
 </ul>
