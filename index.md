@@ -14,7 +14,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: ECG Counselling
-          description: Key Highlight description
+          description: Appointment Booking
           url: /career-counselling/
         - title: EDspirience
           description: Work Attachments
