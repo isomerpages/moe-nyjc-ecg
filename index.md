@@ -13,9 +13,9 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: EDventure
-          description: ECG Learning Opportunities
-          url: /edventure/
+        - title: ECG Counselling
+          description: Appointment Booking
+          url: /career-counselling/
         - title: EDspirience
           description: Work Attachments
           url: https://ecg.nanyangjc.moe.edu.sg/applying-for-edspirience/
