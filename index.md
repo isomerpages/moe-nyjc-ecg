@@ -26,6 +26,17 @@ sections:
           description: Resources
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: "The Mind Field: Careers in Mental Health"
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 9 May 2026 (Sat) 🕒Time: 5 - 8:30 PM (Followed by
+        networking dinner)📍Venue: Sree Narayana Mission Nursing Home @
+        Riverwalk"
+      button: Click here to register
+      url: https://bit.ly/trc-hl-mentalhealth
+      image: /images/The_Mind_Field_Careers_in_Mental_Health.png
+      alt: Image alt text
+  - infopic:
       title: NTU CEE Summer Camp 2026
       subtitle: EDventure
       id: infopic
@@ -160,16 +171,6 @@ sections:
       button: register here
       url: https://nus.syd1.qualtrics.com/jfe/form/SV_dhVgnCaJjCUbLxQ
       image: /images/CEE_Fireside_Chat_Tea_Session_Invitation__14_March_2026_.png
-      alt: Image alt text
-  - infopic:
-      title: NTU ADM Portfolio Review 2026
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 5 Mar 2026. 📅 Date: 7 March 2026 (Sat) 🕒Time: 10 AM
-        - 3 PM📍Venue: Nanyang Drive, School Of Art, Design and Media"
-      button: Click here to register
-      url: https://event.ntu.edu.sg/adm-juniorcollege-portfolio-review-2026
-      image: /images/ADM_Portfolio_Review_2026.jpg
       alt: Image alt text
   - infopic:
       title: Youth Festival @ South East (Career Fair)
