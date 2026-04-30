@@ -26,6 +26,15 @@ sections:
           description: Resources
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: Study in New Zealand - Dentistry, Medicine & Vet Science
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 9 May 2026 (Sat) 🕒Time: 10 AM📍Venue: Webinar"
+      button: Click here to register
+      url: https://nzedu.com.sg/contact-us/
+      image: /images/Study_in_NZ.png
+      alt: Image alt text
+  - infopic:
       title: "The Mind Field: Careers in Mental Health"
       subtitle: EDventure
       id: infopic
@@ -151,17 +160,6 @@ sections:
       image: /images/SMU_SOA_Stimulus_2026.png
       alt: Image alt text
       title: SMU Accounting Stimulus 2026
-  - infopic:
-      title: "IDEAS Festival 2026: Urban Resilience in 3 Acts"
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 9 Mar 2026. 📅 Date: 13 Mar 2026 (Fri) 🕒Time: 2 - 6
-        PM📍Venue: : 8 Somapah Road, Building 2 (lift lobby F), Level 4,
-        Singapore 487372"
-      button: Click here to register
-      url: https://forms.office.com/pages/responsepage.aspx?id=drd2NJDpck-5UGJImDFiPZKcsVz0CgNElFw7_OdFD01URVNVSDVPRlBTRlQ2SjlOT1hXRUwyUEQ3SS4u&route=shorturl
-      image: /images/Ideas_Festival_Urban_Resilience_in_3_Acts.png
-      alt: Image alt text
   - infopic:
       title: NUS Civil & Environmental Engineering Tea Session
       subtitle: EDventure
