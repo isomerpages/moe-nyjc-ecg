@@ -26,6 +26,17 @@ sections:
           description: Resources
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: IMH Intro to Mental Healthcare Programme (Jun 2026)
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 17 - 19 Jun 2026 (Wed - Fri) 🕒Time: full-day📍Venue: IMH
+        Note: A non-refundable administrative fee of $109 is applicable for each
+        application."
+      button: Click here to register
+      alt: Image alt text
+      url: https://www.imh.com.sg/Education/Pages/Pre-University-and-Polytechnic-Programme.aspx
+      image: /images/IMH_Intro_to_Mental_Healthcare_Programme_June_2026.png
+  - infopic:
       title: Study in New Zealand - Dentistry, Medicine & Vet Science
       subtitle: EDventure
       id: infopic
