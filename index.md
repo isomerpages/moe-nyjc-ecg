@@ -26,6 +26,13 @@ sections:
           description: Resources
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: IMH Intro to Mental Healthcare Programme (Jun 2026)
+      subtitle: EDventure
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: Study in New Zealand - Dentistry, Medicine & Vet Science
       subtitle: EDventure
       id: infopic
