@@ -53,7 +53,7 @@ sections:
       url: https://event.ntu.edu.sg/asklkcmedicine2026-14July
       image: /images/askLKCmedicine2026.png
       alt: Image alt text
-      title: "#askLKCMedicine2026 (Virtual Session) on 14 July"
+      title: "#askLKCMedicine2026 (Novena Campus) on 14 July"
   - infopic:
       title: IMH Intro to Mental Healthcare Programme (Jun 2026)
       subtitle: EDventure
