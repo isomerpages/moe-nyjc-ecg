@@ -26,6 +26,35 @@ sections:
           description: Resources
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: "#askLKCMedicine2026 (Virtual Session) on 22 May"
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 22 May 2026 (Fri) 🕒Time: 2:30 - 4 PM📍Venue: Zoom"
+      button: register here
+      url: https://event.ntu.edu.sg/asklkcmedicine2026-22may
+      image: /images/askLKCmedicine2026.png
+      alt: Image alt text
+  - infopic:
+      title: "#askLKCMedicine2026 (Virtual Session) on 17 June"
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 17 June 2026 (Wed) 🕒Time: 2:30 - 4 PM📍Venue: Zoom"
+      button: register here
+      url: https://event.ntu.edu.sg/asklkcmedicine2026-17June
+      image: /images/askLKCmedicine2026.png
+      alt: Image alt text
+  - infopic:
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 14 July 2026 (Tue) 🕒Time: 3 - 5 PM📍Venue: LKCMedicine
+        Novena Campus, Clinical Sciences Building 11 Mandalay Road 308232
+        Singapore"
+      button: register here
+      url: https://event.ntu.edu.sg/asklkcmedicine2026-14July
+      image: /images/askLKCmedicine2026.png
+      alt: Image alt text
+      title: "#askLKCMedicine2026 (Virtual Session) on 14 July"
+  - infopic:
       title: IMH Intro to Mental Healthcare Programme (Jun 2026)
       subtitle: EDventure
       id: infopic
@@ -161,27 +190,6 @@ sections:
       image: /images/ASCISC_Insight_Day_2026.png
       alt: Image alt text
   - infopic:
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 10 March 2026 📅 Date: 14 March 2026 (Sat) 🕒Time:
-        11:45 AM - 5 PM (registration starts at 11:30 AM)📍Venue: SMUC Event
-        Square (L5 Connexion)"
-      button: register here
-      url: https://docs.google.com/forms/d/e/1FAIpQLSeeM4eATvxnuSMPAfEJRjxEvfuizVzcKSzbTr8n8kDIlBtkpA/viewform?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3AAGnPm1JUli39qvbd708jzAndY4ukl8nlFwbGxTJelJLQtb2qQuB6JRM5v5llzQ_aem_zXK23v70Cr1-F2_Tpb_yGA&pli=1
-      image: /images/SMU_SOA_Stimulus_2026.png
-      alt: Image alt text
-      title: SMU Accounting Stimulus 2026
-  - infopic:
-      title: NUS Civil & Environmental Engineering Tea Session
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 8 March 2026. 📅 Date: 14 March 2026 (Sat) 🕒Time:
-        2:30 - 5 PM📍Venue: Royal Plaza on Scotts"
-      button: register here
-      url: https://nus.syd1.qualtrics.com/jfe/form/SV_dhVgnCaJjCUbLxQ
-      image: /images/CEE_Fireside_Chat_Tea_Session_Invitation__14_March_2026_.png
-      alt: Image alt text
-  - infopic:
       title: Youth Festival @ South East (Career Fair)
       subtitle: EDventure
       id: infopic
@@ -209,15 +217,5 @@ sections:
       button: Register here
       url: https://naisc.aisingapore.org/
       image: /images/NAISC_2026_EDM_LKCMedicine_Track.jpg
-      alt: Image alt text
-  - infopic:
-      title: Young Health Ambassadors Programme (YHAP) 2026
-      subtitle: EDventure
-      id: infopic
-      description: "Register by 9 Feb 2026, 10 AM 📅 Date: 14, 15 & 22 March 2026
-        (Sat/Sun/Sun) 🕒Time: Full-day📍Venue: NUS Campus"
-      button: register here
-      url: https://forms.gle/5udpJ9w6REVrawMZ6
-      image: /images/Screenshot_2026_01_23_184110.png
       alt: Image alt text
 ---
