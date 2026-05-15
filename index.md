@@ -26,6 +26,15 @@ sections:
           description: Resources
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: SIM-LSE Data Analytics Online Challenge 2026 (Briefing)
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 30 May 2026 (Sat) 🕒Time: 3 PM📍Venue: Zoom"
+      button: Register here
+      url: https://forms.office.com/r/kbJQ6eaCVb
+      image: /images/SIM_LSE_Data_Analytics_Online_Challenge_2026_Briefing.jpg
+      alt: Image alt text
+  - infopic:
       title: "#askLKCMedicine2026 (Virtual Session) on 22 May"
       subtitle: EDventure
       id: infopic
@@ -188,16 +197,6 @@ sections:
       button: register here
       url: https://forms.cloud.microsoft/r/HWSktUi9D1
       image: /images/ASCISC_Insight_Day_2026.png
-      alt: Image alt text
-  - infopic:
-      title: Youth Festival @ South East (Career Fair)
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 14 - 15 March 2026 (Sat - Sun) 🕒Time: 10 AM - 6
-        PM📍Venue: Singapore Expo Hall 4A"
-      button: Register here
-      url: https://go.gov.sg/youthfestivalatsoutheast
-      image: /images/Main_Poster_A4_Youth_Festival___South_East_2026.jpg
       alt: Image alt text
   - infopic:
       title: Ideas Festival 2026
