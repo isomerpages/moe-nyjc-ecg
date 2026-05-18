@@ -26,6 +26,16 @@ sections:
           description: Resources
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: SUSS Campus Exploration Day
+      subtitle: EDventure
+      id: infopic
+      description: "📅 Date: 26 June 2026 (Fri) 🕒Time: 2:30 - 4:30 PM📍Venue:
+        Singapore University of Social Sciences (SUSS)"
+      button: register here
+      url: https://suss.au1.qualtrics.com/jfe/form/SV_3n4Tir66f4zm8E6
+      image: /images/SUSS_Campus_Exploration_Day.jpg
+      alt: Image alt text
+  - infopic:
       title: SIM-LSE Data Analytics Online Challenge 2026 (Briefing)
       subtitle: EDventure
       id: infopic
@@ -187,16 +197,6 @@ sections:
       button: Click here to register
       url: https://forms.gle/kMyQeMn6buY5j2TL7
       image: /images/Y4Y_Discover_the__U__in_Uni_2026.jpg
-      alt: Image alt text
-  - infopic:
-      title: NTU Actuarial Science Insight Day 2026
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 18 Mar 2026 (Wed) 🕒Time: 6 - 9:30 PM📍Venue: Wee Cho Yaw
-        Auditorium, NTU (Level 1)"
-      button: register here
-      url: https://forms.cloud.microsoft/r/HWSktUi9D1
-      image: /images/ASCISC_Insight_Day_2026.png
       alt: Image alt text
   - infopic:
       title: Ideas Festival 2026
