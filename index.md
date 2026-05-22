@@ -26,6 +26,17 @@ sections:
           description: Resources
           url: https://ecg.nanyangjc.moe.edu.sg/university-and-scholarship-application/
   - infopic:
+      title: Aviation Safety Competition (ASC) 2026
+      subtitle: EDventure
+      id: infopic
+      description: "Application from 27 May (Wed). 📅 Online Briefing: 19 Jun 2026
+        (Fri) 🕒Time: 7:30 PM📍Zoom (Login to NY Portal announcement for Zoom
+        meeting ID and passcode.)"
+      button: Register here
+      url: https://docs.google.com/forms/d/e/1FAIpQLScDtvy0QUh0Bd-da4V_IojvDaUpe6DgcRXoodTsrIkzfvtzlA/viewform
+      image: /images/ASC_2026.png
+      alt: Image alt text
+  - infopic:
       title: SUSS Campus Exploration Day
       subtitle: EDventure
       id: infopic
@@ -197,16 +208,6 @@ sections:
       button: Click here to register
       url: https://forms.gle/kMyQeMn6buY5j2TL7
       image: /images/Y4Y_Discover_the__U__in_Uni_2026.jpg
-      alt: Image alt text
-  - infopic:
-      title: Ideas Festival 2026
-      subtitle: EDventure
-      id: infopic
-      description: "📅 Date: 26 Feb -30 Mar 2026 🕒Time: Please see the
-        schedule📍Venue: Please see the schedule"
-      button: Register here
-      url: https://www.ideasfestival.edu.sg/
-      image: /images/Ideas_Festival_2026.png
       alt: Image alt text
   - infopic:
       title: National AI Student Challenge (NAISC) 2026
